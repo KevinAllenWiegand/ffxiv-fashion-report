@@ -156,7 +156,7 @@ function searchItems(itemName) {
                     // and if it was, make it stand out.
                     const className = uniqueItems.includes(item.name) ? 'highlightedItem' : '';
 
-                    allReports += `<li class=${className}>${item.name}</li>`;
+                    allReports += `<li class='${className}'>${item.name}</li>`;
                 });
 
                 allReports += '</ul>';
