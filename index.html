@@ -22,7 +22,9 @@
             color: #d8728f;
         }
 
-        .results {
+        .results,
+        .itemResults,
+        .reportResults {
             height: 600px;
             width: 250pt;
             background-color: #000000;
@@ -33,11 +35,25 @@
             border: 1px solid #caaf75;
         }
 
-        .resultItems {
+        .itemResults,
+        .reportResults {
+            margin: 5pt 0pt;
+            padding: 5pt;
+        }
+
+        .reportResults {
+            width: 300pt;
+        }
+
+        .resultItems,
+        .itemResults,
+        .reportResults {
             font-size: .8em;
         }
 
-        .resultItems ul {
+        .resultItems ul,
+        .itemResults ul,
+        .reportResults ul {
             padding-left: 20pt;
             list-style-type: circle;
         }
@@ -47,6 +63,10 @@
             font-size: 1em;
             font-weight: bold;
             color: #d8728f;
+        }
+
+        .highlightedItem {
+            color: #14c20e;
         }
 
         #slot1Hint,
@@ -66,6 +86,10 @@
 
         .itemCheckbox {
             margin-right: 5px;
+        }
+
+        .alert {
+            width: 400pt;
         }
     </style>
 
@@ -87,7 +111,8 @@
         <div class="tab-content">
             <div id="hints" class="tab-pane fade show active">
                 <div class="alert alert-info">
-                    For each slot in the Fashion Report that you would like to search, select the appropriate Slot Type, and then provide the hint.  Results will be shown in the area below.
+                    <p>For each slot in the Fashion Report that you would like to search, select the appropriate Slot Type, and then provide the hint.</p>
+                    <p>Results will be shown in the area below the corresponding hint.</p>
                 </div>
 
                 <!-- Heading Row -->
@@ -134,8 +159,9 @@
             </div>
 
             <div id="items" class="tab-pane fade">
-                <div class="alert alert-danger">
-                    This is a work in progress.  The results are currently not in a readable form.  Update pending!
+                <div class="alert alert-info">
+                    <p>Type in the name of the item you would like to find to see if it appeared in any past Fashion Report, and then click the 'Search' button.</p>
+                    <p>A list of matched items will appear on the left, and a list of Fashion Reports that matched any of the matched items will appear on the right.</p>
                 </div>
 
                 <div class="row row-no-gutters">
@@ -148,8 +174,14 @@
                 </div>
 
                 <div class="row row-no-gutters">
-                    <div class="col col-lg-12">
-                        <div id="itemSearchResults"></div>
+                    <div class="col col-lg-4">
+                        <h5>Item Results</h5>
+                        <div id="itemSearchResults" class="itemResults"></div>
+                    </div>
+
+                    <div class="col col-lg-8">
+                        <h5>Report Results</h5>
+                        <div id="reportSearchResults" class="reportResults"></div>
                     </div>
                 </div>
             </div>

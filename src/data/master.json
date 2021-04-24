@@ -524,33 +524,6 @@
     },
     {
       "type": "Head",
-      "hint": "Revolutionary",
-      "items": [
-        {
-          "name": "Fillibuster\u0027s Coat Of Casting"
-        },
-        {
-          "name": "Fillibuster\u0027s Coat Of Healing"
-        },
-        {
-          "name": "Fillibuster\u0027s Gambison Of Aiming"
-        },
-        {
-          "name": "Fillibuster\u0027s Gambison Of Striking"
-        },
-        {
-          "name": "Fillibuster\u0027s Heavy Gambison Of Fending"
-        },
-        {
-          "name": "Heavy Fillibuster\u0027s Gambison Of Maiming"
-        },
-        {
-          "name": "Sky Pirate\u0027s Gloves Of Scouting"
-        }
-      ]
-    },
-    {
-      "type": "Head",
       "hint": "Ride The Tides",
       "items": [
         {
@@ -1400,7 +1373,7 @@
           "name": "Fillibuster\u0027s Gambison Of Striking"
         },
         {
-          "name": "Heavy Fillibuster\u0027s Gambison Of Fending"
+          "name": "Fillibuster\u0027s Heavy Gambison Of Fending"
         },
         {
           "name": "Heavy Fillibuster\u0027s Gambison Of Maiming"
@@ -6029,7 +6002,7 @@
       "theme": "Wasteland Liberator",
       "slots": [
         {
-          "type": "Head",
+          "type": "Body",
           "hint": "Revolutionary"
         },
         {

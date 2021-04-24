@@ -5,8 +5,9 @@ import 'bootstrap';
 
 import { SLOT_TYPES } from './slotTypes';
 import { addOwnedItem, removeOwnedItem, isItemOwned, loadOwnedItems } from './ownedItems';
-import fashionReportData from './data/master-clean.json';
+import fashionReportData from './data/master.json';
 
+const NO_RESULTS = '<div class=\'resultHeader\'>No Results</div>';
 const SLOTS = [
     'slot1',
     'slot2',
@@ -54,12 +55,12 @@ function searchItems(itemName) {
     const matchedReports = [];
 
     if (itemName && itemName.length > 1) {
-        // Find all of the slots that have 
+        // Find all of the slots that have the item.
         for (let slotIndex = 0; slotIndex < fashionReportData.slots.length; slotIndex++) {
             const slot = fashionReportData.slots[slotIndex];
 
             for (let itemIndex = 0; itemIndex < slot.items.length; itemIndex++) {
-                var item = slot.items[itemIndex];
+                const item = slot.items[itemIndex];
 
                 if (item.name.toLowerCase().includes(itemName)) {
                     if (!matchedSlots.has(slot)) {
@@ -88,21 +89,82 @@ function searchItems(itemName) {
         }
     });
 
+    // Sort the reports by order of the week they were.
+    matchedReports.sort(function(x, y) {
+        if (x.week < y.week) {
+            return -1;
+        }
 
-    // TODO
-    const temp = [];
+        if (x.week > y.week) {
+            return 1;
+        }
 
-    matchedSlots.forEach(function (value, key, map) {
-        temp.push({ slot: key, items: value })
+        return 0;
     });
 
-    const tempString = `${JSON.stringify(matchedReports)}<br /><br />${JSON.stringify(temp)}`;
+    const uniqueItems = [];
 
-    $('#itemSearchResults').html(tempString);
+    // Get unique list of all of the matched items.
+    matchedSlots.forEach(function(value, key, map) {
+        value.forEach(function(item) {
+            if (!uniqueItems.includes(item)) {
+                uniqueItems.push(item);
+            }
+        });
+    });
 
+    let allItems = '';
+
+    if (uniqueItems.length) {
+        uniqueItems.sort();
+        uniqueItems.forEach(function(item) {
+            allItems += `<li>${item}</li>`;
+        });
+
+        allItems = `<ul>${allItems}</ul>`;
+    }
+
+    $('#itemSearchResults').html(allItems || NO_RESULTS);
+
+    let allReports = '';
+
+    // Get a list of matched reports.
     matchedReports.forEach(function(report) {
+        // Find the slots that were matched.
+        const intermediateReportResults = [];
 
+        report.slots.forEach(function(slot) {
+            matchedSlots.forEach(function (value, key, map) {
+                if (key.type === slot.type && key.hint.toLowerCase() === slot.hint.toLowerCase()) {
+                    intermediateReportResults.push({ slot, report, items: key.items });
+                }
+            });
+        });
+
+        if (intermediateReportResults.length) {
+            if (allReports) {
+                allReports += '<p></p>';
+            }
+
+            intermediateReportResults.forEach(function(result) {
+                allReports += `Week ${result.report.week} - ${result.report.date}<br />`;
+                allReports += `${result.slot.type} - ${result.slot.hint}<br />`;
+                allReports += '<ul>';
+
+                result.items.forEach(function(item) {
+                    // Check to see if the item was part of the list,
+                    // and if it was, make it stand out.
+                    const className = uniqueItems.includes(item.name) ? 'highlightedItem' : '';
+
+                    allReports += `<li class=${className}>${item.name}</li>`;
+                });
+
+                allReports += '</ul>';
+            });
+        }
     });
+
+    $('#reportSearchResults').html(allReports || NO_RESULTS);
 }
 
 function searchHints(type, hint, target) {
@@ -113,7 +175,7 @@ function searchHints(type, hint, target) {
 
         const items = getItems(type, hint);
 
-        target.html(items.allItems || '<div class=\'resultHeader\'>No Results</div>');
+        target.html(items.allItems || NO_RESULTS);
 
         if (items.ids) {
             items.ids.forEach(function (id) {
