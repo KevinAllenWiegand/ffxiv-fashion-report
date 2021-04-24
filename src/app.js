@@ -4,6 +4,7 @@ import '@babel/polyfill';
 import 'bootstrap';
 
 import { SLOT_TYPES } from './slotTypes';
+import { addOwnedItem, removeOwnedItem, isItemOwned, loadOwnedItems } from './ownedItems';
 import fashionReportData from './data/master-clean.json';
 
 const SLOTS = [
@@ -12,6 +13,8 @@ const SLOTS = [
     'slot3',
     'slot4'
 ];
+
+loadOwnedItems();
 
 $.each(SLOT_TYPES, function(typeIndex, typeValue) {
     $.each(SLOTS, function(slotIndex, slotValue) {
@@ -108,9 +111,26 @@ function searchHints(type, hint, target) {
             type = '';
         }
 
-        const allItems = getItems(type, hint);
+        const items = getItems(type, hint);
 
-        target.html(allItems || '<div class=\'resultHeader\'>No Results</div>');
+        target.html(items.allItems || '<div class=\'resultHeader\'>No Results</div>');
+
+        if (items.ids) {
+            items.ids.forEach(function (id) {
+                const element = $(`#${id}`);
+                
+                // Support selecting and unselecting owned items.
+                $(element).on('click', function () {
+                    const isChecked = element.is(':checked');
+
+                    if (isChecked) {
+                        addOwnedItem(id);
+                    } else {
+                        removeOwnedItem(id);
+                    }
+                });
+            });
+        }
     } else {
         target.html('');
     }
@@ -118,21 +138,27 @@ function searchHints(type, hint, target) {
 
 function getItems(type, hint) {
     let allItems = '';
+    let ids = [];
 
     if (hint && hint.length > 1) {
         for (let index = 0; index < fashionReportData.slots.length; index++) {
-            const item = fashionReportData.slots[index];
+            const slot = fashionReportData.slots[index];
 
-            if ((item.type === type || !type) && item.hint.toLowerCase().includes(hint.toLowerCase())) {
+            if ((slot.type === type || !type) && slot.hint.toLowerCase().includes(hint.toLowerCase())) {
                 let items = '';
-                let header = item.hint;
+                let header = slot.hint;
 
                 if (!type) {
-                    header += ` (${item.type})`;
+                    header += ` (${slot.type})`;
                 }
 
-                for (let itemIndex = 0; itemIndex < item.items.length; itemIndex++) {
-                    items += `<li>${item.items[itemIndex].name}</li>`;
+                for (let itemIndex = 0; itemIndex < slot.items.length; itemIndex++) {
+                    const item = slot.items[itemIndex].name;
+                    const id = `item${makeId(item)}`;
+                    const checked = isItemOwned(id) ? ' checked' : '';
+
+                    ids.push(id)
+                    items += `<li><input type='checkbox' id='${id}' class='itemCheckbox'${checked}>${slot.items[itemIndex].name}</input></li>`;
                 }
 
                 if (allItems) {
@@ -144,5 +170,9 @@ function getItems(type, hint) {
         }
     }
 
-    return allItems;
+    return { ids, allItems };
+}
+
+function makeId(value) {
+    return value.replace(/[\'\"\s/]/gi, '');
 }
