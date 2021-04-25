@@ -55,6 +55,8 @@ function searchItems(itemName) {
     const matchedReports = [];
 
     if (itemName && itemName.length > 1) {
+        itemName = itemName.toLowerCase();
+        
         // Find all of the slots that have the item.
         for (let slotIndex = 0; slotIndex < fashionReportData.slots.length; slotIndex++) {
             const slot = fashionReportData.slots[slotIndex];
