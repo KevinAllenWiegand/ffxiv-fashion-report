@@ -44,11 +44,51 @@ $.each(SLOTS, function (slotIndex, slotValue) {
     });
 });
 
+$('#showLatestButton').on('click', function() {
+    let latestReport = null;
+
+    for (let index = fashionReportData.reports.length - 1; index > -1; index--) {
+        const report = fashionReportData.reports[index];
+
+        if (report.theme && report.slots && report.slots.length == 4) {
+            if (!latestReport || report.week > latestReport.week) {
+                latestReport = report;
+            }
+        }
+    }
+
+    if (latestReport) {
+        resetHintSearchForm();
+
+        $.each(SLOTS, function (slotIndex, slotValue) {
+            const reportSlot = latestReport.slots[slotIndex];
+
+            if (reportSlot) {
+                $(`#${slotValue}Type`).val(reportSlot.type);
+                $(`#${slotValue}Hint`).val(reportSlot.hint);
+                $(`#${slotValue}Type`).trigger('change');
+            }
+        });
+    }
+});
+
+$('#resetSlotsButton').on('click', function () {
+    resetHintSearchForm();
+});
+
 $('#itemSearchButton').on('click', function() {
     const itemName = $('#itemName').val();
 
     searchItems(itemName);
 });
+
+function resetHintSearchForm() {
+    $.each(SLOTS, function (slotIndex, slotValue) {
+        $(`#${slotValue}Type`).val(SLOT_TYPES[0]);
+        $(`#${slotValue}Hint`).val('');
+        $(`#${slotValue}Type`).trigger('change');
+    });
+}
 
 function searchItems(itemName) {
     const matchedSlots = new Map();

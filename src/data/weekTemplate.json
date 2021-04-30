@@ -1,0 +1,23 @@
+{
+    "week": 0,
+    "date": "yyyy-mm-dd",
+    "theme": "",
+    "slots": [
+        {
+            "type": "",
+            "hint": ""
+        },
+        {
+            "type": "",
+            "hint": ""
+        },
+        {
+            "type": "",
+            "hint": ""
+        },
+        {
+            "type": "",
+            "hint": ""
+        }
+    ]
+}
