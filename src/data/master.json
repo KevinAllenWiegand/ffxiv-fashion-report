@@ -1319,7 +1319,25 @@
             "hint": "Primal Revival",
             "items": [
                 {
-                    "name": "Any Hellfire Chest"
+                    "name": "Augmented/Hellfire Armor Of Fending"
+                },
+                {
+                    "name": "Augmented/Hailstorm Coat Of Casting"
+                },
+                {
+                    "name": "Augmented/Hailstorm Coat Of Healing"
+                },
+                {
+                    "name": "Augmented/Slipstream Mail Of Maiming"
+                },
+                {
+                    "name": "Augmented/Hellfire Mail Of Striking"
+                },
+                {
+                    "name": "Augmented/Torrent Tabard Of Aiming"
+                },
+                {
+                    "name": "Augmented/Torrent Tabard Of Scouting"
                 }
             ]
         },
@@ -2304,6 +2322,33 @@
                 },
                 {
                     "name": "Tantalus Cuffs"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
+            "hint": "Primal Revival",
+            "items": [
+                {
+                    "name": "Augmented/Torrent Armguards Of Aiming"
+                },
+                {
+                    "name": "Augmented/Torrent Armguards Of Scouting"
+                },
+                {
+                    "name": "Augmented/Hellfire Gauntlets Of Fending"
+                },
+                {
+                    "name": "Augmented/Slipstream Gauntlets Of Maiming"
+                },
+                {
+                    "name": "Augmented/Hellfire Gauntlets Of Striking"
+                },
+                {
+                    "name": "Augmented/Hailstorm Gloves Of Casting"
+                },
+                {
+                    "name": "Augmented/Hailstorm Gloves Of Healing"
                 }
             ]
         },
@@ -7523,6 +7568,29 @@
                 {
                     "type": "Feet",
                     "hint": "In Sheep\u0027s Clothing"
+                }
+            ]
+        },
+        {
+            "week": 171,
+            "date": "2021-05-07",
+            "theme": "Inventive Mage",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Keeping It Weird"
+                },
+                {
+                    "type": "Body",
+                    "hint": "I Believe In Magic"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Primal Revival"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Shod With Sandals"
                 }
             ]
         }
