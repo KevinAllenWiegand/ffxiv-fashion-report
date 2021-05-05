@@ -317,7 +317,25 @@
             "hint": "Future Arma",
             "items": [
                 {
-                    "name": "Any Replica/Sky Rat Mask"
+                    "name": "Replica/Sky Rat Mask Of Aiming"
+                },
+                {
+                    "name": "Replica/Sky Rat Mask Of Casting"
+                },
+                {
+                    "name": "Replica/Sky Rat Mask Of Fending"
+                },
+                {
+                    "name": "Replica/Sky Rat Mask Of Healing"
+                },
+                {
+                    "name": "Replica/Sky Rat Mask Of Maiming"
+                },
+                {
+                    "name": "Replica/Sky Rat Mask Of Scouting"
+                },
+                {
+                    "name": "Replica/Sky Rat Mask Of Striking"
                 },
                 {
                     "name": "Shaded Visor"
@@ -494,10 +512,28 @@
             "hint": "Mountain Bred",
             "items": [
                 {
-                    "name": "Any Nomad\u0027s Cap"
+                    "name": "Kudzu Cap Of Crafting"
                 },
                 {
-                    "name": "Kudzu Cap Of Crafting"
+                    "name": "Nomad\u0027s Cap Of Aiming"
+                },
+                {
+                    "name": "Nomad\u0027s Cap Of Casting"
+                },
+                {
+                    "name": "Nomad\u0027s Cap Of Healing"
+                },
+                {
+                    "name": "Nomad\u0027s Cap Of Maimimg"
+                },
+                {
+                    "name": "Nomad\u0027s Cap Of Scouting"
+                },
+                {
+                    "name": "Nomad\u0027s Cap Of Striking"
+                },
+                {
+                    "name": "Nomad\u0027s Helm Of Fending"
                 },
                 {
                     "name": "Tigerskin Cap Of Gathering"
@@ -548,7 +584,25 @@
             "hint": "Ride The Tides",
             "items": [
                 {
-                    "name": "Any Shisui Mengu"
+                    "name": "Shisui Mengu Of Aiming"
+                },
+                {
+                    "name": "Shisui Mengu Of Casting"
+                },
+                {
+                    "name": "Shisui Mengu Of Healing"
+                },
+                {
+                    "name": "Shisui Mengu Of Fending"
+                },
+                {
+                    "name": "Shisui Mengu Of Maiming"
+                },
+                {
+                    "name": "Shisui Mengu Of Scouting"
+                },
+                {
+                    "name": "Shisui Mengu Of Striking"
                 }
             ]
         },
@@ -806,7 +860,28 @@
             "hint": "A Pirate\u0027s Life",
             "items": [
                 {
-                    "name": "Any Holy Rainbow Shirt"
+                    "name": "Altered Woolen Shirt"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Aiming"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Casting"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Fending"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Healing"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Maiming"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Scouting"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Striking"
                 },
                 {
                     "name": "Shirt Of The Divine Hero"
@@ -998,7 +1073,37 @@
             "hint": "Chimerican Woman",
             "items": [
                 {
-                    "name": "Any Chimerical Felt Chest"
+                    "name": "Chimerical Felt Alb Of Healing"
+                },
+                {
+                    "name": "Chimerical Felt Coat Of Casting"
+                },
+                {
+                    "name": "Chimerical Felt Cyclas Of Aiming"
+                },
+                {
+                    "name": "Chimerical Felt Cyclas Of Scouting"
+                },
+                {
+                    "name": "Chimerical Felt Cyclas Of Striking"
+                },
+                {
+                    "name": "Chimerical Felt Doublet Of Crafting"
+                },
+                {
+                    "name": "Chimerical Felt Robe Of Casting"
+                },
+                {
+                    "name": "Chimerical Felt Robe Of Healing"
+                },
+                {
+                    "name": "Chimerical Felt Tabard Of Aiming"
+                },
+                {
+                    "name": "Chimerical Felt Tabard Of Scouting"
+                },
+                {
+                    "name": "Chimerical Felt Tabard Of Striking"
                 }
             ]
         },
@@ -1007,7 +1112,25 @@
             "hint": "Cid Approved",
             "items": [
                 {
-                    "name": "Any Ironworks Chest"
+                    "name": "Augmented/Ironworks Armor Of Fending"
+                },
+                {
+                    "name": "Augmented/Ironworks Cuirass Of Aiming"
+                },
+                {
+                    "name": "Augmented/Ironworks Cuirass Of Maiming"
+                },
+                {
+                    "name": "Augmented/Ironworks Cuirass Of Scouting"
+                },
+                {
+                    "name": "Augmented/Ironworks Cuirass Of Striking"
+                },
+                {
+                    "name": "Augmented/Ironworks Doublet Of Casting"
+                },
+                {
+                    "name": "Augmented/Ironworks Armor Robe Of Healing"
                 }
             ]
         },
@@ -1049,7 +1172,25 @@
             "hint": "Do Rats Fly",
             "items": [
                 {
-                    "name": "Any Sky Rat Chest"
+                    "name": "Replica/Sky Rat Harness Of Aiming"
+                },
+                {
+                    "name": "Replica/Sky Rat Harness Of Casting"
+                },
+                {
+                    "name": "Replica/Sky Rat Harness Of Fending"
+                },
+                {
+                    "name": "Replica/Sky Rat Harness Of Healing"
+                },
+                {
+                    "name": "Replica/Sky Rat Harness Of Maiming"
+                },
+                {
+                    "name": "Replica/Sky Rat Harness Of Scouting"
+                },
+                {
+                    "name": "Replica/Sky Rat Harness Of Striking"
                 }
             ]
         },
@@ -1127,7 +1268,25 @@
             "hint": "Fashion Bandit",
             "items": [
                 {
-                    "name": "Any Woad Sky* Fur"
+                    "name": "Woad Skychaser\u0027s Fur"
+                },
+                {
+                    "name": "Woad Skydruid\u0027s Fur"
+                },
+                {
+                    "name": "Woad Skyhunter\u0027s Fur"
+                },
+                {
+                    "name": "Woad Skylancer\u0027s Fur"
+                },
+                {
+                    "name": "Woad Skyraider\u0027s Fur"
+                },
+                {
+                    "name": "Woad Skywarrior\u0027s Fur"
+                },
+                {
+                    "name": "Woad Skywicce\u0027s Fur"
                 }
             ]
         },
@@ -1451,7 +1610,7 @@
             "hint": "Sailor\u0027s Life",
             "items": [
                 {
-                    "name": "Any Holy Ranbow Shirt"
+                    "name": "Any Holy Rainbow Shirt"
                 },
                 {
                     "name": "Sailor Shirt"
@@ -2759,7 +2918,25 @@
             "hint": "Fashion Bandit",
             "items": [
                 {
-                    "name": "Any Woad Sky* Breeches"
+                    "name": "Woad Skychaser\u0027s Breeches"
+                },
+                {
+                    "name": "Woad Skydruid\u0027s Breeches"
+                },
+                {
+                    "name": "Woad Skyhunter\u0027s Breeches"
+                },
+                {
+                    "name": "Woad Skylancer\u0027s Breeches"
+                },
+                {
+                    "name": "Woad Skyraider\u0027s Breeches"
+                },
+                {
+                    "name": "Woad Skywarrior\u0027s Breeches"
+                },
+                {
+                    "name": "Woad Skywicce\u0027s Breeches"
                 }
             ]
         },
@@ -3062,7 +3239,31 @@
             "hint": "Reborn",
             "items": [
                 {
-                    "name": "Any Augmented/Normal Level 45 Job Legs"
+                    "name": "Augmented/Choral Tights"
+                },
+                {
+                    "name": "Augmented/Drachen Breeches"
+                },
+                {
+                    "name": "Augmented/Evoker\u0027s Waistclout"
+                },
+                {
+                    "name": "Augmented/Fighter\u0027s Breeches"
+                },
+                {
+                    "name": "Augmented/Gallant Cuisses"
+                },
+                {
+                    "name": "Augmented/Healer\u0027s Culottes\t"
+                },
+                {
+                    "name": "Augmented/Scholar\u0027s Culottes"
+                },
+                {
+                    "name": "Augmented/Temple Gaskins"
+                },
+                {
+                    "name": "Augmented/Wizard\u0027s Tonban"
                 }
             ]
         },
@@ -3233,10 +3434,28 @@
         },
         {
             "type": "Legs",
-            "hint": "Tip o\u0027 The Arhat",
+            "hint": "Tip O\u0027 The Arhat",
             "items": [
                 {
-                    "name": "Any Arhat Hakama"
+                    "name": "Arhat Hakama Of Aiming"
+                },
+                {
+                    "name": "Arhat Hakama Of Casting"
+                },
+                {
+                    "name": "Arhat Hakama Of Healing"
+                },
+                {
+                    "name": "Arhat Hakama Of Scouting"
+                },
+                {
+                    "name": "Arhat Tsutsu-Hakama Of Fending"
+                },
+                {
+                    "name": "Arhat Tsutsu-Hakama Of Maiming"
+                },
+                {
+                    "name": "Arhat Tsutsu-Hakama Of Striking"
                 }
             ]
         },
@@ -3305,7 +3524,25 @@
             "hint": "Toward The Heavens",
             "items": [
                 {
-                    "name": "Any Antiquated/Normal Level 60 Job Legs"
+                    "name": "Antiquated/Caller\u0027s Loincloth"
+                },
+                {
+                    "name": "Antiquated/Chaos Flanchard"
+                },
+                {
+                    "name": "Antiquated/Creed Cuisses"
+                },
+                {
+                    "name": "Antiquated/Dragonlancer\u0027s Cuissots"
+                },
+                {
+                    "name": "Antiquated/Orison Skirt"
+                },
+                {
+                    "name": "Antiquated/Ravager\u0027s Breeches"
+                },
+                {
+                    "name": "Antiquated/Tantra Galligaskins"
                 }
             ]
         },
@@ -3866,7 +4103,7 @@
         },
         {
             "type": "Feet",
-            "hint": "Pirates Life",
+            "hint": "A Pirate\u0027s Life",
             "items": [
                 {
                     "name": "Boots Of The Divine Hero"
@@ -5497,7 +5734,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "Pirates Life"
+                    "hint": "A Pirate\u0027s Life"
                 }
             ]
         },
