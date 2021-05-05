@@ -467,13 +467,22 @@
             "hint": "Moon Unit",
             "items": [
                 {
-                    "name": "Genta/Genji Eboshi Of Healing"
+                    "name": "Genji Eboshi Of Healing"
                 },
                 {
-                    "name": "Genta/Genji Kabuto Of Casting"
+                    "name": "Genji Kabuto Of Casting"
                 },
                 {
-                    "name": "Genta/Genji Kabuto Of Striking"
+                    "name": "Genji Kabuto Of Striking"
+                },
+                {
+                    "name": "Genta Eboshi Of Healing"
+                },
+                {
+                    "name": "Genta Kabuto Of Casting"
+                },
+                {
+                    "name": "Genta Kabuto Of Striking"
                 },
                 {
                     "name": "Kabuto Of The Blue"
@@ -893,7 +902,7 @@
         },
         {
             "type": "Body",
-            "hint": "Action Locally",
+            "hint": "Acton Locally",
             "items": [
                 {
                     "name": "Brigand\u0027s Acton"
@@ -1202,19 +1211,28 @@
                     "name": "Amateur\u0027s Doublet Vest"
                 },
                 {
-                    "name": "Cotton Doublet Vest Of Crafting/Gathering"
+                    "name": "Cotton Doublet Vest Of Crafting"
+                },
+                {
+                    "name": "Cotton Doublet Vest Of Gathering"
                 },
                 {
                     "name": "Frayed Cotton Doublet Vest"
                 },
                 {
-                    "name": "Hempen Doublet Vest Of Crafting/Gathering"
+                    "name": "Hempen Doublet Vest Of Crafting"
+                },
+                {
+                    "name": "Hempen Doublet Vest Of Gathering"
                 },
                 {
                     "name": "Initiate\u0027s Doublet Vest"
                 },
                 {
-                    "name": "Velveteen Doublet Vest Of Crafting/Gathering"
+                    "name": "Velveteen Doublet Vest Of Crafting"
+                },
+                {
+                    "name": "Velveteen Doublet Vest Of Gathering"
                 },
                 {
                     "name": "Vintage Doublet Vest"
@@ -1575,9 +1593,6 @@
                 },
                 {
                     "name": "Heavy Fillibuster\u0027s Gambison Of Maiming"
-                },
-                {
-                    "name": "Sky Pirate\u0027s Gloves Of Scouting"
                 }
             ]
         },
@@ -1601,7 +1616,25 @@
             "hint": "Ryumyaku",
             "items": [
                 {
-                    "name": "Any Ryumyaku Chest"
+                    "name": "Ryumyaku Dogi Of Casting"
+                },
+                {
+                    "name": "Ryumyaku Dogi Of Healing"
+                },
+                {
+                    "name": "Ryumyaku Jufuku Of Aiming"
+                },
+                {
+                    "name": "Ryumyaku Jufuku Of Fending"
+                },
+                {
+                    "name": "Ryumyaku Jufuku Of Maiming"
+                },
+                {
+                    "name": "Ryumyaku Togi Of Scouting"
+                },
+                {
+                    "name": "Ryumyaku Togi Of Striking"
                 }
             ]
         },
@@ -1610,7 +1643,25 @@
             "hint": "Sailor\u0027s Life",
             "items": [
                 {
-                    "name": "Any Holy Rainbow Shirt"
+                    "name": "Holy Rainbow Shirt of Aiming"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Casting"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Fending"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Healing"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Maiming"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Scouting"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Striking"
                 },
                 {
                     "name": "Sailor Shirt"
@@ -1667,7 +1718,25 @@
             "hint": "Skalla Back",
             "items": [
                 {
-                    "name": "Any Skallic Coat/Jacket"
+                    "name": "Skallic Coat Of Fending"
+                },
+                {
+                    "name": "Skallic Coat Of Maiming"
+                },
+                {
+                    "name": "Skallic Jacket Of Aiming"
+                },
+                {
+                    "name": "Skallic Jacket Of Casting"
+                },
+                {
+                    "name": "Skallic Jacket Of Healing"
+                },
+                {
+                    "name": "Skallic Jacket Of Scouting"
+                },
+                {
+                    "name": "Skallic Jacket Of Stricking"
                 }
             ]
         },
@@ -1805,7 +1874,46 @@
             "hint": "The Tales Of Genji",
             "items": [
                 {
-                    "name": "Any Genta/Genji Chest"
+                    "name": "Genji Domaru Of Casting"
+                },
+                {
+                    "name": "Genji Domaru Of Healing"
+                },
+                {
+                    "name": "Genji Domaru Of Striking"
+                },
+                {
+                    "name": "Genji Jin-Baori Of Maiming"
+                },
+                {
+                    "name": "Genji Jin-Baori Of Scouting"
+                },
+                {
+                    "name": "Genji Oyorol Of Aiming"
+                },
+                {
+                    "name": "Genji Oyorol Of Fending"
+                },
+                {
+                    "name": "Genta Domaru Of Casting"
+                },
+                {
+                    "name": "Genta Domaru Of Healing"
+                },
+                {
+                    "name": "Genta Domaru Of Striking"
+                },
+                {
+                    "name": "Genta Jin-Baori Of Maiming"
+                },
+                {
+                    "name": "Genta Jin-Baori Of Scouting"
+                },
+                {
+                    "name": "Genta Oyorol Of Aiming"
+                },
+                {
+                    "name": "Genta Oyorol Of Fending"
                 }
             ]
         },
@@ -2156,10 +2264,25 @@
             "hint": "C\u0027est Chic",
             "items": [
                 {
-                    "name": "Any Sharlayan Gloves"
+                    "name": "False Nails"
                 },
                 {
-                    "name": "False Nails"
+                    "name": "Sharlayan Conservator\u0027s Gloves"
+                },
+                {
+                    "name": "Sharlayan Custodian\u0027s Gloves"
+                },
+                {
+                    "name": "Sharlayan Emissary\u0027s Gloves"
+                },
+                {
+                    "name": "Sharlayan Pankratiast\u0027s Gloves"
+                },
+                {
+                    "name": "Sharlayan Pathmaker\u0027s Gloves"
+                },
+                {
+                    "name": "Sharlayan Philosopher\u0027s Gloves"
                 }
             ]
         },
@@ -2168,7 +2291,25 @@
             "hint": "Coiled Finally",
             "items": [
                 {
-                    "name": "Any Replica/Dreadwyrm Gloves"
+                    "name": "Replica/Dreadwyrm Bracers Of Aiming"
+                },
+                {
+                    "name": "Replica/Dreadwyrm Bracers Of Scouting"
+                },
+                {
+                    "name": "Replica/Dreadwyrm Bracers Of Striking"
+                },
+                {
+                    "name": "Replica/Dreadwyrm Gauntlets Of Fending"
+                },
+                {
+                    "name": "Replica/Dreadwyrm Gloves Of Casting"
+                },
+                {
+                    "name": "Replica/Dreadwyrm Gloves Of Healing"
+                },
+                {
+                    "name": "Replica/Dreadwyrm Vambraces Of Maiming"
                 }
             ]
         },
@@ -2312,16 +2453,28 @@
                     "name": "Brand-New Gloves"
                 },
                 {
-                    "name": "Eikon Cloth Sleeves Of Healing/Aiming"
+                    "name": "Eikon Cloth Sleeves Of Aiming"
                 },
                 {
-                    "name": "Hailstorm Gloves Of Healing/Casting"
+                    "name": "Eikon Cloth Sleeves Of Healing"
                 },
                 {
-                    "name": "Orthodox Armguards Of Healing/Casting"
+                    "name": "Hailstorm Gloves Of Casting"
                 },
                 {
-                    "name": "Star Velvet Long Gloves Of Healing/Casting"
+                    "name": "Hailstorm Gloves Of Healing"
+                },
+                {
+                    "name": "Orthodox Armguards Of Casting"
+                },
+                {
+                    "name": "Orthodox Armguards Of Healing"
+                },
+                {
+                    "name": "Star Velvet Long Gloves Of Casting"
+                },
+                {
+                    "name": "Star Velvet Long Gloves Of Healing"
                 },
                 {
                     "name": "Thavnairian Armlets"
@@ -2462,22 +2615,22 @@
             "hint": "Pirates In The Sky",
             "items": [
                 {
-                    "name": "Sky Pirate\u0027s Gauntlets Of Fending"
+                    "name": "Replica/Sky Pirate\u0027s Gauntlets Of Fending"
                 },
                 {
-                    "name": "Sky Pirate\u0027s Gauntlets Of Maiming"
+                    "name": "Replica/Sky Pirate\u0027s Gauntlets Of Maiming"
                 },
                 {
-                    "name": "Sky Pirate\u0027s Gloves Of Aiming"
+                    "name": "Replica/Sky Pirate\u0027s Gloves Of Aiming"
                 },
                 {
-                    "name": "Sky Pirate\u0027s Gloves Of Healing"
+                    "name": "Replica/Sky Pirate\u0027s Gloves Of Healing"
                 },
                 {
-                    "name": "Sky Pirate\u0027s Gloves Of Scouting"
+                    "name": "Replica/Sky Pirate\u0027s Gloves Of Scouting"
                 },
                 {
-                    "name": "Sky Pirate\u0027s Gloves Of Striking"
+                    "name": "Replica/Sky Pirate\u0027s Gloves Of Striking"
                 },
                 {
                     "name": "Tantalus Cuffs"
@@ -2516,7 +2669,25 @@
             "hint": "Ride The Tides",
             "items": [
                 {
-                    "name": "Any Shisui Kote"
+                    "name": "Shisui Kote Of Aiming"
+                },
+                {
+                    "name": "Shisui Kote Of Casting"
+                },
+                {
+                    "name": "Shisui Kote Of Fending"
+                },
+                {
+                    "name": "Shisui Kote Of Healing"
+                },
+                {
+                    "name": "Shisui Kote Of Maiming"
+                },
+                {
+                    "name": "Shisui Kote Of Scouting"
+                },
+                {
+                    "name": "Shisui Kote Of Striking"
                 }
             ]
         },
@@ -2723,7 +2894,25 @@
             "hint": "A Pirate\u0027s Life",
             "items": [
                 {
-                    "name": "Any Holy Rainbow Sarouel"
+                    "name": "Holy Rainbow Sarouel of Aiming"
+                },
+                {
+                    "name": "Holy Rainbow Sarouel of Casting"
+                },
+                {
+                    "name": "Holy Rainbow Sarouel of Fending"
+                },
+                {
+                    "name": "Holy Rainbow Sarouel of Healing"
+                },
+                {
+                    "name": "Holy Rainbow Sarouel of Maiming"
+                },
+                {
+                    "name": "Holy Rainbow Sarouel of Scouting"
+                },
+                {
+                    "name": "Holy Rainbow Sarouel of Striking"
                 },
                 {
                     "name": "Sarouel Of The Divine Hero"
@@ -2750,7 +2939,25 @@
             "hint": "\u0022Ala\u0022 Carte",
             "items": [
                 {
-                    "name": "Any Ala Mhigan Legs"
+                    "name": "Ala Mhigan Bottoms Of Fending"
+                },
+                {
+                    "name": "Ala Mhigan Bottoms Of Healing"
+                },
+                {
+                    "name": "Ala Mhigan Bottoms Of Maiming"
+                },
+                {
+                    "name": "Ala Mhigan Bottoms Of Scouting"
+                },
+                {
+                    "name": "Ala Mhigan Bottoms Of Striking"
+                },
+                {
+                    "name": "Ala Mhigan Skirt Of Aiming"
+                },
+                {
+                    "name": "Ala Mhigan Skirt Of Casting"
                 }
             ]
         },
@@ -2825,7 +3032,25 @@
             "hint": "Coiled Finally",
             "items": [
                 {
-                    "name": "Any Dreadwyrm Legs"
+                    "name": "Replica/Dreadwyrm Breeches Of Aiming"
+                },
+                {
+                    "name": "Replica/Dreadwyrm Breeches Of Maiming"
+                },
+                {
+                    "name": "Replica/Dreadwyrm Sarouel Of Fending"
+                },
+                {
+                    "name": "Replica/Dreadwyrm Slops Of Scouting"
+                },
+                {
+                    "name": "Replica/Dreadwyrm Slops Of Striking"
+                },
+                {
+                    "name": "Replica/Dreadwyrm Tonban Of Casting"
+                },
+                {
+                    "name": "Replica/Dreadwyrm Tonban Of Healing"
                 }
             ]
         },
@@ -2882,7 +3107,25 @@
             "hint": "Do Rats Fly",
             "items": [
                 {
-                    "name": "Any Sky Rat Breeches"
+                    "name": "Replica/Sky Rat Breeches Of Aiming"
+                },
+                {
+                    "name": "Replica/Sky Rat Breeches Of Casting"
+                },
+                {
+                    "name": "Replica/Sky Rat Breeches Of Fending"
+                },
+                {
+                    "name": "Replica/Sky Rat Breeches Of Healing"
+                },
+                {
+                    "name": "Replica/Sky Rat Breeches Of Maiming"
+                },
+                {
+                    "name": "Replica/Sky Rat Breeches Of Scouting"
+                },
+                {
+                    "name": "Replica/Sky Rat Breeches Of Striking"
                 }
             ]
         },
@@ -2945,10 +3188,10 @@
             "hint": "Flap In Front",
             "items": [
                 {
-                    "name": "Althyk\u0027s Cuisses Of Striking/Scouting"
+                    "name": "Althyk\u0027s Cuisses Of Scouting"
                 },
                 {
-                    "name": "Any Nomad\u0027s Breeches"
+                    "name": "Althyk\u0027s Cuisses Of Striking"
                 },
                 {
                     "name": "Chimerical Felt Breeches Of Fending"
@@ -2960,25 +3203,10 @@
                     "name": "Flame Elite\u0027s Loincloth"
                 },
                 {
-                    "name": "Hemiskin Brais Of Fending/Maiming"
+                    "name": "Hemiskin Brais Of Fending"
                 },
                 {
-                    "name": "Kudzu Culottes Of Crafting/Gathering"
-                },
-                {
-                    "name": "Noct/Weathered Noct Breeches"
-                },
-                {
-                    "name": "Replica/Allagan Breeches Of Casting/Healing"
-                }
-            ]
-        },
-        {
-            "type": "Legs",
-            "hint": "Flap In The Front",
-            "items": [
-                {
-                    "name": "Chimerical Felt Breeches Of Fending"
+                    "name": "Hemiskin Brais Of Maiming"
                 },
                 {
                     "name": "Kudzu Culottes Of Crafting"
@@ -2990,13 +3218,31 @@
                     "name": "Nomad\u0027s Breeches Of Aiming"
                 },
                 {
+                    "name": "Nomad\u0027s Breeches Of Casting"
+                },
+                {
+                    "name": "Nomad\u0027s Breeches Of Fending"
+                },
+                {
                     "name": "Nomad\u0027s Breeches Of Healing"
                 },
                 {
                     "name": "Nomad\u0027s Breeches Of Maiming"
                 },
                 {
+                    "name": "Nomad\u0027s Breeches Of Scouting"
+                },
+                {
                     "name": "Nomad\u0027s Breeches Of Striking"
+                },
+                {
+                    "name": "Replica/Allagan Breeches Of Casting"
+                },
+                {
+                    "name": "Replica/Allagan Breeches Of Healing"
+                },
+                {
+                    "name": "Weathered/Noct Breeches"
                 }
             ]
         },
@@ -3032,7 +3278,25 @@
             "hint": "Found Allagan",
             "items": [
                 {
-                    "name": "Any Augmented/Lost Allagan Legs"
+                    "name": "Augmented/Lost Allagan Breeches Of Aiming"
+                },
+                {
+                    "name": "Augmented/Lost Allagan Breeches Of Striking"
+                },
+                {
+                    "name": "Augmented/Lost Allagan Pantaloons Of Casting"
+                },
+                {
+                    "name": "Augmented/Lost Allagan Pantaloons Of Healing"
+                },
+                {
+                    "name": "Augmented/Lost Allagan Pantaloons Of Maiming"
+                },
+                {
+                    "name": "Augmented/Lost Allagan Pantaloons Of Scouting"
+                },
+                {
+                    "name": "Augmented/Lost Allagan Trousers Of Fending"
                 }
             ]
         },
@@ -3161,16 +3425,40 @@
             "hint": "Mountain Bred",
             "items": [
                 {
-                    "name": "Any Nomad\u0027s Breeches"
-                },
-                {
                     "name": "Best Man\u0027s Slacks"
                 },
                 {
-                    "name": "Cropped Wool/Flannel Slops"
+                    "name": "Cropped Flannel Slops"
                 },
                 {
-                    "name": "Kudzu Culottes Of Crafting/Gathering"
+                    "name": "Cropped Wool Slops"
+                },
+                {
+                    "name": "Kudzu Culottes Of Crafting"
+                },
+                {
+                    "name": "Kudzu Culottes Of Gathering"
+                },
+                {
+                    "name": "Nomad\u0027s Breeches Of Aiming"
+                },
+                {
+                    "name": "Nomad\u0027s Breeches Of Casting"
+                },
+                {
+                    "name": "Nomad\u0027s Breeches Of Fending"
+                },
+                {
+                    "name": "Nomad\u0027s Breeches Of Healing"
+                },
+                {
+                    "name": "Nomad\u0027s Breeches Of Maiming"
+                },
+                {
+                    "name": "Nomad\u0027s Breeches Of Scouting"
+                },
+                {
+                    "name": "Nomad\u0027s Breeches Of Striking"
                 }
             ]
         },
@@ -3197,7 +3485,25 @@
             "hint": "Old Country",
             "items": [
                 {
-                    "name": "Any Augmented/Normal Shire Legs"
+                    "name": "Augmented/Shire Conservator\u0027s Hose"
+                },
+                {
+                    "name": "Augmented/Shire Custodian\u0027s Hose"
+                },
+                {
+                    "name": "Augmented/Shire Emissary\u0027s Hose"
+                },
+                {
+                    "name": "Augmented/Shire Pankratiast\u0027s Hose"
+                },
+                {
+                    "name": "Augmented/Shire Pathfinder\u0027s Hose"
+                },
+                {
+                    "name": "Augmented/Shire Philosopher\u0027s Hose"
+                },
+                {
+                    "name": "Augmented/Shire Preceptor\u0027s Hose"
                 }
             ]
         },
@@ -3206,7 +3512,25 @@
             "hint": "Pirates In The Sky",
             "items": [
                 {
-                    "name": "Any Sky Pirate\u0027s Legs"
+                    "name": "Replica/Sky Pirate\u0027s Bottoms Of Casting"
+                },
+                {
+                    "name": "Replica/Sky Pirate\u0027s Bottoms Of Healing"
+                },
+                {
+                    "name": "Replica/Sky Pirate\u0027s Gaskins Of Fending"
+                },
+                {
+                    "name": "Replica/Sky Pirate\u0027s Gaskins Of Maiming"
+                },
+                {
+                    "name": "Replica/Sky Pirate\u0027s Halfslops Of Aiming"
+                },
+                {
+                    "name": "Replica/Sky Pirate\u0027s Trousers Of Scouting"
+                },
+                {
+                    "name": "Replica/Sky Pirate\u0027s Trousers Of Striking"
                 },
                 {
                     "name": "Tantalus Breeches"
@@ -3419,7 +3743,25 @@
             "hint": "The Creator",
             "items": [
                 {
-                    "name": "Any Prototype/Alexandrian Legs"
+                    "name": "Prototype/Alexandrian Bottoms Of Casting"
+                },
+                {
+                    "name": "Prototype/Alexandrian Bottoms Of Healing"
+                },
+                {
+                    "name": "Prototype/Alexandrian Breeches Of Fending"
+                },
+                {
+                    "name": "Prototype/Alexandrian Breeches Of Maiming"
+                },
+                {
+                    "name": "Prototype/Alexandrian Breeches Of Striking"
+                },
+                {
+                    "name": "Prototype/Alexandrian Gaskins Of Aiming"
+                },
+                {
+                    "name": "Prototype/Alexandrian Gaskins Of Scouting"
                 }
             ]
         },
@@ -3428,13 +3770,52 @@
             "hint": "The Tales Of Genji",
             "items": [
                 {
-                    "name": "Any Genta/Genji Tsutsu-Hakama"
+                    "name": "Genji Tsutsu-Hakama Of Aiming"
+                },
+                {
+                    "name": "Genji Tsutsu-Hakama Of Casting"
+                },
+                {
+                    "name": "Genji Tsutsu-Hakama Of Fending"
+                },
+                {
+                    "name": "Genji Tsutsu-Hakama Of Healing"
+                },
+                {
+                    "name": "Genji Tsutsu-Hakama Of Maiming"
+                },
+                {
+                    "name": "Genji Tsutsu-Hakama Of Scouting"
+                },
+                {
+                    "name": "Genji Tsutsu-Hakama Of Striking"
+                },
+                {
+                    "name": "Genta Tsutsu-Hakama Of Aiming"
+                },
+                {
+                    "name": "Genta Tsutsu-Hakama Of Casting"
+                },
+                {
+                    "name": "Genta Tsutsu-Hakama Of Fending"
+                },
+                {
+                    "name": "Genta Tsutsu-Hakama Of Healing"
+                },
+                {
+                    "name": "Genta Tsutsu-Hakama Of Maiming"
+                },
+                {
+                    "name": "Genta Tsutsu-Hakama Of Scouting"
+                },
+                {
+                    "name": "Genta Tsutsu-Hakama Of Striking"
                 }
             ]
         },
         {
             "type": "Legs",
-            "hint": "Tip O\u0027 The Arhat",
+            "hint": "Tip o\u0027 The Arhat",
             "items": [
                 {
                     "name": "Arhat Hakama Of Aiming"
@@ -3587,7 +3968,25 @@
             "hint": "\u0022Ala\u0022 Carte",
             "items": [
                 {
-                    "name": "Any Ala Mhigan Feet"
+                    "name": "Ala Mhigan Calligae Of Aiming"
+                },
+                {
+                    "name": "Ala Mhigan Calligae Of Casting"
+                },
+                {
+                    "name": "Ala Mhigan Calligae Of Fending"
+                },
+                {
+                    "name": "Ala Mhigan Calligae Of Maiming"
+                },
+                {
+                    "name": "Ala Mhigan Calligae Of Striking"
+                },
+                {
+                    "name": "Ala Mhigan Sandals Of Healing"
+                },
+                {
+                    "name": "Ala Mhigan Sandals Of Scouting"
                 }
             ]
         },
@@ -3620,7 +4019,25 @@
             "hint": "Bookworm",
             "items": [
                 {
-                    "name": "Any Sharlayan Boots"
+                    "name": "Sharlayan Conservator\u0027s Boots"
+                },
+                {
+                    "name": "Sharlayan Custodian\u0027s Boots"
+                },
+                {
+                    "name": "Sharlayan Emissary\u0027s Boots"
+                },
+                {
+                    "name": "Sharlayan Pankratiast\u0027s Boots"
+                },
+                {
+                    "name": "Sharlayan Pathmaker\u0027s Boots"
+                },
+                {
+                    "name": "Sharlayan Philosopher\u0027s Boots"
+                },
+                {
+                    "name": "Sharlayan Preceptor\u0027s Boots"
                 }
             ]
         },
@@ -3629,7 +4046,19 @@
             "hint": "Calligae Divorcee",
             "items": [
                 {
-                    "name": "Any Ala Mhigan Caligae"
+                    "name": "Ala Mhigan Caligae Of Aiming"
+                },
+                {
+                    "name": "Ala Mhigan Caligae Of Casting"
+                },
+                {
+                    "name": "Ala Mhigan Caligae Of Fending"
+                },
+                {
+                    "name": "Ala Mhigan Caligae Of Scouting"
+                },
+                {
+                    "name": "Ala Mhigan Caligae Of Striking"
                 },
                 {
                     "name": "Darklight Caligae Of Aiming"
@@ -3689,7 +4118,25 @@
             "hint": "Do Rats Fly",
             "items": [
                 {
-                    "name": "Any Sky Rat Boots"
+                    "name": "Replica/Sky Rat Hookboots Of Fending"
+                },
+                {
+                    "name": "Replica/Sky Rat Hookboots Of Healing"
+                },
+                {
+                    "name": "Replica/Sky Rat Hookboots Of Maiming"
+                },
+                {
+                    "name": "Replica/Sky Rat Hookboots Of Scouting"
+                },
+                {
+                    "name": "Replica/Sky Rat Ironclad Boots Of Aiming"
+                },
+                {
+                    "name": "Replica/Sky Rat Ironclad Boots Of Casting"
+                },
+                {
+                    "name": "Replica/Sky Rat Ironclad Boots Of Striking"
                 }
             ]
         },
@@ -3725,7 +4172,7 @@
         },
         {
             "type": "Feet",
-            "hint": "Dressing For Success",
+            "hint": "Dressed For Success",
             "items": [
                 {
                     "name": "Best Man\u0027s Gaiters"
@@ -3773,7 +4220,25 @@
             "hint": "Fashion Bandit",
             "items": [
                 {
-                    "name": "Any Woad Sky* Boots"
+                    "name": "Woad Skychaser\u0027s Boots"
+                },
+                {
+                    "name": "Woad Skydruid\u0027s Boots"
+                },
+                {
+                    "name": "Woad Skyhunter\u0027s Boots"
+                },
+                {
+                    "name": "Woad Skylancer\u0027s Boots"
+                },
+                {
+                    "name": "Woad Skyraider\u0027s Boots"
+                },
+                {
+                    "name": "Woad Skywarrior\u0027s Boots"
+                },
+                {
+                    "name": "Woad Skywicce\u0027s Boots"
                 }
             ]
         },
@@ -4151,10 +4616,28 @@
             "hint": "Ride The Tides",
             "items": [
                 {
-                    "name": "Any Shisui Feet"
+                    "name": "Faire Zori"
                 },
                 {
-                    "name": "Faire Zori"
+                    "name": "Shisui Zori Of Aiming"
+                },
+                {
+                    "name": "Shisui Zori Of Casting"
+                },
+                {
+                    "name": "Shisui Zori Of Fending"
+                },
+                {
+                    "name": "Shisui Zori Of Healing"
+                },
+                {
+                    "name": "Shisui Zori Of Maiming"
+                },
+                {
+                    "name": "Shisui Zori Of Scouting"
+                },
+                {
+                    "name": "Shisui Zori Of Striking"
                 }
             ]
         },
@@ -4229,7 +4712,25 @@
             "hint": "Tip o\u0027 The Arhat",
             "items": [
                 {
-                    "name": "Any Arhat Kyanhan"
+                    "name": "Arhat Kyanhan Of Aiming"
+                },
+                {
+                    "name": "Arhat Kyanhan Of Casting"
+                },
+                {
+                    "name": "Arhat Kyanhan Of Fending"
+                },
+                {
+                    "name": "Arhat Kyanhan Of Healing"
+                },
+                {
+                    "name": "Arhat Kyanhan Of Maiming"
+                },
+                {
+                    "name": "Arhat Kyanhan Of Scouting"
+                },
+                {
+                    "name": "Arhat Kyanhan Of Striking"
                 }
             ]
         },
@@ -5883,7 +6384,7 @@
             "slots": [
                 {
                     "type": "Body",
-                    "hint": "Action Locally"
+                    "hint": "Acton Locally"
                 },
                 {
                     "type": "Legs",
@@ -6240,7 +6741,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "Flap In The Front"
+                    "hint": "Flap In Front"
                 }
             ]
         },
@@ -6627,7 +7128,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "Flap In The Front"
+                    "hint": "Flap In Front"
                 },
                 {
                     "type": "Feet",
@@ -6807,7 +7308,7 @@
                 },
                 {
                     "type": "Body",
-                    "hint": "Action Locally"
+                    "hint": "Acton Locally"
                 },
                 {
                     "type": "Legs",
@@ -6976,7 +7477,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "Dressing For Success"
+                    "hint": "Dressed For Success"
                 }
             ]
         },
@@ -7501,7 +8002,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "Flap In The Front"
+                    "hint": "Flap In Front"
                 },
                 {
                     "type": "Neck",
@@ -7570,7 +8071,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "Flap In The Front"
+                    "hint": "Flap In Front"
                 },
                 {
                     "type": "Feet",
