@@ -1871,7 +1871,7 @@
         },
         {
             "type": "Body",
-            "hint": "The Tales Of Genji",
+            "hint": "The Tale Of Genji",
             "items": [
                 {
                     "name": "Genji Domaru Of Casting"
@@ -3767,7 +3767,7 @@
         },
         {
             "type": "Legs",
-            "hint": "The Tales Of Genji",
+            "hint": "The Tale Of Genji",
             "items": [
                 {
                     "name": "Genji Tsutsu-Hakama Of Aiming"
@@ -7151,7 +7151,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "The Tales Of Genji"
+                    "hint": "The Tale Of Genji"
                 },
                 {
                     "type": "Ear",
@@ -7400,7 +7400,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "The Tales Of Genji"
+                    "hint": "The Tale Of Genji"
                 },
                 {
                     "type": "Feet",
@@ -7649,7 +7649,7 @@
             "slots": [
                 {
                     "type": "Body",
-                    "hint": "The Tales Of Genji"
+                    "hint": "The Tale Of Genji"
                 },
                 {
                     "type": "Hands",
@@ -8329,6 +8329,29 @@
                 {
                     "type": "Feet",
                     "hint": "Shod With Sandals"
+                }
+            ]
+        },
+        {
+            "week": 172,
+            "date": "2021-05-14",
+            "theme": "Vixen Genji",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Foxy Features"
+                },
+                {
+                    "type": "Body",
+                    "hint": "The Tale Of Genji"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Striding In Stripes"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In The \u0022Fold\u0022"
                 }
             ]
         }

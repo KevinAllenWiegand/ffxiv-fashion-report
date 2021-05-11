@@ -15,7 +15,7 @@ const SLOTS = [
     'slot4'
 ];
 
-loadOwnedItems();
+init();
 
 $.each(SLOT_TYPES, function(typeIndex, typeValue) {
     $.each(SLOTS, function(slotIndex, slotValue) {
@@ -45,17 +45,7 @@ $.each(SLOTS, function (slotIndex, slotValue) {
 });
 
 $('#showLatestButton').on('click', function() {
-    let latestReport = null;
-
-    for (let index = fashionReportData.reports.length - 1; index > -1; index--) {
-        const report = fashionReportData.reports[index];
-
-        if (report.theme && report.slots && report.slots.length == 4) {
-            if (!latestReport || report.week > latestReport.week) {
-                latestReport = report;
-            }
-        }
-    }
+    let latestReport = getLatestReport();
 
     if (latestReport) {
         resetHintSearchForm();
@@ -81,6 +71,57 @@ $('#itemSearchButton').on('click', function() {
 
     searchItems(itemName);
 });
+
+function init() {
+    loadOwnedItems();
+    
+    let latestReport = getLatestReport();
+
+    if (latestReport) {
+        $('#latestData').html(`Week ${latestReport.week} for ${latestReport.date}`);
+    } else {
+        $('#latestData').html('ERROR');
+    }
+
+    const offsets = [-2, -3, 3, 2, 1, 0, -1];
+    let currentWeekDate = new Date();
+
+    currentWeekDate.setDate(currentWeekDate.getDate() + offsets[currentWeekDate.getDay()]);
+
+    const firstWeekNumber = fashionReportData.reports[0].week;
+    const firstWeekDateParts = fashionReportData.reports[0].date.split('-');
+    const firstWeekDate = new Date(parseInt(firstWeekDateParts[0], 10), parseInt(firstWeekDateParts[1], 10) - 1, parseInt(firstWeekDateParts[2], 10));
+    const millisecondsPerDay = 1000 * 60 * 60 * 24;
+    const numberOfDaysSince = (new Date() - firstWeekDate) / millisecondsPerDay;
+    const numberOfWeeksSince = Math.ceil(numberOfDaysSince / 7);
+    const currentWeek = firstWeekNumber + numberOfWeeksSince;
+
+    $('#currentWeek').html(`Week ${currentWeek} for ${currentWeekDate.getFullYear()}-${formatNumberForDate(currentWeekDate.getMonth() + 1)}-${formatNumberForDate(currentWeekDate.getDate())}`);
+}
+
+function formatNumberForDate(value) {
+    if (value > 9) {
+        return value.toString();
+    }
+    
+    return '0' + value;
+}
+
+function getLatestReport() {
+    let latestReport = null;
+
+    for (let index = fashionReportData.reports.length - 1; index > -1; index--) {
+        const report = fashionReportData.reports[index];
+
+        if (report.theme && report.slots && report.slots.length == 4) {
+            if (!latestReport || report.week > latestReport.week) {
+                latestReport = report;
+            }
+        }
+    }
+
+    return latestReport;
+}
 
 function resetHintSearchForm() {
     $.each(SLOTS, function (slotIndex, slotValue) {

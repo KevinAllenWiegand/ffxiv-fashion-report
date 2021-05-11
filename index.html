@@ -105,7 +105,8 @@
             width: 32px;
         }
 
-        .quickButtons {
+        .quickButtons,
+        .dataSummary {
             margin-bottom: 10pt;
         }
     </style>
@@ -134,6 +135,13 @@
                 <div class="alert alert-info">
                     <p>For each slot in the Fashion Report that you would like to search, select the appropriate Slot Type, and then provide the hint.</p>
                     <p>Results will be shown in the area below the corresponding hint.</p>
+                </div>
+
+                <div class="row row-no-gutters dataSummary">
+                    <div class="col col-lg-12">
+                        <div>Lastest data is <span id="latestData"></span></div>
+                        <div>Current is <span id="currentWeek"></span></div>
+                    </div>
                 </div>
 
                 <div class="row row-no-gutters quickButtons">
