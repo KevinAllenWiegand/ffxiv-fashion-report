@@ -1309,6 +1309,21 @@
             ]
         },
         {
+            "type": "Head",
+            "hint": "Foxy Features",
+            "items": [
+                {
+                    "name": "Hakuko Men"
+                },
+                {
+                    "name": "Kokuko Men"
+                },
+                {
+                    "name": "Tamamo Headband"
+                }
+            ]
+        },
+        {
             "type": "Body",
             "hint": "Go West",
             "items": [
@@ -3740,6 +3755,39 @@
         },
         {
             "type": "Legs",
+            "hint": "Striding In Stripes",
+            "items": [
+                {
+                    "name": "Holy Rainbow Sarouel of Aiming"
+                },
+                {
+                    "name": "Holy Rainbow Sarouel of Casting"
+                },
+                {
+                    "name": "Holy Rainbow Sarouel of Fending"
+                },
+                {
+                    "name": "Holy Rainbow Sarouel of Healing"
+                },
+                {
+                    "name": "Holy Rainbow Sarouel of Maiming"
+                },
+                {
+                    "name": "Holy Rainbow Sarouel of Scouting"
+                },
+                {
+                    "name": "Holy Rainbow Sarouel of Striking"
+                },
+                {
+                    "name": "Striped Cotton Slops"
+                },
+                {
+                    "name": "Velveteen Slops"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "The Creator",
             "items": [
                 {
@@ -4314,6 +4362,10 @@
                 },
                 {
                     "name": "Falconer\u0027s Boots"
+                }
+                ,
+                {
+                    "name": "Scion Adventurer\u0027s Boots"
                 }
             ]
         },
