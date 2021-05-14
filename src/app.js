@@ -92,7 +92,7 @@ function init() {
     const firstWeekDateParts = fashionReportData.reports[0].date.split('-');
     const firstWeekDate = new Date(parseInt(firstWeekDateParts[0], 10), parseInt(firstWeekDateParts[1], 10) - 1, parseInt(firstWeekDateParts[2], 10));
     const millisecondsPerDay = 1000 * 60 * 60 * 24;
-    const numberOfDaysSince = (new Date() - firstWeekDate) / millisecondsPerDay;
+    const numberOfDaysSince = Math.floor((new Date() - firstWeekDate) / millisecondsPerDay);
     const numberOfWeeksSince = Math.ceil(numberOfDaysSince / 7);
     const currentWeek = firstWeekNumber + numberOfWeeksSince;
 
