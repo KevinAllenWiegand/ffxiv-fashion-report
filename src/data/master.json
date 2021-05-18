@@ -578,6 +578,15 @@
         },
         {
             "type": "Head",
+            "hint": "Raising The Barbut",
+            "items": [
+                {
+                    "name": "Bronze Barbut"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Rest \u0026 Relaxation",
             "items": [
                 {
@@ -3611,7 +3620,34 @@
             "hint": "Rest \u0026 Relaxation",
             "items": [
                 {
-                    "name": "Ghost Barque Bottoms Of Casting"
+                    "name": "Butler\u0027s Slacks"
+                },
+                {
+                    "name": "Crescent Moon Bottoms"
+                },
+                {
+                    "name": "Expeditioner\u0027s Kecks"
+                },
+                {
+                    "name": "Expeditioner\u0027s Pantalettes"
+                },
+                {
+                    "name": "Extreme Survival Slops"
+                },
+                {
+                    "name": "Ghost Barque Bottoms of Casting"
+                },
+                {
+                    "name": "Guardian Corps Skirt"
+                },
+                {
+                    "name": "Housemaid\u0027s Bloomers"
+                },
+                {
+                    "name": "Loyal Butler Slacks"
+                },
+                {
+                    "name": "Loyal Housemaid\u0027s Bloomers"
                 },
                 {
                     "name": "Ramie Kecks"
@@ -3620,13 +3656,16 @@
                     "name": "Ramie Pantalettes"
                 },
                 {
-                    "name": "Ruby Cottom Bottoms"
+                    "name": "Ruby Cotton Bottoms"
                 },
                 {
                     "name": "Spring Bottoms"
                 },
                 {
                     "name": "Tantalus Breeches"
+                },
+                {
+                    "name": "Valentione Skirt"
                 },
                 {
                     "name": "Wind Silk Bottoms"
@@ -4209,24 +4248,6 @@
                 },
                 {
                     "name": "Velveteen Dress Shoes"
-                },
-                {
-                    "name": "Velveteen Gaiters"
-                },
-                {
-                    "name": "Woolen Dress Shoes"
-                }
-            ]
-        },
-        {
-            "type": "Feet",
-            "hint": "Dressed For Success",
-            "items": [
-                {
-                    "name": "Best Man\u0027s Gaiters"
-                },
-                {
-                    "name": "Dress Shoes"
                 },
                 {
                     "name": "Velveteen Gaiters"
@@ -8404,6 +8425,29 @@
                 {
                     "type": "Feet",
                     "hint": "In The \u0022Fold\u0022"
+                }
+            ]
+        },
+        {
+            "week": 173,
+            "date": "2021-05-21",
+            "theme": "Hardheaded Sleepwalker",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Raising The Barbut"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Rest & Relaxation"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Rest & Relaxation"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Dressed For Success"
                 }
             ]
         }

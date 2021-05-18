@@ -1,5 +1,10 @@
 'use strict';
 
+// Lodestone item search:
+//    https://na.finalfantasyxiv.com/lodestone/playguide/db/item/?patch=&db_search_category=item&category2=&min_craft_lv=&max_craft_lv=&q=
+//    q is URLEncoded search string ("summer+morning+halter").
+//    %27 = '
+
 import '@babel/polyfill';
 import 'bootstrap';
 
@@ -211,6 +216,7 @@ function searchItems(itemName) {
     $('#itemSearchResults').html(allItems || NO_RESULTS);
 
     let allReports = '';
+    let weekIds = new Map();
 
     // Get a list of matched reports.
     matchedReports.forEach(function(report) {
@@ -231,7 +237,16 @@ function searchItems(itemName) {
             }
 
             intermediateReportResults.forEach(function(result) {
-                allReports += `Week ${result.report.week} - ${result.report.date}<br />`;
+                let index = 0;
+                let weekId = `week${result.report.week}_${index}`;
+
+                while (weekIds.get(weekId) != null) {
+                    index++;
+                    weekId = `week${result.report.week}_${index}`;
+                }
+
+                weekIds.set(weekId, result.report.week);
+                allReports += `Week ${result.report.week} - ${result.report.date}&nbsp;<span id='${weekId}' class='fas fa-search viewReport' title='View Report'></span><br />`;
                 allReports += `${result.slot.type} - ${result.slot.hint}<br />`;
                 allReports += '<ul>';
 
@@ -249,6 +264,44 @@ function searchItems(itemName) {
     });
 
     $('#reportSearchResults').html(allReports || NO_RESULTS);
+
+    weekIds.forEach(function(value, key, map) {
+        $(`#${key}`).on('click', function () {
+            loadWeek(value);
+        });
+    });
+}
+
+function loadWeek(weekNumber) {
+    resetHintSearchForm();
+
+    const report = getReportForWeek(weekNumber);
+
+    if (report != null) {
+        $.each(SLOTS, function (slotIndex, slotValue) {
+            const reportSlot = report.slots[slotIndex];
+
+            if (reportSlot) {
+                $(`#${slotValue}Type`).val(reportSlot.type);
+                $(`#${slotValue}Hint`).val(reportSlot.hint);
+                $(`#${slotValue}Type`).trigger('change');
+            }
+        });
+
+        $("#navHome").trigger("click");
+    }
+}
+
+function getReportForWeek(weekNumber) {
+    for (let index = fashionReportData.reports.length - 1; index > -1; index--) {
+        const report = fashionReportData.reports[index];
+
+        if (report.week === weekNumber) {
+            return report;
+        }
+    }
+
+    return null;
 }
 
 function searchHints(type, hint, target) {

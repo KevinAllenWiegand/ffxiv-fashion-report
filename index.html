@@ -109,6 +109,12 @@
         .dataSummary {
             margin-bottom: 10pt;
         }
+
+        .viewReport {
+            color: #ffffff;
+            cursor: pointer;
+            text-decoration: none;
+        }
     </style>
 
     <title>FFXIV Fashion Report</title>
@@ -124,7 +130,7 @@
         <h1>FFXIV Fashion Report Tools</h1>
 
         <ul class="nav nav-tabs">
-            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#hints">Hint Search</a></li>
+            <li class="nav-item"><a id="navHome" class="nav-link active" data-toggle="tab" href="#hints">Hint Search</a></li>
             <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#items">Item Search</a></li>
         </ul>
 
@@ -134,7 +140,7 @@
             <div id="hints" class="tab-pane fade show active">
                 <div class="alert alert-info">
                     <p>For each slot in the Fashion Report that you would like to search, select the appropriate Slot Type, and then provide the hint.</p>
-                    <p>Results will be shown in the area below the corresponding hint.</p>
+                    <p>Results will be shown in the area below the corresponding hint.  You can use the checkboxes to track the items you already own.</p>
                 </div>
 
                 <div class="row row-no-gutters dataSummary">
