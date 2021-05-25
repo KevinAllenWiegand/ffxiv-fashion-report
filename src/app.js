@@ -343,7 +343,7 @@ function getItems(type, hint) {
         for (let index = 0; index < fashionReportData.slots.length; index++) {
             const slot = fashionReportData.slots[index];
 
-            if ((slot.type === type || !type) && slot.hint.toLowerCase().includes(hint.toLowerCase())) {
+            if ((slot.type === type || !type) && slot.items.length > 0 && slot.hint.toLowerCase().includes(hint.toLowerCase())) {
                 let items = '';
                 let header = slot.hint;
 

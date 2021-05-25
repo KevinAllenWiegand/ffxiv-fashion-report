@@ -701,7 +701,16 @@
             "hint": "The Last Straw",
             "items": [
                 {
+                    "name": "Augmented/Fieldkeep\u0027s Canotier"
+                },
+                {
+                    "name": "Cloche"
+                },
+                {
                     "name": "Coronal Straw Hat"
+                },
+                {
+                    "name": "Forager\u0027s Hat"
                 },
                 {
                     "name": "Gold/Oschon/Pearl Roselle Capeline"
@@ -906,6 +915,42 @@
                 },
                 {
                     "name": "Shirt Of The Divine Light"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "A Sailor\u0027s Life",
+            "items": [
+                {
+                    "name": "Sailor Shirt"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Fending"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Maiming"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Striking"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Scouting"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Aiming"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Casting"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Healing"
+                },
+                {
+                    "name": "Shirt of the Divine Hero"
+                },
+                {
+                    "name": "Shirt of the Divine Light"
                 }
             ]
         },
@@ -3325,6 +3370,13 @@
                 {
                     "name": "Augmented/Lost Allagan Trousers Of Fending"
                 }
+            ]
+        },
+        {
+            "type": "Legs",
+            "hint": "Fresh And Formal",
+            "items": [
+
             ]
         },
         {
@@ -8451,6 +8503,29 @@
                 {
                     "type": "Feet",
                     "hint": "Dressed For Success"
+                }
+            ]
+        },
+        {
+            "week": 174,
+            "date": "2021-05-28",
+            "theme": "Dandified Deckhand",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "The Last Straw"
+                },
+                {
+                    "type": "Body",
+                    "hint": "A Sailor\u0027s Life"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Fresh And Formal"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Do Rats Fly"
                 }
             ]
         }
