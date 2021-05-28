@@ -3376,7 +3376,9 @@
             "type": "Legs",
             "hint": "Fresh And Formal",
             "items": [
-
+                {
+                    "name": "Best Man\u0027s Slacks"
+                }
             ]
         },
         {
