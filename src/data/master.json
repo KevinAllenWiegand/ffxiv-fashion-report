@@ -89,6 +89,27 @@
         },
         {
             "type": "Head",
+            "hint": "Allagan Attack",
+            "items": [
+                {
+                    "name": "Phlegethon\u0027s Mask"
+                },
+                {
+                    "name": "Scylla\u0027s Helm Of Casting"
+                },
+                {
+                    "name": "Scylla\u0027s Helm Of Healing"
+                },
+                {
+                    "name": "The Guardian\u0027s Helm Of Maiming"
+                },
+                {
+                    "name": "The Guardian\u0027s Helm Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Bird Brain",
             "items": [
                 {
@@ -2279,10 +2300,10 @@
                     "name": "Phlegethon\u0027s Gauntlets"
                 },
                 {
-                    "name": "Scylla\u0027s Glove Of Casting"
+                    "name": "Scylla\u0027s Gloves Of Casting"
                 },
                 {
-                    "name": "Scylla\u0027s Glove Of Healing"
+                    "name": "Scylla\u0027s Gloves Of Healing"
                 },
                 {
                     "name": "The Guardian\u0027s Armguards Of Maiming"
@@ -2817,6 +2838,18 @@
                 },
                 {
                     "name": "Thavnairian Gloves"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
+            "hint": "Sleight Of Hand",
+            "items": [
+                {
+                    "name": "Magician\u0027s Gloves"
+                },
+                {
+                    "name": "Pilgrim\u0027s Gloves"
                 }
             ]
         },
@@ -3797,13 +3830,19 @@
             "hint": "Sleight Of Hand",
             "items": [
                 {
+                    "name": "Magician\u0027s Slops"
+                },
+                {
+                    "name": "Pilgrim\u0027s Slops"
+                },
+                {
                     "name": "Rainbow Slops Of Casting"
                 },
                 {
                     "name": "Rainbow Slops Of Healing"
                 },
                 {
-                    "name": "Ranbow Slops Of Aiming"
+                    "name": "Rainbow Slops Of Aiming"
                 }
             ]
         },
@@ -3847,6 +3886,13 @@
                 {
                     "name": "Ramie Trousers Of Striking"
                 }
+            ]
+        },
+        {
+            "type": "Legs",
+            "hint": "Storm Of Blood",
+            "items": [
+
             ]
         },
         {
@@ -8528,6 +8574,29 @@
                 {
                     "type": "Feet",
                     "hint": "Do Rats Fly"
+                }
+            ]
+        },
+        {
+            "week": 175,
+            "date": "2021-06-04",
+            "theme": "Amon On Display",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Allagan Attack"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Bloodsands"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Sleight Of Hand"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Storm Of Blood"
                 }
             ]
         }
