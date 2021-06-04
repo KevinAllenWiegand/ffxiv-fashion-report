@@ -92,6 +92,9 @@
             "hint": "Allagan Attack",
             "items": [
                 {
+                    "name": "Amon\u0027s Hat"
+                },
+                {
                     "name": "Phlegethon\u0027s Mask"
                 },
                 {
@@ -2297,6 +2300,9 @@
             "hint": "Allagan Attack",
             "items": [
                 {
+                    "name": "Amon\u0027s Sleeves"
+                },
+                {
                     "name": "Phlegethon\u0027s Gauntlets"
                 },
                 {
@@ -2846,10 +2852,7 @@
             "hint": "Sleight Of Hand",
             "items": [
                 {
-                    "name": "Magician\u0027s Gloves"
-                },
-                {
-                    "name": "Pilgrim\u0027s Gloves"
+                    "name": "Gambler\u0027s Gloves"
                 }
             ]
         },
@@ -3892,7 +3895,51 @@
             "type": "Legs",
             "hint": "Storm Of Blood",
             "items": [
-
+                {
+                    "name": "Antiquated/Chivalrous Cuisses"
+                },
+                {
+                    "name": "Antiquated/Brutal Breeches"
+                },
+                {
+                    "name": "Antiquated/Abyss Flanchard"
+                },
+                {
+                    "name": "Antiquated/Trueblood Brais"
+                },
+                {
+                    "name": "Antiquated/Pacifist\u0027s Gaskins"
+                },
+                {
+                    "name": "Antiquated/Myochin Hakama"
+                },
+                {
+                    "name": "Antiquated/Kage-kakushi Hakama"
+                },
+                {
+                    "name": "Antiquated/Storyteller\u0027s Bottoms"
+                },
+                {
+                    "name": "Antiquated/Gunner\u0027s Trousers"
+                },
+                {
+                    "name": "Antiquated/Seventh Hell Breeches"
+                },
+                {
+                    "name": "Antiquated/Channeler\u0027s Halfslops"
+                },
+                {
+                    "name": "Antiquated/Duelist\u0027s Breeches"
+                },
+                {
+                    "name": "Antiquated/Seventh Heaven Bottoms"
+                },
+                {
+                    "name": "Antiquated/Orator\u0027s Bottoms"
+                },
+                {
+                    "name": "Antiquated/Constellation Gaskins"
+                }
             ]
         },
         {
