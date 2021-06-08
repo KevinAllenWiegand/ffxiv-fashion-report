@@ -611,6 +611,15 @@
         },
         {
             "type": "Head",
+            "hint": "Ready For Rain",
+            "items": [
+                {
+                    "name": "Rain Hood"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Rest \u0026 Relaxation",
             "items": [
                 {
@@ -1638,6 +1647,15 @@
                 },
                 {
                     "name": "Serge Poncho"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "Ready For Rain",
+            "items": [
+                {
+                    "name": "Raincoat"
                 }
             ]
         },
@@ -3971,7 +3989,7 @@
                     "name": "Striped Cotton Slops"
                 },
                 {
-                    "name": "Velveteen Slops"
+                    "name": "Striped Velveteen Slops"
                 }
             ]
         },
@@ -4831,6 +4849,15 @@
                 },
                 {
                     "name": "Augmented/Torrent Boots Of Scouting"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
+            "hint": "Ready For Rain",
+            "items": [
+                {
+                    "name": "Rain Boots"
                 }
             ]
         },
@@ -8644,6 +8671,29 @@
                 {
                     "type": "Legs",
                     "hint": "Storm Of Blood"
+                }
+            ]
+        },
+        {
+            "week": 176,
+            "date": "2021-06-11",
+            "theme": "Whatever the Weather",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Ready For Rain"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Ready For Rain"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Striding In Stripes"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Ready For Rain"
                 }
             ]
         }
