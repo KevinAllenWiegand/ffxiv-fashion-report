@@ -3965,10 +3965,19 @@
             "hint": "Striding In Stripes",
             "items": [
                 {
-                    "name": "Cashmere Breeches Of Casting"
+                    "name": "Augmented/Wizard\u0027s Tonban"
                 },
                 {
-                    "name": "Evenstar Tights"
+                    "name": "Battlemage\u0027s Breeches"
+                },
+                {
+                    "name": "Breeches of Light"
+                },
+                {
+                    "name": "Cashmere Breeches of Casting"
+                },
+                {
+                    "name": "Chimerical Felt Breeches of Fending"
                 },
                 {
                     "name": "Holy Rainbow Sarouel of Aiming"
@@ -3992,6 +4001,21 @@
                     "name": "Holy Rainbow Sarouel of Striking"
                 },
                 {
+                    "name": "Idealized Estoqueur\u0027s Bottoms"
+                },
+                {
+                    "name": "Sarouel of the Divine Hero"
+                },
+                {
+                    "name": "Sarouel of the Divine Light"
+                },
+                {
+                    "name": "Serpentskin Tights of Casting"
+                },
+                {
+                    "name": "Sorcerer\u0027s Tonban"
+                },
+                {
                     "name": "Striped Cotton Slops"
                 },
                 {
@@ -4001,7 +4025,13 @@
                     "name": "Vigil Sarouel"
                 },
                 {
-                    "name": "Wizard\u0027s Tonban"
+                    "name": "Weathered Estoqueur\u0027s Bottoms"
+                },
+                {
+                    "name": "Weathered/Evenstar Tights"
+                },
+                {
+                    "name": "Weathered/Noct Breeches"
                 }
             ]
         },
