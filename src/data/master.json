@@ -3965,6 +3965,12 @@
             "hint": "Striding In Stripes",
             "items": [
                 {
+                    "name": "Cashmere Breeches Of Casting"
+                },
+                {
+                    "name": "Evenstar Tights"
+                },
+                {
                     "name": "Holy Rainbow Sarouel of Aiming"
                 },
                 {
@@ -3990,6 +3996,12 @@
                 },
                 {
                     "name": "Striped Velveteen Slops"
+                },
+                {
+                    "name": "Vigil Sarouel"
+                },
+                {
+                    "name": "Wizard\u0027s Tonban"
                 }
             ]
         },
