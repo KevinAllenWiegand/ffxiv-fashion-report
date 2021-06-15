@@ -4704,6 +4704,33 @@
         },
         {
             "type": "Feet",
+            "hint": "Mountain Bred",
+            "items": [
+                {
+                    "name": "Nomad\u0027s Boots Of Aiming"
+                },
+                {
+                    "name": "Nomad\u0027s Boots Of Casting"
+                },
+                {
+                    "name": "Nomad\u0027s Boots Of Healing"
+                },
+                {
+                    "name": "Nomad\u0027s Boots Of Maimimg"
+                },
+                {
+                    "name": "Nomad\u0027s Boots Of Scouting"
+                },
+                {
+                    "name": "Nomad\u0027s Boots Of Striking"
+                },
+                {
+                    "name": "Nomad\u0027s Boots Of Fending"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
             "hint": "Near Eastern Nights",
             "items": [
                 {
@@ -8719,7 +8746,7 @@
         {
             "week": 176,
             "date": "2021-06-11",
-            "theme": "Whatever the Weather",
+            "theme": "Whatever The Weather",
             "slots": [
                 {
                     "type": "Head",
@@ -8736,6 +8763,29 @@
                 {
                     "type": "Feet",
                     "hint": "Ready For Rain"
+                }
+            ]
+        },
+        {
+            "week": 177,
+            "date": "2021-06-18",
+            "theme": "Advisor In Bloom",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Flower Power"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Chimerican Woman"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Sleight Of Hand"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Mountain Bred"
                 }
             ]
         }
