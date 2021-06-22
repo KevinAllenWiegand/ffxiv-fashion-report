@@ -8788,6 +8788,29 @@
                     "hint": "Mountain Bred"
                 }
             ]
+        },
+        {
+            "week": 178,
+            "date": "2021-06-25",
+            "theme": "Wading Lominsan",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Bush Stylish"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Smallfolk"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "\u0022Groin\u0022 Pains"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Paying The Duckbills"
+                }
+            ]
         }
     ]
 }
