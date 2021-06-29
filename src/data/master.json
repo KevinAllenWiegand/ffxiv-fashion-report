@@ -227,6 +227,15 @@
                     "name": "Flame Sergeant\u0027s Beret"
                 },
                 {
+                    "name": "Green Beret"
+                },
+                {
+                    "name": "Red Beret"
+                },
+                {
+                    "name": "Serpent Sergeant\u0027s Beret"
+                },
+                {
                     "name": "Storm Sergeant\u0027s Beret"
                 },
                 {
@@ -1314,6 +1323,9 @@
                 },
                 {
                     "name": "Initiate\u0027s Doublet Vest"
+                },
+                {
+                    "name": "Storm Private\u0027s Doublet Vest"
                 },
                 {
                     "name": "Velveteen Doublet Vest Of Crafting"
