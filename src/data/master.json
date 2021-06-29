@@ -8811,6 +8811,29 @@
                     "hint": "Paying The Duckbills"
                 }
             ]
+        },
+        {
+            "week": 179,
+            "date": "2021-07-02",
+            "theme": "Painting Light",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Chapeau du Choice"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Doublet The Fun"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Smallfolk"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Tip o\u0027 The Arhat"
+                }
+            ]
         }
     ]
 }
