@@ -347,6 +347,21 @@
         },
         {
             "type": "Head",
+            "hint": "Foxy Features",
+            "items": [
+                {
+                    "name": "Hakuko Men"
+                },
+                {
+                    "name": "Kokuko Men"
+                },
+                {
+                    "name": "Tamamo Headband"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Future Arma",
             "items": [
                 {
@@ -998,33 +1013,6 @@
         },
         {
             "type": "Body",
-            "hint": "Acton Locally",
-            "items": [
-                {
-                    "name": "Brigand's Acton"
-                },
-                {
-                    "name": "Cotton Acton"
-                },
-                {
-                    "name": "Harlequin's Acton"
-                },
-                {
-                    "name": "Hempen Acton"
-                },
-                {
-                    "name": "Mercenary's Acton"
-                },
-                {
-                    "name": "Peltast Acton"
-                },
-                {
-                    "name": "Storm Private's Acton"
-                }
-            ]
-        },
-        {
-            "type": "Body",
             "hint": "Acton Globally",
             "items": [
                 {
@@ -1047,6 +1035,33 @@
                 },
                 {
                     "name": "Xenobian Surcoat"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "Acton Locally",
+            "items": [
+                {
+                    "name": "Brigand's Acton"
+                },
+                {
+                    "name": "Cotton Acton"
+                },
+                {
+                    "name": "Harlequin's Acton"
+                },
+                {
+                    "name": "Hempen Acton"
+                },
+                {
+                    "name": "Mercenary's Acton"
+                },
+                {
+                    "name": "Peltast Acton"
+                },
+                {
+                    "name": "Storm Private's Acton"
                 }
             ]
         },
@@ -1404,21 +1419,6 @@
                 },
                 {
                     "name": "Woad Skywicce's Fur"
-                }
-            ]
-        },
-        {
-            "type": "Head",
-            "hint": "Foxy Features",
-            "items": [
-                {
-                    "name": "Hakuko Men"
-                },
-                {
-                    "name": "Kokuko Men"
-                },
-                {
-                    "name": "Tamamo Headband"
                 }
             ]
         },
@@ -4274,6 +4274,24 @@
         },
         {
             "type": "Feet",
+            "hint": "A Pirate's Life",
+            "items": [
+                {
+                    "name": "Boots Of The Divine Hero"
+                },
+                {
+                    "name": "Boots Of The Divine Light"
+                },
+                {
+                    "name": "Wyvernskin Boots Of Aiming"
+                },
+                {
+                    "name": "Wyvernskin Boots Of Scouting"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
             "hint": "\"Ala\" Carte",
             "items": [
                 {
@@ -4884,24 +4902,6 @@
                 },
                 {
                     "name": "Torturer's Duckbills"
-                }
-            ]
-        },
-        {
-            "type": "Feet",
-            "hint": "A Pirate's Life",
-            "items": [
-                {
-                    "name": "Boots Of The Divine Hero"
-                },
-                {
-                    "name": "Boots Of The Divine Light"
-                },
-                {
-                    "name": "Wyvernskin Boots Of Aiming"
-                },
-                {
-                    "name": "Wyvernskin Boots Of Scouting"
                 }
             ]
         },
