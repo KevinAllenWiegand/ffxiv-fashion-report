@@ -7,6 +7,8 @@
 // If a hint or item has quotes, use double ', if a hint or item has an apostrophe, use a single ':
 //   head "Tip o' the Arhat" "Some ''New'' Item"
 
+// Note that if a slot already exists with the specified hint, the items will be merged.
+
 // Full Example:
 //   node addslot head "A Knight For Helms" "Helm Of The Divine War" "Titanium Helm Of Fending"
 
@@ -71,60 +73,106 @@ if (!slot || !hint || items.length == 0) {
 
 let rawMasterData = fs.readFileSync('../src/data/master.json');
 let masterData = JSON.parse(rawMasterData);
+let existingSlot = null;
 
 for (let index = 0; index < masterData.slots.length; index++) {
-    const existingSlot = masterData.slots[index];
-    const existingSlotType = existingSlot.type.toString();
-    const existingSlotHint = existingSlot.hint.toString().toLowerCase();
+    const possibleExistingSlot = masterData.slots[index];
+    const existingSlotType = possibleExistingSlot.type.toString();
+    const existingSlotHint = possibleExistingSlot.hint.toString().toLowerCase();
 
     if (existingSlotType === slot && existingSlotHint === hint.toLowerCase()) {
-        console.log(`Cannot add a new "${slot}" slot with hint "${hint}" because it already exists.`);
-        return;
+        existingSlot = possibleExistingSlot;
+        break;
     }
 }
 
-console.log('Adding new slot with the following information:');
+if (existingSlot) {
+    console.log('Updating existing slot with the following information:');
+} else {
+    console.log('Adding new slot with the following information:');
+}
+
 console.log(`${slot} - ${hint}`);
 
 items.forEach(item => {
     console.log(item.name);
 });
 
-console.log(`Slot count prior to addition is ${masterData.slots.length}`);
+if (existingSlot) {
+    let addedItemCount = 0;
 
-items.sort(function(x, y) {
-    const xName = x.name.toString().replace(/\"/g, '');
-    const yName = y.name.toString().replace(/\"/g, '');
+    console.log(`Item count prior to the merge is ${existingSlot.items.length}.`);
 
-    return xName.localeCompare(yName);
-});
+    items.forEach(item => {
+        let itemExists = false;
 
-masterData.slots.push({
-    type: slot,
-    hint,
-    items
-});
+        for (let index = 0; index < existingSlot.items.length; index++) {
+            const existingItem = existingSlot.items[index];
 
-// Sort the slots (By order of the "enum" [SLOT_TYPES.indexOf(slot)], and then by the hint)
-masterData.slots.sort(function(x, y) {
-    const xType = SLOT_TYPES.indexOf(x.type);
-    const yType = SLOT_TYPES.indexOf(y.type);
-    
-    if (xType < yType) {
-        return -1;
+            itemExists = existingItem.name.localeCompare(item.name) === 0;
+
+            if (itemExists) {
+                break;
+            }
+        }
+
+        if (!itemExists) {
+            addedItemCount++;
+            existingSlot.items.push(item);
+        }
+    });
+
+    if (addedItemCount) {
+        console.log(`Added ${addedItemCount} items.`);
+        console.log(`Item count after the merge is ${existingSlot.items.length}.`);
+
+        existingSlot.items.sort(function (x, y) {
+            const xName = x.name.toString().replace(/\"/g, '');
+            const yName = y.name.toString().replace(/\"/g, '');
+
+            return xName.localeCompare(yName);
+        });
+    } else {
+        console.log('No new items were added.');
+        return;
     }
+} else {
+    console.log(`Slot count prior to the addition is ${masterData.slots.length}.`);
 
-    if (xType > yType) {
-        return 1;
-    }
+    items.sort(function (x, y) {
+        const xName = x.name.toString().replace(/\"/g, '');
+        const yName = y.name.toString().replace(/\"/g, '');
 
-    const xHint = x.hint.toString().replace(/\"/g, '');
-    const yHint = y.hint.toString().replace(/\"/g, '');
+        return xName.localeCompare(yName);
+    });
 
-    return xHint.localeCompare(yHint);
-});
+    masterData.slots.push({
+        type: slot,
+        hint,
+        items
+    });
 
-console.log(`Slot count after the addition is ${masterData.slots.length}`);
+    // Sort the slots (By order of the "enum" [SLOT_TYPES.indexOf(slot)], and then by the hint)
+    masterData.slots.sort(function (x, y) {
+        const xType = SLOT_TYPES.indexOf(x.type);
+        const yType = SLOT_TYPES.indexOf(y.type);
+
+        if (xType < yType) {
+            return -1;
+        }
+
+        if (xType > yType) {
+            return 1;
+        }
+
+        const xHint = x.hint.toString().replace(/\"/g, '');
+        const yHint = y.hint.toString().replace(/\"/g, '');
+
+        return xHint.localeCompare(yHint);
+    });
+
+    console.log(`Slot count after the addition is ${masterData.slots.length}.`);
+}
 
 const newData = JSON.stringify(masterData, null, 4);
 fs.writeFileSync('../src/data/master.json', newData);
