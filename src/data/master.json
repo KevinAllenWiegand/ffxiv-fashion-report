@@ -665,10 +665,10 @@
                     "name": "Shisui Mengu Of Casting"
                 },
                 {
-                    "name": "Shisui Mengu Of Healing"
+                    "name": "Shisui Mengu Of Fending"
                 },
                 {
-                    "name": "Shisui Mengu Of Fending"
+                    "name": "Shisui Mengu Of Healing"
                 },
                 {
                     "name": "Shisui Mengu Of Maiming"
@@ -980,28 +980,28 @@
             "hint": "A Sailor's Life",
             "items": [
                 {
-                    "name": "Sailor Shirt"
-                },
-                {
-                    "name": "Holy Rainbow Shirt of Fending"
-                },
-                {
-                    "name": "Holy Rainbow Shirt of Maiming"
-                },
-                {
-                    "name": "Holy Rainbow Shirt of Striking"
-                },
-                {
-                    "name": "Holy Rainbow Shirt of Scouting"
-                },
-                {
                     "name": "Holy Rainbow Shirt of Aiming"
                 },
                 {
                     "name": "Holy Rainbow Shirt of Casting"
                 },
                 {
+                    "name": "Holy Rainbow Shirt of Fending"
+                },
+                {
                     "name": "Holy Rainbow Shirt of Healing"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Maiming"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Scouting"
+                },
+                {
+                    "name": "Holy Rainbow Shirt of Striking"
+                },
+                {
+                    "name": "Sailor Shirt"
                 },
                 {
                     "name": "Shirt of the Divine Hero"
@@ -1235,6 +1235,9 @@
                     "name": "Augmented/Ironworks Armor Of Fending"
                 },
                 {
+                    "name": "Augmented/Ironworks Armor Robe Of Healing"
+                },
+                {
                     "name": "Augmented/Ironworks Cuirass Of Aiming"
                 },
                 {
@@ -1248,9 +1251,6 @@
                 },
                 {
                     "name": "Augmented/Ironworks Doublet Of Casting"
-                },
-                {
-                    "name": "Augmented/Ironworks Armor Robe Of Healing"
                 }
             ]
         },
@@ -1610,19 +1610,19 @@
             "hint": "Primal Revival",
             "items": [
                 {
-                    "name": "Augmented/Hellfire Armor Of Fending"
-                },
-                {
                     "name": "Augmented/Hailstorm Coat Of Casting"
                 },
                 {
                     "name": "Augmented/Hailstorm Coat Of Healing"
                 },
                 {
-                    "name": "Augmented/Slipstream Mail Of Maiming"
+                    "name": "Augmented/Hellfire Armor Of Fending"
                 },
                 {
                     "name": "Augmented/Hellfire Mail Of Striking"
+                },
+                {
+                    "name": "Augmented/Slipstream Mail Of Maiming"
                 },
                 {
                     "name": "Augmented/Torrent Tabard Of Aiming"
@@ -2771,25 +2771,25 @@
             "hint": "Primal Revival",
             "items": [
                 {
-                    "name": "Augmented/Torrent Armguards Of Aiming"
+                    "name": "Augmented/Hailstorm Gloves Of Casting"
                 },
                 {
-                    "name": "Augmented/Torrent Armguards Of Scouting"
+                    "name": "Augmented/Hailstorm Gloves Of Healing"
                 },
                 {
                     "name": "Augmented/Hellfire Gauntlets Of Fending"
                 },
                 {
-                    "name": "Augmented/Slipstream Gauntlets Of Maiming"
-                },
-                {
                     "name": "Augmented/Hellfire Gauntlets Of Striking"
                 },
                 {
-                    "name": "Augmented/Hailstorm Gloves Of Casting"
+                    "name": "Augmented/Slipstream Gauntlets Of Maiming"
                 },
                 {
-                    "name": "Augmented/Hailstorm Gloves Of Healing"
+                    "name": "Augmented/Torrent Armguards Of Aiming"
+                },
+                {
+                    "name": "Augmented/Torrent Armguards Of Scouting"
                 }
             ]
         },
@@ -3218,6 +3218,9 @@
             "hint": "Diabolical",
             "items": [
                 {
+                    "name": "Diabolic Bottoms Maiming"
+                },
+                {
                     "name": "Diabolic Bottoms Of Aiming"
                 },
                 {
@@ -3225,9 +3228,6 @@
                 },
                 {
                     "name": "Diabolic Bottoms Of Fending"
-                },
-                {
-                    "name": "Diabolic Bottoms Maiming"
                 },
                 {
                     "name": "Diabolic Bottoms Scouting"
@@ -3869,13 +3869,13 @@
                     "name": "Pilgrim's Slops"
                 },
                 {
+                    "name": "Rainbow Slops Of Aiming"
+                },
+                {
                     "name": "Rainbow Slops Of Casting"
                 },
                 {
                     "name": "Rainbow Slops Of Healing"
-                },
-                {
-                    "name": "Rainbow Slops Of Aiming"
                 }
             ]
         },
@@ -3926,49 +3926,49 @@
             "hint": "Storm Of Blood",
             "items": [
                 {
-                    "name": "Antiquated/Chivalrous Cuisses"
+                    "name": "Antiquated/Abyss Flanchard"
                 },
                 {
                     "name": "Antiquated/Brutal Breeches"
                 },
                 {
-                    "name": "Antiquated/Abyss Flanchard"
-                },
-                {
-                    "name": "Antiquated/Trueblood Brais"
-                },
-                {
-                    "name": "Antiquated/Pacifist's Gaskins"
-                },
-                {
-                    "name": "Antiquated/Myochin Hakama"
-                },
-                {
-                    "name": "Antiquated/Kage-kakushi Hakama"
-                },
-                {
-                    "name": "Antiquated/Storyteller's Bottoms"
-                },
-                {
-                    "name": "Antiquated/Gunner's Trousers"
-                },
-                {
-                    "name": "Antiquated/Seventh Hell Breeches"
-                },
-                {
                     "name": "Antiquated/Channeler's Halfslops"
+                },
+                {
+                    "name": "Antiquated/Chivalrous Cuisses"
+                },
+                {
+                    "name": "Antiquated/Constellation Gaskins"
                 },
                 {
                     "name": "Antiquated/Duelist's Breeches"
                 },
                 {
-                    "name": "Antiquated/Seventh Heaven Bottoms"
+                    "name": "Antiquated/Gunner's Trousers"
+                },
+                {
+                    "name": "Antiquated/Kage-kakushi Hakama"
+                },
+                {
+                    "name": "Antiquated/Myochin Hakama"
                 },
                 {
                     "name": "Antiquated/Orator's Bottoms"
                 },
                 {
-                    "name": "Antiquated/Constellation Gaskins"
+                    "name": "Antiquated/Pacifist's Gaskins"
+                },
+                {
+                    "name": "Antiquated/Seventh Heaven Bottoms"
+                },
+                {
+                    "name": "Antiquated/Seventh Hell Breeches"
+                },
+                {
+                    "name": "Antiquated/Storyteller's Bottoms"
+                },
+                {
+                    "name": "Antiquated/Trueblood Brais"
                 }
             ]
         },
@@ -4742,6 +4742,9 @@
                     "name": "Nomad's Boots Of Casting"
                 },
                 {
+                    "name": "Nomad's Boots Of Fending"
+                },
+                {
                     "name": "Nomad's Boots Of Healing"
                 },
                 {
@@ -4752,9 +4755,6 @@
                 },
                 {
                     "name": "Nomad's Boots Of Striking"
-                },
-                {
-                    "name": "Nomad's Boots Of Fending"
                 }
             ]
         },
