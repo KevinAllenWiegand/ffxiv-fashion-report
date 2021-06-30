@@ -107,7 +107,7 @@ if (process.argv.length > 1) {
     };
 
     slots.forEach(slot => {
-        report.slots.push({ slot: slot.slot, hint: slot.hint });
+        report.slots.push({ type: slot.slot, hint: slot.hint });
     });
 
     masterData.reports.push(report);
