@@ -29,7 +29,7 @@
         },
         {
             "type": "Head",
-            "hint": "A \u0022Bone\u0022 To Pick",
+            "hint": "A \"Bone\" To Pick",
             "items": [
                 {
                     "name": "Beech Mask Of Casting"
@@ -41,10 +41,10 @@
                     "name": "Ghost Barque Mask Of Maiming"
                 },
                 {
-                    "name": "Panegyrist\u0027s Mask"
+                    "name": "Panegyrist's Mask"
                 },
                 {
-                    "name": "Prophet\u0027s Mask"
+                    "name": "Prophet's Mask"
                 }
             ]
         },
@@ -62,7 +62,7 @@
         },
         {
             "type": "Head",
-            "hint": "A True \u0022Spectacle\u0022",
+            "hint": "A True \"Spectacle\"",
             "items": [
                 {
                     "name": "Classic Spectacles"
@@ -92,22 +92,22 @@
             "hint": "Allagan Attack",
             "items": [
                 {
-                    "name": "Amon\u0027s Hat"
+                    "name": "Amon's Hat"
                 },
                 {
-                    "name": "Phlegethon\u0027s Mask"
+                    "name": "Phlegethon's Mask"
                 },
                 {
-                    "name": "Scylla\u0027s Helm Of Casting"
+                    "name": "Scylla's Helm Of Casting"
                 },
                 {
-                    "name": "Scylla\u0027s Helm Of Healing"
+                    "name": "Scylla's Helm Of Healing"
                 },
                 {
-                    "name": "The Guardian\u0027s Helm Of Maiming"
+                    "name": "The Guardian's Helm Of Maiming"
                 },
                 {
-                    "name": "The Guardian\u0027s Helm Of Striking"
+                    "name": "The Guardian's Helm Of Striking"
                 }
             ]
         },
@@ -173,7 +173,7 @@
             "hint": "Cap In Hand",
             "items": [
                 {
-                    "name": "Augmented/Tacklekeep\u0027s Cap"
+                    "name": "Augmented/Tacklekeep's Cap"
                 },
                 {
                     "name": "Carbonweave Cap Of Gathering"
@@ -206,10 +206,10 @@
                     "name": "Imitation Mistbeard Mask"
                 },
                 {
-                    "name": "Republican Dimachaerius\u0027s Mask"
+                    "name": "Republican Dimachaerius's Mask"
                 },
                 {
-                    "name": "Republican Secutor\u0027s Mask"
+                    "name": "Republican Secutor's Mask"
                 }
             ]
         },
@@ -221,10 +221,10 @@
                     "name": "Felt Beret"
                 },
                 {
-                    "name": "Fillibuster\u0027s Beret Of Aiming"
+                    "name": "Fillibuster's Beret Of Aiming"
                 },
                 {
-                    "name": "Flame Sergeant\u0027s Beret"
+                    "name": "Flame Sergeant's Beret"
                 },
                 {
                     "name": "Green Beret"
@@ -233,10 +233,10 @@
                     "name": "Red Beret"
                 },
                 {
-                    "name": "Serpent Sergeant\u0027s Beret"
+                    "name": "Serpent Sergeant's Beret"
                 },
                 {
-                    "name": "Storm Sergeant\u0027s Beret"
+                    "name": "Storm Sergeant's Beret"
                 },
                 {
                     "name": "Velveteen Beret"
@@ -284,7 +284,7 @@
                     "name": "Demagogue Mask"
                 },
                 {
-                    "name": "Flame Sergeant\u0027s Mask"
+                    "name": "Flame Sergeant's Mask"
                 },
                 {
                     "name": "Hallowed Chestnut Mask Of Aiming"
@@ -296,10 +296,10 @@
                     "name": "Hallowed Chestnut Mask Of Healing"
                 },
                 {
-                    "name": "Serpent Sergeant\u0027s Mask"
+                    "name": "Serpent Sergeant's Mask"
                 },
                 {
-                    "name": "Storm Sergeant\u0027s Mask"
+                    "name": "Storm Sergeant's Mask"
                 }
             ]
         },
@@ -308,19 +308,19 @@
             "hint": "Feather In Your Cap",
             "items": [
                 {
-                    "name": "Antiquated Duelist\u0027s Chapeau"
+                    "name": "Antiquated Duelist's Chapeau"
                 },
                 {
                     "name": "Archaeoskin Cloche"
                 },
                 {
-                    "name": "Felt Cavalier\u0027s Hat"
+                    "name": "Felt Cavalier's Hat"
                 },
                 {
                     "name": "High House Cloche"
                 },
                 {
-                    "name": "Ranger\u0027s Hat"
+                    "name": "Ranger's Hat"
                 },
                 {
                     "name": "Serge Hat Of Casting"
@@ -332,7 +332,7 @@
                     "name": "Woolen Beret"
                 },
                 {
-                    "name": "Woolen Cavalier\u0027s Hat"
+                    "name": "Woolen Cavalier's Hat"
                 }
             ]
         },
@@ -422,13 +422,13 @@
                     "name": "Werewolf Head"
                 },
                 {
-                    "name": "Woad Skychaser\u0027s Pelt"
+                    "name": "Woad Skychaser's Pelt"
                 },
                 {
-                    "name": "Woad Skyhunter\u0027s Pelt"
+                    "name": "Woad Skyhunter's Pelt"
                 },
                 {
-                    "name": "Woad Skywarrior\u0027s Pelt"
+                    "name": "Woad Skywarrior's Pelt"
                 }
             ]
         },
@@ -491,7 +491,7 @@
                     "name": "Head Bandage"
                 },
                 {
-                    "name": "Scion Rogue\u0027s Bandana"
+                    "name": "Scion Rogue's Bandana"
                 }
             ]
         },
@@ -527,13 +527,13 @@
             "hint": "Motley Crew",
             "items": [
                 {
-                    "name": "Harlequin\u0027s Cap"
+                    "name": "Harlequin's Cap"
                 },
                 {
                     "name": "Imperial Operative Hat"
                 },
                 {
-                    "name": "Magician\u0027s Hat"
+                    "name": "Magician's Hat"
                 },
                 {
                     "name": "Rainbow Cap Of Aiming"
@@ -545,7 +545,7 @@
                     "name": "Rainbow Cap Of Healing"
                 },
                 {
-                    "name": "Vintage Jester\u0027s Cap"
+                    "name": "Vintage Jester's Cap"
                 }
             ]
         },
@@ -557,25 +557,25 @@
                     "name": "Kudzu Cap Of Crafting"
                 },
                 {
-                    "name": "Nomad\u0027s Cap Of Aiming"
+                    "name": "Nomad's Cap Of Aiming"
                 },
                 {
-                    "name": "Nomad\u0027s Cap Of Casting"
+                    "name": "Nomad's Cap Of Casting"
                 },
                 {
-                    "name": "Nomad\u0027s Cap Of Healing"
+                    "name": "Nomad's Cap Of Healing"
                 },
                 {
-                    "name": "Nomad\u0027s Cap Of Maimimg"
+                    "name": "Nomad's Cap Of Maimimg"
                 },
                 {
-                    "name": "Nomad\u0027s Cap Of Scouting"
+                    "name": "Nomad's Cap Of Scouting"
                 },
                 {
-                    "name": "Nomad\u0027s Cap Of Striking"
+                    "name": "Nomad's Cap Of Striking"
                 },
                 {
-                    "name": "Nomad\u0027s Helm Of Fending"
+                    "name": "Nomad's Helm Of Fending"
                 },
                 {
                     "name": "Tigerskin Cap Of Gathering"
@@ -590,19 +590,19 @@
                     "name": "Adamantite Helm Of Fending"
                 },
                 {
-                    "name": "Field Commander\u0027s Helm"
+                    "name": "Field Commander's Helm"
                 },
                 {
-                    "name": "Ishgardian Knight\u0027s Helm"
+                    "name": "Ishgardian Knight's Helm"
                 },
                 {
-                    "name": "Sharlayan Custodian\u0027s Helm"
+                    "name": "Sharlayan Custodian's Helm"
                 }
             ]
         },
         {
             "type": "Head",
-            "hint": "Pocketfull o\u0027 Pansies",
+            "hint": "Pocketfull o' Pansies",
             "items": [
                 {
                     "name": "Any Viola Corsage"
@@ -671,22 +671,22 @@
             "hint": "Royal",
             "items": [
                 {
-                    "name": "Butcher\u0027s Crown"
+                    "name": "Butcher's Crown"
                 },
                 {
-                    "name": "Chronicler\u0027s Crown"
+                    "name": "Chronicler's Crown"
                 },
                 {
-                    "name": "Gambler\u0027s Crown"
+                    "name": "Gambler's Crown"
                 },
                 {
-                    "name": "Paragon\u0027s Crown"
+                    "name": "Paragon's Crown"
                 },
                 {
-                    "name": "Partisan\u0027s Crown"
+                    "name": "Partisan's Crown"
                 },
                 {
-                    "name": "Warlord\u0027s Crown"
+                    "name": "Warlord's Crown"
                 }
             ]
         },
@@ -698,16 +698,16 @@
                     "name": "Chimerical Felt Hap Of Casting"
                 },
                 {
-                    "name": "Plague Bringer\u0027s Hat"
+                    "name": "Plague Bringer's Hat"
                 },
                 {
-                    "name": "Plague Doctor\u0027s Hat"
+                    "name": "Plague Doctor's Hat"
                 },
                 {
-                    "name": "Royal Seneschai\u0027s Chapeau"
+                    "name": "Royal Seneschai's Chapeau"
                 },
                 {
-                    "name": "Shire Philosopher\u0027s Hat"
+                    "name": "Shire Philosopher's Hat"
                 },
                 {
                     "name": "Songbird Hat"
@@ -722,16 +722,16 @@
             "hint": "Summer Breeze",
             "items": [
                 {
-                    "name": "Angler\u0027s Hat"
+                    "name": "Angler's Hat"
                 },
                 {
                     "name": "Cloche"
                 },
                 {
-                    "name": "Stablehand\u0027s Hat"
+                    "name": "Stablehand's Hat"
                 },
                 {
-                    "name": "Stablemaid\u0027s Hat"
+                    "name": "Stablemaid's Hat"
                 },
                 {
                     "name": "Straw Hat"
@@ -743,7 +743,7 @@
             "hint": "The Last Straw",
             "items": [
                 {
-                    "name": "Augmented/Fieldkeep\u0027s Canotier"
+                    "name": "Augmented/Fieldkeep's Canotier"
                 },
                 {
                     "name": "Cloche"
@@ -752,7 +752,7 @@
                     "name": "Coronal Straw Hat"
                 },
                 {
-                    "name": "Forager\u0027s Hat"
+                    "name": "Forager's Hat"
                 },
                 {
                     "name": "Gold/Oschon/Pearl Roselle Capeline"
@@ -761,10 +761,10 @@
                     "name": "Spring Straw Hat"
                 },
                 {
-                    "name": "Stablehand\u0027s Hat"
+                    "name": "Stablehand's Hat"
                 },
                 {
-                    "name": "Stablemaid\u0027s Hat"
+                    "name": "Stablemaid's Hat"
                 },
                 {
                     "name": "Straw Capeline"
@@ -788,7 +788,7 @@
                     "name": "Gyuki Leather Hat"
                 },
                 {
-                    "name": "Wrangler\u0027s Hat"
+                    "name": "Wrangler's Hat"
                 }
             ]
         },
@@ -800,10 +800,10 @@
                     "name": "Farlander Wings Of Fending"
                 },
                 {
-                    "name": "Halone\u0027s Helm Of Fending"
+                    "name": "Halone's Helm Of Fending"
                 },
                 {
-                    "name": "Halone\u0027s Helm Of Maiming"
+                    "name": "Halone's Helm Of Maiming"
                 },
                 {
                     "name": "High Steel Helm Of Fending"
@@ -812,7 +812,7 @@
                     "name": "High Steel Helm Of Maiming"
                 },
                 {
-                    "name": "Valerian Rune Fencer\u0027s Wing"
+                    "name": "Valerian Rune Fencer's Wing"
                 },
                 {
                     "name": "Vanu Vanu Head"
@@ -830,10 +830,10 @@
                     "name": "Garlond Goggles"
                 },
                 {
-                    "name": "Head Engineer\u0027s Goggles"
+                    "name": "Head Engineer's Goggles"
                 },
                 {
-                    "name": "Machinist\u0027s Goggles"
+                    "name": "Machinist's Goggles"
                 },
                 {
                     "name": "Mythrite Goggles Of Crafting"
@@ -884,13 +884,13 @@
                     "name": "Carbonweave Cap Of Gathering"
                 },
                 {
-                    "name": "Expeditioner\u0027s Cap"
+                    "name": "Expeditioner's Cap"
                 },
                 {
-                    "name": "Expeditioner\u0027s Flyers"
+                    "name": "Expeditioner's Flyers"
                 },
                 {
-                    "name": "Explorer\u0027s Bandana"
+                    "name": "Explorer's Bandana"
                 },
                 {
                     "name": "Ironworks Cap Of Gathering"
@@ -911,13 +911,13 @@
                     "name": "Darksteel Chain Coif"
                 },
                 {
-                    "name": "Doctore\u0027s Chain Coif"
+                    "name": "Doctore's Chain Coif"
                 },
                 {
                     "name": "Mythril Chain Coif"
                 },
                 {
-                    "name": "Templar\u0027s Chain Coif"
+                    "name": "Templar's Chain Coif"
                 },
                 {
                     "name": "Vermillion Chain Coif"
@@ -926,7 +926,7 @@
         },
         {
             "type": "Body",
-            "hint": "A Pirate\u0027s Life",
+            "hint": "A Pirate's Life",
             "items": [
                 {
                     "name": "Altered Woolen Shirt"
@@ -962,7 +962,7 @@
         },
         {
             "type": "Body",
-            "hint": "A Sailor\u0027s Life",
+            "hint": "A Sailor's Life",
             "items": [
                 {
                     "name": "Sailor Shirt"
@@ -1001,25 +1001,25 @@
             "hint": "Acton Locally",
             "items": [
                 {
-                    "name": "Brigand\u0027s Acton"
+                    "name": "Brigand's Acton"
                 },
                 {
                     "name": "Cotton Acton"
                 },
                 {
-                    "name": "Harlequin\u0027s Acton"
+                    "name": "Harlequin's Acton"
                 },
                 {
                     "name": "Hempen Acton"
                 },
                 {
-                    "name": "Mercenary\u0027s Acton"
+                    "name": "Mercenary's Acton"
                 },
                 {
                     "name": "Peltast Acton"
                 },
                 {
-                    "name": "Storm Private\u0027s Acton"
+                    "name": "Storm Private's Acton"
                 }
             ]
         },
@@ -1028,22 +1028,22 @@
             "hint": "Acton Globally",
             "items": [
                 {
-                    "name": "Valerian Archer\u0027s Acton"
+                    "name": "Valerian Archer's Acton"
                 },
                 {
-                    "name": "Valerian Brawler\u0027s Acton"
+                    "name": "Valerian Brawler's Acton"
                 },
                 {
-                    "name": "Valerian Dark Priest\u0027s Top"
+                    "name": "Valerian Dark Priest's Top"
                 },
                 {
-                    "name": "Valerian Priest\u0027s Top"
+                    "name": "Valerian Priest's Top"
                 },
                 {
-                    "name": "Valerian Rune Fencer\u0027s Mail"
+                    "name": "Valerian Rune Fencer's Mail"
                 },
                 {
-                    "name": "Valerian Vedette\u0027s Acton"
+                    "name": "Valerian Vedette's Acton"
                 },
                 {
                     "name": "Xenobian Surcoat"
@@ -1064,7 +1064,7 @@
             "hint": "Autumn Chill",
             "items": [
                 {
-                    "name": "Adept\u0027s Gown"
+                    "name": "Adept's Gown"
                 },
                 {
                     "name": "Alpine Coat"
@@ -1115,13 +1115,13 @@
                     "name": "Linen Bliaud"
                 },
                 {
-                    "name": "Loyalist\u0027s Bliaud"
+                    "name": "Loyalist's Bliaud"
                 },
                 {
                     "name": "Plundered Bliaud"
                 },
                 {
-                    "name": "Storm Private\u0027s Bliaud"
+                    "name": "Storm Private's Bliaud"
                 },
                 {
                     "name": "Woolen Bliaud"
@@ -1133,22 +1133,22 @@
             "hint": "Brain Over Brawn",
             "items": [
                 {
-                    "name": "Antiquated Savant\u0027s Overcoat"
+                    "name": "Antiquated Savant's Overcoat"
                 },
                 {
                     "name": "Argute Gown"
                 },
                 {
-                    "name": "Scholar\u0027s Gown"
+                    "name": "Scholar's Gown"
                 },
                 {
-                    "name": "Shire Conservator\u0027s Coat"
+                    "name": "Shire Conservator's Coat"
                 },
                 {
-                    "name": "Shire Philosopher\u0027s Coat"
+                    "name": "Shire Philosopher's Coat"
                 },
                 {
-                    "name": "Shire Preceptor\u0027s Coat"
+                    "name": "Shire Preceptor's Coat"
                 }
             ]
         },
@@ -1304,7 +1304,7 @@
             "hint": "Doublet The Fun",
             "items": [
                 {
-                    "name": "Amateur\u0027s Doublet Vest"
+                    "name": "Amateur's Doublet Vest"
                 },
                 {
                     "name": "Cotton Doublet Vest Of Crafting"
@@ -1322,10 +1322,10 @@
                     "name": "Hempen Doublet Vest Of Gathering"
                 },
                 {
-                    "name": "Initiate\u0027s Doublet Vest"
+                    "name": "Initiate's Doublet Vest"
                 },
                 {
-                    "name": "Storm Private\u0027s Doublet Vest"
+                    "name": "Storm Private's Doublet Vest"
                 },
                 {
                     "name": "Velveteen Doublet Vest Of Crafting"
@@ -1343,7 +1343,7 @@
             "hint": "Drapes Of Wrath",
             "items": [
                 {
-                    "name": "Cauldronking\u0027s Coat"
+                    "name": "Cauldronking's Coat"
                 },
                 {
                     "name": "Gnath Thorax"
@@ -1373,10 +1373,10 @@
                     "name": "Coat Of The Red Thief"
                 },
                 {
-                    "name": "Plague Bringer\u0027s Coat"
+                    "name": "Plague Bringer's Coat"
                 },
                 {
-                    "name": "Plague Doctor\u0027s Coat"
+                    "name": "Plague Doctor's Coat"
                 }
             ]
         },
@@ -1385,25 +1385,25 @@
             "hint": "Fashion Bandit",
             "items": [
                 {
-                    "name": "Woad Skychaser\u0027s Fur"
+                    "name": "Woad Skychaser's Fur"
                 },
                 {
-                    "name": "Woad Skydruid\u0027s Fur"
+                    "name": "Woad Skydruid's Fur"
                 },
                 {
-                    "name": "Woad Skyhunter\u0027s Fur"
+                    "name": "Woad Skyhunter's Fur"
                 },
                 {
-                    "name": "Woad Skylancer\u0027s Fur"
+                    "name": "Woad Skylancer's Fur"
                 },
                 {
-                    "name": "Woad Skyraider\u0027s Fur"
+                    "name": "Woad Skyraider's Fur"
                 },
                 {
-                    "name": "Woad Skywarrior\u0027s Fur"
+                    "name": "Woad Skywarrior's Fur"
                 },
                 {
-                    "name": "Woad Skywicce\u0027s Fur"
+                    "name": "Woad Skywicce's Fur"
                 }
             ]
         },
@@ -1442,13 +1442,13 @@
                     "name": "Fuga Haori"
                 },
                 {
-                    "name": "High Summoner\u0027s Dress"
+                    "name": "High Summoner's Dress"
                 },
                 {
-                    "name": "Lady\u0027s Yukata"
+                    "name": "Lady's Yukata"
                 },
                 {
-                    "name": "Lord\u0027s Yukata"
+                    "name": "Lord's Yukata"
                 }
             ]
         },
@@ -1457,19 +1457,19 @@
             "hint": "I Believe In Magic",
             "items": [
                 {
-                    "name": "Acolyte\u0027s Robe"
+                    "name": "Acolyte's Robe"
                 },
                 {
-                    "name": "Battlemage\u0027s Robe"
+                    "name": "Battlemage's Robe"
                 },
                 {
                     "name": "Cashmere Robe Of Casting"
                 },
                 {
-                    "name": "Magician\u0027s Robe"
+                    "name": "Magician's Robe"
                 },
                 {
-                    "name": "Pilgrim\u0027s Robe"
+                    "name": "Pilgrim's Robe"
                 },
                 {
                     "name": "Royal Vest"
@@ -1487,16 +1487,16 @@
             "hint": "In Tunic",
             "items": [
                 {
-                    "name": "Cotton Shepherd\u0027s Tunic"
+                    "name": "Cotton Shepherd's Tunic"
                 },
                 {
-                    "name": "Hempen Shepherd\u0027s Tunic"
+                    "name": "Hempen Shepherd's Tunic"
                 },
                 {
                     "name": "Hempen Tunic"
                 },
                 {
-                    "name": "Weathered Shepherd\u0027s Tunic"
+                    "name": "Weathered Shepherd's Tunic"
                 }
             ]
         },
@@ -1523,7 +1523,7 @@
                     "name": "Militia Harness"
                 },
                 {
-                    "name": "Sentinel\u0027s Cuirass"
+                    "name": "Sentinel's Cuirass"
                 },
                 {
                     "name": "Spotted Spencer"
@@ -1535,13 +1535,13 @@
             "hint": "Noblesse Oblige",
             "items": [
                 {
-                    "name": "Artisan\u0027s Gown"
+                    "name": "Artisan's Gown"
                 },
                 {
-                    "name": "Halonic Exorcist\u0027s Robe"
+                    "name": "Halonic Exorcist's Robe"
                 },
                 {
-                    "name": "Halonic Priest\u0027s Alb"
+                    "name": "Halonic Priest's Alb"
                 },
                 {
                     "name": "High House Bustle"
@@ -1550,7 +1550,7 @@
                     "name": "High House Justaucorps"
                 },
                 {
-                    "name": "Paragon\u0027s Gown"
+                    "name": "Paragon's Gown"
                 },
                 {
                     "name": "The Best Gown Ever"
@@ -1568,7 +1568,7 @@
                     "name": "Custom-Made Cuirass"
                 },
                 {
-                    "name": "Lord\u0027s Cuirass"
+                    "name": "Lord's Cuirass"
                 },
                 {
                     "name": "Militia Cuirass"
@@ -1595,7 +1595,7 @@
                     "name": "Dhalmelskin Vest"
                 },
                 {
-                    "name": "Forager\u0027s Vest"
+                    "name": "Forager's Vest"
                 },
                 {
                     "name": "Ramie Doublet Of Crafting"
@@ -1679,7 +1679,7 @@
                     "name": "Crescent Nightgown"
                 },
                 {
-                    "name": "The Emperor\u0027s New Robe"
+                    "name": "The Emperor's New Robe"
                 }
             ]
         },
@@ -1688,13 +1688,13 @@
             "hint": "Restoration Regalia",
             "items": [
                 {
-                    "name": "Craftsman\u0027s Apron"
+                    "name": "Craftsman's Apron"
                 },
                 {
-                    "name": "Craftsman\u0027s Coverall Top"
+                    "name": "Craftsman's Coverall Top"
                 },
                 {
-                    "name": "Craftsman\u0027s Singlet"
+                    "name": "Craftsman's Singlet"
                 }
             ]
         },
@@ -1703,22 +1703,22 @@
             "hint": "Revolutionary",
             "items": [
                 {
-                    "name": "Fillibuster\u0027s Coat Of Casting"
+                    "name": "Fillibuster's Coat Of Casting"
                 },
                 {
-                    "name": "Fillibuster\u0027s Coat Of Healing"
+                    "name": "Fillibuster's Coat Of Healing"
                 },
                 {
-                    "name": "Fillibuster\u0027s Gambison Of Aiming"
+                    "name": "Fillibuster's Gambison Of Aiming"
                 },
                 {
-                    "name": "Fillibuster\u0027s Gambison Of Striking"
+                    "name": "Fillibuster's Gambison Of Striking"
                 },
                 {
-                    "name": "Fillibuster\u0027s Heavy Gambison Of Fending"
+                    "name": "Fillibuster's Heavy Gambison Of Fending"
                 },
                 {
-                    "name": "Heavy Fillibuster\u0027s Gambison Of Maiming"
+                    "name": "Heavy Fillibuster's Gambison Of Maiming"
                 }
             ]
         },
@@ -1733,7 +1733,7 @@
                     "name": "Archaeoskin Jackcoat Of Gathering"
                 },
                 {
-                    "name": "Fistfighter\u0027s Jackcoat"
+                    "name": "Fistfighter's Jackcoat"
                 }
             ]
         },
@@ -1766,7 +1766,7 @@
         },
         {
             "type": "Body",
-            "hint": "Sailor\u0027s Life",
+            "hint": "Sailor's Life",
             "items": [
                 {
                     "name": "Holy Rainbow Shirt of Aiming"
@@ -1805,7 +1805,7 @@
                     "name": "Extreme Survival Shirt"
                 },
                 {
-                    "name": "Falconer\u0027s Shirt"
+                    "name": "Falconer's Shirt"
                 },
                 {
                     "name": "Hannish Wool Autumn Shirt"
@@ -1826,7 +1826,7 @@
             "hint": "Simply Saucer",
             "items": [
                 {
-                    "name": "Best Man\u0027s Jacket"
+                    "name": "Best Man's Jacket"
                 },
                 {
                     "name": "Bunny Bustier"
@@ -1835,7 +1835,7 @@
                     "name": "Bunny Chief Bustier"
                 },
                 {
-                    "name": "Gambler\u0027s Trenchcoat"
+                    "name": "Gambler's Trenchcoat"
                 }
             ]
         },
@@ -1880,10 +1880,10 @@
                     "name": "Ghost Barque Chestwrap Of Maiming"
                 },
                 {
-                    "name": "Panegyrist\u0027s Chestwrap"
+                    "name": "Panegyrist's Chestwrap"
                 },
                 {
-                    "name": "Prophet\u0027s Chestwrap"
+                    "name": "Prophet's Chestwrap"
                 }
             ]
         },
@@ -1919,10 +1919,10 @@
                     "name": "Gyuki Leather Jacket"
                 },
                 {
-                    "name": "Ivalician Fusillier\u0027s Jacket"
+                    "name": "Ivalician Fusillier's Jacket"
                 },
                 {
-                    "name": "Wrangler\u0027s Jacket"
+                    "name": "Wrangler's Jacket"
                 }
             ]
         },
@@ -1964,13 +1964,13 @@
                     "name": "Bloodhempen Vest Of Striking"
                 },
                 {
-                    "name": "Conqueror\u0027s Vest"
+                    "name": "Conqueror's Vest"
                 },
                 {
                     "name": "Ghost Barque Vest Of Healing"
                 },
                 {
-                    "name": "Subjugator\u0027s Vest"
+                    "name": "Subjugator's Vest"
                 }
             ]
         },
@@ -2078,7 +2078,7 @@
                     "name": "Iron Scale Mail"
                 },
                 {
-                    "name": "Kokoroon\u0027s Darkshell Mail"
+                    "name": "Kokoroon's Darkshell Mail"
                 },
                 {
                     "name": "Mosshorn Scale Mail"
@@ -2105,10 +2105,10 @@
                     "name": "Dhalmelskin Coat"
                 },
                 {
-                    "name": "Expeditioner\u0027s Coat"
+                    "name": "Expeditioner's Coat"
                 },
                 {
-                    "name": "Expeditioner\u0027s Tabard"
+                    "name": "Expeditioner's Tabard"
                 },
                 {
                     "name": "Extreme Survival Shirt"
@@ -2135,7 +2135,7 @@
                     "name": "Leonhart Jacket"
                 },
                 {
-                    "name": "Scion Adventuerer\u0027s Jacket"
+                    "name": "Scion Adventuerer's Jacket"
                 }
             ]
         },
@@ -2153,7 +2153,7 @@
                     "name": "Bunny Chef Bustier"
                 },
                 {
-                    "name": "Nezha Lady\u0027s Togi"
+                    "name": "Nezha Lady's Togi"
                 },
                 {
                     "name": "Pagos Shirt"
@@ -2204,7 +2204,7 @@
                     "name": "Ruby Cotton Coatee"
                 },
                 {
-                    "name": "Serpent Private\u0027s Coatee"
+                    "name": "Serpent Private's Coatee"
                 },
                 {
                     "name": "Velveteen Coatee Of Crafting"
@@ -2240,13 +2240,13 @@
                     "name": "Dhalmelskin Jacket Of Striking"
                 },
                 {
-                    "name": "Picaroon\u0027s Jacket Of Maiming"
+                    "name": "Picaroon's Jacket Of Maiming"
                 },
                 {
-                    "name": "Picaroon\u0027s Jacket Of Scouting"
+                    "name": "Picaroon's Jacket Of Scouting"
                 },
                 {
-                    "name": "Picaroon\u0027s Jacket Of Striking"
+                    "name": "Picaroon's Jacket Of Striking"
                 }
             ]
         },
@@ -2261,10 +2261,10 @@
                     "name": "Ruby Cotton Gilet Of Striking"
                 },
                 {
-                    "name": "Valerian Rogue\u0027s Gilet"
+                    "name": "Valerian Rogue's Gilet"
                 },
                 {
-                    "name": "Valerian Smuggler\u0027s Gilet"
+                    "name": "Valerian Smuggler's Gilet"
                 }
             ]
         },
@@ -2297,7 +2297,7 @@
         },
         {
             "type": "Body",
-            "hint": "You\u0027re So Whisperfine",
+            "hint": "You're So Whisperfine",
             "items": [
                 {
                     "name": "Whisperfine Woolen Coat"
@@ -2309,7 +2309,7 @@
             "hint": "All In The Wrist",
             "items": [
                 {
-                    "name": "Forager\u0027s Wristguards"
+                    "name": "Forager's Wristguards"
                 },
                 {
                     "name": "Goatskin Wristguards"
@@ -2321,7 +2321,7 @@
                     "name": "Leather Wristguards"
                 },
                 {
-                    "name": "Trailblazer\u0027s Wristguards"
+                    "name": "Trailblazer's Wristguards"
                 }
             ]
         },
@@ -2330,22 +2330,22 @@
             "hint": "Allagan Attack",
             "items": [
                 {
-                    "name": "Amon\u0027s Sleeves"
+                    "name": "Amon's Sleeves"
                 },
                 {
-                    "name": "Phlegethon\u0027s Gauntlets"
+                    "name": "Phlegethon's Gauntlets"
                 },
                 {
-                    "name": "Scylla\u0027s Gloves Of Casting"
+                    "name": "Scylla's Gloves Of Casting"
                 },
                 {
-                    "name": "Scylla\u0027s Gloves Of Healing"
+                    "name": "Scylla's Gloves Of Healing"
                 },
                 {
-                    "name": "The Guardian\u0027s Armguards Of Maiming"
+                    "name": "The Guardian's Armguards Of Maiming"
                 },
                 {
-                    "name": "The Guardian\u0027s Armguards Of Striking"
+                    "name": "The Guardian's Armguards Of Striking"
                 }
             ]
         },
@@ -2390,28 +2390,28 @@
         },
         {
             "type": "Hands",
-            "hint": "C\u0027est Chic",
+            "hint": "C'est Chic",
             "items": [
                 {
                     "name": "False Nails"
                 },
                 {
-                    "name": "Sharlayan Conservator\u0027s Gloves"
+                    "name": "Sharlayan Conservator's Gloves"
                 },
                 {
-                    "name": "Sharlayan Custodian\u0027s Gloves"
+                    "name": "Sharlayan Custodian's Gloves"
                 },
                 {
-                    "name": "Sharlayan Emissary\u0027s Gloves"
+                    "name": "Sharlayan Emissary's Gloves"
                 },
                 {
-                    "name": "Sharlayan Pankratiast\u0027s Gloves"
+                    "name": "Sharlayan Pankratiast's Gloves"
                 },
                 {
-                    "name": "Sharlayan Pathmaker\u0027s Gloves"
+                    "name": "Sharlayan Pathmaker's Gloves"
                 },
                 {
-                    "name": "Sharlayan Philosopher\u0027s Gloves"
+                    "name": "Sharlayan Philosopher's Gloves"
                 }
             ]
         },
@@ -2489,10 +2489,10 @@
                     "name": "Gloves Of The Red Thief"
                 },
                 {
-                    "name": "Plague Bringer\u0027s Gloves"
+                    "name": "Plague Bringer's Gloves"
                 },
                 {
-                    "name": "Plague Doctor\u0027s Gloves"
+                    "name": "Plague Doctor's Gloves"
                 }
             ]
         },
@@ -2609,13 +2609,13 @@
                     "name": "Thavnairian Armlets"
                 },
                 {
-                    "name": "Witch\u0027s Gloves"
+                    "name": "Witch's Gloves"
                 }
             ]
         },
         {
             "type": "Hands",
-            "hint": "In Sheep\u0027s Clothing",
+            "hint": "In Sheep's Clothing",
             "items": [
                 {
                     "name": "Gnath Arms"
@@ -2657,7 +2657,7 @@
                     "name": "Punching Gloves"
                 },
                 {
-                    "name": "The Emperor\u0027s New Gloves"
+                    "name": "The Emperor's New Gloves"
                 }
             ]
         },
@@ -2696,7 +2696,7 @@
                     "name": "Pagos Field Dressing"
                 },
                 {
-                    "name": "Serpent Elite\u0027s Field Dressing"
+                    "name": "Serpent Elite's Field Dressing"
                 }
             ]
         },
@@ -2744,22 +2744,22 @@
             "hint": "Pirates In The Sky",
             "items": [
                 {
-                    "name": "Replica/Sky Pirate\u0027s Gauntlets Of Fending"
+                    "name": "Replica/Sky Pirate's Gauntlets Of Fending"
                 },
                 {
-                    "name": "Replica/Sky Pirate\u0027s Gauntlets Of Maiming"
+                    "name": "Replica/Sky Pirate's Gauntlets Of Maiming"
                 },
                 {
-                    "name": "Replica/Sky Pirate\u0027s Gloves Of Aiming"
+                    "name": "Replica/Sky Pirate's Gloves Of Aiming"
                 },
                 {
-                    "name": "Replica/Sky Pirate\u0027s Gloves Of Healing"
+                    "name": "Replica/Sky Pirate's Gloves Of Healing"
                 },
                 {
-                    "name": "Replica/Sky Pirate\u0027s Gloves Of Scouting"
+                    "name": "Replica/Sky Pirate's Gloves Of Scouting"
                 },
                 {
-                    "name": "Replica/Sky Pirate\u0027s Gloves Of Striking"
+                    "name": "Replica/Sky Pirate's Gloves Of Striking"
                 },
                 {
                     "name": "Tantalus Cuffs"
@@ -2828,22 +2828,22 @@
                     "name": "Argute Gloves"
                 },
                 {
-                    "name": "Augmented/Scholar\u0027s Gloves"
+                    "name": "Augmented/Scholar's Gloves"
                 },
                 {
-                    "name": "Flame Sergeant\u0027s Shortgloves"
+                    "name": "Flame Sergeant's Shortgloves"
                 },
                 {
-                    "name": "Patrician\u0027s Gloves"
+                    "name": "Patrician's Gloves"
                 },
                 {
-                    "name": "Serpent Sergeant\u0027s Shortgloves"
+                    "name": "Serpent Sergeant's Shortgloves"
                 },
                 {
                     "name": "Songbird Gloves"
                 },
                 {
-                    "name": "Storm Sergeant\u0027s Shortgloves"
+                    "name": "Storm Sergeant's Shortgloves"
                 }
             ]
         },
@@ -2867,10 +2867,10 @@
                     "name": "Marid Leather Gloves Of Gathering"
                 },
                 {
-                    "name": "Panegyrist\u0027s Armwraps"
+                    "name": "Panegyrist's Armwraps"
                 },
                 {
-                    "name": "Prophet\u0027s Armwraps"
+                    "name": "Prophet's Armwraps"
                 },
                 {
                     "name": "Thavnairian Gloves"
@@ -2882,7 +2882,7 @@
             "hint": "Sleight Of Hand",
             "items": [
                 {
-                    "name": "Gambler\u0027s Gloves"
+                    "name": "Gambler's Gloves"
                 }
             ]
         },
@@ -2891,22 +2891,22 @@
             "hint": "Smitten With Mittens",
             "items": [
                 {
-                    "name": "Flame Sergeant\u0027s Mitts"
+                    "name": "Flame Sergeant's Mitts"
                 },
                 {
                     "name": "Highland Mitts"
                 },
                 {
-                    "name": "Mercenary\u0027s Mitts"
+                    "name": "Mercenary's Mitts"
                 },
                 {
-                    "name": "Serpent Sergeant\u0027s Mitts"
+                    "name": "Serpent Sergeant's Mitts"
                 },
                 {
                     "name": "Snowman Mitts"
                 },
                 {
-                    "name": "Storm Sergeant\u0027s Mitts"
+                    "name": "Storm Sergeant's Mitts"
                 }
             ]
         },
@@ -2918,7 +2918,7 @@
                     "name": "Hetairos Armguards"
                 },
                 {
-                    "name": "Noble\u0027s Armguards"
+                    "name": "Noble's Armguards"
                 },
                 {
                     "name": "Spiked Armguards"
@@ -2939,13 +2939,13 @@
                     "name": "Bloodhempen Armguards Of Striking"
                 },
                 {
-                    "name": "Conqueror\u0027s Armguards"
+                    "name": "Conqueror's Armguards"
                 },
                 {
                     "name": "Ghost Barque Armguards Of Healing"
                 },
                 {
-                    "name": "Subjugator\u0027s Armguards"
+                    "name": "Subjugator's Armguards"
                 }
             ]
         },
@@ -2969,10 +2969,10 @@
                     "name": "False Nails"
                 },
                 {
-                    "name": "Nomad\u0027s Armlets Of Healing"
+                    "name": "Nomad's Armlets Of Healing"
                 },
                 {
-                    "name": "Republican Signifier\u0027s Fingerless Gloves"
+                    "name": "Republican Signifier's Fingerless Gloves"
                 }
             ]
         },
@@ -2990,13 +2990,13 @@
                     "name": "Dhalmelskin Armguards Of Striking"
                 },
                 {
-                    "name": "Picaroon\u0027s Armguards Of Maiming"
+                    "name": "Picaroon's Armguards Of Maiming"
                 },
                 {
-                    "name": "Picaroon\u0027s Armguards Of Scouting"
+                    "name": "Picaroon's Armguards Of Scouting"
                 },
                 {
-                    "name": "Picaroon\u0027s Armguards Of Striking"
+                    "name": "Picaroon's Armguards Of Striking"
                 }
             ]
         },
@@ -3017,7 +3017,7 @@
                     "name": "Leonhart Gloves"
                 },
                 {
-                    "name": "Loyal/Butler\u0027s Gloves"
+                    "name": "Loyal/Butler's Gloves"
                 },
                 {
                     "name": "Strife Gloves"
@@ -3029,7 +3029,7 @@
         },
         {
             "type": "Legs",
-            "hint": "A Pirate\u0027s Life",
+            "hint": "A Pirate's Life",
             "items": [
                 {
                     "name": "Holy Rainbow Sarouel of Aiming"
@@ -3062,7 +3062,7 @@
         },
         {
             "type": "Legs",
-            "hint": "A Sailor\u0027s Life",
+            "hint": "A Sailor's Life",
             "items": [
                 {
                     "name": "Moonfire Trunks"
@@ -3074,7 +3074,7 @@
         },
         {
             "type": "Legs",
-            "hint": "\u0022Ala\u0022 Carte",
+            "hint": "\"Ala\" Carte",
             "items": [
                 {
                     "name": "Ala Mhigan Bottoms Of Fending"
@@ -3131,7 +3131,7 @@
                     "name": "Felt Chausses"
                 },
                 {
-                    "name": "Flame Private\u0027s Chausses"
+                    "name": "Flame Private's Chausses"
                 },
                 {
                     "name": "Hempen Chausses"
@@ -3140,7 +3140,7 @@
                     "name": "Linen Chausses"
                 },
                 {
-                    "name": "Storm Private\u0027s Chausses"
+                    "name": "Storm Private's Chausses"
                 },
                 {
                     "name": "Velveteen Chausses"
@@ -3272,10 +3272,10 @@
             "hint": "Dueling Duelist",
             "items": [
                 {
-                    "name": "Plague Bringer\u0027s Trousers"
+                    "name": "Plague Bringer's Trousers"
                 },
                 {
-                    "name": "Plague Doctor\u0027s Trousers"
+                    "name": "Plague Doctor's Trousers"
                 },
                 {
                     "name": "Trousers Of The Daring Duelist"
@@ -3299,25 +3299,25 @@
             "hint": "Fashion Bandit",
             "items": [
                 {
-                    "name": "Woad Skychaser\u0027s Breeches"
+                    "name": "Woad Skychaser's Breeches"
                 },
                 {
-                    "name": "Woad Skydruid\u0027s Breeches"
+                    "name": "Woad Skydruid's Breeches"
                 },
                 {
-                    "name": "Woad Skyhunter\u0027s Breeches"
+                    "name": "Woad Skyhunter's Breeches"
                 },
                 {
-                    "name": "Woad Skylancer\u0027s Breeches"
+                    "name": "Woad Skylancer's Breeches"
                 },
                 {
-                    "name": "Woad Skyraider\u0027s Breeches"
+                    "name": "Woad Skyraider's Breeches"
                 },
                 {
-                    "name": "Woad Skywarrior\u0027s Breeches"
+                    "name": "Woad Skywarrior's Breeches"
                 },
                 {
-                    "name": "Woad Skywicce\u0027s Breeches"
+                    "name": "Woad Skywicce's Breeches"
                 }
             ]
         },
@@ -3326,19 +3326,19 @@
             "hint": "Flap In Front",
             "items": [
                 {
-                    "name": "Althyk\u0027s Cuisses Of Scouting"
+                    "name": "Althyk's Cuisses Of Scouting"
                 },
                 {
-                    "name": "Althyk\u0027s Cuisses Of Striking"
+                    "name": "Althyk's Cuisses Of Striking"
                 },
                 {
                     "name": "Chimerical Felt Breeches Of Fending"
                 },
                 {
-                    "name": "Eastern Lady\u0027s Loincloth"
+                    "name": "Eastern Lady's Loincloth"
                 },
                 {
-                    "name": "Flame Elite\u0027s Loincloth"
+                    "name": "Flame Elite's Loincloth"
                 },
                 {
                     "name": "Hemiskin Brais Of Fending"
@@ -3353,25 +3353,25 @@
                     "name": "Kudzu Culottes Of Gathering"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Aiming"
+                    "name": "Nomad's Breeches Of Aiming"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Casting"
+                    "name": "Nomad's Breeches Of Casting"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Fending"
+                    "name": "Nomad's Breeches Of Fending"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Healing"
+                    "name": "Nomad's Breeches Of Healing"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Maiming"
+                    "name": "Nomad's Breeches Of Maiming"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Scouting"
+                    "name": "Nomad's Breeches Of Scouting"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Striking"
+                    "name": "Nomad's Breeches Of Striking"
                 },
                 {
                     "name": "Replica/Allagan Breeches Of Casting"
@@ -3395,13 +3395,13 @@
                     "name": "Cashmere Skirt Of Healing"
                 },
                 {
-                    "name": "Foestriker\u0027s Skirt"
+                    "name": "Foestriker's Skirt"
                 },
                 {
                     "name": "Indigo Ramie Skirt Of Healing"
                 },
                 {
-                    "name": "Miqo\u0027te Loincloth"
+                    "name": "Miqo'te Loincloth"
                 },
                 {
                     "name": "Replica/Allagan Breeches Of Healing"
@@ -3443,7 +3443,7 @@
             "hint": "Fresh And Formal",
             "items": [
                 {
-                    "name": "Best Man\u0027s Slacks"
+                    "name": "Best Man's Slacks"
                 }
             ]
         },
@@ -3458,7 +3458,7 @@
         },
         {
             "type": "Legs",
-            "hint": "\u0022Groin\u0022 Pains",
+            "hint": "\"Groin\" Pains",
             "items": [
                 {
                     "name": "Bunny Chief Tights"
@@ -3527,10 +3527,10 @@
         },
         {
             "type": "Legs",
-            "hint": "\u0022Labor\u0022 Of Love",
+            "hint": "\"Labor\" Of Love",
             "items": [
                 {
-                    "name": "Amateur\u0027s Slops"
+                    "name": "Amateur's Slops"
                 }
             ]
         },
@@ -3545,7 +3545,7 @@
                     "name": "Militia Trousers"
                 },
                 {
-                    "name": "Sentinel\u0027s Trousers"
+                    "name": "Sentinel's Trousers"
                 }
             ]
         },
@@ -3563,7 +3563,7 @@
                     "name": "Hallowed Raimie Gaskins Of Healing"
                 },
                 {
-                    "name": "Shikaree\u0027s Gaskins"
+                    "name": "Shikaree's Gaskins"
                 }
             ]
         },
@@ -3572,7 +3572,7 @@
             "hint": "Mountain Bred",
             "items": [
                 {
-                    "name": "Best Man\u0027s Slacks"
+                    "name": "Best Man's Slacks"
                 },
                 {
                     "name": "Cropped Flannel Slops"
@@ -3587,25 +3587,25 @@
                     "name": "Kudzu Culottes Of Gathering"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Aiming"
+                    "name": "Nomad's Breeches Of Aiming"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Casting"
+                    "name": "Nomad's Breeches Of Casting"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Fending"
+                    "name": "Nomad's Breeches Of Fending"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Healing"
+                    "name": "Nomad's Breeches Of Healing"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Maiming"
+                    "name": "Nomad's Breeches Of Maiming"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Scouting"
+                    "name": "Nomad's Breeches Of Scouting"
                 },
                 {
-                    "name": "Nomad\u0027s Breeches Of Striking"
+                    "name": "Nomad's Breeches Of Striking"
                 }
             ]
         },
@@ -3632,25 +3632,25 @@
             "hint": "Old Country",
             "items": [
                 {
-                    "name": "Augmented/Shire Conservator\u0027s Hose"
+                    "name": "Augmented/Shire Conservator's Hose"
                 },
                 {
-                    "name": "Augmented/Shire Custodian\u0027s Hose"
+                    "name": "Augmented/Shire Custodian's Hose"
                 },
                 {
-                    "name": "Augmented/Shire Emissary\u0027s Hose"
+                    "name": "Augmented/Shire Emissary's Hose"
                 },
                 {
-                    "name": "Augmented/Shire Pankratiast\u0027s Hose"
+                    "name": "Augmented/Shire Pankratiast's Hose"
                 },
                 {
-                    "name": "Augmented/Shire Pathfinder\u0027s Hose"
+                    "name": "Augmented/Shire Pathfinder's Hose"
                 },
                 {
-                    "name": "Augmented/Shire Philosopher\u0027s Hose"
+                    "name": "Augmented/Shire Philosopher's Hose"
                 },
                 {
-                    "name": "Augmented/Shire Preceptor\u0027s Hose"
+                    "name": "Augmented/Shire Preceptor's Hose"
                 }
             ]
         },
@@ -3659,25 +3659,25 @@
             "hint": "Pirates In The Sky",
             "items": [
                 {
-                    "name": "Replica/Sky Pirate\u0027s Bottoms Of Casting"
+                    "name": "Replica/Sky Pirate's Bottoms Of Casting"
                 },
                 {
-                    "name": "Replica/Sky Pirate\u0027s Bottoms Of Healing"
+                    "name": "Replica/Sky Pirate's Bottoms Of Healing"
                 },
                 {
-                    "name": "Replica/Sky Pirate\u0027s Gaskins Of Fending"
+                    "name": "Replica/Sky Pirate's Gaskins Of Fending"
                 },
                 {
-                    "name": "Replica/Sky Pirate\u0027s Gaskins Of Maiming"
+                    "name": "Replica/Sky Pirate's Gaskins Of Maiming"
                 },
                 {
-                    "name": "Replica/Sky Pirate\u0027s Halfslops Of Aiming"
+                    "name": "Replica/Sky Pirate's Halfslops Of Aiming"
                 },
                 {
-                    "name": "Replica/Sky Pirate\u0027s Trousers Of Scouting"
+                    "name": "Replica/Sky Pirate's Trousers Of Scouting"
                 },
                 {
-                    "name": "Replica/Sky Pirate\u0027s Trousers Of Striking"
+                    "name": "Replica/Sky Pirate's Trousers Of Striking"
                 },
                 {
                     "name": "Tantalus Breeches"
@@ -3698,7 +3698,7 @@
                     "name": "Hempen Kecks"
                 },
                 {
-                    "name": "Storm Sergeant\u0027s Kecks"
+                    "name": "Storm Sergeant's Kecks"
                 },
                 {
                     "name": "Woolen Kecks"
@@ -3716,25 +3716,25 @@
                     "name": "Augmented/Drachen Breeches"
                 },
                 {
-                    "name": "Augmented/Evoker\u0027s Waistclout"
+                    "name": "Augmented/Evoker's Waistclout"
                 },
                 {
-                    "name": "Augmented/Fighter\u0027s Breeches"
+                    "name": "Augmented/Fighter's Breeches"
                 },
                 {
                     "name": "Augmented/Gallant Cuisses"
                 },
                 {
-                    "name": "Augmented/Healer\u0027s Culottes\t"
+                    "name": "Augmented/Healer's Culottes\t"
                 },
                 {
-                    "name": "Augmented/Scholar\u0027s Culottes"
+                    "name": "Augmented/Scholar's Culottes"
                 },
                 {
                     "name": "Augmented/Temple Gaskins"
                 },
                 {
-                    "name": "Augmented/Wizard\u0027s Tonban"
+                    "name": "Augmented/Wizard's Tonban"
                 }
             ]
         },
@@ -3743,16 +3743,16 @@
             "hint": "Rest \u0026 Relaxation",
             "items": [
                 {
-                    "name": "Butler\u0027s Slacks"
+                    "name": "Butler's Slacks"
                 },
                 {
                     "name": "Crescent Moon Bottoms"
                 },
                 {
-                    "name": "Expeditioner\u0027s Kecks"
+                    "name": "Expeditioner's Kecks"
                 },
                 {
-                    "name": "Expeditioner\u0027s Pantalettes"
+                    "name": "Expeditioner's Pantalettes"
                 },
                 {
                     "name": "Extreme Survival Slops"
@@ -3764,13 +3764,13 @@
                     "name": "Guardian Corps Skirt"
                 },
                 {
-                    "name": "Housemaid\u0027s Bloomers"
+                    "name": "Housemaid's Bloomers"
                 },
                 {
                     "name": "Loyal Butler Slacks"
                 },
                 {
-                    "name": "Loyal Housemaid\u0027s Bloomers"
+                    "name": "Loyal Housemaid's Bloomers"
                 },
                 {
                     "name": "Ramie Kecks"
@@ -3800,10 +3800,10 @@
             "hint": "Restoration Regalia",
             "items": [
                 {
-                    "name": "Craftsman\u0027s Coverall Bottoms"
+                    "name": "Craftsman's Coverall Bottoms"
                 },
                 {
-                    "name": "Craftsman\u0027s Leather Trousers"
+                    "name": "Craftsman's Leather Trousers"
                 }
             ]
         },
@@ -3812,7 +3812,7 @@
             "hint": "Rouse Trousers",
             "items": [
                 {
-                    "name": "Gambler\u0027s Trousers"
+                    "name": "Gambler's Trousers"
                 },
                 {
                     "name": "Hempen Trousers"
@@ -3863,10 +3863,10 @@
             "hint": "Sleight Of Hand",
             "items": [
                 {
-                    "name": "Magician\u0027s Slops"
+                    "name": "Magician's Slops"
                 },
                 {
-                    "name": "Pilgrim\u0027s Slops"
+                    "name": "Pilgrim's Slops"
                 },
                 {
                     "name": "Rainbow Slops Of Casting"
@@ -3899,16 +3899,16 @@
         },
         {
             "type": "Legs",
-            "hint": "Star \u0022Studded\u0022",
+            "hint": "Star \"Studded\"",
             "items": [
                 {
-                    "name": "Picaroon\u0027s Trousers Of Maiming"
+                    "name": "Picaroon's Trousers Of Maiming"
                 },
                 {
-                    "name": "Picaroon\u0027s Trousers Of Scouting"
+                    "name": "Picaroon's Trousers Of Scouting"
                 },
                 {
-                    "name": "Picaroon\u0027s Trousers Of Striking"
+                    "name": "Picaroon's Trousers Of Striking"
                 },
                 {
                     "name": "Ramie Trousers Of Aiming"
@@ -3938,7 +3938,7 @@
                     "name": "Antiquated/Trueblood Brais"
                 },
                 {
-                    "name": "Antiquated/Pacifist\u0027s Gaskins"
+                    "name": "Antiquated/Pacifist's Gaskins"
                 },
                 {
                     "name": "Antiquated/Myochin Hakama"
@@ -3947,25 +3947,25 @@
                     "name": "Antiquated/Kage-kakushi Hakama"
                 },
                 {
-                    "name": "Antiquated/Storyteller\u0027s Bottoms"
+                    "name": "Antiquated/Storyteller's Bottoms"
                 },
                 {
-                    "name": "Antiquated/Gunner\u0027s Trousers"
+                    "name": "Antiquated/Gunner's Trousers"
                 },
                 {
                     "name": "Antiquated/Seventh Hell Breeches"
                 },
                 {
-                    "name": "Antiquated/Channeler\u0027s Halfslops"
+                    "name": "Antiquated/Channeler's Halfslops"
                 },
                 {
-                    "name": "Antiquated/Duelist\u0027s Breeches"
+                    "name": "Antiquated/Duelist's Breeches"
                 },
                 {
                     "name": "Antiquated/Seventh Heaven Bottoms"
                 },
                 {
-                    "name": "Antiquated/Orator\u0027s Bottoms"
+                    "name": "Antiquated/Orator's Bottoms"
                 },
                 {
                     "name": "Antiquated/Constellation Gaskins"
@@ -3977,10 +3977,10 @@
             "hint": "Striding In Stripes",
             "items": [
                 {
-                    "name": "Augmented/Wizard\u0027s Tonban"
+                    "name": "Augmented/Wizard's Tonban"
                 },
                 {
-                    "name": "Battlemage\u0027s Breeches"
+                    "name": "Battlemage's Breeches"
                 },
                 {
                     "name": "Breeches of Light"
@@ -4013,7 +4013,7 @@
                     "name": "Holy Rainbow Sarouel of Striking"
                 },
                 {
-                    "name": "Idealized Estoqueur\u0027s Bottoms"
+                    "name": "Idealized Estoqueur's Bottoms"
                 },
                 {
                     "name": "Sarouel of the Divine Hero"
@@ -4025,7 +4025,7 @@
                     "name": "Serpentskin Tights of Casting"
                 },
                 {
-                    "name": "Sorcerer\u0027s Tonban"
+                    "name": "Sorcerer's Tonban"
                 },
                 {
                     "name": "Striped Cotton Slops"
@@ -4037,7 +4037,7 @@
                     "name": "Vigil Sarouel"
                 },
                 {
-                    "name": "Weathered Estoqueur\u0027s Bottoms"
+                    "name": "Weathered Estoqueur's Bottoms"
                 },
                 {
                     "name": "Weathered/Evenstar Tights"
@@ -4124,7 +4124,7 @@
         },
         {
             "type": "Legs",
-            "hint": "Tip o\u0027 The Arhat",
+            "hint": "Tip o' The Arhat",
             "items": [
                 {
                     "name": "Arhat Hakama Of Aiming"
@@ -4175,7 +4175,7 @@
                     "name": "Ala Mhigan Bottoms Of Maiming"
                 },
                 {
-                    "name": "Gambler\u0027s Trousers"
+                    "name": "Gambler's Trousers"
                 },
                 {
                     "name": "Replica/High Allagan Pantaloons Of Healing"
@@ -4214,7 +4214,7 @@
             "hint": "Toward The Heavens",
             "items": [
                 {
-                    "name": "Antiquated/Caller\u0027s Loincloth"
+                    "name": "Antiquated/Caller's Loincloth"
                 },
                 {
                     "name": "Antiquated/Chaos Flanchard"
@@ -4223,13 +4223,13 @@
                     "name": "Antiquated/Creed Cuisses"
                 },
                 {
-                    "name": "Antiquated/Dragonlancer\u0027s Cuissots"
+                    "name": "Antiquated/Dragonlancer's Cuissots"
                 },
                 {
                     "name": "Antiquated/Orison Skirt"
                 },
                 {
-                    "name": "Antiquated/Ravager\u0027s Breeches"
+                    "name": "Antiquated/Ravager's Breeches"
                 },
                 {
                     "name": "Antiquated/Tantra Galligaskins"
@@ -4241,16 +4241,16 @@
             "hint": "What You Kneed",
             "items": [
                 {
-                    "name": "Explorer\u0027s Breeches"
+                    "name": "Explorer's Breeches"
                 },
                 {
                     "name": "Peltast Breeches"
                 },
                 {
-                    "name": "Serpent Sergeant\u0027s Kecks"
+                    "name": "Serpent Sergeant's Kecks"
                 },
                 {
-                    "name": "Storm Sergeant\u0027s Breeches"
+                    "name": "Storm Sergeant's Breeches"
                 },
                 {
                     "name": "Strategos Breeches"
@@ -4265,7 +4265,7 @@
         },
         {
             "type": "Legs",
-            "hint": "You\u0027re So Whisperfine",
+            "hint": "You're So Whisperfine",
             "items": [
                 {
                     "name": "Whisperfine Woolen Shorts"
@@ -4274,7 +4274,7 @@
         },
         {
             "type": "Feet",
-            "hint": "\u0022Ala\u0022 Carte",
+            "hint": "\"Ala\" Carte",
             "items": [
                 {
                     "name": "Ala Mhigan Calligae Of Aiming"
@@ -4328,25 +4328,25 @@
             "hint": "Bookworm",
             "items": [
                 {
-                    "name": "Sharlayan Conservator\u0027s Boots"
+                    "name": "Sharlayan Conservator's Boots"
                 },
                 {
-                    "name": "Sharlayan Custodian\u0027s Boots"
+                    "name": "Sharlayan Custodian's Boots"
                 },
                 {
-                    "name": "Sharlayan Emissary\u0027s Boots"
+                    "name": "Sharlayan Emissary's Boots"
                 },
                 {
-                    "name": "Sharlayan Pankratiast\u0027s Boots"
+                    "name": "Sharlayan Pankratiast's Boots"
                 },
                 {
-                    "name": "Sharlayan Pathmaker\u0027s Boots"
+                    "name": "Sharlayan Pathmaker's Boots"
                 },
                 {
-                    "name": "Sharlayan Philosopher\u0027s Boots"
+                    "name": "Sharlayan Philosopher's Boots"
                 },
                 {
-                    "name": "Sharlayan Preceptor\u0027s Boots"
+                    "name": "Sharlayan Preceptor's Boots"
                 }
             ]
         },
@@ -4385,7 +4385,7 @@
                     "name": "Moonfire Caligae"
                 },
                 {
-                    "name": "Republican Signifier\u0027s Caligae"
+                    "name": "Republican Signifier's Caligae"
                 },
                 {
                     "name": "True Girffin Caligae Of Scouting"
@@ -4454,7 +4454,7 @@
             "hint": "Dressed For Success",
             "items": [
                 {
-                    "name": "Best Man\u0027s Gaiters"
+                    "name": "Best Man's Gaiters"
                 },
                 {
                     "name": "Cotton Dress Shoes"
@@ -4466,7 +4466,7 @@
                     "name": "Felt Dress Shoes"
                 },
                 {
-                    "name": "Patrician\u0027s Gaiters"
+                    "name": "Patrician's Gaiters"
                 },
                 {
                     "name": "Velveteen Dress Shoes"
@@ -4499,10 +4499,10 @@
                     "name": "Boots Of The Red Thief"
                 },
                 {
-                    "name": "Plague Bringer\u0027s Shoes"
+                    "name": "Plague Bringer's Shoes"
                 },
                 {
-                    "name": "Plague Doctor\u0027s Shoes"
+                    "name": "Plague Doctor's Shoes"
                 }
             ]
         },
@@ -4511,31 +4511,31 @@
             "hint": "Fashion Bandit",
             "items": [
                 {
-                    "name": "Woad Skychaser\u0027s Boots"
+                    "name": "Woad Skychaser's Boots"
                 },
                 {
-                    "name": "Woad Skydruid\u0027s Boots"
+                    "name": "Woad Skydruid's Boots"
                 },
                 {
-                    "name": "Woad Skyhunter\u0027s Boots"
+                    "name": "Woad Skyhunter's Boots"
                 },
                 {
-                    "name": "Woad Skylancer\u0027s Boots"
+                    "name": "Woad Skylancer's Boots"
                 },
                 {
-                    "name": "Woad Skyraider\u0027s Boots"
+                    "name": "Woad Skyraider's Boots"
                 },
                 {
-                    "name": "Woad Skywarrior\u0027s Boots"
+                    "name": "Woad Skywarrior's Boots"
                 },
                 {
-                    "name": "Woad Skywicce\u0027s Boots"
+                    "name": "Woad Skywicce's Boots"
                 }
             ]
         },
         {
             "type": "Feet",
-            "hint": "\u0022Fringe\u0022 Benefits",
+            "hint": "\"Fringe\" Benefits",
             "items": [
                 {
                     "name": "Dhalmelskin Fringe Boots"
@@ -4562,16 +4562,16 @@
                     "name": "Archaeoskin Shoes Of Healing"
                 },
                 {
-                    "name": "Magician\u0027s Shoes"
+                    "name": "Magician's Shoes"
                 },
                 {
-                    "name": "Pilgrim\u0027s Shoes"
+                    "name": "Pilgrim's Shoes"
                 }
             ]
         },
         {
             "type": "Feet",
-            "hint": "In Sheep\u0027s Clothing",
+            "hint": "In Sheep's Clothing",
             "items": [
                 {
                     "name": "Gnath Legs"
@@ -4598,17 +4598,17 @@
         },
         {
             "type": "Feet",
-            "hint": "In The \u0022Fold\u0022",
+            "hint": "In The \"Fold\"",
             "items": [
                 {
                     "name": "Dragonskin Boots"
                 },
                 {
-                    "name": "Falconer\u0027s Boots"
+                    "name": "Falconer's Boots"
                 }
                 ,
                 {
-                    "name": "Scion Adventurer\u0027s Boots"
+                    "name": "Scion Adventurer's Boots"
                 }
             ]
         },
@@ -4617,7 +4617,7 @@
             "hint": "Kinky Boots",
             "items": [
                 {
-                    "name": "Flame Private\u0027s Boots"
+                    "name": "Flame Private's Boots"
                 },
                 {
                     "name": "Goatskin Boots"
@@ -4632,19 +4632,19 @@
                     "name": "Raptorskin Boots"
                 },
                 {
-                    "name": "Serpent Private\u0027s Boots"
+                    "name": "Serpent Private's Boots"
                 },
                 {
-                    "name": "Storm Private\u0027s Boots"
+                    "name": "Storm Private's Boots"
                 }
             ]
         },
         {
             "type": "Feet",
-            "hint": "\u0022Labor\u0022 Of Love",
+            "hint": "\"Labor\" Of Love",
             "items": [
                 {
-                    "name": "Amateur\u0027s Thighboots"
+                    "name": "Amateur's Thighboots"
                 },
                 {
                     "name": "Boarskin Thighboots"
@@ -4653,7 +4653,7 @@
                     "name": "Hard Leather Thighboots"
                 },
                 {
-                    "name": "Initiate\u0027s Thighboots"
+                    "name": "Initiate's Thighboots"
                 },
                 {
                     "name": "Mildewed Thighboots"
@@ -4689,7 +4689,7 @@
                     "name": "Dhalmelskin Moccasins"
                 },
                 {
-                    "name": "Expeditioner\u0027s Moccasins"
+                    "name": "Expeditioner's Moccasins"
                 },
                 {
                     "name": "Hunting Moccasins"
@@ -4701,10 +4701,10 @@
                     "name": "Plundered Moccasins"
                 },
                 {
-                    "name": "Serpent Private\u0027s Moccasins"
+                    "name": "Serpent Private's Moccasins"
                 },
                 {
-                    "name": "Serpent Sergeant\u0027s Moccasins"
+                    "name": "Serpent Sergeant's Moccasins"
                 },
                 {
                     "name": "Toxotes Moccasins"
@@ -4719,25 +4719,25 @@
             "hint": "Mountain Bred",
             "items": [
                 {
-                    "name": "Nomad\u0027s Boots Of Aiming"
+                    "name": "Nomad's Boots Of Aiming"
                 },
                 {
-                    "name": "Nomad\u0027s Boots Of Casting"
+                    "name": "Nomad's Boots Of Casting"
                 },
                 {
-                    "name": "Nomad\u0027s Boots Of Healing"
+                    "name": "Nomad's Boots Of Healing"
                 },
                 {
-                    "name": "Nomad\u0027s Boots Of Maimimg"
+                    "name": "Nomad's Boots Of Maimimg"
                 },
                 {
-                    "name": "Nomad\u0027s Boots Of Scouting"
+                    "name": "Nomad's Boots Of Scouting"
                 },
                 {
-                    "name": "Nomad\u0027s Boots Of Striking"
+                    "name": "Nomad's Boots Of Striking"
                 },
                 {
-                    "name": "Nomad\u0027s Boots Of Fending"
+                    "name": "Nomad's Boots Of Fending"
                 }
             ]
         },
@@ -4797,10 +4797,10 @@
                     "name": "Cobalt Sabatons"
                 },
                 {
-                    "name": "Explorer\u0027s Sabatons"
+                    "name": "Explorer's Sabatons"
                 },
                 {
-                    "name": "Flame Private\u0027s Sabatons"
+                    "name": "Flame Private's Sabatons"
                 },
                 {
                     "name": "Hoplite Sabatons"
@@ -4818,16 +4818,16 @@
                     "name": "Plundered Sabatons"
                 },
                 {
-                    "name": "Sentinel\u0027s Sabatons"
+                    "name": "Sentinel's Sabatons"
                 },
                 {
-                    "name": "Serpent Private\u0027s Sabatons"
+                    "name": "Serpent Private's Sabatons"
                 },
                 {
                     "name": "Steel Sabatons"
                 },
                 {
-                    "name": "Storm Private\u0027s Sabatons"
+                    "name": "Storm Private's Sabatons"
                 },
                 {
                     "name": "Wolf Sabatons"
@@ -4842,7 +4842,7 @@
                     "name": "Ahs Pattens"
                 },
                 {
-                    "name": "Artisan\u0027s Pattens"
+                    "name": "Artisan's Pattens"
                 },
                 {
                     "name": "Elm Pattens"
@@ -4866,7 +4866,7 @@
             "hint": "Paying The Duckbills",
             "items": [
                 {
-                    "name": "Amateur\u0027s Duckbills"
+                    "name": "Amateur's Duckbills"
                 },
                 {
                     "name": "Boarskin Duckbills"
@@ -4884,13 +4884,13 @@
                     "name": "Toadskin Duckbills"
                 },
                 {
-                    "name": "Torturer\u0027s Duckbills"
+                    "name": "Torturer's Duckbills"
                 }
             ]
         },
         {
             "type": "Feet",
-            "hint": "A Pirate\u0027s Life",
+            "hint": "A Pirate's Life",
             "items": [
                 {
                     "name": "Boots Of The Divine Hero"
@@ -5007,7 +5007,7 @@
                     "name": "High House Halfboots"
                 },
                 {
-                    "name": "Scion Adventure\u0027s Boots"
+                    "name": "Scion Adventure's Boots"
                 }
             ]
         },
@@ -5016,10 +5016,10 @@
             "hint": "Tight And Long",
             "items": [
                 {
-                    "name": "Acolyte\u0027s Thighboots"
+                    "name": "Acolyte's Thighboots"
                 },
                 {
-                    "name": "Adept\u0027s Thighboots"
+                    "name": "Adept's Thighboots"
                 },
                 {
                     "name": "Brand-New Thighboots"
@@ -5028,19 +5028,19 @@
                     "name": "Dhalmelskin Thighboots"
                 },
                 {
-                    "name": "Expeditioner\u0027s Thighboots"
+                    "name": "Expeditioner's Thighboots"
                 },
                 {
-                    "name": "Ishgardian Historian\u0027s Thighboots"
+                    "name": "Ishgardian Historian's Thighboots"
                 },
                 {
-                    "name": "Witch\u0027s Thighboots"
+                    "name": "Witch's Thighboots"
                 }
             ]
         },
         {
             "type": "Feet",
-            "hint": "Tip o\u0027 The Arhat",
+            "hint": "Tip o' The Arhat",
             "items": [
                 {
                     "name": "Arhat Kyanhan Of Aiming"
@@ -5067,7 +5067,7 @@
         },
         {
             "type": "Feet",
-            "hint": "You\u0027re So Whisperfine",
+            "hint": "You're So Whisperfine",
             "items": [
                 {
                     "name": "Whisperfine Woolen Boots"
@@ -5235,7 +5235,7 @@
         },
         {
             "type": "Neck",
-            "hint": "A \u0022Bone\u0022 To Pick",
+            "hint": "A \"Bone\" To Pick",
             "items": [
                 {
                     "name": "Any Ruby Tide Necklace"
@@ -5379,7 +5379,7 @@
             "hint": "Beautiful Dreamer",
             "items": [
                 {
-                    "name": "Any Lakshmi\u0027s Bracelet"
+                    "name": "Any Lakshmi's Bracelet"
                 }
             ]
         },
@@ -5397,7 +5397,7 @@
             "hint": "Jewels Of Black",
             "items": [
                 {
-                    "name": "Any Hero\u0027s Bracelet"
+                    "name": "Any Hero's Bracelet"
                 },
                 {
                     "name": "Black Pearl Bracelet"
@@ -5406,7 +5406,7 @@
                     "name": "Bracelets Of Divine War"
                 },
                 {
-                    "name": "Flame Sergeant\u0027s  Bracelet"
+                    "name": "Flame Sergeant's  Bracelet"
                 },
                 {
                     "name": "Warwolf Bracelet Of Casting"
@@ -5541,7 +5541,7 @@
         },
         {
             "type": "Ring",
-            "hint": "A \u0022Bone\u0022 To Pick",
+            "hint": "A \"Bone\" To Pick",
             "items": [
                 {
                     "name": "Any Griffin Talon Ring"
@@ -5571,16 +5571,16 @@
             "hint": "Jewels Of Black",
             "items": [
                 {
-                    "name": "Any Hero\u0027s Ring"
+                    "name": "Any Hero's Ring"
                 },
                 {
                     "name": "Black Pearl Ring"
                 },
                 {
-                    "name": "Flame Private\u0027s Ring"
+                    "name": "Flame Private's Ring"
                 },
                 {
-                    "name": "Ul\u0027dahn Ring"
+                    "name": "Ul'dahn Ring"
                 }
             ]
         },
@@ -5718,7 +5718,7 @@
                     "name": "Eternity Ring"
                 },
                 {
-                    "name": "Shire Pankratiast\u0027s Ring"
+                    "name": "Shire Pankratiast's Ring"
                 }
             ]
         },
@@ -5736,7 +5736,7 @@
                     "name": "Any Yeti Fang Ring"
                 },
                 {
-                    "name": "Shire Custodian\u0027s Ring"
+                    "name": "Shire Custodian's Ring"
                 }
             ]
         },
@@ -5781,31 +5781,31 @@
             "hint": "Veteran Of War",
             "items": [
                 {
-                    "name": "Master Arcanist\u0027s Ring"
+                    "name": "Master Arcanist's Ring"
                 },
                 {
-                    "name": "Master Archer\u0027s Ring"
+                    "name": "Master Archer's Ring"
                 },
                 {
-                    "name": "Master Conjurer\u0027s Ring"
+                    "name": "Master Conjurer's Ring"
                 },
                 {
-                    "name": "Master Gladiator\u0027s Ring"
+                    "name": "Master Gladiator's Ring"
                 },
                 {
-                    "name": "Master Lancer\u0027s Ring"
+                    "name": "Master Lancer's Ring"
                 },
                 {
-                    "name": "Master Marauder\u0027s Ring"
+                    "name": "Master Marauder's Ring"
                 },
                 {
-                    "name": "Master Pugilist\u0027s Ring"
+                    "name": "Master Pugilist's Ring"
                 },
                 {
-                    "name": "Master Rogue\u0027s Ring"
+                    "name": "Master Rogue's Ring"
                 },
                 {
-                    "name": "Master Thaumaturge\u0027s Ring"
+                    "name": "Master Thaumaturge's Ring"
                 }
             ]
         }
@@ -5899,7 +5899,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "Tip o\u0027 The Arhat"
+                    "hint": "Tip o' The Arhat"
                 }
             ]
         },
@@ -5979,7 +5979,7 @@
             "slots": [
                 {
                     "type": "Head",
-                    "hint": "A \u0022Bone\u0022 To Pick"
+                    "hint": "A \"Bone\" To Pick"
                 },
                 {
                     "type": "Body",
@@ -6060,7 +6060,7 @@
                 },
                 {
                     "type": "Ring",
-                    "hint": "A \u0022Bone\u0022 To Pick"
+                    "hint": "A \"Bone\" To Pick"
                 }
             ]
         },
@@ -6098,7 +6098,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "\u0022Groin\u0022 Pains"
+                    "hint": "\"Groin\" Pains"
                 },
                 {
                     "type": "Feet",
@@ -6171,7 +6171,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "\u0022Labor\u0022 Of Love"
+                    "hint": "\"Labor\" Of Love"
                 },
                 {
                     "type": "Ear",
@@ -6305,7 +6305,7 @@
                 },
                 {
                     "type": "Body",
-                    "hint": "Sailor\u0027s Life"
+                    "hint": "Sailor's Life"
                 },
                 {
                     "type": "Legs",
@@ -6378,7 +6378,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "\u0022Ala\u0022 Carte"
+                    "hint": "\"Ala\" Carte"
                 },
                 {
                     "type": "Feet",
@@ -6405,7 +6405,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "In The \u0022Fold\u0022"
+                    "hint": "In The \"Fold\""
                 }
             ]
         },
@@ -6466,11 +6466,11 @@
                 },
                 {
                     "type": "Hands",
-                    "hint": "C\u0027est Chic"
+                    "hint": "C'est Chic"
                 },
                 {
                     "type": "Legs",
-                    "hint": "\u0022Labor\u0022 Of Love"
+                    "hint": "\"Labor\" Of Love"
                 },
                 {
                     "type": "Ring",
@@ -6493,7 +6493,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "Star \u0022Studded\u0022"
+                    "hint": "Star \"Studded\""
                 },
                 {
                     "type": "Feet",
@@ -6527,7 +6527,7 @@
         {
             "week": 79,
             "date": "2019-08-02",
-            "theme": "Ul\u0027dahn Nights",
+            "theme": "Ul'dahn Nights",
             "slots": [
                 {
                     "type": "Body",
@@ -6562,11 +6562,11 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "\u0022Labor\u0022 Of Love"
+                    "hint": "\"Labor\" Of Love"
                 },
                 {
                     "type": "Feet",
-                    "hint": "A Pirate\u0027s Life"
+                    "hint": "A Pirate's Life"
                 }
             ]
         },
@@ -6635,7 +6635,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "In The \u0022Fold\u0022"
+                    "hint": "In The \"Fold\""
                 }
             ]
         },
@@ -6692,7 +6692,7 @@
             "slots": [
                 {
                     "type": "Body",
-                    "hint": "A Pirate\u0027s Life"
+                    "hint": "A Pirate's Life"
                 },
                 {
                     "type": "Legs",
@@ -6750,7 +6750,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "\u0022Fringe\u0022 Benefits"
+                    "hint": "\"Fringe\" Benefits"
                 }
             ]
         },
@@ -6884,7 +6884,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "\u0022Fringe\u0022 Benefits"
+                    "hint": "\"Fringe\" Benefits"
                 },
                 {
                     "type": "Neck",
@@ -6918,7 +6918,7 @@
         {
             "week": 96,
             "date": "2019-11-29",
-            "theme": "A Knight In Leopard\u0027s Mail",
+            "theme": "A Knight In Leopard's Mail",
             "slots": [
                 {
                     "type": "Body",
@@ -7164,7 +7164,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "In The \u0022Fold\u0022"
+                    "hint": "In The \"Fold\""
                 }
             ]
         },
@@ -7217,11 +7217,11 @@
         {
             "week": 109,
             "date": "2020-02-28",
-            "theme": "Wild \u0027N Mild",
+            "theme": "Wild 'N Mild",
             "slots": [
                 {
                     "type": "Head",
-                    "hint": "Pocketfull o\u0027 Pansies"
+                    "hint": "Pocketfull o' Pansies"
                 },
                 {
                     "type": "Body",
@@ -7233,7 +7233,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "\u0022Fringe\u0022 Benefits"
+                    "hint": "\"Fringe\" Benefits"
                 }
             ]
         },
@@ -7574,11 +7574,11 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "Star \u0022Studded\u0022"
+                    "hint": "Star \"Studded\""
                 },
                 {
                     "type": "Ring",
-                    "hint": "A \u0022Bone\u0022 To Pick"
+                    "hint": "A \"Bone\" To Pick"
                 }
             ]
         },
@@ -7597,11 +7597,11 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "\u0022Labor\u0022 Of Love"
+                    "hint": "\"Labor\" Of Love"
                 },
                 {
                     "type": "Neck",
-                    "hint": "A \u0022Bone\u0022 To Pick"
+                    "hint": "A \"Bone\" To Pick"
                 }
             ]
         },
@@ -7712,7 +7712,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "\u0022Labor\u0022 Of Love"
+                    "hint": "\"Labor\" Of Love"
                 },
                 {
                     "type": "Ring",
@@ -7758,7 +7758,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "\u0022Labor\u0022 Of Love"
+                    "hint": "\"Labor\" Of Love"
                 },
                 {
                     "type": "Feet",
@@ -7781,7 +7781,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "In The \u0022Fold\u0022"
+                    "hint": "In The \"Fold\""
                 },
                 {
                     "type": "Wrist",
@@ -7873,7 +7873,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "A Sailor\u0027s Life"
+                    "hint": "A Sailor's Life"
                 },
                 {
                     "type": "Feet",
@@ -7888,7 +7888,7 @@
             "slots": [
                 {
                     "type": "Head",
-                    "hint": "A True \u0022Spectacle\u0022"
+                    "hint": "A True \"Spectacle\""
                 },
                 {
                     "type": "Body",
@@ -7911,7 +7911,7 @@
             "slots": [
                 {
                     "type": "Head",
-                    "hint": "Pocketfull o\u0027 Pansies"
+                    "hint": "Pocketfull o' Pansies"
                 },
                 {
                     "type": "Body",
@@ -7953,7 +7953,7 @@
         {
             "week": 141,
             "date": "2020-10-09",
-            "theme": "Urbane Ul\u0027dahn",
+            "theme": "Urbane Ul'dahn",
             "slots": [
                 {
                     "type": "Head",
@@ -8057,7 +8057,7 @@
                 },
                 {
                     "type": "Hands",
-                    "hint": "In Sheep\u0027s Clothing"
+                    "hint": "In Sheep's Clothing"
                 },
                 {
                     "type": "Legs",
@@ -8076,7 +8076,7 @@
                 },
                 {
                     "type": "Hands",
-                    "hint": "In Sheep\u0027s Clothing"
+                    "hint": "In Sheep's Clothing"
                 },
                 {
                     "type": "Legs",
@@ -8210,7 +8210,7 @@
             "slots": [
                 {
                     "type": "Head",
-                    "hint": "A True \u0022Spectacle\u0022"
+                    "hint": "A True \"Spectacle\""
                 },
                 {
                     "type": "Body",
@@ -8218,7 +8218,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "\u0022Ala\u0022 Carte"
+                    "hint": "\"Ala\" Carte"
                 },
                 {
                     "type": "Feet",
@@ -8287,11 +8287,11 @@
                 },
                 {
                     "type": "Hands",
-                    "hint": "C\u0027est Chic"
+                    "hint": "C'est Chic"
                 },
                 {
                     "type": "Feet",
-                    "hint": "\u0022Ala\u0022 Carte"
+                    "hint": "\"Ala\" Carte"
                 }
             ]
         },
@@ -8421,11 +8421,11 @@
                 },
                 {
                     "type": "Body",
-                    "hint": "A Pirate\u0027s Life"
+                    "hint": "A Pirate's Life"
                 },
                 {
                     "type": "Legs",
-                    "hint": "Tip o\u0027 The Arhat"
+                    "hint": "Tip o' The Arhat"
                 },
                 {
                     "type": "Neck",
@@ -8471,7 +8471,7 @@
                 },
                 {
                     "type": "Hands",
-                    "hint": "C\u0027est Chic"
+                    "hint": "C'est Chic"
                 },
                 {
                     "type": "Legs",
@@ -8486,7 +8486,7 @@
             "slots": [
                 {
                     "type": "Head",
-                    "hint": "A \u0022Bone\u0022 To Pick"
+                    "hint": "A \"Bone\" To Pick"
                 },
                 {
                     "type": "Body",
@@ -8559,15 +8559,15 @@
                 },
                 {
                     "type": "Body",
-                    "hint": "You\u0027re So Whisperfine"
+                    "hint": "You're So Whisperfine"
                 },
                 {
                     "type": "Legs",
-                    "hint": "You\u0027re So Whisperfine"
+                    "hint": "You're So Whisperfine"
                 },
                 {
                     "type": "Feet",
-                    "hint": "You\u0027re So Whisperfine"
+                    "hint": "You're So Whisperfine"
                 }
             ]
         },
@@ -8613,7 +8613,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "\u0022Labor\u0022 Of Love"
+                    "hint": "\"Labor\" Of Love"
                 }
             ]
         },
@@ -8632,11 +8632,11 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "A Pirate\u0027s Life"
+                    "hint": "A Pirate's Life"
                 },
                 {
                     "type": "Feet",
-                    "hint": "In Sheep\u0027s Clothing"
+                    "hint": "In Sheep's Clothing"
                 }
             ]
         },
@@ -8682,7 +8682,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "In The \u0022Fold\u0022"
+                    "hint": "In The \"Fold\""
                 }
             ]
         },
@@ -8720,7 +8720,7 @@
                 },
                 {
                     "type": "Body",
-                    "hint": "A Sailor\u0027s Life"
+                    "hint": "A Sailor's Life"
                 },
                 {
                     "type": "Legs",
@@ -8816,7 +8816,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "\u0022Groin\u0022 Pains"
+                    "hint": "\"Groin\" Pains"
                 },
                 {
                     "type": "Feet",
@@ -8843,7 +8843,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "Tip o\u0027 The Arhat"
+                    "hint": "Tip o' The Arhat"
                 }
             ]
         }
