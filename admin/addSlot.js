@@ -13,6 +13,8 @@
 //   node addslot head "A Knight For Helms" "Helm Of The Divine War" "Titanium Helm Of Fending"
 
 const fs = require('fs');
+const MASTER_FILE = '../src/data/master.json';
+const INDENT_SIZE = 4;
 const SLOT_TYPES = [
     'Head',
     'Body',
@@ -71,7 +73,7 @@ if (!slot || !hint || items.length == 0) {
     return;
 }
 
-let rawMasterData = fs.readFileSync('../src/data/master.json');
+let rawMasterData = fs.readFileSync(MASTER_FILE);
 let masterData = JSON.parse(rawMasterData);
 let existingSlot = null;
 
@@ -125,27 +127,15 @@ if (existingSlot) {
     if (addedItemCount) {
         console.log(`Added ${addedItemCount} items.`);
         console.log(`Item count after the merge is ${existingSlot.items.length}.`);
-
-        existingSlot.items.sort(function (x, y) {
-            const xName = x.name.toString().replace(/\"/g, '');
-            const yName = y.name.toString().replace(/\"/g, '');
-
-            return xName.localeCompare(yName);
-        });
+    
+        existingSlot.items.sort(itemSorter);
     } else {
         console.log('No new items were added.');
         return;
     }
 } else {
     console.log(`Slot count prior to the addition is ${masterData.slots.length}.`);
-
-    items.sort(function (x, y) {
-        const xName = x.name.toString().replace(/\"/g, '');
-        const yName = y.name.toString().replace(/\"/g, '');
-
-        return xName.localeCompare(yName);
-    });
-
+    items.sort(itemSorter);
     masterData.slots.push({
         type: slot,
         hint,
@@ -174,8 +164,14 @@ if (existingSlot) {
     console.log(`Slot count after the addition is ${masterData.slots.length}.`);
 }
 
-const newData = JSON.stringify(masterData, null, 4);
-fs.writeFileSync('../src/data/master.json', newData);
+fs.writeFileSync(MASTER_FILE, JSON.stringify(masterData, null, INDENT_SIZE));
+
+function itemSorter(x, y) {
+    const xName = x.name.toString().replace(/\"/g, '');
+    const yName = y.name.toString().replace(/\"/g, '');
+
+    return xName.localeCompare(yName);
+}
 
 function validateSlotType(slotType) {
     const effectiveSlotType = slotType.substr(0, 1).toUpperCase() + slotType.substr(1);

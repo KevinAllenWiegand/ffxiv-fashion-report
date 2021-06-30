@@ -12,6 +12,8 @@
 //   node addweek "Painting Light" head "Chapeau du Choice" body "Doublet The Fun" legs "Smallfolk" feet "Tip o' The Arhat"
 
 const fs = require('fs');
+const MASTER_FILE = '../src/data/master.json';
+const INDENT_SIZE = 4;
 const SLOT_TYPES = [
     'Head',
     'Body',
@@ -87,7 +89,7 @@ slots.forEach(slot => {
     console.log(`${slot.slot}: ${slot.hint}`);
 });
 
-let rawMasterData = fs.readFileSync('../src/data/master.json');
+let rawMasterData = fs.readFileSync(MASTER_FILE);
 let masterData = JSON.parse(rawMasterData);
 const lastReportOriginal = getLastReport(masterData);
 
@@ -104,7 +106,7 @@ const newDate = new Date(dateParts[0], dateParts[1] - 1, dateParts[2]);
 
 newDate.setDate(newDate.getDate() + 7);
 
-const report = {
+const newReport = {
     week: newWeek,
     date: `${newDate.getFullYear()}-${formatNumberForDate(newDate.getMonth() + 1)}-${formatNumberForDate(newDate.getDate())}`,
     theme,
@@ -112,17 +114,15 @@ const report = {
 };
 
 slots.forEach(slot => {
-    report.slots.push({ type: slot.slot, hint: slot.hint });
+    newReport.slots.push({ type: slot.slot, hint: slot.hint });
 });
 
-masterData.reports.push(report);
+masterData.reports.push(newReport);
 
 const lastReportNew = getLastReport(masterData);
 
 console.log(`Last report after addition is week ${lastReportNew.week} for ${lastReportNew.date}`);
-
-const newData = JSON.stringify(masterData, null, 4);
-fs.writeFileSync('../src/data/master.json', newData);
+fs.writeFileSync(MASTER_FILE, JSON.stringify(masterData, null, INDENT_SIZE));
 
 function formatNumberForDate(value) {
     if (value > 9) {

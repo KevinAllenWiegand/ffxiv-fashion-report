@@ -1,6 +1,8 @@
 'use strict'
 
 const fs = require('fs');
+const MASTER_FILE = '../src/data/master.json';
+const INDENT_SIZE = 4;
 const SLOT_TYPES = [
     'Head',
     'Body',
@@ -13,7 +15,7 @@ const SLOT_TYPES = [
     'Ring'
 ];
 
-let rawMasterData = fs.readFileSync('../src/data/master.json');
+let rawMasterData = fs.readFileSync(MASTER_FILE);
 let masterData = JSON.parse(rawMasterData);
 
 // Sort the slots (By order of the "enum" [SLOT_TYPES.indexOf(slot)], and then by the hint)
@@ -44,5 +46,4 @@ masterData.slots.forEach(slot => {
     });
 });
 
-const newData = JSON.stringify(masterData, null, 4);
-fs.writeFileSync('../src/data/master.json', newData);
+fs.writeFileSync(MASTER_FILE, JSON.stringify(masterData, null, INDENT_SIZE));
