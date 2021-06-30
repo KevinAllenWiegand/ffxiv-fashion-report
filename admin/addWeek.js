@@ -116,8 +116,8 @@ if (process.argv.length > 1) {
 
     console.log(`Last report after addition is week ${lastReportNew.week} for ${lastReportNew.date}`);
 
-    const newData = JSON.stringify(masterData, null, 2);
-    fs.writeFileSync('../src/data/master-new.json', newData);
+    const newData = JSON.stringify(masterData, null, 4);
+    fs.writeFileSync('../src/data/master.json', newData);
 }
 
 function formatNumberForDate(value) {
