@@ -9,7 +9,7 @@
 //   legs "''Ala'' Carte"
 
 // Full Example:
-//   node addweek "This is the Theme" head "Tip 'o the Arhat" legs "''Ala'' Carte" hands "All in the Wrist" ring "Jewels of Black"
+//   node addweek "Painting Light" head "Chapeau du Choice" body "Doublet The Fun" legs "Smallfolk" feet "Tip o' The Arhat"
 
 const fs = require('fs');
 const SLOT_TYPES = [
