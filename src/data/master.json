@@ -8845,6 +8845,29 @@
                     "hint": "Tip o' The Arhat"
                 }
             ]
+        },
+        {
+            "week": 180,
+            "date": "2021-07-09",
+            "theme": "Killer Jufuku",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Masterless"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Ryumyaku"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Smitten With Mittens"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In The \"Fold\""
+                }
+            ]
         }
     ]
 }
