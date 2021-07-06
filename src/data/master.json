@@ -500,6 +500,33 @@
         },
         {
             "type": "Head",
+            "hint": "Masterless",
+            "items": [
+                {
+                    "name": "Antiquated/Myochin Jingasa"
+                },
+                {
+                    "name": "Gnath Head"
+                },
+                {
+                    "name": "Hakuko Men"
+                },
+                {
+                    "name": "Head Bandage"
+                },
+                {
+                    "name": "Kokuko Men"
+                },
+                {
+                    "name": "Non La"
+                },
+                {
+                    "name": "Scion Rogue's Bandana"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Medic!",
             "items": [
                 {
@@ -1742,25 +1769,25 @@
             "hint": "Ryumyaku",
             "items": [
                 {
-                    "name": "Ryumyaku Dogi Of Casting"
+                    "name": "Dai-/Ryumyaku Dogi Of Casting"
                 },
                 {
-                    "name": "Ryumyaku Dogi Of Healing"
+                    "name": "Dai-/Ryumyaku Dogi Of Healing"
                 },
                 {
-                    "name": "Ryumyaku Jufuku Of Aiming"
+                    "name": "Dai-/Ryumyaku Jufuku Of Aiming"
                 },
                 {
-                    "name": "Ryumyaku Jufuku Of Fending"
+                    "name": "Dai-/Ryumyaku Jufuku Of Fending"
                 },
                 {
-                    "name": "Ryumyaku Jufuku Of Maiming"
+                    "name": "Dai-/Ryumyaku Jufuku Of Maiming"
                 },
                 {
-                    "name": "Ryumyaku Togi Of Scouting"
+                    "name": "Dai-/Ryumyaku Togi Of Scouting"
                 },
                 {
-                    "name": "Ryumyaku Togi Of Striking"
+                    "name": "Dai-/Ryumyaku Togi Of Striking"
                 }
             ]
         },
