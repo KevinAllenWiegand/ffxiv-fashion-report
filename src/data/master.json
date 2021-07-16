@@ -626,6 +626,15 @@
         },
         {
             "type": "Head",
+            "hint": "Natural Beauty",
+            "items": [
+                {
+                    "name": "Stablemaid's Hat"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Off To War",
             "items": [
                 {
@@ -1554,6 +1563,24 @@
                 },
                 {
                     "name": "Spotted Spencer"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "Near Eastern Nights",
+            "items": [
+                {
+                    "name": "Marid Leather Bolero Of Crafting"
+                },
+                {
+                    "name": "Marid Leather Bolero Of Gathering"
+                },
+                {
+                    "name": "Thavnairian Bolero"
+                },
+                {
+                    "name": "Thavnairian Bustier"
                 }
             ]
         },
@@ -2973,6 +3000,15 @@
                 },
                 {
                     "name": "Subjugator's Armguards"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
+            "hint": "Tooth And \"Nail\"",
+            "items": [
+                {
+                    "name": "Claws Of The Beast"
                 }
             ]
         },
@@ -4581,6 +4617,21 @@
         {
             "type": "Feet",
             "hint": "\"Fringe\" Benefits",
+            "items": [
+                {
+                    "name": "Dhalmelskin Fringe Boots"
+                },
+                {
+                    "name": "Gaganaskin Fringe Boots"
+                },
+                {
+                    "name": "Serpentskin Fringe Boots"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
+            "hint": "Fringed And Footloose",
             "items": [
                 {
                     "name": "Dhalmelskin Fringe Boots"
