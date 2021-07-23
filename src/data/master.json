@@ -1916,7 +1916,7 @@
                     "name": "Skallic Jacket Of Scouting"
                 },
                 {
-                    "name": "Skallic Jacket Of Stricking"
+                    "name": "Skallic Jacket Of Striking"
                 }
             ]
         },
@@ -8967,6 +8967,29 @@
                 {
                     "type": "Feet",
                     "hint": "Fringed And Footloose"
+                }
+            ]
+        },
+        {
+            "week": 182,
+            "date": "2021-07-23",
+            "theme": "Ringmaster",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Silken Things"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Skalla Back"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Dueling Duelist"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Avant Garde"
                 }
             ]
         }
