@@ -5081,6 +5081,9 @@
                     "name": "Archaeoskin Halfboots"
                 },
                 {
+                    "name": "Augmented/Shire Pankratiast's Boots"
+                },
+                {
                     "name": "High House Halfboots"
                 },
                 {
@@ -8990,6 +8993,29 @@
                 {
                     "type": "Feet",
                     "hint": "Avant Garde"
+                }
+            ]
+        },
+        {
+            "week": 183,
+            "date": "2021-07-30",
+            "theme": "High-Class Postmaster",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Cap In Hand"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Weird Science"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Check And Check"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Short Boots"
                 }
             ]
         }
