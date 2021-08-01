@@ -2306,6 +2306,27 @@
         },
         {
             "type": "Body",
+            "hint": "Weird Science",
+            "items": [
+                {
+                    "name": "Dark Divinity Feldr"
+                },
+                {
+                    "name": "Ramie Robe Of Casting"
+                },
+                {
+                    "name": "Ramie Robe Of Healing"
+                },
+                {
+                    "name": "Robe Of Divine Death"
+                },
+                {
+                    "name": "Robe Of The Divine Harvest"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Who Needs Sleeves",
             "items": [
                 {
