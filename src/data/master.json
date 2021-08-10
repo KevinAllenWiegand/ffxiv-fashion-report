@@ -2429,6 +2429,15 @@
             "hint": "Brace For Impact",
             "items": [
                 {
+                    "name": "Darklight Bracers Of Aiming"
+                },
+                {
+                    "name": "Darklight Bracers Of Striking"
+                },
+                {
+                    "name": "Demon Bracers Of Striking"
+                },
+                {
                     "name": "Gazelleskin Bracers Of Fending"
                 },
                 {
@@ -2451,6 +2460,9 @@
                 },
                 {
                     "name": "Serpentskin Bracers Of Striking"
+                },
+                {
+                    "name": "Venerer's Bracers"
                 },
                 {
                     "name": "Warwolf Bracers Of Striking"
@@ -4128,6 +4140,39 @@
                 },
                 {
                     "name": "Weathered/Noct Breeches"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
+            "hint": "Suddenly Sarouels",
+            "items": [
+                {
+                    "name": "Cotton Sarouel"
+                },
+                {
+                    "name": "Hempen Sarouel"
+                },
+                {
+                    "name": "Linen Sarouel"
+                },
+                {
+                    "name": "Linen Sarouel of Gathering"
+                },
+                {
+                    "name": "Thavnairian Sarouel"
+                },
+                {
+                    "name": "Velveteen Sarouel"
+                },
+                {
+                    "name": "Velveteen Sarouel of Gathering"
+                },
+                {
+                    "name": "Woolen Sarouel"
+                },
+                {
+                    "name": "Woolen Sarouel of Gathering"
                 }
             ]
         },
@@ -9037,6 +9082,52 @@
                 {
                     "type": "Feet",
                     "hint": "Short Boots"
+                }
+            ]
+        },
+        {
+            "week": 184,
+            "date": "2021-08-06",
+            "theme": "Illuminated Ironworks",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Cid Approved"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Brace For Impact"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Suddenly Sarouels"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "\"Labor\" Of Love"
+                }
+            ]
+        },
+        {
+            "week": 185,
+            "date": "2021-08-13",
+            "theme": "Warm-Weather Contraband",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Ride The Tides"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Who Needs Sleeves"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "\"Ala\" Carte"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Bookworm"
                 }
             ]
         }
