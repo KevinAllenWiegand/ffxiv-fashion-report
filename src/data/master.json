@@ -9130,6 +9130,29 @@
                     "hint": "Bookworm"
                 }
             ]
+        },
+        {
+            "week": 186,
+            "date": "2021-08-20",
+            "theme": "Enlightened Conservationist",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Natural Beauty"
+                },
+                {
+                    "type": "Body",
+                    "hint": "To Adventure"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Go West"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Avant Garde"
+                }
+            ]
         }
     ]
 }
