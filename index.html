@@ -22,6 +22,11 @@
             color: #d8728f;
         }
 
+        .slotType {
+            display: inline;
+            width: 75pt;
+        }
+
         .results,
         .itemResults,
         .reportResults {
@@ -72,8 +77,11 @@
         #slot1Hint,
         #slot2Hint,
         #slot3Hint,
-        #slot4Hint {
+        #slot4Hint,
+        #slot5Hint {
+            display: inline;
             margin-left: 2pt;
+            width: 165pt;
         }
 
         .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
@@ -114,6 +122,14 @@
             color: #ffffff;
             cursor: pointer;
             text-decoration: none;
+        }
+
+        #itemName {
+            width: 165pt;
+        }
+
+        #itemSearchButton {
+            margin-left: 2pt;
         }
     </style>
 
@@ -159,44 +175,37 @@
 
                 <!-- Heading Row -->
                 <div class="row row-no-gutters">
-                    <div class="col col-lg-3 form-inline justify-content-center">
-                        <select id="slot1Type" class="form-control form-control-sm"></select>
-                        <input type="text" id="slot1Hint" class="form-control form-control-sm" placeholder="Hint" />
-                    </div>
-
-                    <div class="col col-lg-3 form-inline justify-content-center">
-                        <select id="slot2Type" class="form-control form-control-sm"></select>
-                        <input type="text" id="slot2Hint" class="form-control form-control-sm" placeholder="Hint" />
-                    </div>
-
-                    <div class="col col-lg-3 form-inline justify-content-center">
-                        <select id="slot3Type" class="form-control form-control-sm"></select>
-                        <input type="text" id="slot3Hint" class="form-control form-control-sm" placeholder="Hint" />
-                    </div>
-
-                    <div class="col col-lg-3 form-inline justify-content-center">
-                        <select id="slot4Type" class="form-control form-control-sm"></select>
-                        <input type="text" id="slot4Hint" class="form-control form-control-sm" placeholder="Hint" />
-                    </div>
-                </div>
-
-                <!-- Results Row -->
-                <div class="row row-no-gutters">
-                    <div class="col col-lg-3">
-                        <div id="slot1Results" class="results"></div>
-                    </div>
-
-                    <div class="col col-lg-3">
-                        <div id="slot2Results" class="results"></div>
-                    </div>
-
-                    <div class="col col-lg-3">
-                        <div id="slot3Results" class="results"></div>
-                    </div>
-
-                    <div class="col col-lg-3">
-                        <div id="slot4Results" class="results"></div>
-                    </div>
+                    <table>
+                        <tr>
+                            <td>
+                                <select id="slot1Type" class="form-control form-control-sm slotType"></select>
+                                <input type="text" id="slot1Hint" class="form-control form-control-sm" placeholder="Hint" />
+                            </td>
+                            <td>
+                                <select id="slot2Type" class="form-control form-control-sm slotType"></select>
+                                <input type="text" id="slot2Hint" class="form-control form-control-sm" placeholder="Hint" />
+                            </td>
+                            <td>
+                                <select id="slot3Type" class="form-control form-control-sm slotType"></select>
+                                <input type="text" id="slot3Hint" class="form-control form-control-sm" placeholder="Hint" />
+                            </td>
+                            <td>
+                                <select id="slot4Type" class="form-control form-control-sm slotType"></select>
+                                <input type="text" id="slot4Hint" class="form-control form-control-sm" placeholder="Hint" />
+                            </td>
+                            <td>
+                                <select id="slot5Type" class="form-control form-control-sm slotType"></select>
+                                <input type="text" id="slot5Hint" class="form-control form-control-sm" placeholder="Hint" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div id="slot1Results" class="results"></div></td>
+                            <td><div id="slot2Results" class="results"></div></td>
+                            <td><div id="slot3Results" class="results"></div></td>
+                            <td><div id="slot4Results" class="results"></div></td>
+                            <td><div id="slot5Results" class="results"></div></td>
+                        </tr>
+                    </table>
                 </div>
             </div>
 
@@ -207,24 +216,28 @@
                 </div>
 
                 <div class="row row-no-gutters">
-                    <div class="col col-lg-3">
-                        <input type="text" id="itemName" class="form-control form-control-sm" placeholder="Item Name" />
-                    </div>
-                    <div class="col col-lg-1">
-                        <input type="button" id="itemSearchButton" class="btn btn-primary" value="Search" />
-                    </div>
+                    <table>
+                        <tr>
+                            <td><input type="text" id="itemName" class="form-control form-control-sm" placeholder="Item Name" /></td>
+                            <td><input type="button" id="itemSearchButton" class="btn btn-primary" value="Search" /></td>
+                        </tr>
+                    </table>
                 </div>
 
                 <div class="row row-no-gutters">
-                    <div class="col col-lg-4">
-                        <h5>Item Results</h5>
-                        <div id="itemSearchResults" class="itemResults"></div>
-                    </div>
+                    <table>
+                        <th>Item Results</th>
+                        <th>Report Results</th>
 
-                    <div class="col col-lg-8">
-                        <h5>Report Results</h5>
-                        <div id="reportSearchResults" class="reportResults"></div>
-                    </div>
+                        <tr>
+                            <td>
+                                <div id="itemSearchResults" class="itemResults"></div>
+                            </td>
+                            <td>
+                                <div id="reportSearchResults" class="reportResults"></div>
+                            </td>
+                        </tr>
+                    </table>
                 </div>
             </div>
         </div>

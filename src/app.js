@@ -17,8 +17,11 @@ const SLOTS = [
     'slot1',
     'slot2',
     'slot3',
-    'slot4'
+    'slot4',
+    'slot5'
 ];
+
+let searchTimeoutObject;
 
 init();
 
@@ -77,6 +80,16 @@ $('#itemSearchButton').on('click', function() {
     searchItems(itemName);
 });
 
+$('#itemName').on('keyup', function () {
+    if (searchTimeoutObject) {
+        clearTimeout(searchTimeoutObject);
+    }
+    
+    searchTimeoutObject = setTimeout(function() {
+        $('#itemSearchButton').trigger('click');
+    }, 500);
+});
+
 function init() {
     loadOwnedItems();
     
@@ -119,7 +132,7 @@ function getLatestReport() {
     for (let index = fashionReportData.reports.length - 1; index > -1; index--) {
         const report = fashionReportData.reports[index];
 
-        if (report.theme && report.slots && report.slots.length == 4) {
+        if (report.theme && report.slots && (report.slots.length == 4 || report.slots.length == 5)) {
             if (!latestReport || report.week > latestReport.week) {
                 latestReport = report;
             }
@@ -288,7 +301,7 @@ function loadWeek(weekNumber) {
             }
         });
 
-        $("#navHome").trigger("click");
+        $('#navHome').trigger('click');
     }
 }
 

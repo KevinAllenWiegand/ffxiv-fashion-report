@@ -5222,6 +5222,15 @@
         },
         {
             "type": "Ear",
+            "hint": "Beautiful Dreamer",
+            "items": [
+                {
+                    "name": "Any Lakshmi's Earrings"
+                }
+            ]
+        },
+        {
+            "type": "Ear",
             "hint": "Coiled Finally",
             "items": [
                 {
@@ -5421,6 +5430,15 @@
             "items": [
                 {
                     "name": "Any High Allagan Choker"
+                }
+            ]
+        },
+        {
+            "type": "Neck",
+            "hint": "Dravanian Choker",
+            "items": [
+                {
+                    "name": "Any Dravanian Choker"
                 }
             ]
         },
@@ -5861,10 +5879,10 @@
                     "name": "Any Skallic Ring"
                 },
                 {
-                    "name": "Eternity Ring"
+                    "name": "Augmented/Shire Pankratiast's Ring"
                 },
                 {
-                    "name": "Shire Pankratiast's Ring"
+                    "name": "Eternity Ring"
                 }
             ]
         },
@@ -5882,7 +5900,7 @@
                     "name": "Any Yeti Fang Ring"
                 },
                 {
-                    "name": "Shire Custodian's Ring"
+                    "name": "Augmented/Shire Custodian's Ring"
                 }
             ]
         },
@@ -9151,6 +9169,33 @@
                 {
                     "type": "Feet",
                     "hint": "Avant Garde"
+                }
+            ]
+        },
+        {
+            "week": 187,
+            "date": "2021-08-27",
+            "theme": "Bedecked And Bejeweled",
+            "slots": [
+                {
+                    "type": "Ear",
+                    "hint": "Beautiful Dreamer"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Dravanian Choker"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Simply Gorgeous"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Skirts Of A Feather"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Simply Gorgeous"
                 }
             ]
         }
