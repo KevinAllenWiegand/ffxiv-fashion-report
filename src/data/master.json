@@ -5,10 +5,16 @@
             "hint": "1 Eye Is Better Than 2",
             "items": [
                 {
+                    "name": "Darklight Eyepatch Of Aiming"
+                },
+                {
                     "name": "Darklight Eyepatch Of Striking"
                 },
                 {
-                    "name": "Goatskin Leather Eyepatch"
+                    "name": "Eyepatch Of The Divine Hero"
+                },
+                {
+                    "name": "Goatskin Eyepatch"
                 },
                 {
                     "name": "Gryphonskin Eyepatch"
@@ -20,7 +26,16 @@
                     "name": "Leather Eyepatch"
                 },
                 {
+                    "name": "Picaroon's Eyepatch Of Striking"
+                },
+                {
+                    "name": "Pilgrim's Eyepatch"
+                },
+                {
                     "name": "Skull Eyepatch"
+                },
+                {
+                    "name": "Warwolf Eyepatch Of Striking"
                 },
                 {
                     "name": "Wyvernskin Eyepatch Of Striking"
@@ -3165,6 +3180,9 @@
                 },
                 {
                     "name": "Sailor Brais"
+                },
+                {
+                    "name": "Southern Seas Trunks"
                 }
             ]
         },
@@ -5696,6 +5714,21 @@
         },
         {
             "type": "Wrist",
+            "hint": "Simply Gorgeous",
+            "items": [
+                {
+                    "name": "Any Black Willow Armillae"
+                },
+                {
+                    "name": "Any Camphorwood Armillae"
+                },
+                {
+                    "name": "Augmented/Shire Pankratiast's Bracelets"
+                }
+            ]
+        },
+        {
+            "type": "Wrist",
             "hint": "The Father",
             "items": [
                 {
@@ -5859,6 +5892,42 @@
                 },
                 {
                     "name": "Zircon Ring"
+                }
+            ]
+        },
+        {
+            "type": "Ring",
+            "hint": "Jewels Of Yellow",
+            "items": [
+                {
+                    "name": "Amber Ring"
+                },
+                {
+                    "name": "Any Augmented Ironworks Ring"
+                },
+                {
+                    "name": "Any Triphane Ring"
+                },
+                {
+                    "name": "Heliodor Ring"
+                },
+                {
+                    "name": "High/Allagan Ring Of Fending"
+                },
+                {
+                    "name": "High/Allagan Ring Of Slaying"
+                },
+                {
+                    "name": "Platinum Ring Of Fending"
+                },
+                {
+                    "name": "Sphene Ring"
+                },
+                {
+                    "name": "Topaz Ring"
+                },
+                {
+                    "name": "Wolf Amber Ring"
                 }
             ]
         },
@@ -9196,6 +9265,29 @@
                 {
                     "type": "Ring",
                     "hint": "Simply Gorgeous"
+                }
+            ]
+        },
+        {
+            "week": 188,
+            "date": "2021-09-03",
+            "theme": "Impaired Visionary",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "1 Eye Is Better Than 2"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Skirts Of A Feather"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "A Sailor's Life"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Jewels Of Yellow"
                 }
             ]
         }
