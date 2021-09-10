@@ -991,6 +991,30 @@
             ]
         },
         {
+            "type": "Head",
+            "hint": "Winter Wonderland",
+            "items": [
+                {
+                    "name": "Cashmere Hood"
+                },
+                {
+                    "name": "Dream Hat"
+                },
+                {
+                    "name": "Highland Hood"
+                },
+                {
+                    "name": "Ramie Hood"
+                },
+                {
+                    "name": "Saint's Cap"
+                },
+                {
+                    "name": "Starlight Sugerloaf Hat"
+                }
+            ]
+        },
+        {
             "type": "Body",
             "hint": "A Pirate's Life",
             "items": [
@@ -1415,7 +1439,7 @@
                     "name": "Gnath Thorax"
                 },
                 {
-                    "name": "Vath Throax"
+                    "name": "Vath Thorax"
                 }
             ]
         },
@@ -1530,6 +1554,33 @@
                 },
                 {
                     "name": "Vanya Robe Of Healing"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "In Sheep's Clothing",
+            "items": [
+                {
+                    "name": "Gnath Thorax"
+                },
+                {
+                    "name": "Moogle Body"
+                },
+                {
+                    "name": "Oyoroi Of The Blue"
+                },
+                {
+                    "name": "Vanu Vanu Body"
+                },
+                {
+                    "name": "Vath Thorax"
+                },
+                {
+                    "name": "Werewolf Body"
+                },
+                {
+                    "name": "Zundu Body"
                 }
             ]
         },
@@ -5636,6 +5687,33 @@
         },
         {
             "type": "Wrist",
+            "hint": "Jewels Of Red",
+            "items": [
+                {
+                    "name": "Darklight Bracelet Of Striking"
+                },
+                {
+                    "name": "Garnet Bracelet"
+                },
+                {
+                    "name": "Platinum Bangle Of Slaying"
+                },
+                {
+                    "name": "Rubellite Bracelet"
+                },
+                {
+                    "name": "Ruby Bracelet"
+                },
+                {
+                    "name": "Sunstone Bracelet"
+                },
+                {
+                    "name": "Wolf Rubellite Bracelet"
+                }
+            ]
+        },
+        {
+            "type": "Wrist",
             "hint": "Jewels Of Violet",
             "items": [
                 {
@@ -9288,6 +9366,29 @@
                 {
                     "type": "Ring",
                     "hint": "Jewels Of Yellow"
+                }
+            ]
+        },
+        {
+            "week": 189,
+            "date": "2021-09-10",
+            "theme": "Hidden Trinkets",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Winter Wonderland"
+                },
+                {
+                    "type": "Body",
+                    "hint": "In Sheep's Clothing"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In The \"Fold\""
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Jewels Of Red"
                 }
             ]
         }
