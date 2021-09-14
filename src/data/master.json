@@ -1355,6 +1355,15 @@
         },
         {
             "type": "Body",
+            "hint": "Cooking Up A Storm",
+            "items": [
+                {
+                    "name": "Augmented/Galleykeep's Whites"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Dalmascan Chic",
             "items": [
                 {
@@ -3716,6 +3725,24 @@
         },
         {
             "type": "Legs",
+            "hint": "Long Skirt",
+            "items": [
+                {
+                    "name": "Plain Long Skirt"
+                },
+                {
+                    "name": "Spring Skirt"
+                },
+                {
+                    "name": "Yasha Hakama of Casting"
+                },
+                {
+                    "name": "Yasha Hakama of Healing"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "Motley Crew",
             "items": [
                 {
@@ -4626,6 +4653,21 @@
                 },
                 {
                     "name": "Toadskin Workboots"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
+            "hint": "Cute As A Button",
+            "items": [
+                {
+                    "name": "Artisan's Sandals"
+                },
+                {
+                    "name": "Bridesmaid's Sandals"
+                },
+                {
+                    "name": "Meandering Mog Slippers"
                 }
             ]
         },
@@ -9389,6 +9431,29 @@
                 {
                     "type": "Wrist",
                     "hint": "Jewels Of Red"
+                }
+            ]
+        },
+        {
+            "week": 190,
+            "date": "2021-09-17",
+            "theme": "Lunar Culinarian",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Moon Unit"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Cooking Up A Storm"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Long Skirt"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Cute As A Button"
                 }
             ]
         }
