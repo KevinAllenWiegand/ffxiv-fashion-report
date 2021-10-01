@@ -2402,6 +2402,33 @@
         },
         {
             "type": "Body",
+            "hint": "Well-Suited",
+            "items": [
+                {
+                    "name": "Best Man's Jacket"
+                },
+                {
+                    "name": "Butler's Jacket"
+                },
+                {
+                    "name": "Loyal Butler's Jacket"
+                },
+                {
+                    "name": "Spotted Spencer"
+                },
+                {
+                    "name": "Tailcoat of Eternal Devotion"
+                },
+                {
+                    "name": "Tailcoat of Eternal Innocence"
+                },
+                {
+                    "name": "Tailcoat of Eternal Passion"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Who Needs Sleeves",
             "items": [
                 {
@@ -2496,6 +2523,27 @@
                 },
                 {
                     "name": "The Guardian's Armguards Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
+            "hint": "Bewitched",
+            "items": [
+                {
+                    "name": "Antiquated Constellation Armlets"
+                },
+                {
+                    "name": "Ghost Barque Long Gloves Of Scouting"
+                },
+                {
+                    "name": "Star Velvet Long Gloves Of Casting"
+                },
+                {
+                    "name": "Star Velvet Long Gloves Of Healing"
+                },
+                {
+                    "name": "Thavnairian Armlets"
                 }
             ]
         },
@@ -9454,6 +9502,52 @@
                 {
                     "type": "Feet",
                     "hint": "Cute As A Button"
+                }
+            ]
+        },
+        {
+            "week": 191,
+            "date": "2021-09-24",
+            "theme": "News Desk Formal",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Well-Suited"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Coiled Finally"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Reborn"
+                },
+                {
+                    "type": "Ear",
+                    "hint": "Proto Posh"
+                }
+            ]
+        },
+        {
+            "week": 192,
+            "date": "2021-10-01",
+            "theme": "Fangs Bared",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Leaping Leopards"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Bewitched"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Old Country"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Skirts Of A Feather"
                 }
             ]
         }
