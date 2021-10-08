@@ -266,6 +266,21 @@
         },
         {
             "type": "Head",
+            "hint": "Cooking Up A Storm",
+            "items": [
+                {
+                    "name": "Augmented Galleykeep's Toque"
+                },
+                {
+                    "name": "Augmented Galleyking's Toque"
+                },
+                {
+                    "name": "Culinarian's Hat"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Daisy Chain",
             "items": [
                 {
@@ -9548,6 +9563,29 @@
                 {
                     "type": "Ring",
                     "hint": "Skirts Of A Feather"
+                }
+            ]
+        },
+        {
+            "week": 193,
+            "date": "2021-10-08",
+            "theme": "Simple Chef",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Cooking Up A Storm"
+                },
+                {
+                    "type": "Body",
+                    "hint": "In Tunic"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Hand In Long Glove"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Paying The Duckbills"
                 }
             ]
         }
