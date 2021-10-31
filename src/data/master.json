@@ -3809,13 +3809,13 @@
             "hint": "Motley Crew",
             "items": [
                 {
-                    "name": "Hallowed Raimie Gaskins Of Aiming"
+                    "name": "Hallowed Ramie Gaskins Of Aiming"
                 },
                 {
-                    "name": "Hallowed Raimie Gaskins Of Casting"
+                    "name": "Hallowed Ramie Gaskins Of Casting"
                 },
                 {
-                    "name": "Hallowed Raimie Gaskins Of Healing"
+                    "name": "Hallowed Ramie Gaskins Of Healing"
                 },
                 {
                     "name": "Shikaree's Gaskins"
@@ -6047,7 +6047,7 @@
                     "name": "Spinel Ring"
                 },
                 {
-                    "name": "Wold Spinel Ring"
+                    "name": "Wolf Spinel Ring"
                 }
             ]
         },
@@ -9632,6 +9632,29 @@
                 {
                     "type": "Feet",
                     "hint": "Avant Garde"
+                }
+            ]
+        },
+        {
+            "week": 196,
+            "date": "2021-10-29",
+            "theme": "Magnificent Majesty",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Royal"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Noblesse Oblige"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Motley Crew"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Jewels Of Violet"
                 }
             ]
         }
