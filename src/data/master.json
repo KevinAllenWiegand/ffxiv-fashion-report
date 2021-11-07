@@ -479,6 +479,18 @@
         },
         {
             "type": "Head",
+            "hint": "Keeping It Casual",
+            "items": [
+                {
+                    "name": "Augmented/Tacklekeep's Cap"
+                },
+                {
+                    "name": "Flat Cap"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Keeping It Weird",
             "items": [
                 {
@@ -1938,6 +1950,54 @@
                 },
                 {
                     "name": "Shirt Of The Divine Light"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "Scarf It Down",
+            "items": [
+                {
+                    "name": "Aiming Hallowed"
+                },
+                {
+                    "name": "Archaeoskin Jackcoat Of Crafting"
+                },
+                {
+                    "name": "Archaeoskin Jackcoat Of Gathering"
+                },
+                {
+                    "name": "Casting"
+                },
+                {
+                    "name": "Doublet"
+                },
+                {
+                    "name": "Doublet"
+                },
+                {
+                    "name": "Fistfighter's Jackcoat"
+                },
+                {
+                    "name": "Hallowed"
+                },
+                {
+                    "name": "Of"
+                },
+                {
+                    "name": "Of"
+                },
+                {
+                    "name": "Ramie"
+                },
+                {
+                    "name": "Ramie"
+                },
+                {
+                    "name": "Replica/Sky Pirate's Jacket Of Striking"
+                },
+                {
+                    "name": "Swine Body"
                 }
             ]
         },
@@ -9655,6 +9715,29 @@
                 {
                     "type": "Ring",
                     "hint": "Jewels Of Violet"
+                }
+            ]
+        },
+        {
+            "week": 197,
+            "date": "2021-11-05",
+            "theme": "Cloudborne Cutthroat",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Keeping It Casual"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Scarf It Down"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Motley Crew"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Armored Core"
                 }
             ]
         }
