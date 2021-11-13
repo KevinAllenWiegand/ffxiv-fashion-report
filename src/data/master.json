@@ -3845,6 +3845,27 @@
         },
         {
             "type": "Legs",
+            "hint": "Most Beast Than Man",
+            "items": [
+                {
+                    "name": "Gnath Abdomen"
+                },
+                {
+                    "name": "Moogle Buns"
+                },
+                {
+                    "name": "Tsutsu-Hakama Of The Blue"
+                },
+                {
+                    "name": "Vanu Vanu Waist"
+                },
+                {
+                    "name": "Zundu Waist"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "Motley Crew",
             "items": [
                 {
@@ -9717,6 +9738,29 @@
                 {
                     "type": "Feet",
                     "hint": "Armored Core"
+                }
+            ]
+        },
+        {
+            "week": 198,
+            "date": "2021-11-12",
+            "theme": "Padded Pier-Sitter",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Cooking Up A Storm"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "C'est Chic"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Most Beast Than Man"
                 }
             ]
         }
