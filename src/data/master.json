@@ -344,6 +344,12 @@
                     "name": "Archaeoskin Cloche"
                 },
                 {
+                    "name": "Black-Feathered Flat"
+                },
+                {
+                    "name": "Duelist's Chapeau"
+                },
+                {
                     "name": "Felt Cavalier's Hat"
                 },
                 {
@@ -351,6 +357,9 @@
                 },
                 {
                     "name": "Ranger's Hat"
+                },
+                {
+                    "name": "Red-Feathered Flat Hat"
                 },
                 {
                     "name": "Serge Hat Of Casting"
@@ -4001,6 +4010,42 @@
         },
         {
             "type": "Legs",
+            "hint": "Pretty In Pantaloons",
+            "items": [
+                {
+                    "name": "Antiquated/Seventh Hell Breeches"
+                },
+                {
+                    "name": "Dravanian Trousers Of Striking"
+                },
+                {
+                    "name": "Picaroon's Trousers Of Maiming"
+                },
+                {
+                    "name": "Picaroon's Trousers Of Striking"
+                },
+                {
+                    "name": "Picaroon's Trousers Of Scouting"
+                },
+                {
+                    "name": "Ramie Trousers Of Aiming"
+                },
+                {
+                    "name": "Ramie Trousers Of Scouting"
+                },
+                {
+                    "name": "Ramie Trousers Of Striking"
+                },
+                {
+                    "name": "Star Velvet Bottoms Of Casting"
+                },
+                {
+                    "name": "Star Velvet Bottoms Of Healing"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "Pumped Up Kecks",
             "items": [
                 {
@@ -5751,6 +5796,24 @@
                 },
                 {
                     "name": "Zircon Choker"
+                }
+            ]
+        },
+        {
+            "type": "Neck",
+            "hint": "Leather",
+            "items": [
+                {
+                    "name": "Boarskin Choker"
+                },
+                {
+                    "name": "Goatskin Choker"
+                },
+                {
+                    "name": "Hard Leather Choker"
+                },
+                {
+                    "name": "Leather Choker"
                 }
             ]
         },
@@ -9761,6 +9824,52 @@
                 {
                     "type": "Legs",
                     "hint": "Most Beast Than Man"
+                }
+            ]
+        },
+        {
+            "week": 199,
+            "date": "2021-11-19",
+            "theme": "Hot Under The Collar",
+            "slots": [
+                {
+                    "type": "Hands",
+                    "hint": "The Conqueror"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Pretty In Pantaloons"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Primal Revival"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Leather"
+                }
+            ]
+        },
+        {
+            "week": 200,
+            "date": "2021-11-26",
+            "theme": "Fashion Gatekeeper",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Feather In Your Cap"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Noblesse Oblige"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Skirts Of A Feather"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "\"Fringe\" Benefits"
                 }
             ]
         }
