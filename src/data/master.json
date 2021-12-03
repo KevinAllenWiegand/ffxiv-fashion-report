@@ -6299,6 +6299,30 @@
         },
         {
             "type": "Ring",
+            "hint": "The Coil That Binds",
+            "items": [
+                {
+                    "name": "Allagan Ring Of Aiming"
+                },
+                {
+                    "name": "Allagan Ring Of Casting"
+                },
+                {
+                    "name": "Allagan Ring Of Fending"
+                },
+                {
+                    "name": "Allagan Ring Of Healing"
+                },
+                {
+                    "name": "Allagan Ring Of Maiming"
+                },
+                {
+                    "name": "Allagan Ring Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Ring",
             "hint": "The Son",
             "items": [
                 {
@@ -9870,6 +9894,29 @@
                 {
                     "type": "Feet",
                     "hint": "\"Fringe\" Benefits"
+                }
+            ]
+        },
+        {
+            "week": 201,
+            "date": "2021-12-03",
+            "theme": "Iron Of Leg, Steady Of Heart",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Born Bliaud"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Storm Of Blood"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Armored Core"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "The Coil That Binds"
                 }
             ]
         }
