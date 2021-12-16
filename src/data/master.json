@@ -2247,6 +2247,9 @@
                 },
                 {
                     "name": "Gyuki Leather Jacket"
+                },
+                {
+                    "name": "Wrangler's Jacket"
                 }
             ]
         },
@@ -4512,6 +4515,24 @@
                 },
                 {
                     "name": "Genta Tsutsu-Hakama Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
+            "hint": "The Wild Side",
+            "items": [
+                {
+                    "name": "Anemos Chaps"
+                },
+                {
+                    "name": "Gaganaskin Chaps Of Aiming"
+                },
+                {
+                    "name": "Gyuki Leather Chaps"
+                },
+                {
+                    "name": "Wrangler's Chaps"
                 }
             ]
         },
@@ -9917,6 +9938,52 @@
                 {
                     "type": "Ring",
                     "hint": "The Coil That Binds"
+                }
+            ]
+        },
+        {
+            "week": 202,
+            "date": "2021-12-10",
+            "theme": "Sloppy Sailor",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Ride The Tides"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Dalmascan Chic"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Sleight Of Hand"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Tip O' The Arhat"
+                }
+            ]
+        },
+        {
+            "week": 203,
+            "date": "2021-12-17",
+            "theme": "Spellbinding Drover",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Coiled Finally"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Dalmascan Chic"
                 }
             ]
         }
