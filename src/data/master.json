@@ -5654,6 +5654,21 @@
         },
         {
             "type": "Ear",
+            "hint": "Keeping Company",
+            "items": [
+                {
+                    "name": "Crimson Standard Earrings"
+                },
+                {
+                    "name": "Lily And Serpent Earrings"
+                },
+                {
+                    "name": "Tipping Scales Earrings"
+                }
+            ]
+        },
+        {
+            "type": "Ear",
             "hint": "Proto Posh",
             "items": [
                 {
@@ -9984,6 +9999,29 @@
                 {
                     "type": "Feet",
                     "hint": "Dalmascan Chic"
+                }
+            ]
+        },
+        {
+            "week": 204,
+            "date": "2021-12-24",
+            "theme": "Patrician Magician",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Dueling Duelist"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Diabolical"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "On Ceremony"
+                },
+                {
+                    "type": "Ear",
+                    "hint": "Keeping Company"
                 }
             ]
         }
