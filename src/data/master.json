@@ -10024,6 +10024,29 @@
                     "hint": "Keeping Company"
                 }
             ]
+        },
+        {
+            "week": 205,
+            "date": "2021-12-31",
+            "theme": "Miscreant Mascot",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Animal Instincts"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Scarf It Down"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Simply Saucer"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Dueling Duelist"
+                }
+            ]
         }
     ]
 }
