@@ -128,6 +128,33 @@
         },
         {
             "type": "Head",
+            "hint": "Animal Instincts",
+            "items": [
+                {
+                    "name": "Bearsmaw Armet"
+                },
+                {
+                    "name": "Black Inu Kabuto"
+                },
+                {
+                    "name": "Lionsmane Armet"
+                },
+                {
+                    "name": "Swine Head"
+                },
+                {
+                    "name": "Werewolf Head"
+                },
+                {
+                    "name": "White Inu Kabudo"
+                },
+                {
+                    "name": "Wyvernskin Mane Of Fending"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Bird Brain",
             "items": [
                 {
@@ -1983,9 +2010,6 @@
                 },
                 {
                     "name": "Replica/Sky Pirate's Jacket Of Striking"
-                },
-                {
-                    "name": "Swine Body"
                 }
             ]
         },
@@ -3120,6 +3144,21 @@
                 },
                 {
                     "name": "Storm Sergeant's Shortgloves"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
+            "hint": "Simply Saucer",
+            "items": [
+                {
+                    "name": "Bunny Chief Loops"
+                },
+                {
+                    "name": "Bunny Loops"
+                },
+                {
+                    "name": "Gambler's Gloves"
                 }
             ]
         },
