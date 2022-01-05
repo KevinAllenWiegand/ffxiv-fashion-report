@@ -10086,6 +10086,29 @@
                     "hint": "Dueling Duelist"
                 }
             ]
+        },
+        {
+            "week": 206,
+            "date": "2022-01-07",
+            "theme": "Animalistic Samurai",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Beastly Head-Turner"
+                },
+                {
+                    "type": "Body",
+                    "hint": "The Tale Of Genji"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "The Tale Of Genji"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Tip O' The Arhat"
+                }
+            ]
         }
     ]
 }
