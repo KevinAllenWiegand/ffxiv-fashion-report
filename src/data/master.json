@@ -155,6 +155,54 @@
         },
         {
             "type": "Head",
+            "hint": "Beastly Head-Turner",
+            "items": [
+                {
+                    "name": "Black Dragon Kabuto"
+                },
+                {
+                    "name": "Black Uma Kabuto"
+                },
+                {
+                    "name": "Black Usagi Kabuto"
+                },
+                {
+                    "name": "Crimson Dragon Kabuto"
+                },
+                {
+                    "name": "Crimson Uma Kabuto"
+                },
+                {
+                    "name": "Dragon Kabuto"
+                },
+                {
+                    "name": "Golden Dragon Kabuto"
+                },
+                {
+                    "name": "Golden Tora Kabuto"
+                },
+                {
+                    "name": "Golden Uma Kabuto"
+                },
+                {
+                    "name": "Silver Snake Kabuto"
+                },
+                {
+                    "name": "Silver Tora Kabuto"
+                },
+                {
+                    "name": "Silver Usagi Kabuto"
+                },
+                {
+                    "name": "Uma Kabuto"
+                },
+                {
+                    "name": "Usagi Kabuto"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Bird Brain",
             "items": [
                 {
