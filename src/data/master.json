@@ -896,6 +896,21 @@
         },
         {
             "type": "Head",
+            "hint": "Sugarloaf Sweet",
+            "items": [
+                {
+                    "name": "Cotton Sugarloaf Hat"
+                },
+                {
+                    "name": "Starlight Sugarloaf Hat"
+                },
+                {
+                    "name": "Velveteen Sugarloaf Hat"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Summer Breeze",
             "items": [
                 {
@@ -10155,6 +10170,29 @@
                 {
                     "type": "Feet",
                     "hint": "Tip O' The Arhat"
+                }
+            ]
+        },
+        {
+            "week": 207,
+            "date": "2022-01-14",
+            "theme": "Party For One",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Sugarloaf Sweet"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Simple Is Best"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Smallfolk"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Jewels Of Blue"
                 }
             ]
         }
