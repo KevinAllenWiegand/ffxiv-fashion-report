@@ -1304,6 +1304,30 @@
         },
         {
             "type": "Body",
+            "hint": "Best Dress-ed",
+            "items": [
+                {
+                    "name": "Bridesmaid's Dress"
+                },
+                {
+                    "name": "Gown Of Eternal Devotion"
+                },
+                {
+                    "name": "High House Bustle"
+                },
+                {
+                    "name": "Rainbow Bustle"
+                },
+                {
+                    "name": "Thanvnairian Bustier"
+                },
+                {
+                    "name": "Thanvnairian Wool Autumn Dress"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Bloodsands",
             "items": [
                 {
@@ -2928,6 +2952,9 @@
                 },
                 {
                     "name": "Linen Halfgloves"
+                },
+                {
+                    "name": "Serpentskin Halfgloves of Crafting"
                 },
                 {
                     "name": "Velveteen Halfgloves"
@@ -10193,6 +10220,29 @@
                 {
                     "type": "Wrist",
                     "hint": "Jewels Of Blue"
+                }
+            ]
+        },
+        {
+            "week": 208,
+            "date": "2022-01-21",
+            "theme": "Rainy Day Maiden",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Ready For Rain"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Best Dress-ed"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Hand In Halfglove"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "On The Plate"
                 }
             ]
         }
