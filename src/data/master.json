@@ -10245,6 +10245,29 @@
                     "hint": "On The Plate"
                 }
             ]
+        },
+        {
+            "week": 209,
+            "date": "2022-01-28",
+            "theme": "Poor Man's Pugilist",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Cooking Up A Storm"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Iron Fist"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Avant Garde"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Jewels Of Yellow"
+                }
+            ]
         }
     ]
 }
