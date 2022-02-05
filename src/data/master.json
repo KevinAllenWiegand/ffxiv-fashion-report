@@ -2120,6 +2120,9 @@
                     "name": "Ramie Shirt"
                 },
                 {
+                    "name": "Spring Shirt"
+                },
+                {
                     "name": "Survival Shirt"
                 }
             ]
@@ -4985,6 +4988,12 @@
                     "name": "Bridesmaid's Sandals"
                 },
                 {
+                    "name": "Bunny Chief Pumps"
+                },
+                {
+                    "name": "Bunny Pumps"
+                },
+                {
                     "name": "Meandering Mog Slippers"
                 }
             ]
@@ -6380,6 +6389,15 @@
                     "name": "Any Triphane Ring"
                 },
                 {
+                    "name": "Darklight Band Of Fending"
+                },
+                {
+                    "name": "Flamecarrier's Ring"
+                },
+                {
+                    "name": "Gridanian Ring"
+                },
+                {
                     "name": "Heliodor Ring"
                 },
                 {
@@ -6390,6 +6408,9 @@
                 },
                 {
                     "name": "Platinum Ring Of Fending"
+                },
+                {
+                    "name": "Pugilist's Ring"
                 },
                 {
                     "name": "Sphene Ring"
@@ -10265,6 +10286,27 @@
                 },
                 {
                     "type": "Ring",
+                    "hint": "Jewels Of Yellow"
+                }
+            ]
+            "week": 210,
+            "date": "2022-02-04",
+            "theme": "Stay-At-Home-Steward",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Simple Is Best"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Sleight Of Hand"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Cute As A Button"
+                },
+                {
+                    "type": "Wrist",
                     "hint": "Jewels Of Yellow"
                 }
             ]
