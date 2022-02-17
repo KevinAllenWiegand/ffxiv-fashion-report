@@ -563,6 +563,15 @@
         },
         {
             "type": "Head",
+            "hint": "Keeping Company",
+            "items": [
+                {
+                    "name": "Company Hat"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Keeping It Casual",
             "items": [
                 {
@@ -10310,6 +10319,52 @@
                 {
                     "type": "Wrist",
                     "hint": "Jewels Of Yellow"
+                }
+            ]
+        },
+        {
+            "week": 211,
+            "date": "2022-02-11",
+            "theme": "Officer Far East From Home",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Keeping Company"
+                },
+                {
+                    "type": "Body",
+                    "hint": "The Tale Of Genji"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "C'est Chic"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "You're So Whisperfine"
+                }
+            ]
+        },
+        {
+            "week": 212,
+            "date": "2022-02-18",
+            "theme": "Well-Groomed Bruiser",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Simply Saucer"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Medic!"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Jewels Of Blue"
                 }
             ]
         }
