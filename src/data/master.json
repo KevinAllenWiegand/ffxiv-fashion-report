@@ -10367,6 +10367,29 @@
                     "hint": "Jewels Of Blue"
                 }
             ]
+        },
+        {
+            "week": 213,
+            "date": "2022-02-25",
+            "theme": "Sunken Sentry",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Skalla Back"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Iron Fist"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Pirates In The Sky"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In The \"Fold\""
+                }
+            ]
         }
     ]
 }
