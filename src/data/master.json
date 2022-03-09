@@ -10390,6 +10390,29 @@
                     "hint": "In The \"Fold\""
                 }
             ]
+        },
+        {
+            "week": 214,
+            "date": "2022-03-04",
+            "theme": "Well-Wrapped Bandit",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Natural Beauty"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Fashion Bandit"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Restoration Regalia"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Moccasin City"
+                }
+            ]
         }
     ]
 }
