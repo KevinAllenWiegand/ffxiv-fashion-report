@@ -2741,6 +2741,9 @@
             "hint": "Brace For Impact",
             "items": [
                 {
+                    "name": "Cotton Bracers"
+                },
+                {
                     "name": "Darklight Bracers Of Aiming"
                 },
                 {
@@ -2748,6 +2751,9 @@
                 },
                 {
                     "name": "Demon Bracers Of Striking"
+                },
+                {
+                    "name": "Felt Bracers"
                 },
                 {
                     "name": "Gazelleskin Bracers Of Fending"
@@ -2760,6 +2766,9 @@
                 },
                 {
                     "name": "Griffin Leather Bracers Of Striking"
+                },
+                {
+                    "name": "Hempen Bracers"
                 },
                 {
                     "name": "Kirimu Bracers"
@@ -10411,6 +10420,29 @@
                 {
                     "type": "Feet",
                     "hint": "Moccasin City"
+                }
+            ]
+        },
+        {
+            "week": 215,
+            "date": "2022-03-11",
+            "theme": "Pouches-A-Plenty",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Revolutionary"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Brace For Impact"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Cast Your Culottes"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Leather Underfoot"
                 }
             ]
         }
