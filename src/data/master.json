@@ -10436,6 +10436,29 @@
                     "hint": "Leather Underfoot"
                 }
             ]
+        },
+        {
+            "week": 216,
+            "date": "2022-03-18",
+            "theme": "Shamanic Sentinel",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Bonewicca Bow Wow"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Bonewicca Bow Wow"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Tooth And \"Nail\""
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Bookworm"
+                }
+            ]
         }
     ]
 }
