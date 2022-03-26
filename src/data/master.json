@@ -224,6 +224,33 @@
         },
         {
             "type": "Head",
+            "hint": "Bonewicca Bow Wow",
+            "items": [
+                {
+                    "name": "Bonewicca Protector\"s Helm"
+                },
+                {
+                    "name": "Bonewicca Shadow\"s Visor"
+                },
+                {
+                    "name": "Bonewicca Skinner\"s Visor"
+                },
+                {
+                    "name": "Bonewicca Soother\"s Mask"
+                },
+                {
+                    "name": "Bonewicca Tracker\"s Helm"
+                },
+                {
+                    "name": "Bonewicca Whisperer\"s Mask"
+                },
+                {
+                    "name": "Bonewicca Wildling\"s Helm"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Brain Over Brawn",
             "items": [
                 {
@@ -1355,6 +1382,33 @@
         },
         {
             "type": "Body",
+            "hint": "Bonewicca Bow Wow",
+            "items": [
+                {
+                    "name": "Bonewicca Protector's Coat"
+                },
+                {
+                    "name": "Bonewicca Shadow's Chestpiece"
+                },
+                {
+                    "name": "Bonewicca Skinner's Mail"
+                },
+                {
+                    "name": "Bonewicca Soother's Chestpiece"
+                },
+                {
+                    "name": "Bonewicca Tracker's Coat"
+                },
+                {
+                    "name": "Bonewicca Whisperer's Jacket"
+                },
+                {
+                    "name": "Bonewicca Wildling's Jacket"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Born Bliaud",
             "items": [
                 {
@@ -2022,6 +2076,18 @@
                 },
                 {
                     "name": "Fistfighter's Jackcoat"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "Ritual Wrap",
+            "items": [
+                {
+                    "name": "Thallak's Chestwrap Of Casting"
+                },
+                {
+                    "name": "Thallak's Chestwrap Of Healing"
                 }
             ]
         },
@@ -10457,6 +10523,29 @@
                 {
                     "type": "Feet",
                     "hint": "Bookworm"
+                }
+            ]
+        },
+        {
+            "week": 217,
+            "date": "2022-03-25",
+            "theme": "Fighter From Afar",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Ritual Wrap"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "White-Glove"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Fashion Bandit"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Paying The Duckbills"
                 }
             ]
         }
