@@ -1724,7 +1724,7 @@
             "hint": "Go West",
             "items": [
                 {
-                    "name": "New World Coat"
+                    "name": "New World Jacket"
                 }
             ]
         },
@@ -10546,6 +10546,29 @@
                 {
                     "type": "Feet",
                     "hint": "Paying The Duckbills"
+                }
+            ]
+        },
+        {
+            "week": 218,
+            "date": "2022-04-01",
+            "theme": "Mountain Tribal",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Go West"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Mountain Bred"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "A \"Bone\" To Pick"
                 }
             ]
         }
