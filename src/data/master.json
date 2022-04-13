@@ -224,6 +224,33 @@
         },
         {
             "type": "Head",
+            "hint": "Bonewicca Bow Wow",
+            "items": [
+                {
+                    "name": "Bonewicca Protector\"s Helm"
+                },
+                {
+                    "name": "Bonewicca Shadow\"s Visor"
+                },
+                {
+                    "name": "Bonewicca Skinner\"s Visor"
+                },
+                {
+                    "name": "Bonewicca Soother\"s Mask"
+                },
+                {
+                    "name": "Bonewicca Tracker\"s Helm"
+                },
+                {
+                    "name": "Bonewicca Whisperer\"s Mask"
+                },
+                {
+                    "name": "Bonewicca Wildling\"s Helm"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Brain Over Brawn",
             "items": [
                 {
@@ -1355,6 +1382,33 @@
         },
         {
             "type": "Body",
+            "hint": "Bonewicca Bow Wow",
+            "items": [
+                {
+                    "name": "Bonewicca Protector's Coat"
+                },
+                {
+                    "name": "Bonewicca Shadow's Chestpiece"
+                },
+                {
+                    "name": "Bonewicca Skinner's Mail"
+                },
+                {
+                    "name": "Bonewicca Soother's Chestpiece"
+                },
+                {
+                    "name": "Bonewicca Tracker's Coat"
+                },
+                {
+                    "name": "Bonewicca Whisperer's Jacket"
+                },
+                {
+                    "name": "Bonewicca Wildling's Jacket"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Born Bliaud",
             "items": [
                 {
@@ -1670,7 +1724,7 @@
             "hint": "Go West",
             "items": [
                 {
-                    "name": "New World Coat"
+                    "name": "New World Jacket"
                 }
             ]
         },
@@ -2022,6 +2076,18 @@
                 },
                 {
                     "name": "Fistfighter's Jackcoat"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "Ritual Wrap",
+            "items": [
+                {
+                    "name": "Thallak's Chestwrap Of Casting"
+                },
+                {
+                    "name": "Thallak's Chestwrap Of Healing"
                 }
             ]
         },
@@ -2741,9 +2807,6 @@
             "hint": "Brace For Impact",
             "items": [
                 {
-                    "name": "Cotton Bracers"
-                },
-                {
                     "name": "Darklight Bracers Of Aiming"
                 },
                 {
@@ -2751,9 +2814,6 @@
                 },
                 {
                     "name": "Demon Bracers Of Striking"
-                },
-                {
-                    "name": "Felt Bracers"
                 },
                 {
                     "name": "Gazelleskin Bracers Of Fending"
@@ -2766,9 +2826,6 @@
                 },
                 {
                     "name": "Griffin Leather Bracers Of Striking"
-                },
-                {
-                    "name": "Hempen Bracers"
                 },
                 {
                     "name": "Kirimu Bracers"
@@ -10458,46 +10515,69 @@
         {
             "week": 216,
             "date": "2022-03-18",
-            "theme": "Regal Exposure",
+            "theme": "Shamanic Sentinel",
             "slots": [
                 {
                     "type": "Head",
-                    "hint": "Royal"
+                    "hint": "Bonewicca Bow Wow"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Bonewicca Bow Wow"
                 },
                 {
                     "type": "Hands",
-                    "hint": "Hand In Halfglove"
+                    "hint": "Tooth And \"Nail\""
                 },
                 {
                     "type": "Feet",
-                    "hint": "Dueling Duelist"
-                },
-                {
-                    "type": "Neck",
-                    "hint": "Finally Fantastical"
+                    "hint": "Bookworm"
                 }
             ]
         },
         {
             "week": 217,
             "date": "2022-03-25",
-            "theme": "Gold Saucer Saucy",
+            "theme": "Fighter From Afar",
             "slots": [
                 {
                     "type": "Body",
-                    "hint": "Simply Saucer"
+                    "hint": "Ritual Wrap"
                 },
                 {
                     "type": "Hands",
-                    "hint": "Skirts Of A Feather"
+                    "hint": "White-Glove"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Fashion Bandit"
                 },
                 {
                     "type": "Feet",
-                    "hint": "In The \"Fold\""
+                    "hint": "Paying The Duckbills"
+                }
+            ]
+        },
+        {
+            "week": 218,
+            "date": "2022-04-01",
+            "theme": "Mountain Tribal",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "The Wild Side"
                 },
                 {
-                    "type": "Neck",
-                    "hint": "Jewels Of Yellow"
+                    "type": "Body",
+                    "hint": "Go West"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Mountain Bred"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "A \"Bone\" To Pick"
                 }
             ]
         }
