@@ -5915,6 +5915,15 @@
         },
         {
             "type": "Neck",
+            "hint": "Finally Fantastical",
+            "items": [
+                {
+                    "name": "Any Proto Ultima Necklace"
+                }
+            ]
+        },
+        {
+            "type": "Neck",
             "hint": "Jewels Of Blue",
             "items": [
                 {
@@ -10443,6 +10452,29 @@
                 {
                     "type": "Feet",
                     "hint": "Leather Underfoot"
+                }
+            ]
+        },
+        {
+            "week": 216,
+            "date": "2022-03-18",
+            "theme": "Regal Exposure",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Royal"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Hand In Halfglove"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Dueling Duelist"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Finally Fantastical"
                 }
             ]
         }
