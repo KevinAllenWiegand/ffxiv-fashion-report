@@ -10477,6 +10477,29 @@
                     "hint": "Finally Fantastical"
                 }
             ]
+        },
+        {
+            "week": 217,
+            "date": "2022-03-25",
+            "theme": "Gold Saucer Saucy",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Simply Saucer"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Skirts Of A Feather"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In The \"Fold\""
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Jewels Of Yellow"
+                }
+            ]
         }
     ]
 }
