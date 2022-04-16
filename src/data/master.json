@@ -6059,6 +6059,33 @@
         },
         {
             "type": "Neck",
+            "hint": "Jewels Of Yellow",
+            "items": [
+                {
+                    "name": "Allagan Choker Of Striking"
+                },
+                {
+                    "name": "Amber Choker"
+                },
+                {
+                    "name": "Any Augmented Ironworks Choker"
+                },
+                {
+                    "name": "Helidor Choker"
+                },
+                {
+                    "name": "Sphene Choker"
+                },
+                {
+                    "name": "Topaz Choker"
+                },
+                {
+                    "name": "Wolf Amber Choker"
+                }
+            ]
+        },
+        {
+            "type": "Neck",
             "hint": "Leather",
             "items": [
                 {
@@ -10578,6 +10605,52 @@
                 {
                     "type": "Ring",
                     "hint": "A \"Bone\" To Pick"
+                }
+            ]
+        },
+        {
+            "week": 219,
+            "date": "2022-04-08",
+            "theme": "Regal Exposure",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Royal"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Hand In Halfglove"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Dueling Duelist"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Finally Fantastical"
+                }
+            ]
+        },
+        {
+            "week": 220,
+            "date": "2022-04-15",
+            "theme": "Gold Saucer Saucy",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Simply Saucer"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Skirts Of A Feather"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In The \"Fold\""
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Jewels Of Yellow"
                 }
             ]
         }
