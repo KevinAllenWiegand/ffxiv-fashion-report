@@ -2177,6 +2177,33 @@
         },
         {
             "type": "Body",
+            "hint": "Shivering Timbers",
+            "items": [
+                {
+                    "name": "Arachne Shirt Of Scouting"
+                },
+                {
+                    "name": "Arachne Shirt Of Striking"
+                },
+                {
+                    "name": "Griffin Leather Coat Of Scouting"
+                },
+                {
+                    "name": "Griffin Leather Coat Of Striking"
+                },
+                {
+                    "name": "Kirimu Coat"
+                },
+                {
+                    "name": "Pagos Shirt"
+                },
+                {
+                    "name": "Uraeus Coat"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Simple Is Best",
             "items": [
                 {
@@ -5921,19 +5948,43 @@
             "hint": "A \"Bone\" To Pick",
             "items": [
                 {
+                    "name": "Any Imperial Jade Necklace"
+                },
+                {
                     "name": "Any Ruby Tide Necklace"
+                },
+                {
+                    "name": "Bogatyr's Necklace of Aiming"
+                },
+                {
+                    "name": "Bogatyr's Necklacke of Casting"
+                },
+                {
+                    "name": "Bogatyr's Necklacke of Healing"
                 },
                 {
                     "name": "Bone Necklace"
                 },
                 {
+                    "name": "Direwolf Choker of Fending"
+                },
+                {
                     "name": "Fang Necklace"
+                },
+                {
+                    "name": "Hoplite Choker"
                 },
                 {
                     "name": "Horn Necklace"
                 },
                 {
                     "name": "Red Coral Necklace"
+                },
+                {
+                    "name": "Stonewall Choker"
+                },
+                {
+                    "name": "Varlet's Necklace"
                 },
                 {
                     "name": "Weathered/Daystar Necklace"
@@ -10651,6 +10702,29 @@
                 {
                     "type": "Neck",
                     "hint": "Jewels Of Yellow"
+                }
+            ]
+        },
+        {
+            "week": 221,
+            "date": "2022-04-22",
+            "theme": "Principled Pirate",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Shivering Timbers"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Coiled Finally"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Bookworm"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "A \"Bone\" To Pick"
                 }
             ]
         }
