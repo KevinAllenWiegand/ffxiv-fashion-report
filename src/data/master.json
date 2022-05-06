@@ -10727,6 +10727,29 @@
                     "hint": "A \"Bone\" To Pick"
                 }
             ]
+        },
+        {
+            "week": 222,
+            "date": "2022-04-29",
+            "theme": "Wolf In The Woods",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Hungry Like The Wolf"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Packing"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Vagabond"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Smallfolk"
+                }
+            ]
         }
     ]
 }
