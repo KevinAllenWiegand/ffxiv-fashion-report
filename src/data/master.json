@@ -10750,6 +10750,29 @@
                     "hint": "Smallfolk"
                 }
             ]
+        },
+        {
+            "week": 223,
+            "date": "2022-05-06",
+            "theme": "Hide From A Storm",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Too Cool"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Leader Of The Ringband"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "A Pirate's Life"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In The \"Fold\""
+                }
+            ]
         }
     ]
 }
