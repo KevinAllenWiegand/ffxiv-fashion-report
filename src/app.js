@@ -22,78 +22,85 @@ const SLOTS = [
 ];
 
 let searchTimeoutObject;
+let firstAvailableWeek;
+let lastAvailableWeek;
+let currentWeekDate;
+let showingWeek;
+let showingWeekDate;
 
-init();
+// This is the equivalent of setting up a document.ready(), so we load the latest week when the DOM has finished loading.
+$(function () {
+    init();
 
-$.each(SLOT_TYPES, function(typeIndex, typeValue) {
-    $.each(SLOTS, function(slotIndex, slotValue) {
-        $(`#${slotValue}Type`).append($('<option/>', {
-            value: typeValue,
-            text: typeValue
-        }));
-    });
-});
-
-$.each(SLOTS, function (slotIndex, slotValue) {
-    $(`#${slotValue}Type`).on('change', function() {
-        const type = $(`#${slotValue}Type`).val();
-        const hint = $(`#${slotValue}Hint`).val();
-        const target = $(`#${slotValue}Results`);
-
-        searchHints(type, hint, target);
-    });
-
-    $(`#${slotValue}Hint`).on('keyup', function() {
-        const type = $(`#${slotValue}Type`).val();
-        const hint = $(`#${slotValue}Hint`).val();
-        const target = $(`#${slotValue}Results`);
-
-        searchHints(type, hint, target);
-    });
-});
-
-$('#showLatestButton').on('click', function() {
-    let latestReport = getLatestReport();
-
-    if (latestReport) {
-        resetHintSearchForm();
-
+    $.each(SLOT_TYPES, function (typeIndex, typeValue) {
         $.each(SLOTS, function (slotIndex, slotValue) {
-            const reportSlot = latestReport.slots[slotIndex];
-
-            if (reportSlot) {
-                $(`#${slotValue}Type`).val(reportSlot.type);
-                $(`#${slotValue}Hint`).val(reportSlot.hint);
-                $(`#${slotValue}Type`).trigger('change');
-            }
+            $(`#${slotValue}Type`).append($('<option/>', {
+                value: typeValue,
+                text: typeValue
+            }));
         });
-    }
-});
+    });
 
-$('#resetSlotsButton').on('click', function () {
-    resetHintSearchForm();
-});
+    $.each(SLOTS, function (slotIndex, slotValue) {
+        $(`#${slotValue}Type`).on('change', function () {
+            const type = $(`#${slotValue}Type`).val();
+            const hint = $(`#${slotValue}Hint`).val();
+            const target = $(`#${slotValue}Results`);
 
-$('#itemSearchButton').on('click', function() {
-    const itemName = $('#itemName').val();
+            searchHints(type, hint, target);
+        });
 
-    searchItems(itemName);
-});
+        $(`#${slotValue}Hint`).on('keyup', function () {
+            const type = $(`#${slotValue}Type`).val();
+            const hint = $(`#${slotValue}Hint`).val();
+            const target = $(`#${slotValue}Results`);
 
-$('#itemName').on('keyup', function () {
-    if (searchTimeoutObject) {
-        clearTimeout(searchTimeoutObject);
-    }
-    
-    searchTimeoutObject = setTimeout(function() {
-        $('#itemSearchButton').trigger('click');
-    }, 500);
+            searchHints(type, hint, target);
+        });
+    });
+
+    $('#showLatestButton').on('click', function () {
+        showLatestReport();
+    });
+
+    $('#showPreviousWeekButton').on('click', function () {
+        showPreviousWeekReport();
+    });
+
+    $('#showNextWeekButton').on('click', function () {
+        showNextWeekReport();
+    });
+
+    $('#resetSlotsButton').on('click', function () {
+        resetHintSearchForm();
+    });
+
+    $('#itemSearchButton').on('click', function () {
+        const itemName = $('#itemName').val();
+
+        searchItems(itemName);
+    });
+
+    $('#itemName').on('keyup', function () {
+        if (searchTimeoutObject) {
+            clearTimeout(searchTimeoutObject);
+        }
+
+        searchTimeoutObject = setTimeout(function () {
+            $('#itemSearchButton').trigger('click');
+        }, 500);
+    });
+
+    showLatestReport();
 });
 
 function init() {
     loadOwnedItems();
-    
-    let latestReport = getLatestReport();
+    showLatestReport();
+}
+
+function showLatestReport() {
+    const latestReport = getLatestReport();
 
     if (latestReport) {
         $('#latestData').html(`Week ${latestReport.week} for ${latestReport.date}`);
@@ -103,9 +110,10 @@ function init() {
 
     const offsets = [-2, -3, 3, 2, 1, 0, -1];
     const today = new Date();
-    let currentWeekDate = new Date(today.getFullYear(), today.getMonth(), today.getDate());
 
+    currentWeekDate = new Date(today.getFullYear(), today.getMonth(), today.getDate());
     currentWeekDate.setDate(currentWeekDate.getDate() + offsets[currentWeekDate.getDay()]);
+    showingWeekDate = currentWeekDate;
 
     const firstWeekNumber = fashionReportData.reports[0].week;
     const firstWeekDateParts = fashionReportData.reports[0].date.split('-');
@@ -114,8 +122,71 @@ function init() {
     const numberOfDaysSince = Math.ceil((currentWeekDate - firstWeekDate) / millisecondsPerDay);
     const numberOfWeeksSince = Math.ceil(numberOfDaysSince / 7);
     const currentWeek = firstWeekNumber + numberOfWeeksSince;
+    const currentHtml = `Week ${currentWeek} for ${currentWeekDate.getFullYear()}-${formatNumberForDate(currentWeekDate.getMonth() + 1)}-${formatNumberForDate(currentWeekDate.getDate())}`;
 
-    $('#currentWeek').html(`Week ${currentWeek} for ${currentWeekDate.getFullYear()}-${formatNumberForDate(currentWeekDate.getMonth() + 1)}-${formatNumberForDate(currentWeekDate.getDate())}`);
+    firstAvailableWeek = firstWeekNumber;
+    lastAvailableWeek = currentWeek;
+    showingWeek = currentWeek;
+
+    $('#currentWeek').html(currentHtml);
+    $('#showingWeek').html(currentHtml);
+    showReport(latestReport.week);
+}
+
+function showReport(weekNumber) {
+    let report = getReport(weekNumber);
+
+    if (report) {
+        resetHintSearchForm();
+
+        $.each(SLOTS, function (slotIndex, slotValue) {
+            const reportSlot = report.slots[slotIndex];
+
+            if (reportSlot) {
+                $(`#${slotValue}Type`).val(reportSlot.type);
+                $(`#${slotValue}Hint`).val(reportSlot.hint);
+                $(`#${slotValue}Type`).trigger('change');
+            }
+        });
+
+        $('#weekTheme').html(report.theme);
+
+        return true;
+    }
+
+    return false;
+}
+
+function showPreviousWeekReport() {
+    if (showingWeek > firstAvailableWeek) {
+        const effectiveWeek = showingWeek - 1;
+
+        if (showReport(effectiveWeek)) {
+            showingWeek--;
+            
+            const newDate = new Date(showingWeekDate.getFullYear(), showingWeekDate.getMonth(), showingWeekDate.getDate());
+
+            newDate.setDate(newDate.getDate() - 7);
+            showingWeekDate = newDate;
+            $('#showingWeek').html(`Week ${showingWeek} for ${showingWeekDate.getFullYear()}-${formatNumberForDate(showingWeekDate.getMonth() + 1)}-${formatNumberForDate(showingWeekDate.getDate())}`);
+        }
+    }
+}
+
+function showNextWeekReport() {
+    if (showingWeek < lastAvailableWeek) {
+        const effectiveWeek = showingWeek + 1;
+
+        if (showReport(effectiveWeek)) {
+            showingWeek++;
+
+            const newDate = new Date(showingWeekDate.getFullYear(), showingWeekDate.getMonth(), showingWeekDate.getDate());
+
+            newDate.setDate(newDate.getDate() + 7);
+            showingWeekDate = newDate;
+            $('#showingWeek').html(`Week ${showingWeek} for ${showingWeekDate.getFullYear()}-${formatNumberForDate(showingWeekDate.getMonth() + 1)}-${formatNumberForDate(showingWeekDate.getDate())}`);
+        }
+    }
 }
 
 function formatNumberForDate(value) {
@@ -124,6 +195,22 @@ function formatNumberForDate(value) {
     }
     
     return '0' + value;
+}
+
+function getLatestReportWeek() {
+    let latestReport = null;
+
+    for (let index = fashionReportData.reports.length - 1; index > -1; index--) {
+        const report = fashionReportData.reports[index];
+
+        if (report.theme && report.slots && (report.slots.length == 4 || report.slots.length == 5)) {
+            if (!latestReport || report.week > latestReport.week) {
+                latestReport = report;
+            }
+        }
+    }
+
+    return latestReport.week;
 }
 
 function getLatestReport() {
@@ -140,6 +227,21 @@ function getLatestReport() {
     }
 
     return latestReport;
+}
+
+function getReport(weekNumber) {
+    let retVal = null;
+
+    for (let index = fashionReportData.reports.length - 1; index > -1; index--) {
+        const report = fashionReportData.reports[index];
+
+        if (report.theme && report.slots && (report.slots.length == 4 || report.slots.length == 5) && report.week === weekNumber) {
+            retVal = report;
+            break;
+        }
+    }
+
+    return retVal;
 }
 
 function resetHintSearchForm() {

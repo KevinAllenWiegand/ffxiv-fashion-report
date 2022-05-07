@@ -114,8 +114,13 @@
         }
 
         .quickButtons,
-        .dataSummary {
+        .dataSummary,
+        .weekTheme {
             margin-bottom: 10pt;
+        }
+
+        .weekTheme {
+            color: #d8728f;
         }
 
         .viewReport {
@@ -166,14 +171,21 @@
                     <div class="col col-lg-12">
                         <div>Current is <span id="currentWeek"></span></div>
                         <div>Lastest data is <span id="latestData"></span></div>
+                        <div>Showing data for <span id="showingWeek"></span></div>
                     </div>
                 </div>
 
                 <div class="row row-no-gutters quickButtons">
                     <div class="col col-lg-12">
                         <input type="button" id="showLatestButton" class="btn btn-primary" value="Show Latest Week" />
+                        <input type="button" id="showPreviousWeekButton" class="btn btn-primary" value="Show Previous Week" />
+                        <input type="button" id="showNextWeekButton" class="btn btn-primary" value="Show Next Week" />
                         <input type="button" id="resetSlotsButton" class="btn btn-primary" value="Reset Slots" />
                     </div>
+                </div>
+
+                <div class="row row-no-gutters weekTheme">
+                    <div id="weekTheme" style="font-weight:bold;"></div>
                 </div>
 
                 <!-- Heading Row -->
