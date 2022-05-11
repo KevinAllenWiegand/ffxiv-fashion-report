@@ -2990,6 +2990,33 @@
         },
         {
             "type": "Hands",
+            "hint": "Fashion Bandit",
+            "items": [
+                {
+                    "name": "Woad Skychaser's Armguards"
+                },
+                {
+                    "name": "Woad Skydruid's Armlets"
+                },
+                {
+                    "name": "Woad Skyhunter's Armlets"
+                },
+                {
+                    "name": "Woad Skylancer's Armlets"
+                },
+                {
+                    "name": "Woad Skyraider's Armguards"
+                },
+                {
+                    "name": "Woad Skywarrior's Armguards"
+                },
+                {
+                    "name": "Woad Skywicce's Armguards"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
             "hint": "Fits Like A Wristglove",
             "items": [
                 {
@@ -10771,6 +10798,29 @@
                 {
                     "type": "Feet",
                     "hint": "In The \"Fold\""
+                }
+            ]
+        },
+        {
+            "week": 224,
+            "date": "2022-05-13",
+            "theme": "Animalistic Advisor",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Beastly Head-Turner"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Chimerican Woman"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Fashion Bandit"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Armored Core"
                 }
             ]
         }
