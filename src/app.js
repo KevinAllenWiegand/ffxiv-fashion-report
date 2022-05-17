@@ -101,19 +101,29 @@ function init() {
 
 function showLatestReport() {
     const latestReport = getLatestReport();
+    let latestHtml;
 
     if (latestReport) {
-        $('#latestData').html(`Week ${latestReport.week} for ${latestReport.date}`);
+        latestHtml = `Week ${latestReport.week} for ${latestReport.date}`;
+
+        const latestWeekDateParts = latestReport.date.split('-');
+        const latestWeekDate = new Date(parseInt(latestWeekDateParts[0], 10), parseInt(latestWeekDateParts[1], 10) - 1, parseInt(latestWeekDateParts[2], 10));
+
+        showingWeekDate = latestWeekDate;
+        showingWeek = latestReport.week;
     } else {
-        $('#latestData').html('ERROR');
+        latestHtml = 'ERROR';
+        showingWeekDate = 'ERROR';
+        showingWeek = 'ERROR';
     }
+
+    $('#latestData').html(latestHtml);
 
     const offsets = [-2, -3, 3, 2, 1, 0, -1];
     const today = new Date();
 
     currentWeekDate = new Date(today.getFullYear(), today.getMonth(), today.getDate());
     currentWeekDate.setDate(currentWeekDate.getDate() + offsets[currentWeekDate.getDay()]);
-    showingWeekDate = currentWeekDate;
 
     const firstWeekNumber = fashionReportData.reports[0].week;
     const firstWeekDateParts = fashionReportData.reports[0].date.split('-');
@@ -126,10 +136,9 @@ function showLatestReport() {
 
     firstAvailableWeek = firstWeekNumber;
     lastAvailableWeek = currentWeek;
-    showingWeek = currentWeek;
 
     $('#currentWeek').html(currentHtml);
-    $('#showingWeek').html(currentHtml);
+    $('#showingWeek').html(latestHtml);
     showReport(latestReport.week);
 }
 
