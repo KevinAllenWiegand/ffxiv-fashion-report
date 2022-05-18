@@ -394,24 +394,6 @@ function loadWeek(weekNumber) {
         $('#showingWeek').html(`Week ${showingWeek} for ${showingWeekDate.getFullYear()}-${formatNumberForDate(showingWeekDate.getMonth() + 1)}-${formatNumberForDate(showingWeekDate.getDate())}`);
         $('#navHome').trigger('click');
     }
-
-    /*
-    const report = getReportForWeek(weekNumber);
-
-    if (report != null) {
-        $.each(SLOTS, function (slotIndex, slotValue) {
-            const reportSlot = report.slots[slotIndex];
-
-            if (reportSlot) {
-                $(`#${slotValue}Type`).val(reportSlot.type);
-                $(`#${slotValue}Hint`).val(reportSlot.hint);
-                $(`#${slotValue}Type`).trigger('change');
-            }
-        });
-
-        $('#navHome').trigger('click');
-    }
-    */
 }
 
 function getReportForWeek(weekNumber) {
