@@ -4970,19 +4970,19 @@
             "hint": "\"Ala\" Carte",
             "items": [
                 {
-                    "name": "Ala Mhigan Calligae Of Aiming"
+                    "name": "Ala Mhigan Caligae Of Aiming"
                 },
                 {
-                    "name": "Ala Mhigan Calligae Of Casting"
+                    "name": "Ala Mhigan Caligae Of Casting"
                 },
                 {
-                    "name": "Ala Mhigan Calligae Of Fending"
+                    "name": "Ala Mhigan Caligae Of Fending"
                 },
                 {
-                    "name": "Ala Mhigan Calligae Of Maiming"
+                    "name": "Ala Mhigan Caligae Of Maiming"
                 },
                 {
-                    "name": "Ala Mhigan Calligae Of Striking"
+                    "name": "Ala Mhigan Caligae Of Striking"
                 },
                 {
                     "name": "Ala Mhigan Sandals Of Healing"
@@ -5045,7 +5045,7 @@
         },
         {
             "type": "Feet",
-            "hint": "Calligae Divorcee",
+            "hint": "Caligae Divorcee",
             "items": [
                 {
                     "name": "Ala Mhigan Caligae Of Aiming"
@@ -6345,6 +6345,9 @@
                 },
                 {
                     "name": "Goshenite Bracelet"
+                },
+                {
+                    "name": "Pearl Bracelet"
                 },
                 {
                     "name": "Wolf Zircon Bracelet"
@@ -8125,7 +8128,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "Calligae Divorcee"
+                    "hint": "Caligae Divorcee"
                 }
             ]
         },
@@ -8470,7 +8473,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "Calligae Divorcee"
+                    "hint": "Caligae Divorcee"
                 }
             ]
         },
@@ -10821,6 +10824,29 @@
                 {
                     "type": "Feet",
                     "hint": "Armored Core"
+                }
+            ]
+        },
+        {
+            "week": 225,
+            "date": "2022-05-20",
+            "theme": "Festival Frequenter",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Hingan Nights"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Smallfolk"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Caligae Divorcee"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Jewels Of White"
                 }
             ]
         }

@@ -206,22 +206,6 @@ function formatNumberForDate(value) {
     return '0' + value;
 }
 
-function getLatestReportWeek() {
-    let latestReport = null;
-
-    for (let index = fashionReportData.reports.length - 1; index > -1; index--) {
-        const report = fashionReportData.reports[index];
-
-        if (report.theme && report.slots && (report.slots.length == 4 || report.slots.length == 5)) {
-            if (!latestReport || report.week > latestReport.week) {
-                latestReport = report;
-            }
-        }
-    }
-
-    return latestReport.week;
-}
-
 function getLatestReport() {
     let latestReport = null;
 
@@ -401,6 +385,19 @@ function loadWeek(weekNumber) {
 
     const report = getReportForWeek(weekNumber);
 
+    if (report && showReport(weekNumber)) {
+        const showingWeekDateParts = report.date.split('-');
+        
+        showingWeekDate = new Date(parseInt(showingWeekDateParts[0], 10), parseInt(showingWeekDateParts[1], 10) - 1, parseInt(showingWeekDateParts[2], 10));
+        showingWeek = weekNumber;
+
+        $('#showingWeek').html(`Week ${showingWeek} for ${showingWeekDate.getFullYear()}-${formatNumberForDate(showingWeekDate.getMonth() + 1)}-${formatNumberForDate(showingWeekDate.getDate())}`);
+        $('#navHome').trigger('click');
+    }
+
+    /*
+    const report = getReportForWeek(weekNumber);
+
     if (report != null) {
         $.each(SLOTS, function (slotIndex, slotValue) {
             const reportSlot = report.slots[slotIndex];
@@ -414,6 +411,7 @@ function loadWeek(weekNumber) {
 
         $('#navHome').trigger('click');
     }
+    */
 }
 
 function getReportForWeek(weekNumber) {
