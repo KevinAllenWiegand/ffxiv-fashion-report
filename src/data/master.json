@@ -1721,6 +1721,33 @@
         },
         {
             "type": "Body",
+            "hint": "Fashionably Late Allagan",
+            "items": [
+                {
+                    "name": "Late Allagan Armor Of Aiming"
+                },
+                {
+                    "name": "Late Allagan Armor Of Fending"
+                },
+                {
+                    "name": "Late Allagan Armor Of Maiming"
+                },
+                {
+                    "name": "Late Allagan Armor Of Scouting"
+                },
+                {
+                    "name": "Late Allagan Armor Of Striking"
+                },
+                {
+                    "name": "Late Allagan Coat Of Casting"
+                },
+                {
+                    "name": "Late Allagan Coat Of Healing"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Go West",
             "items": [
                 {
@@ -5241,6 +5268,33 @@
                 },
                 {
                     "name": "Woad Skywicce's Boots"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
+            "hint": "Fashionably Late Allagan",
+            "items": [
+                {
+                    "name": "Late Allagan Boots Of Casting"
+                },
+                {
+                    "name": "Late Allagan Boots Of Healing"
+                },
+                {
+                    "name": "Late Allagan Sollerets Of Aiming"
+                },
+                {
+                    "name": "Late Allagan Sollerets Of Fending"
+                },
+                {
+                    "name": "Late Allagan Sollerets Of Maiming"
+                },
+                {
+                    "name": "Late Allagan Sollerets Of Scouting"
+                },
+                {
+                    "name": "Late Allagan Sollerets Of Striking"
                 }
             ]
         },
@@ -10844,6 +10898,29 @@
                 {
                     "type": "Wrist",
                     "hint": "Jewels Of White"
+                }
+            ]
+        },
+        {
+            "week": 226,
+            "date": "2022-05-27",
+            "theme": "Futuristic Past",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Future Arma"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Fashionably Late Allagan"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "The Creator"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Fashionably Late Allagan"
                 }
             ]
         }
