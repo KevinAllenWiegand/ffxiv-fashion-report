@@ -287,6 +287,21 @@
         },
         {
             "type": "Head",
+            "hint": "Call Of The Wild",
+            "items": [
+                {
+                    "name": "Bunny Chief Ears"
+                },
+                {
+                    "name": "Bunny Ears"
+                },
+                {
+                    "name": "Tamamo Headband"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Cap In Hand",
             "items": [
                 {
@@ -1409,6 +1424,36 @@
         },
         {
             "type": "Body",
+            "hint": "Bookworm",
+            "items": [
+                {
+                    "name": "Scholasticate Coat"
+                },
+                {
+                    "name": "Sharlayan Conservator's Coat"
+                },
+                {
+                    "name": "Sharlayan Custodian's Coat"
+                },
+                {
+                    "name": "Sharlayan Emissary's Coat"
+                },
+                {
+                    "name": "Sharlayan Pankratiast's Coat"
+                },
+                {
+                    "name": "Sharlayan Pathmaker's Coat"
+                },
+                {
+                    "name": "Sharlayan Philosopher's Coat"
+                },
+                {
+                    "name": "Sharlayan Preceptor's Coat"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Born Bliaud",
             "items": [
                 {
@@ -2046,9 +2091,6 @@
             "items": [
                 {
                     "name": "Crescent Nightgown"
-                },
-                {
-                    "name": "The Emperor's New Robe"
                 }
             ]
         },
@@ -5700,6 +5742,15 @@
             "items": [
                 {
                     "name": "Rain Boots"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
+            "hint": "Rest & Relaxation",
+            "items": [
+                {
+                    "name": "Crescent Moon Slippers"
                 }
             ]
         },
@@ -10921,6 +10972,29 @@
                 {
                     "type": "Feet",
                     "hint": "Fashionably Late Allagan"
+                }
+            ]
+        },
+        {
+            "week": 227,
+            "date": "2022-06-03",
+            "theme": "Animalistic Armchair-Wear",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Call Of The Wild"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Bookworm"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Check And Check"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Rest & Relaxation"
                 }
             ]
         }
