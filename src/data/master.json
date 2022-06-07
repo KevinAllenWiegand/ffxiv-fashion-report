@@ -6137,6 +6137,18 @@
         },
         {
             "type": "Neck",
+            "hint": "Allagan Attack",
+            "items": [
+                {
+                    "name": "Any Allagan Choker"
+                },
+                {
+                    "name": "Any High Allagan Choker"
+                }
+            ]
+        },
+        {
+            "type": "Neck",
             "hint": "Coiled Finally",
             "items": [
                 {
@@ -11007,6 +11019,29 @@
                 {
                     "type": "Feet",
                     "hint": "Rest & Relaxation"
+                }
+            ]
+        },
+        {
+            "week": 228,
+            "date": "2022-06-10",
+            "theme": "Ruins Explorer",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Ride The Tides"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Do Rats Fly"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "To Adventure"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Allagan Attack"
                 }
             ]
         }
