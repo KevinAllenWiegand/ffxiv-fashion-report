@@ -4910,7 +4910,7 @@
                     "name": "Extreme Survival Slops"
                 },
                 {
-                    "name": "Linen Halfslops"
+                    "name": "Linen Survival Halfslops"
                 },
                 {
                     "name": "Survival Halfslops"
@@ -6140,10 +6140,19 @@
             "hint": "Allagan Attack",
             "items": [
                 {
-                    "name": "Any Allagan Choker"
+                    "name": "Platinum Scarf Of Aiming"
                 },
                 {
-                    "name": "Any High Allagan Choker"
+                    "name": "Platinum Scarf Of Casting"
+                },
+                {
+                    "name": "Platinum Scarf Of Fending"
+                },
+                {
+                    "name": "Platinum Scarf Of Healing"
+                },
+                {
+                    "name": "Platinum Scarf Of Slaying"
                 }
             ]
         },
