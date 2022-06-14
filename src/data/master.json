@@ -11053,6 +11053,29 @@
                     "hint": "Allagan Attack"
                 }
             ]
+        },
+        {
+            "week": 229,
+            "date": "2022-06-17",
+            "theme": "Diabolically Precise",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Simple Is Best"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Diabolical"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Pirates In The Sky"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Near Eastern Nights"
+                }
+            ]
         }
     ]
 }
