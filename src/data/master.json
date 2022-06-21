@@ -11076,6 +11076,29 @@
                     "hint": "Near Eastern Nights"
                 }
             ]
+        },
+        {
+            "week": 230,
+            "date": "2022-06-24",
+            "theme": "Hidden Allure",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Noblesse Oblige"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Brace For Impact"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "\"Groin\" Pains"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Short Boots"
+                }
+            ]
         }
     ]
 }
