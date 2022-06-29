@@ -1178,6 +1178,15 @@
         },
         {
             "type": "Head",
+            "hint": "Wild Whiskers",
+            "items": [
+                {
+                    "name": "False Mustache"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Winter Wonderland",
             "items": [
                 {
@@ -6539,7 +6548,34 @@
             "hint": "The Father",
             "items": [
                 {
-                    "name": "Any Prototype/Gordian Wristband"
+                    "name": "Gordian Wristband of Aiming"
+                },
+                {
+                    "name": "Gordian Wristband of Casting"
+                },
+                {
+                    "name": "Gordian Wristband of Fending"
+                },
+                {
+                    "name": "Gordian Wristband of Healing"
+                },
+                {
+                    "name": "Gordian Wristband of Slaying"
+                },
+                {
+                    "name": "Prototype Gordian Wristband of Aiming"
+                },
+                {
+                    "name": "Prototype Gordian Wristband of Casting"
+                },
+                {
+                    "name": "Prototype Gordian Wristband of Fending"
+                },
+                {
+                    "name": "Prototype Gordian Wristband of Healing"
+                },
+                {
+                    "name": "Prototype Gordian Wristband of Slaying"
                 }
             ]
         },
@@ -11097,6 +11133,29 @@
                 {
                     "type": "Feet",
                     "hint": "Short Boots"
+                }
+            ]
+        },
+        {
+            "week": 231,
+            "date": "2022-07-01",
+            "theme": "Bewhiskered Combatant",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Wild Whiskers"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Vagabond"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Kinky Boots"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "The Father"
                 }
             ]
         }

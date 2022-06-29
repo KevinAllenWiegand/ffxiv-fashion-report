@@ -9,7 +9,7 @@ import '@babel/polyfill';
 import 'bootstrap';
 
 import { SLOT_TYPES } from './slotTypes';
-import { addOwnedItem, removeOwnedItem, isItemOwned, loadOwnedItems } from './ownedItems';
+import { addOwnedItem, removeOwnedItem, isItemOwned, loadOwnedItems, getAllOwnedItems, clearOwnedItems } from './ownedItems';
 import fashionReportData from './data/master.json';
 
 const NO_RESULTS = '<div class=\'resultHeader\'>No Results</div>';
@@ -91,8 +91,53 @@ $(function () {
         }, 500);
     });
 
+    $('#backupButton').on('click', function () {
+        const itemsArray = [];
+
+        getAllOwnedItems().forEach(function(value, key, map) {
+            itemsArray.push(key);
+        });
+
+        download('ffxiv-fashion-report-myitems.json', JSON.stringify(itemsArray));
+    });
+
+    $('#restoreButton').on('click', function () {
+        const items = $('#myItemsToRestore').val();
+
+        if (items) {
+            try {
+                var itemsArray = JSON.parse(items);
+
+                clearOwnedItems();
+
+                itemsArray.forEach(function(key) {
+                    addOwnedItem(key);
+                });
+
+                loadMyItems();
+                $('#myItemsToRestore').val('');
+                showReport(showingWeek);
+            } catch (error) {
+            }
+        }
+    });
+
     showLatestReport();
+    loadMyItems();
 });
+
+function download(filename, text) {
+    var element = document.createElement('a');
+    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+    element.setAttribute('download', filename);
+
+    element.style.display = 'none';
+    document.body.appendChild(element);
+
+    element.click();
+
+    document.body.removeChild(element);
+}
 
 function init() {
     loadOwnedItems();
@@ -380,6 +425,43 @@ function searchItems(itemName) {
     });
 }
 
+function loadMyItems() {
+    const owned = getAllOwnedItems();
+    let items = [];
+    let ownedItems = '<ul>'
+
+    owned.forEach(function(value, key, map) {
+        let found = false;
+
+        for (let slotIndex = 0; slotIndex < fashionReportData.slots.length; slotIndex++) {
+            const slot = fashionReportData.slots[slotIndex];
+
+            for (let itemIndex = 0; itemIndex < slot.items.length; itemIndex++) {
+                const item = slot.items[itemIndex];
+
+                if (makeId(`item${item.name}`) === key) {
+                    items.push(item.name);
+                    found = true;
+                    break;
+                }
+            }
+
+            if (found) {
+                break;
+            }
+        }
+    });
+
+    items.sort();
+    items.forEach(function(item) {
+        ownedItems += `<li>${item}</li>`;
+    });
+
+    ownedItems += '</ul>';
+
+    $('#myItemsResults').html(ownedItems || NO_RESULTS);
+}
+
 function loadWeek(weekNumber) {
     resetHintSearchForm();
 
@@ -431,6 +513,8 @@ function searchHints(type, hint, target) {
                     } else {
                         removeOwnedItem(id);
                     }
+
+                    loadMyItems();
                 });
             });
         }

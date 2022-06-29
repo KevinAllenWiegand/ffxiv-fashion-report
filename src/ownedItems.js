@@ -15,8 +15,17 @@ function removeOwnedItem(item) {
     }
 }
 
+function clearOwnedItems() {
+    OWNED_ITEMS.clear();
+    saveOwnedItems();
+}
+
 function isItemOwned(item) {
     return OWNED_ITEMS.has(item);
+}
+
+function getAllOwnedItems() {
+    return OWNED_ITEMS;
 }
 
 function saveOwnedItems() {
@@ -45,5 +54,7 @@ export {
     addOwnedItem,
     removeOwnedItem,
     isItemOwned,
-    loadOwnedItems
+    loadOwnedItems,
+    getAllOwnedItems,
+    clearOwnedItems
 }
