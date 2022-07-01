@@ -1181,7 +1181,25 @@
             "hint": "Wild Whiskers",
             "items": [
                 {
+                    "name": "Dwarven Cotton Petasos Of Casting"
+                },
+                {
+                    "name": "Dwarven Cotton Petasos Of Healing"
+                },
+                {
+                    "name": "Dwarven Cotton Turban Of Aiming"
+                },
+                {
+                    "name": "Dwarven Cotton Turban Of Scouting"
+                },
+                {
+                    "name": "Dwarven Mythril Helm Of Fending"
+                },
+                {
                     "name": "False Mustache"
+                },
+                {
+                    "name": "Saint's Cap"
                 }
             ]
         },
