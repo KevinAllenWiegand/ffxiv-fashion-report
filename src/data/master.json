@@ -2453,6 +2453,9 @@
                     "name": "Coeurl Talisman"
                 },
                 {
+                    "name": "Coronal Summer Halter"
+                },
+                {
                     "name": "Faire Joi"
                 },
                 {
@@ -2462,10 +2465,40 @@
                     "name": "Moonfire Vest"
                 },
                 {
+                    "name": "Sea Breeze Summer Halter"
+                },
+                {
+                    "name": "Shisui Joi Of Aiming"
+                },
+                {
+                    "name": "Shisui Joi Of Casting"
+                },
+                {
+                    "name": "Shisui Joi Of Fending"
+                },
+                {
+                    "name": "Shisui Joi Of Healing"
+                },
+                {
+                    "name": "Shisui Joi Of Maiming"
+                },
+                {
+                    "name": "Shisui Joi Of Scouting"
+                },
+                {
+                    "name": "Shisui Joi Of Striking"
+                },
+                {
                     "name": "Southern Seas Swimsuit"
                 },
                 {
+                    "name": "Southern Seas Talisman"
+                },
+                {
                     "name": "Striped Southern Seas Swimsuit"
+                },
+                {
+                    "name": "Ti Leaf Lei"
                 }
             ]
         },
@@ -11174,6 +11207,29 @@
                 {
                     "type": "Wrist",
                     "hint": "The Father"
+                }
+            ]
+        },
+        {
+            "week": 232,
+            "date": "2022-07-08",
+            "theme": "Anonymous Acrobat",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Darkside Of A Hero"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Summer Breeze"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In The \"Fold\""
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Near Eastern Nights"
                 }
             ]
         }
