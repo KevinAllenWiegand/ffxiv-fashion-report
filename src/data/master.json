@@ -1523,6 +1523,18 @@
                     "name": "Argute Gown"
                 },
                 {
+                    "name": "Augmented Shire Conservator's Coat"
+                },
+                {
+                    "name": "Augmented Shire Philosopher's Coat"
+                },
+                {
+                    "name": "Augmented Shire Preceptor's Coat"
+                },
+                {
+                    "name": "Savant's Overcoat"
+                },
+                {
                     "name": "Scholar's Gown"
                 },
                 {
@@ -4574,16 +4586,70 @@
             "hint": "Rouse Trousers",
             "items": [
                 {
+                    "name": "Allagan Trousers Of Aiming"
+                },
+                {
+                    "name": "Allagan Trousers Of Maiming"
+                },
+                {
+                    "name": "Allagan Trousers Of Striking"
+                },
+                {
+                    "name": "Augmented Ironworks Trousers Of Fending"
+                },
+                {
+                    "name": "Cavalry Trousers"
+                },
+                {
                     "name": "Gambler's Trousers"
                 },
                 {
                     "name": "Hempen Trousers"
                 },
                 {
+                    "name": "High Allagan Trousers Of Fending"
+                },
+                {
+                    "name": "High Allagan Trousers Of Maiming"
+                },
+                {
+                    "name": "High Allagan Trousers Of Striking"
+                },
+                {
+                    "name": "Hoplite's Trousers"
+                },
+                {
+                    "name": "Ironworks Trousers Of Fending"
+                },
+                {
                     "name": "Linen Trousers"
                 },
                 {
+                    "name": "Orthodox Trousers Of Aiming"
+                },
+                {
+                    "name": "Orthodox Trousers Of Scouting"
+                },
+                {
+                    "name": "Orthodox Trousers Of Striking"
+                },
+                {
                     "name": "Padded Linen Trousers"
+                },
+                {
+                    "name": "Picaroon's Trousers Of Maiming"
+                },
+                {
+                    "name": "Picaroon's Trousers Of Striking"
+                },
+                {
+                    "name": "Raimie Trousers Of Aiming"
+                },
+                {
+                    "name": "Raimie Trousers Of Scouting"
+                },
+                {
+                    "name": "Raimie Trousers Of Striking"
                 },
                 {
                     "name": "Ramie Trousers Of Aiming"
@@ -4593,6 +4659,27 @@
                 },
                 {
                     "name": "Ramie Trousers Of Striking"
+                },
+                {
+                    "name": "Replica Allagan Trousers Of Aiming"
+                },
+                {
+                    "name": "Replica Allagan Trousers Of Maiming"
+                },
+                {
+                    "name": "Replica Allagan Trousers Of Striking"
+                },
+                {
+                    "name": "Replica High Allagan Trousers Of Fending"
+                },
+                {
+                    "name": "Replica High Allagan Trousers Of Maiming"
+                },
+                {
+                    "name": "Replica High Allagan Trousers Of Striking"
+                },
+                {
+                    "name": "Sky Pirate's Trousers Of Scouting"
                 }
             ]
         },
@@ -11229,6 +11316,29 @@
                 },
                 {
                     "type": "Legs",
+                    "hint": "Near Eastern Nights"
+                }
+            ]
+        },
+        {
+            "week": 233,
+            "date": "2022-07-15",
+            "theme": "Roaming Researcher",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Mountain Bred"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Brain Over Brawn"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Rouse Trousers"
+                },
+                {
+                    "type": "Feet",
                     "hint": "Near Eastern Nights"
                 }
             ]
