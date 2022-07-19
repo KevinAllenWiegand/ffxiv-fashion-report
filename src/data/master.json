@@ -3494,6 +3494,21 @@
         },
         {
             "type": "Hands",
+            "hint": "Riding High",
+            "items": [
+                {
+                    "name": "Dinosaur Leather Gloves"
+                },
+                {
+                    "name": "Ghost Barque Caster Gloves"
+                },
+                {
+                    "name": "Strife Gloves"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
             "hint": "Rocking Ribbons",
             "items": [
                 {
@@ -11340,6 +11355,29 @@
                 {
                     "type": "Feet",
                     "hint": "Near Eastern Nights"
+                }
+            ]
+        },
+        {
+            "week": 234,
+            "date": "2022-07-22",
+            "theme": "Duck's Back Duds",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Ready For Rain"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Riding High"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Storm Of Blood"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Paying The Duckbills"
                 }
             ]
         }
