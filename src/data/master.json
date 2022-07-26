@@ -4220,6 +4220,30 @@
         },
         {
             "type": "Legs",
+            "hint": "Hells Or High Water",
+            "items": [
+                {
+                    "name": "Arachne Gaskins Of Scouting"
+                },
+                {
+                    "name": "Arachne Gaskins Of Striking"
+                },
+                {
+                    "name": "Cropped Flannel Slops"
+                },
+                {
+                    "name": "Cropped Wool Slops"
+                },
+                {
+                    "name": "Pagos Gaskins"
+                },
+                {
+                    "name": "Sailor Brais"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "Keeping It Casual",
             "items": [
                 {
@@ -11390,6 +11414,29 @@
                 {
                     "type": "Feet",
                     "hint": "Paying The Duckbills"
+                }
+            ]
+        },
+        {
+            "week": 235,
+            "date": "2022-07-29",
+            "theme": "Dress-Up Defender",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Animal Instincts"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Bonewicca Bow Wow"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Hells Or High Water"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Jewels Of Green"
                 }
             ]
         }
