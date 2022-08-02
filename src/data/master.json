@@ -3653,6 +3653,33 @@
         },
         {
             "type": "Hands",
+            "hint": "Tip o' The Arhat",
+            "items": [
+                {
+                    "name": "Arhat Kote Of Fending"
+                },
+                {
+                    "name": "Arhat Kote Of Maiming"
+                },
+                {
+                    "name": "Arhat Tekko Of Aiming"
+                },
+                {
+                    "name": "Arhat Tekko Of Casting"
+                },
+                {
+                    "name": "Arhat Tekko Of Healing"
+                },
+                {
+                    "name": "Arhat Tekko Of Scouting"
+                },
+                {
+                    "name": "Arhat Tekko Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
             "hint": "Tooth And \"Nail\"",
             "items": [
                 {
@@ -10677,7 +10704,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "Tip O' The Arhat"
+                    "hint": "Tip o' The Arhat"
                 }
             ]
         },
@@ -10769,7 +10796,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "Tip O' The Arhat"
+                    "hint": "Tip o' The Arhat"
                 }
             ]
         },
@@ -11437,6 +11464,29 @@
                 {
                     "type": "Neck",
                     "hint": "Jewels Of Green"
+                }
+            ]
+        },
+        {
+            "week": 236,
+            "date": "2022-08-05",
+            "theme": "Wild-Eared Winterwear",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Call Of The Wild"
+                },
+                {
+                    "type": "Body",
+                    "hint": "You're So Whisperfine"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Tip o' The Arhat"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "\"Groin\" Pains"
                 }
             ]
         }
