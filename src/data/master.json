@@ -6878,7 +6878,19 @@
                     "name": "Garnet Ring"
                 },
                 {
+                    "name": "High Allagan Ring Of Casting"
+                },
+                {
                     "name": "Platinum Ring Of Slaying"
+                },
+                {
+                    "name": "Ring Of Divine Death"
+                },
+                {
+                    "name": "Ring Of Divine Light"
+                },
+                {
+                    "name": "Ring Of Divine Wisdom"
                 },
                 {
                     "name": "Rubellite Ring"
@@ -6890,7 +6902,13 @@
                     "name": "Sunstone Ring"
                 },
                 {
+                    "name": "Warwolf Ring Of Aiming"
+                },
+                {
                     "name": "Warwolf Ring Of Slaying"
+                },
+                {
+                    "name": "Wolf Rubellite Ring"
                 }
             ]
         },
@@ -11487,6 +11505,29 @@
                 {
                     "type": "Legs",
                     "hint": "\"Groin\" Pains"
+                }
+            ]
+        },
+        {
+            "week": 237,
+            "date": "2022-08-12",
+            "theme": "Home From Abroad",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Smallfolk"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Skirts Of A Feather"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Leather Underfoot"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Jewels Of Red"
                 }
             ]
         }
