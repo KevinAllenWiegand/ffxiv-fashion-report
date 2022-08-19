@@ -2921,6 +2921,9 @@
             "hint": "All In The Wrist",
             "items": [
                 {
+                    "name": "Bunny Loops"
+                },
+                {
                     "name": "Forager's Wristguards"
                 },
                 {
@@ -2928,6 +2931,12 @@
                 },
                 {
                     "name": "Hard Leather Wristguards"
+                },
+                {
+                    "name": "Lalafellin Wristbands"
+                },
+                {
+                    "name": "Lalafellin Wristguards"
                 },
                 {
                     "name": "Leather Wristguards"
@@ -4757,13 +4766,13 @@
                     "name": "Arachne Gaskins Of Striking"
                 },
                 {
-                    "name": "Griffin Leather Brias Of Scouting"
+                    "name": "Griffin Leather Brais Of Scouting"
                 },
                 {
-                    "name": "Griffin Leather Brias Of Striking"
+                    "name": "Griffin Leather Brais Of Striking"
                 },
                 {
-                    "name": "Kirimu Brias"
+                    "name": "Kirimu Brais"
                 },
                 {
                     "name": "Pagos Gaskins"
@@ -11525,6 +11534,29 @@
                 {
                     "type": "Ring",
                     "hint": "Jewels Of Red"
+                }
+            ]
+        },
+        {
+            "week": 238,
+            "date": "2022-08-19",
+            "theme": "Island Pirate",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Summer Breeze"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "All In The Wrist"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Shivering Timbers"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In The \"Fold\""
                 }
             ]
         }
