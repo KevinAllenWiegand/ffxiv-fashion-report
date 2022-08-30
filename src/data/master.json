@@ -11559,6 +11559,29 @@
                     "hint": "In The \"Fold\""
                 }
             ]
+        },
+        {
+            "week": 239,
+            "date": "2022-08-26",
+            "theme": "Wild-Eared Gambler",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Call Of The Wild"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Simply Saucer"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Chausses Of Choice"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Dalmascan Chic"
+                }
+            ]
         }
     ]
 }
