@@ -452,7 +452,13 @@
                     "name": "Hallowed Chestnut Mask Of Healing"
                 },
                 {
+                    "name": "Monoa Mask"
+                },
+                {
                     "name": "Serpent Sergeant's Mask"
+                },
+                {
+                    "name": "Shikaree's Mask"
                 },
                 {
                     "name": "Storm Sergeant's Mask"
@@ -4136,22 +4142,61 @@
             "hint": "Flutterbye",
             "items": [
                 {
+                    "name": "Allagan Breeches Of Casting"
+                },
+                {
+                    "name": "Allagan Breeches Of Healing"
+                },
+                {
                     "name": "Boarskin Skirt"
+                },
+                {
+                    "name": "Brand-New Skirt"
+                },
+                {
+                    "name": "Cashmere Skirt Of Aiming"
                 },
                 {
                     "name": "Cashmere Skirt Of Healing"
                 },
                 {
+                    "name": "Coliseum Loincloth"
+                },
+                {
+                    "name": "Far Eastern Beauty's Koshita"
+                },
+                {
+                    "name": "Flame Elite's Loincloth"
+                },
+                {
                     "name": "Foestriker's Skirt"
+                },
+                {
+                    "name": "Fuga Hakama"
+                },
+                {
+                    "name": "Indigo Ramie Skirt Of Casting"
                 },
                 {
                     "name": "Indigo Ramie Skirt Of Healing"
                 },
                 {
+                    "name": "Infantry Skirt"
+                },
+                {
                     "name": "Miqo'te Loincloth"
                 },
                 {
-                    "name": "Replica/Allagan Breeches Of Healing"
+                    "name": "Nameless Hakama"
+                },
+                {
+                    "name": "Plain Long Skirt"
+                },
+                {
+                    "name": "Replica Allagan Breeches Of Casting"
+                },
+                {
+                    "name": "Replica Allagan Breeches Of Healing"
                 },
                 {
                     "name": "Spring Skirt"
@@ -11580,6 +11625,29 @@
                 {
                     "type": "Feet",
                     "hint": "Dalmascan Chic"
+                }
+            ]
+        },
+        {
+            "week": 240,
+            "date": "2022-09-02",
+            "theme": "Deepforest Magician",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Face Of The Forest"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "I Believe In Magic"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Flutterbye"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Wind In The Willows"
                 }
             ]
         }

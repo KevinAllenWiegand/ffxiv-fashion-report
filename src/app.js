@@ -102,24 +102,43 @@ $(function () {
     });
 
     $('#restoreButton').on('click', function () {
-        const items = $('#myItemsToRestore').val();
+        const restoreFile = $('#restoreFile');
 
-        if (items) {
-            try {
-                var itemsArray = JSON.parse(items);
-
-                clearOwnedItems();
-
-                itemsArray.forEach(function(key) {
-                    addOwnedItem(key);
-                });
-
-                loadMyItems();
-                $('#myItemsToRestore').val('');
-                showReport(showingWeek);
-            } catch (error) {
-            }
+        if (!restoreFile[0] || !restoreFile[0].files[0]) {
+            alert('You need to select a restore file first.');
         }
+
+        const filename = restoreFile[0].files[0].name.toLowerCase();
+
+        if (filename.length < 6 || !filename.endsWith('.json')) {
+            alert('You need to select a valid json file.');
+        }
+
+        const fileReader = new FileReader();
+
+        fileReader.onload = function(){
+            const items = fileReader.result;
+
+            if (items) {
+                try {
+                    var itemsArray = JSON.parse(items);
+
+                    clearOwnedItems();
+
+                    itemsArray.forEach(function (key) {
+                        addOwnedItem(key);
+                    });
+
+                    loadMyItems();
+                    $('#myItemsToRestore').val('');
+                    showReport(showingWeek);
+                    restoreFile.val('');
+                } catch (error) {
+                }
+            }
+        };
+
+        fileReader.readAsText(restoreFile[0].files[0]);
     });
 
     showLatestReport();
