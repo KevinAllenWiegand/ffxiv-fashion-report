@@ -536,31 +536,52 @@
             "hint": "Future Arma",
             "items": [
                 {
-                    "name": "Replica/Sky Rat Mask Of Aiming"
+                    "name": "Replica Sky Rat Mask Of Aiming"
                 },
                 {
-                    "name": "Replica/Sky Rat Mask Of Casting"
+                    "name": "Replica Sky Rat Mask Of Casting"
                 },
                 {
-                    "name": "Replica/Sky Rat Mask Of Fending"
+                    "name": "Replica Sky Rat Mask Of Fending"
                 },
                 {
-                    "name": "Replica/Sky Rat Mask Of Healing"
+                    "name": "Replica Sky Rat Mask Of Healing"
                 },
                 {
-                    "name": "Replica/Sky Rat Mask Of Maiming"
+                    "name": "Replica Sky Rat Mask Of Maiming"
                 },
                 {
-                    "name": "Replica/Sky Rat Mask Of Scouting"
+                    "name": "Replica Sky Rat Mask Of Scouting"
                 },
                 {
-                    "name": "Replica/Sky Rat Mask Of Striking"
+                    "name": "Replica Sky Rat Mask Of Striking"
                 },
                 {
                     "name": "Shaded Visor"
                 },
                 {
                     "name": "Sharlayan Goggles"
+                },
+                {
+                    "name": "Sky Rat Mask Of Aiming"
+                },
+                {
+                    "name": "Sky Rat Mask Of Casting"
+                },
+                {
+                    "name": "Sky Rat Mask Of Fending"
+                },
+                {
+                    "name": "Sky Rat Mask Of Healing"
+                },
+                {
+                    "name": "Sky Rat Mask Of Maiming"
+                },
+                {
+                    "name": "Sky Rat Mask Of Scouting"
+                },
+                {
+                    "name": "Sky Rat Mask Of Striking"
                 }
             ]
         },
@@ -1646,22 +1667,40 @@
             "hint": "Coiled Finally",
             "items": [
                 {
-                    "name": "Replica/Dreadwyrm Armor Of Fending"
+                    "name": "Dreadwyrm Armor Of Fending"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Cyclas Of Scouting"
+                    "name": "Dreadwyrm Cyclas Of Scouting"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Cyclas Of Striking"
+                    "name": "Dreadwyrm Cyclas Of Striking"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Mail Of Maiming"
+                    "name": "Dreadwyrm Mail Of Maiming"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Robe Of Casting"
+                    "name": "Dreadwyrm Robe Of Casting"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Robe Of Healing"
+                    "name": "Dreadwyrm Robe Of Healing"
+                },
+                {
+                    "name": "Replica Dreadwyrm Armor Of Fending"
+                },
+                {
+                    "name": "Replica Dreadwyrm Cyclas Of Scouting"
+                },
+                {
+                    "name": "Replica Dreadwyrm Cyclas Of Striking"
+                },
+                {
+                    "name": "Replica Dreadwyrm Mail Of Maiming"
+                },
+                {
+                    "name": "Replica Dreadwyrm Robe Of Casting"
+                },
+                {
+                    "name": "Replica Dreadwyrm Robe Of Healing"
                 }
             ]
         },
@@ -1691,25 +1730,46 @@
             "hint": "Do Rats Fly",
             "items": [
                 {
-                    "name": "Replica/Sky Rat Harness Of Aiming"
+                    "name": "Replica Sky Rat Harness Of Aiming"
                 },
                 {
-                    "name": "Replica/Sky Rat Harness Of Casting"
+                    "name": "Replica Sky Rat Harness Of Casting"
                 },
                 {
-                    "name": "Replica/Sky Rat Harness Of Fending"
+                    "name": "Replica Sky Rat Harness Of Fending"
                 },
                 {
-                    "name": "Replica/Sky Rat Harness Of Healing"
+                    "name": "Replica Sky Rat Harness Of Healing"
                 },
                 {
-                    "name": "Replica/Sky Rat Harness Of Maiming"
+                    "name": "Replica Sky Rat Harness Of Maiming"
                 },
                 {
-                    "name": "Replica/Sky Rat Harness Of Scouting"
+                    "name": "Replica Sky Rat Harness Of Scouting"
                 },
                 {
-                    "name": "Replica/Sky Rat Harness Of Striking"
+                    "name": "Replica Sky Rat Harness Of Striking"
+                },
+                {
+                    "name": "Sky Rat Harness Of Aiming"
+                },
+                {
+                    "name": "Sky Rat Harness Of Casting"
+                },
+                {
+                    "name": "Sky Rat Harness Of Fending"
+                },
+                {
+                    "name": "Sky Rat Harness Of Healing"
+                },
+                {
+                    "name": "Sky Rat Harness Of Maiming"
+                },
+                {
+                    "name": "Sky Rat Harness Of Scouting"
+                },
+                {
+                    "name": "Sky Rat Harness Of Striking"
                 }
             ]
         },
@@ -2300,7 +2360,10 @@
                     "name": "Hallowed Ramie Doublet Of Casting"
                 },
                 {
-                    "name": "Replica/Sky Pirate's Jacket Of Striking"
+                    "name": "Replica Sky Pirate's Jacket Of Striking"
+                },
+                {
+                    "name": "Sky Pirate's Jacket Of Striking"
                 }
             ]
         },
@@ -3080,25 +3143,46 @@
             "hint": "Coiled Finally",
             "items": [
                 {
-                    "name": "Replica/Dreadwyrm Bracers Of Aiming"
+                    "name": "Dreadwyrm Bracers Of Aiming"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Bracers Of Scouting"
+                    "name": "Dreadwyrm Bracers Of Scouting"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Bracers Of Striking"
+                    "name": "Dreadwyrm Bracers Of Striking"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Gauntlets Of Fending"
+                    "name": "Dreadwyrm Gauntlets Of Fending"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Gloves Of Casting"
+                    "name": "Dreadwyrm Gloves Of Casting"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Gloves Of Healing"
+                    "name": "Dreadwyrm Gloves Of Healing"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Vambraces Of Maiming"
+                    "name": "Dreadwyrm Vambraces Of Maiming"
+                },
+                {
+                    "name": "Replica Dreadwyrm Bracers Of Aiming"
+                },
+                {
+                    "name": "Replica Dreadwyrm Bracers Of Scouting"
+                },
+                {
+                    "name": "Replica Dreadwyrm Bracers Of Striking"
+                },
+                {
+                    "name": "Replica Dreadwyrm Gauntlets Of Fending"
+                },
+                {
+                    "name": "Replica Dreadwyrm Gloves Of Casting"
+                },
+                {
+                    "name": "Replica Dreadwyrm Gloves Of Healing"
+                },
+                {
+                    "name": "Replica Dreadwyrm Vambraces Of Maiming"
                 }
             ]
         },
@@ -3455,22 +3539,40 @@
             "hint": "Pirates In The Sky",
             "items": [
                 {
-                    "name": "Replica/Sky Pirate's Gauntlets Of Fending"
+                    "name": "Replica Sky Pirate's Gauntlets Of Fending"
                 },
                 {
-                    "name": "Replica/Sky Pirate's Gauntlets Of Maiming"
+                    "name": "Replica Sky Pirate's Gauntlets Of Maiming"
                 },
                 {
-                    "name": "Replica/Sky Pirate's Gloves Of Aiming"
+                    "name": "Replica Sky Pirate's Gloves Of Aiming"
                 },
                 {
-                    "name": "Replica/Sky Pirate's Gloves Of Healing"
+                    "name": "Replica Sky Pirate's Gloves Of Healing"
                 },
                 {
-                    "name": "Replica/Sky Pirate's Gloves Of Scouting"
+                    "name": "Replica Sky Pirate's Gloves Of Scouting"
                 },
                 {
-                    "name": "Replica/Sky Pirate's Gloves Of Striking"
+                    "name": "Replica Sky Pirate's Gloves Of Striking"
+                },
+                {
+                    "name": "Sky Pirate's Gauntlets Of Fending"
+                },
+                {
+                    "name": "Sky Pirate's Gauntlets Of Maiming"
+                },
+                {
+                    "name": "Sky Pirate's Gloves Of Aiming"
+                },
+                {
+                    "name": "Sky Pirate's Gloves Of Healing"
+                },
+                {
+                    "name": "Sky Pirate's Gloves Of Scouting"
+                },
+                {
+                    "name": "Sky Pirate's Gloves Of Striking"
                 },
                 {
                     "name": "Tantalus Cuffs"
@@ -3947,25 +4049,46 @@
             "hint": "Coiled Finally",
             "items": [
                 {
-                    "name": "Replica/Dreadwyrm Breeches Of Aiming"
+                    "name": "Dreadwyrm Breeches Of Aiming"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Breeches Of Maiming"
+                    "name": "Dreadwyrm Breeches Of Maiming"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Sarouel Of Fending"
+                    "name": "Dreadwyrm Sarouel Of Fending"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Slops Of Scouting"
+                    "name": "Dreadwyrm Slops Of Scouting"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Slops Of Striking"
+                    "name": "Dreadwyrm Slops Of Striking"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Tonban Of Casting"
+                    "name": "Dreadwyrm Tonban Of Casting"
                 },
                 {
-                    "name": "Replica/Dreadwyrm Tonban Of Healing"
+                    "name": "Dreadwyrm Tonban Of Healing"
+                },
+                {
+                    "name": "Replica Dreadwyrm Breeches Of Aiming"
+                },
+                {
+                    "name": "Replica Dreadwyrm Breeches Of Maiming"
+                },
+                {
+                    "name": "Replica Dreadwyrm Sarouel Of Fending"
+                },
+                {
+                    "name": "Replica Dreadwyrm Slops Of Scouting"
+                },
+                {
+                    "name": "Replica Dreadwyrm Slops Of Striking"
+                },
+                {
+                    "name": "Replica Dreadwyrm Tonban Of Casting"
+                },
+                {
+                    "name": "Replica Dreadwyrm Tonban Of Healing"
                 }
             ]
         },
@@ -4022,25 +4145,46 @@
             "hint": "Do Rats Fly",
             "items": [
                 {
-                    "name": "Replica/Sky Rat Breeches Of Aiming"
+                    "name": "Replica Sky Rat Breeches Of Aiming"
                 },
                 {
-                    "name": "Replica/Sky Rat Breeches Of Casting"
+                    "name": "Replica Sky Rat Breeches Of Casting"
                 },
                 {
-                    "name": "Replica/Sky Rat Breeches Of Fending"
+                    "name": "Replica Sky Rat Breeches Of Fending"
                 },
                 {
-                    "name": "Replica/Sky Rat Breeches Of Healing"
+                    "name": "Replica Sky Rat Breeches Of Healing"
                 },
                 {
-                    "name": "Replica/Sky Rat Breeches Of Maiming"
+                    "name": "Replica Sky Rat Breeches Of Maiming"
                 },
                 {
-                    "name": "Replica/Sky Rat Breeches Of Scouting"
+                    "name": "Replica Sky Rat Breeches Of Scouting"
                 },
                 {
-                    "name": "Replica/Sky Rat Breeches Of Striking"
+                    "name": "Replica Sky Rat Breeches Of Striking"
+                },
+                {
+                    "name": "Sky Rat Breeches Of Aiming"
+                },
+                {
+                    "name": "Sky Rat Breeches Of Casting"
+                },
+                {
+                    "name": "Sky Rat Breeches Of Fending"
+                },
+                {
+                    "name": "Sky Rat Breeches Of Healing"
+                },
+                {
+                    "name": "Sky Rat Breeches Of Maiming"
+                },
+                {
+                    "name": "Sky Rat Breeches Of Scouting"
+                },
+                {
+                    "name": "Sky Rat Breeches Of Striking"
                 }
             ]
         },
@@ -4103,6 +4247,12 @@
             "hint": "Flap In Front",
             "items": [
                 {
+                    "name": "Allagan Breeches Of Casting"
+                },
+                {
+                    "name": "Allagan Breeches Of Healing"
+                },
+                {
                     "name": "Althyk's Cuisses Of Scouting"
                 },
                 {
@@ -4151,10 +4301,10 @@
                     "name": "Nomad's Breeches Of Striking"
                 },
                 {
-                    "name": "Replica/Allagan Breeches Of Casting"
+                    "name": "Replica Allagan Breeches Of Casting"
                 },
                 {
-                    "name": "Replica/Allagan Breeches Of Healing"
+                    "name": "Replica Allagan Breeches Of Healing"
                 },
                 {
                     "name": "Weathered/Noct Breeches"
@@ -4538,25 +4688,46 @@
             "hint": "Pirates In The Sky",
             "items": [
                 {
-                    "name": "Replica/Sky Pirate's Bottoms Of Casting"
+                    "name": "Replica Sky Pirate's Bottoms Of Casting"
                 },
                 {
-                    "name": "Replica/Sky Pirate's Bottoms Of Healing"
+                    "name": "Replica Sky Pirate's Bottoms Of Healing"
                 },
                 {
-                    "name": "Replica/Sky Pirate's Gaskins Of Fending"
+                    "name": "Replica Sky Pirate's Gaskins Of Fending"
                 },
                 {
-                    "name": "Replica/Sky Pirate's Gaskins Of Maiming"
+                    "name": "Replica Sky Pirate's Gaskins Of Maiming"
                 },
                 {
-                    "name": "Replica/Sky Pirate's Halfslops Of Aiming"
+                    "name": "Replica Sky Pirate's Halfslops Of Aiming"
                 },
                 {
-                    "name": "Replica/Sky Pirate's Trousers Of Scouting"
+                    "name": "Replica Sky Pirate's Trousers Of Scouting"
                 },
                 {
-                    "name": "Replica/Sky Pirate's Trousers Of Striking"
+                    "name": "Replica Sky Pirate's Trousers Of Striking"
+                },
+                {
+                    "name": "Sky Pirate's Bottoms Of Casting"
+                },
+                {
+                    "name": "Sky Pirate's Bottoms Of Healing"
+                },
+                {
+                    "name": "Sky Pirate's Gaskins Of Fending"
+                },
+                {
+                    "name": "Sky Pirate's Gaskins Of Maiming"
+                },
+                {
+                    "name": "Sky Pirate's Halfslops Of Aiming"
+                },
+                {
+                    "name": "Sky Pirate's Trousers Of Scouting"
+                },
+                {
+                    "name": "Sky Pirate's Trousers Of Striking"
                 },
                 {
                     "name": "Tantalus Breeches"
@@ -5219,7 +5390,10 @@
                     "name": "Gambler's Trousers"
                 },
                 {
-                    "name": "Replica/High Allagan Pantaloons Of Healing"
+                    "name": "High Allagan Pantaloons Of Healing"
+                },
+                {
+                    "name": "Replica High Allagan Pantaloons Of Healing"
                 }
             ]
         },
@@ -5504,25 +5678,46 @@
             "hint": "Do Rats Fly",
             "items": [
                 {
-                    "name": "Replica/Sky Rat Hookboots Of Fending"
+                    "name": "Replica Sky Rat Hookboots Of Fending"
                 },
                 {
-                    "name": "Replica/Sky Rat Hookboots Of Healing"
+                    "name": "Replica Sky Rat Hookboots Of Healing"
                 },
                 {
-                    "name": "Replica/Sky Rat Hookboots Of Maiming"
+                    "name": "Replica Sky Rat Hookboots Of Maiming"
                 },
                 {
-                    "name": "Replica/Sky Rat Hookboots Of Scouting"
+                    "name": "Replica Sky Rat Hookboots Of Scouting"
                 },
                 {
-                    "name": "Replica/Sky Rat Ironclad Boots Of Aiming"
+                    "name": "Replica Sky Rat Ironclad Boots Of Aiming"
                 },
                 {
-                    "name": "Replica/Sky Rat Ironclad Boots Of Casting"
+                    "name": "Replica Sky Rat Ironclad Boots Of Casting"
                 },
                 {
-                    "name": "Replica/Sky Rat Ironclad Boots Of Striking"
+                    "name": "Replica Sky Rat Ironclad Boots Of Striking"
+                },
+                {
+                    "name": "Sky Rat Hookboots Of Fending"
+                },
+                {
+                    "name": "Sky Rat Hookboots Of Healing"
+                },
+                {
+                    "name": "Sky Rat Hookboots Of Maiming"
+                },
+                {
+                    "name": "Sky Rat Hookboots Of Scouting"
+                },
+                {
+                    "name": "Sky Rat Ironclad Boots Of Aiming"
+                },
+                {
+                    "name": "Sky Rat Ironclad Boots Of Casting"
+                },
+                {
+                    "name": "Sky Rat Ironclad Boots Of Striking"
                 }
             ]
         },
