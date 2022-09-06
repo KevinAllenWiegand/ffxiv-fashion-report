@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 // Example:  node addweek "Theme" head "hint" body "hint" legs "hint" feet "hint"
 

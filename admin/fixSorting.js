@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 const fs = require('fs');
 const MASTER_FILE = '../src/data/master.json';

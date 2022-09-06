@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 // Example:  node addslot head "hint" "item1" "item2"
 

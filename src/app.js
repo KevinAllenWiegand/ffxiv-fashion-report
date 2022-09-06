@@ -1,10 +1,5 @@
 'use strict';
 
-// Lodestone item search:
-//    https://na.finalfantasyxiv.com/lodestone/playguide/db/item/?patch=&db_search_category=item&category2=&min_craft_lv=&max_craft_lv=&q=
-//    q is URLEncoded search string ("summer+morning+halter").
-//    %27 = '
-
 import '@babel/polyfill';
 import 'bootstrap';
 
@@ -564,7 +559,9 @@ function getItems(type, hint) {
                     const checked = isItemOwned(id) ? ' checked' : '';
 
                     ids.push(id)
-                    items += `<li><input type='checkbox' id='${id}' class='itemCheckbox'${checked}>${slot.items[itemIndex].name}</input></li>`;
+                    const searchQuery = encodeURIComponent(slot.items[itemIndex].name).replace(/[\']/gi, '%27');
+                    const searchUri = 'https://na.finalfantasyxiv.com/lodestone/playguide/db/search/?q=' + searchQuery;
+                    items += `<li><input type='checkbox' id='${id}' class='itemCheckbox'${checked}>${slot.items[itemIndex].name}</input><a href='${searchUri}' target='_blank' class='fas fa-search searchLodestone' title='Search in Lodestone'></a></li>`;
                 }
 
                 if (allItems) {

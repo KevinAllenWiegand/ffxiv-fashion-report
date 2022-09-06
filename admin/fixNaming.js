@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 // Break out any "Replica/XXX" items into their perspective items.
 
