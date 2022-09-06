@@ -1670,7 +1670,10 @@
             "hint": "Cooking Up A Storm",
             "items": [
                 {
-                    "name": "Augmented/Galleykeep's Whites"
+                    "name": "Augmented Galleykeep's Whites"
+                },
+                {
+                    "name": "Galleykeep's Whites"
                 }
             ]
         },
@@ -3297,6 +3300,27 @@
                 },
                 {
                     "name": "Witch's Gloves"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
+            "hint": "I Believe In Magic",
+            "items": [
+                {
+                    "name": "Archaeoskin Gloves Of Aiming"
+                },
+                {
+                    "name": "Archaeoskin Gloves Of Casting"
+                },
+                {
+                    "name": "Archaeoskin Gloves Of Healing"
+                },
+                {
+                    "name": "Magician's Gloves"
+                },
+                {
+                    "name": "Pilgrim's Gloves"
                 }
             ]
         },
@@ -6527,7 +6551,19 @@
             "hint": "Jewels Of White",
             "items": [
                 {
-                    "name": "Any Ironworks Choker"
+                    "name": "Augmented Ironworks Choker Of Aiming"
+                },
+                {
+                    "name": "Augmented Ironworks Choker Of Casting"
+                },
+                {
+                    "name": "Augmented Ironworks Choker Of Fending"
+                },
+                {
+                    "name": "Augmented Ironworks Choker Of Healing"
+                },
+                {
+                    "name": "Augmented Ironworks Choker Of Slaying"
                 },
                 {
                     "name": "Danburite Choker"
@@ -6537,6 +6573,21 @@
                 },
                 {
                     "name": "Goshenite Choker"
+                },
+                {
+                    "name": "Ironworks Choker Of Aiming"
+                },
+                {
+                    "name": "Ironworks Choker Of Casting"
+                },
+                {
+                    "name": "Ironworks Choker Of Fending"
+                },
+                {
+                    "name": "Ironworks Choker Of Healing"
+                },
+                {
+                    "name": "Ironworks Choker Of Slaying"
                 },
                 {
                     "name": "Pearl Choker"
@@ -6843,6 +6894,27 @@
                 },
                 {
                     "name": "Prototype Gordian Wristband of Slaying"
+                }
+            ]
+        },
+        {
+            "type": "Wrist",
+            "hint": "Wind In The Willows",
+            "items": [
+                {
+                    "name": "Mythrite Bangle Of Aiming"
+                },
+                {
+                    "name": "Mythrite Bangle Of Casting"
+                },
+                {
+                    "name": "Mythrite Bangle Of Fending"
+                },
+                {
+                    "name": "Mythrite Bangle Of Healing"
+                },
+                {
+                    "name": "Mythrite Bangle Of Slaying"
                 }
             ]
         },
@@ -11648,6 +11720,29 @@
                 {
                     "type": "Wrist",
                     "hint": "Wind In The Willows"
+                }
+            ]
+        },
+        {
+            "week": 241,
+            "date": "2022-09-09",
+            "theme": "Galley Cook",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Cooking Up A Storm"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "A Sailor's Life"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Paying The Duckbills"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Jewels Of White"
                 }
             ]
         }
