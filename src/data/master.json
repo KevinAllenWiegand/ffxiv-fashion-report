@@ -1709,10 +1709,31 @@
             "hint": "Cooking Up A Storm",
             "items": [
                 {
+                    "name": "Artisan's Apron"
+                },
+                {
                     "name": "Augmented Galleykeep's Whites"
                 },
                 {
+                    "name": "Augmented Galleyking's Apron"
+                },
+                {
+                    "name": "Culinarian's Apron"
+                },
+                {
                     "name": "Galleykeep's Whites"
+                },
+                {
+                    "name": "Galleyking's Apron"
+                },
+                {
+                    "name": "Linen Smock"
+                },
+                {
+                    "name": "Stained Chef's Apron"
+                },
+                {
+                    "name": "Valentione Apron"
                 }
             ]
         },
