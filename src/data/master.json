@@ -11961,6 +11961,29 @@
                     "hint": "Jewels Of White"
                 }
             ]
+        },
+        {
+            "week": 242,
+            "date": "2022-09-16",
+            "theme": "Barbarous Conqueror",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "The Conqueror"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "More Beast Than Man"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "More Beast Than Man"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "\"Labor\" Of Love"
+                }
+            ]
         }
     ]
 }
