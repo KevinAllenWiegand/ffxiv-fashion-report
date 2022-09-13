@@ -306,6 +306,7 @@ function resetHintSearchForm() {
 
 function searchItems(itemName) {
     const matchedSlots = new Map();
+    const matchedReportWeeks = new Set();
     const matchedReports = [];
 
     if (itemName && itemName.length > 1) {
@@ -338,7 +339,10 @@ function searchItems(itemName) {
                 const slot = report.slots[slotIndex];
                 
                 if (slot.type === key.type && slot.hint === key.hint) {
-                    matchedReports.push(report);
+                    if (!matchedReportWeeks.has(report.week)) {
+                        matchedReportWeeks.add(report.week);
+                        matchedReports.push(report);
+                    }
                     continue;
                 }
             }

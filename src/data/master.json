@@ -3518,6 +3518,33 @@
         },
         {
             "type": "Hands",
+            "hint": "More Beast Than Man",
+            "items": [
+                {
+                    "name": "Ehcatl Smithing Gloves"
+                },
+                {
+                    "name": "Ehcatl Wristgloves"
+                },
+                {
+                    "name": "Gnath Arms"
+                },
+                {
+                    "name": "Kote Of The Blue"
+                },
+                {
+                    "name": "Moogle Arms"
+                },
+                {
+                    "name": "Vanu Vanu Arms"
+                },
+                {
+                    "name": "Zundu Arms"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
             "hint": "Most Beast Than Man",
             "items": [
                 {
@@ -4575,6 +4602,27 @@
                 },
                 {
                     "name": "Yasha Hakama of Healing"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
+            "hint": "More Beast Than Man",
+            "items": [
+                {
+                    "name": "Gnath Abdomen"
+                },
+                {
+                    "name": "Moogle Buns"
+                },
+                {
+                    "name": "Tsutsu-Hakama Of The Blue"
+                },
+                {
+                    "name": "Vanu Vanu Waist"
+                },
+                {
+                    "name": "Zundu Waist"
                 }
             ]
         },
