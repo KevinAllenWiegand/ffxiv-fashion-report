@@ -12032,6 +12032,29 @@
                     "hint": "\"Labor\" Of Love"
                 }
             ]
+        },
+        {
+            "week": 243,
+            "date": "2022-09-23",
+            "theme": "Adventurous Artiste",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "To Adventure"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Motley Crew"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Devil In Denim"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Kinky Boots"
+                }
+            ]
         }
     ]
 }
