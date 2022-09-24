@@ -2066,6 +2066,24 @@
         },
         {
             "type": "Body",
+            "hint": "Motley Crew",
+            "items": [
+                {
+                    "name": "Hallowed Ramie Doublet Of Aiming"
+                },
+                {
+                    "name": "Hallowed Ramie Doublet Of Casting"
+                },
+                {
+                    "name": "Hallowed Ramie Doublet Of Healing"
+                },
+                {
+                    "name": "Shikaree's Doublet"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Near Eastern Nights",
             "items": [
                 {
