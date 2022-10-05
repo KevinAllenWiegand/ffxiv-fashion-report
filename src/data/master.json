@@ -12096,6 +12096,29 @@
                     "hint": "Veteran Of War"
                 }
             ]
+        },
+        {
+            "week": 245,
+            "date": "2022-10-07",
+            "theme": "Battle-Ready Jester",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Raising The Barbut"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Motley Crew"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Pretty In Pantaloons"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Shod With Sandals"
+                }
+            ]
         }
     ]
 }
