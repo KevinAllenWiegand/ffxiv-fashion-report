@@ -12073,6 +12073,29 @@
                     "hint": "Kinky Boots"
                 }
             ]
+        },
+        {
+            "week": 244,
+            "date": "2022-09-30",
+            "theme": "Beastly Brawler",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Animal Instincts"
+                },
+                {
+                    "type": "Body",
+                    "hint": "The Outlaw"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "A Sailor's Life"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Veteran Of War"
+                }
+            ]
         }
     ]
 }
