@@ -879,6 +879,21 @@
             "items": [
                 {
                     "name": "Bronze Barbut"
+                },
+                {
+                    "name": "Decorated Bronze Barbut"
+                },
+                {
+                    "name": "Militia Barbut"
+                },
+                {
+                    "name": "Protector's Barbut"
+                },
+                {
+                    "name": "Warden's Barbut"
+                },
+                {
+                    "name": "Warwolf Barbut Of Fending"
                 }
             ]
         },
