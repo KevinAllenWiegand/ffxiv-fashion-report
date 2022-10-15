@@ -12134,6 +12134,29 @@
                     "hint": "Shod With Sandals"
                 }
             ]
+        },
+        {
+            "week": 246,
+            "date": "2022-10-14",
+            "theme": "Genteel Physician",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Silken Things"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Motley Crew"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Rouse Trousers"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "On Ceremony"
+                }
+            ]
         }
     ]
 }
