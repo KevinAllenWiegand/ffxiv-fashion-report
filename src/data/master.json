@@ -977,6 +977,9 @@
                     "name": "Chimerical Felt Hap Of Casting"
                 },
                 {
+                    "name": "Evenstar Hat"
+                },
+                {
                     "name": "Plague Bringer's Hat"
                 },
                 {
@@ -992,7 +995,7 @@
                     "name": "Songbird Hat"
                 },
                 {
-                    "name": "Weathered/Evenstar Hat"
+                    "name": "Weathered Evenstar Hat"
                 }
             ]
         },
@@ -3122,6 +3125,9 @@
             "hint": "Brace For Impact",
             "items": [
                 {
+                    "name": "Auroral Bracers"
+                },
+                {
                     "name": "Darklight Bracers Of Aiming"
                 },
                 {
@@ -3135,6 +3141,9 @@
                 },
                 {
                     "name": "Gazelleskin Bracers Of Healing"
+                },
+                {
+                    "name": "Gloam Bracers"
                 },
                 {
                     "name": "Griffin Leather Bracers Of Scouting"
@@ -3158,10 +3167,10 @@
                     "name": "Warwolf Bracers Of Striking"
                 },
                 {
-                    "name": "Weathered/Auroral Bracers"
+                    "name": "Weathered Auroral Bracers"
                 },
                 {
-                    "name": "Weathered/Gloam Bracers"
+                    "name": "Weathered Gloam Bracers"
                 }
             ]
         },
@@ -3600,6 +3609,24 @@
                 },
                 {
                     "name": "Zundu Arms"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
+            "hint": "Motley Crew",
+            "items": [
+                {
+                    "name": "Dragonskin Gloves Of Aiming"
+                },
+                {
+                    "name": "Dragonskin Gloves Of Casting"
+                },
+                {
+                    "name": "Dragonskin Gloves Of Healing"
+                },
+                {
+                    "name": "Shikaree's Gloves"
                 }
             ]
         },
@@ -4361,6 +4388,9 @@
                     "name": "Kudzu Culottes Of Gathering"
                 },
                 {
+                    "name": "Noct Breeches"
+                },
+                {
                     "name": "Nomad's Breeches Of Aiming"
                 },
                 {
@@ -4388,7 +4418,7 @@
                     "name": "Replica Allagan Breeches Of Healing"
                 },
                 {
-                    "name": "Weathered/Noct Breeches"
+                    "name": "Weathered Noct Breeches"
                 }
             ]
         },
@@ -5255,6 +5285,9 @@
                     "name": "Chimerical Felt Breeches of Fending"
                 },
                 {
+                    "name": "Evenstar Tights"
+                },
+                {
                     "name": "Holy Rainbow Sarouel of Aiming"
                 },
                 {
@@ -5277,6 +5310,9 @@
                 },
                 {
                     "name": "Idealized Estoqueur's Bottoms"
+                },
+                {
+                    "name": "Noct Breeches"
                 },
                 {
                     "name": "Sarouel of the Divine Hero"
@@ -5303,10 +5339,10 @@
                     "name": "Weathered Estoqueur's Bottoms"
                 },
                 {
-                    "name": "Weathered/Evenstar Tights"
+                    "name": "Weathered Evenstar Tights"
                 },
                 {
-                    "name": "Weathered/Noct Breeches"
+                    "name": "Weathered Noct Breeches"
                 }
             ]
         },
@@ -6704,6 +6740,12 @@
                     "name": "Bone Necklace"
                 },
                 {
+                    "name": "Evenstar Necklace"
+                },
+                {
+                    "name": "Daystar Necklace"
+                },
+                {
                     "name": "Direwolf Choker of Fending"
                 },
                 {
@@ -6725,10 +6767,10 @@
                     "name": "Varlet's Necklace"
                 },
                 {
-                    "name": "Weathered/Daystar Necklace"
+                    "name": "Weathered Daystar Necklace"
                 },
                 {
-                    "name": "Weathered/Evenstar Necklace"
+                    "name": "Weathered Evenstar Necklace"
                 }
             ]
         },
