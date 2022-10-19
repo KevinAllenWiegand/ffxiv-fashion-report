@@ -12199,6 +12199,29 @@
                     "hint": "On Ceremony"
                 }
             ]
+        },
+        {
+            "week": 247,
+            "date": "2022-10-21",
+            "theme": "Piratical Painter",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Chapeau Du Choice"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Simple Is Best"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Superbly Spiked"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Shivering Timbers"
+                }
+            ]
         }
     ]
 }
