@@ -12222,6 +12222,29 @@
                     "hint": "Shivering Timbers"
                 }
             ]
+        },
+        {
+            "week": 248,
+            "date": "2022-10-28",
+            "theme": "Backwoods Wanderer",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Bewitched"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "You're So Whisperfine"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Leather"
+                }
+            ]
         }
     ]
 }
