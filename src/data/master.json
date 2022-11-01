@@ -12245,6 +12245,29 @@
                     "hint": "Leather"
                 }
             ]
+        },
+        {
+            "week": 249,
+            "date": "2022-11-04",
+            "theme": "Northern Seafarer",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Winter Wonderland"
+                },
+                {
+                    "type": "Body",
+                    "hint": "A Sailor's Life"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Tip O' The Arhat"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Smallfolk"
+                }
+            ]
         }
     ]
 }
