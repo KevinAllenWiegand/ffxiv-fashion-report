@@ -12268,6 +12268,29 @@
                     "hint": "Smallfolk"
                 }
             ]
+        },
+        {
+            "week": 250,
+            "date": "2022-11-11",
+            "theme": "Overdressed Laborer",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Too Cool"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "\"Labor\" Of Love"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Moccasin City"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Leather"
+                }
+            ]
         }
     ]
 }
