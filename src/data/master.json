@@ -314,7 +314,7 @@
             "hint": "Cap In Hand",
             "items": [
                 {
-                    "name": "Augmented/Tacklekeep's Cap"
+                    "name": "Augmented Tacklekeep's Cap"
                 },
                 {
                     "name": "Carbonweave Cap Of Gathering"
@@ -336,6 +336,9 @@
                 },
                 {
                     "name": "Skallic Cap Of Healing"
+                },
+                {
+                    "name": "Tacklekeep's Cap"
                 }
             ]
         },
@@ -653,10 +656,13 @@
             "hint": "Keeping It Casual",
             "items": [
                 {
-                    "name": "Augmented/Tacklekeep's Cap"
+                    "name": "Augmented Tacklekeep's Cap"
                 },
                 {
                     "name": "Flat Cap"
+                },
+                {
+                    "name": "Tacklekeep's Cap"
                 }
             ]
         },
@@ -695,16 +701,22 @@
             "hint": "Masquerade",
             "items": [
                 {
+                    "name": "Alexandrian Mask Of Scouting"
+                },
+                {
+                    "name": "Alexandrian Mask Of Striking"
+                },
+                {
                     "name": "Legionary Visor"
                 },
                 {
                     "name": "Nighthawk Visor"
                 },
                 {
-                    "name": "Prototype/Alexandrian Mask Of Scouting"
+                    "name": "Prototype Alexandrian Mask Of Scouting"
                 },
                 {
-                    "name": "Prototype/Alexandrian Mask Of Striking"
+                    "name": "Prototype Alexandrian Mask Of Striking"
                 },
                 {
                     "name": "Rose Gold Circlet"
@@ -716,7 +728,7 @@
             "hint": "Masterless",
             "items": [
                 {
-                    "name": "Antiquated/Myochin Jingasa"
+                    "name": "Antiquated Myochin Jingasa"
                 },
                 {
                     "name": "Gnath Head"
@@ -729,6 +741,9 @@
                 },
                 {
                     "name": "Kokuko Men"
+                },
+                {
+                    "name": "Myochin Jingasa"
                 },
                 {
                     "name": "Non La"
@@ -1040,7 +1055,7 @@
             "hint": "The Last Straw",
             "items": [
                 {
-                    "name": "Augmented/Fieldkeep's Canotier"
+                    "name": "Augmented Fieldkeep's Canotier"
                 },
                 {
                     "name": "Cloche"
@@ -1049,10 +1064,19 @@
                     "name": "Coronal Straw Hat"
                 },
                 {
+                    "name": "Fieldkeep's Canotier"
+                },
+                {
                     "name": "Forager's Hat"
                 },
                 {
-                    "name": "Gold/Oschon/Pearl Roselle Capeline"
+                    "name": "Gold Roselle Capeline"
+                },
+                {
+                    "name": "Oschon Roselle Capeline"
+                },
+                {
+                    "name": "Pearl Roselle Capeline"
                 },
                 {
                     "name": "Spring Straw Hat"
@@ -1451,10 +1475,10 @@
                     "name": "Rainbow Bustle"
                 },
                 {
-                    "name": "Thanvnairian Bustier"
+                    "name": "Thavnairian Bustier"
                 },
                 {
-                    "name": "Thanvnairian Wool Autumn Dress"
+                    "name": "Thavnairian Wool Autumn Dress"
                 }
             ]
         },
@@ -1610,7 +1634,10 @@
                     "name": "Faire Joi"
                 },
                 {
-                    "name": "Moonfire Vest/Halter"
+                    "name": "Moonfire Halter"
+                },
+                {
+                    "name": "Moonfire Vest"
                 }
             ]
         },
@@ -1658,25 +1685,46 @@
             "hint": "Cid Approved",
             "items": [
                 {
-                    "name": "Augmented/Ironworks Armor Of Fending"
+                    "name": "Augmented Ironworks Armor Of Fending"
                 },
                 {
-                    "name": "Augmented/Ironworks Armor Robe Of Healing"
+                    "name": "Augmented Ironworks Armor Robe Of Healing"
                 },
                 {
-                    "name": "Augmented/Ironworks Cuirass Of Aiming"
+                    "name": "Augmented Ironworks Cuirass Of Aiming"
                 },
                 {
-                    "name": "Augmented/Ironworks Cuirass Of Maiming"
+                    "name": "Augmented Ironworks Cuirass Of Maiming"
                 },
                 {
-                    "name": "Augmented/Ironworks Cuirass Of Scouting"
+                    "name": "Augmented Ironworks Cuirass Of Scouting"
                 },
                 {
-                    "name": "Augmented/Ironworks Cuirass Of Striking"
+                    "name": "Augmented Ironworks Cuirass Of Striking"
                 },
                 {
-                    "name": "Augmented/Ironworks Doublet Of Casting"
+                    "name": "Augmented Ironworks Doublet Of Casting"
+                },
+                {
+                    "name": "Ironworks Armor Of Fending"
+                },
+                {
+                    "name": "Ironworks Armor Robe Of Healing"
+                },
+                {
+                    "name": "Ironworks Cuirass Of Aiming"
+                },
+                {
+                    "name": "Ironworks Cuirass Of Maiming"
+                },
+                {
+                    "name": "Ironworks Cuirass Of Scouting"
+                },
+                {
+                    "name": "Ironworks Cuirass Of Striking"
+                },
+                {
+                    "name": "Ironworks Doublet Of Casting"
                 }
             ]
         },
@@ -1961,7 +2009,7 @@
             "hint": "Hingan Nights",
             "items": [
                 {
-                    "name": "Antiquated/Myochin Haori"
+                    "name": "Antiquated Myochin Haori"
                 },
                 {
                     "name": "Fuga Haori"
@@ -1974,6 +2022,9 @@
                 },
                 {
                     "name": "Lord's Yukata"
+                },
+                {
+                    "name": "Myochin Haori"
                 }
             ]
         },
@@ -2201,25 +2252,46 @@
             "hint": "Primal Revival",
             "items": [
                 {
-                    "name": "Augmented/Hailstorm Coat Of Casting"
+                    "name": "Augmented Hailstorm Coat Of Casting"
                 },
                 {
-                    "name": "Augmented/Hailstorm Coat Of Healing"
+                    "name": "Augmented Hailstorm Coat Of Healing"
                 },
                 {
-                    "name": "Augmented/Hellfire Armor Of Fending"
+                    "name": "Augmented Hellfire Armor Of Fending"
                 },
                 {
-                    "name": "Augmented/Hellfire Mail Of Striking"
+                    "name": "Augmented Hellfire Mail Of Striking"
                 },
                 {
-                    "name": "Augmented/Slipstream Mail Of Maiming"
+                    "name": "Augmented Slipstream Mail Of Maiming"
                 },
                 {
-                    "name": "Augmented/Torrent Tabard Of Aiming"
+                    "name": "Augmented Torrent Tabard Of Aiming"
                 },
                 {
-                    "name": "Augmented/Torrent Tabard Of Scouting"
+                    "name": "Augmented Torrent Tabard Of Scouting"
+                },
+                {
+                    "name": "Hailstorm Coat Of Casting"
+                },
+                {
+                    "name": "Hailstorm Coat Of Healing"
+                },
+                {
+                    "name": "Hellfire Armor Of Fending"
+                },
+                {
+                    "name": "Hellfire Mail Of Striking"
+                },
+                {
+                    "name": "Slipstream Mail Of Maiming"
+                },
+                {
+                    "name": "Torrent Tabard Of Aiming"
+                },
+                {
+                    "name": "Torrent Tabard Of Scouting"
                 }
             ]
         },
@@ -2342,25 +2414,46 @@
             "hint": "Ryumyaku",
             "items": [
                 {
-                    "name": "Dai-/Ryumyaku Dogi Of Casting"
+                    "name": "Dai-Ryumyaku Dogi Of Casting"
                 },
                 {
-                    "name": "Dai-/Ryumyaku Dogi Of Healing"
+                    "name": "Dai-Ryumyaku Dogi Of Healing"
                 },
                 {
-                    "name": "Dai-/Ryumyaku Jufuku Of Aiming"
+                    "name": "Dai-Ryumyaku Jufuku Of Aiming"
                 },
                 {
-                    "name": "Dai-/Ryumyaku Jufuku Of Fending"
+                    "name": "Dai-Ryumyaku Jufuku Of Fending"
                 },
                 {
-                    "name": "Dai-/Ryumyaku Jufuku Of Maiming"
+                    "name": "Dai-Ryumyaku Jufuku Of Maiming"
                 },
                 {
-                    "name": "Dai-/Ryumyaku Togi Of Scouting"
+                    "name": "Dai-Ryumyaku Togi Of Scouting"
                 },
                 {
-                    "name": "Dai-/Ryumyaku Togi Of Striking"
+                    "name": "Dai-Ryumyaku Togi Of Striking"
+                },
+                {
+                    "name": "Ryumyaku Dogi Of Casting"
+                },
+                {
+                    "name": "Ryumyaku Dogi Of Healing"
+                },
+                {
+                    "name": "Ryumyaku Jufuku Of Aiming"
+                },
+                {
+                    "name": "Ryumyaku Jufuku Of Fending"
+                },
+                {
+                    "name": "Ryumyaku Jufuku Of Maiming"
+                },
+                {
+                    "name": "Ryumyaku Togi Of Scouting"
+                },
+                {
+                    "name": "Ryumyaku Togi Of Striking"
                 }
             ]
         },
@@ -3692,25 +3785,46 @@
             "hint": "Primal Revival",
             "items": [
                 {
-                    "name": "Augmented/Hailstorm Gloves Of Casting"
+                    "name": "Augmented Hailstorm Gloves Of Casting"
                 },
                 {
-                    "name": "Augmented/Hailstorm Gloves Of Healing"
+                    "name": "Augmented Hailstorm Gloves Of Healing"
                 },
                 {
-                    "name": "Augmented/Hellfire Gauntlets Of Fending"
+                    "name": "Augmented Hellfire Gauntlets Of Fending"
                 },
                 {
-                    "name": "Augmented/Hellfire Gauntlets Of Striking"
+                    "name": "Augmented Hellfire Gauntlets Of Striking"
                 },
                 {
-                    "name": "Augmented/Slipstream Gauntlets Of Maiming"
+                    "name": "Augmented Slipstream Gauntlets Of Maiming"
                 },
                 {
-                    "name": "Augmented/Torrent Armguards Of Aiming"
+                    "name": "Augmented Torrent Armguards Of Aiming"
                 },
                 {
-                    "name": "Augmented/Torrent Armguards Of Scouting"
+                    "name": "Augmented Torrent Armguards Of Scouting"
+                },
+                {
+                    "name": "Hailstorm Gloves Of Casting"
+                },
+                {
+                    "name": "Hailstorm Gloves Of Healing"
+                },
+                {
+                    "name": "Hellfire Gauntlets Of Fending"
+                },
+                {
+                    "name": "Hellfire Gauntlets Of Striking"
+                },
+                {
+                    "name": "Slipstream Gauntlets Of Maiming"
+                },
+                {
+                    "name": "Torrent Armguards Of Aiming"
+                },
+                {
+                    "name": "Torrent Armguards Of Scouting"
                 }
             ]
         },
@@ -3764,13 +3878,16 @@
                     "name": "Argute Gloves"
                 },
                 {
-                    "name": "Augmented/Scholar's Gloves"
+                    "name": "Augmented Scholar's Gloves"
                 },
                 {
                     "name": "Flame Sergeant's Shortgloves"
                 },
                 {
                     "name": "Patrician's Gloves"
+                },
+                {
+                    "name": "Scholar's Gloves"
                 },
                 {
                     "name": "Serpent Sergeant's Shortgloves"
@@ -3938,10 +4055,13 @@
             "hint": "Up In Armlets",
             "items": [
                 {
-                    "name": "Augmented/Choral Ringbands"
+                    "name": "Augmented Choral Ringbands"
                 },
                 {
                     "name": "Bard Ringbands"
+                },
+                {
+                    "name": "Choral Ringbands"
                 },
                 {
                     "name": "Claws Of The Beast"
@@ -3989,6 +4109,9 @@
             "hint": "White-Glove",
             "items": [
                 {
+                    "name": "Butler's Gloves"
+                },
+                {
                     "name": "Cotton Dress Gloves"
                 },
                 {
@@ -4001,7 +4124,7 @@
                     "name": "Leonhart Gloves"
                 },
                 {
-                    "name": "Loyal/Butler's Gloves"
+                    "name": "Loyal Butler's Gloves"
                 },
                 {
                     "name": "Strife Gloves"
@@ -4493,25 +4616,46 @@
             "hint": "Found Allagan",
             "items": [
                 {
-                    "name": "Augmented/Lost Allagan Breeches Of Aiming"
+                    "name": "Augmented Lost Allagan Breeches Of Aiming"
                 },
                 {
-                    "name": "Augmented/Lost Allagan Breeches Of Striking"
+                    "name": "Augmented Lost Allagan Breeches Of Striking"
                 },
                 {
-                    "name": "Augmented/Lost Allagan Pantaloons Of Casting"
+                    "name": "Augmented Lost Allagan Pantaloons Of Casting"
                 },
                 {
-                    "name": "Augmented/Lost Allagan Pantaloons Of Healing"
+                    "name": "Augmented Lost Allagan Pantaloons Of Healing"
                 },
                 {
-                    "name": "Augmented/Lost Allagan Pantaloons Of Maiming"
+                    "name": "Augmented Lost Allagan Pantaloons Of Maiming"
                 },
                 {
-                    "name": "Augmented/Lost Allagan Pantaloons Of Scouting"
+                    "name": "Augmented Lost Allagan Pantaloons Of Scouting"
                 },
                 {
-                    "name": "Augmented/Lost Allagan Trousers Of Fending"
+                    "name": "Augmented Lost Allagan Trousers Of Fending"
+                },
+                {
+                    "name": "Lost Allagan Breeches Of Aiming"
+                },
+                {
+                    "name": "Lost Allagan Breeches Of Striking"
+                },
+                {
+                    "name": "Lost Allagan Pantaloons Of Casting"
+                },
+                {
+                    "name": "Lost Allagan Pantaloons Of Healing"
+                },
+                {
+                    "name": "Lost Allagan Pantaloons Of Maiming"
+                },
+                {
+                    "name": "Lost Allagan Pantaloons Of Scouting"
+                },
+                {
+                    "name": "Lost Allagan Trousers Of Fending"
                 }
             ]
         },
@@ -4793,25 +4937,46 @@
             "hint": "Old Country",
             "items": [
                 {
-                    "name": "Augmented/Shire Conservator's Hose"
+                    "name": "Augmented Shire Conservator's Hose"
                 },
                 {
-                    "name": "Augmented/Shire Custodian's Hose"
+                    "name": "Augmented Shire Custodian's Hose"
                 },
                 {
-                    "name": "Augmented/Shire Emissary's Hose"
+                    "name": "Augmented Shire Emissary's Hose"
                 },
                 {
-                    "name": "Augmented/Shire Pankratiast's Hose"
+                    "name": "Augmented Shire Pankratiast's Hose"
                 },
                 {
-                    "name": "Augmented/Shire Pathfinder's Hose"
+                    "name": "Augmented Shire Pathfinder's Hose"
                 },
                 {
-                    "name": "Augmented/Shire Philosopher's Hose"
+                    "name": "Augmented Shire Philosopher's Hose"
                 },
                 {
-                    "name": "Augmented/Shire Preceptor's Hose"
+                    "name": "Augmented Shire Preceptor's Hose"
+                },
+                {
+                    "name": "Shire Conservator's Hose"
+                },
+                {
+                    "name": "Shire Custodian's Hose"
+                },
+                {
+                    "name": "Shire Emissary's Hose"
+                },
+                {
+                    "name": "Shire Pankratiast's Hose"
+                },
+                {
+                    "name": "Shire Pathfinder's Hose"
+                },
+                {
+                    "name": "Shire Philosopher's Hose"
+                },
+                {
+                    "name": "Shire Preceptor's Hose"
                 }
             ]
         },
@@ -4871,7 +5036,7 @@
             "hint": "Pretty In Pantaloons",
             "items": [
                 {
-                    "name": "Antiquated/Seventh Hell Breeches"
+                    "name": "Antiquated Seventh Hell Breeches"
                 },
                 {
                     "name": "Dravanian Trousers Of Striking"
@@ -4880,10 +5045,10 @@
                     "name": "Picaroon's Trousers Of Maiming"
                 },
                 {
-                    "name": "Picaroon's Trousers Of Striking"
+                    "name": "Picaroon's Trousers Of Scouting"
                 },
                 {
-                    "name": "Picaroon's Trousers Of Scouting"
+                    "name": "Picaroon's Trousers Of Striking"
                 },
                 {
                     "name": "Ramie Trousers Of Aiming"
@@ -4893,6 +5058,9 @@
                 },
                 {
                     "name": "Ramie Trousers Of Striking"
+                },
+                {
+                    "name": "Seventh Hell Breeches"
                 },
                 {
                     "name": "Star Velvet Bottoms Of Casting"
@@ -4928,31 +5096,58 @@
             "hint": "Reborn",
             "items": [
                 {
-                    "name": "Augmented/Choral Tights"
+                    "name": "Augmented Choral Tights"
                 },
                 {
-                    "name": "Augmented/Drachen Breeches"
+                    "name": "Augmented Drachen Breeches"
                 },
                 {
-                    "name": "Augmented/Evoker's Waistclout"
+                    "name": "Augmented Evoker's Waistclout"
                 },
                 {
-                    "name": "Augmented/Fighter's Breeches"
+                    "name": "Augmented Fighter's Breeches"
                 },
                 {
-                    "name": "Augmented/Gallant Cuisses"
+                    "name": "Augmented Gallant Cuisses"
                 },
                 {
-                    "name": "Augmented/Healer's Culottes\t"
+                    "name": "Augmented Healer's Culottes"
                 },
                 {
-                    "name": "Augmented/Scholar's Culottes"
+                    "name": "Augmented Scholar's Culottes"
                 },
                 {
-                    "name": "Augmented/Temple Gaskins"
+                    "name": "Augmented Temple Gaskins"
                 },
                 {
-                    "name": "Augmented/Wizard's Tonban"
+                    "name": "Augmented Wizard's Tonban"
+                },
+                {
+                    "name": "Choral Tights"
+                },
+                {
+                    "name": "Drachen Breeches"
+                },
+                {
+                    "name": "Evoker's Waistclout"
+                },
+                {
+                    "name": "Fighter's Breeches"
+                },
+                {
+                    "name": "Gallant Cuisses"
+                },
+                {
+                    "name": "Healer's Culottes"
+                },
+                {
+                    "name": "Scholar's Culottes"
+                },
+                {
+                    "name": "Temple Gaskins"
+                },
+                {
+                    "name": "Wizard's Tonban"
                 }
             ]
         },
@@ -5219,49 +5414,94 @@
             "hint": "Storm Of Blood",
             "items": [
                 {
-                    "name": "Antiquated/Abyss Flanchard"
+                    "name": "Abyss Flanchard"
                 },
                 {
-                    "name": "Antiquated/Brutal Breeches"
+                    "name": "Antiquated Abyss Flanchard"
                 },
                 {
-                    "name": "Antiquated/Channeler's Halfslops"
+                    "name": "Antiquated Brutal Breeches"
                 },
                 {
-                    "name": "Antiquated/Chivalrous Cuisses"
+                    "name": "Antiquated Channeler's Halfslops"
                 },
                 {
-                    "name": "Antiquated/Constellation Gaskins"
+                    "name": "Antiquated Chivalrous Cuisses"
                 },
                 {
-                    "name": "Antiquated/Duelist's Breeches"
+                    "name": "Antiquated Constellation Gaskins"
                 },
                 {
-                    "name": "Antiquated/Gunner's Trousers"
+                    "name": "Antiquated Duelist's Breeches"
                 },
                 {
-                    "name": "Antiquated/Kage-kakushi Hakama"
+                    "name": "Antiquated Gunner's Trousers"
                 },
                 {
-                    "name": "Antiquated/Myochin Hakama"
+                    "name": "Antiquated Kage-kakushi Hakama"
                 },
                 {
-                    "name": "Antiquated/Orator's Bottoms"
+                    "name": "Antiquated Myochin Hakama"
                 },
                 {
-                    "name": "Antiquated/Pacifist's Gaskins"
+                    "name": "Antiquated Orator's Bottoms"
                 },
                 {
-                    "name": "Antiquated/Seventh Heaven Bottoms"
+                    "name": "Antiquated Pacifist's Gaskins"
                 },
                 {
-                    "name": "Antiquated/Seventh Hell Breeches"
+                    "name": "Antiquated Seventh Heaven Bottoms"
                 },
                 {
-                    "name": "Antiquated/Storyteller's Bottoms"
+                    "name": "Antiquated Seventh Hell Breeches"
                 },
                 {
-                    "name": "Antiquated/Trueblood Brais"
+                    "name": "Antiquated Storyteller's Bottoms"
+                },
+                {
+                    "name": "Antiquated Trueblood Brais"
+                },
+                {
+                    "name": "Brutal Breeches"
+                },
+                {
+                    "name": "Channeler's Halfslops"
+                },
+                {
+                    "name": "Chivalrous Cuisses"
+                },
+                {
+                    "name": "Constellation Gaskins"
+                },
+                {
+                    "name": "Duelist's Breeches"
+                },
+                {
+                    "name": "Gunner's Trousers"
+                },
+                {
+                    "name": "Kage-kakushi Hakama"
+                },
+                {
+                    "name": "Myochin Hakama"
+                },
+                {
+                    "name": "Orator's Bottoms"
+                },
+                {
+                    "name": "Pacifist's Gaskins"
+                },
+                {
+                    "name": "Seventh Heaven Bottoms"
+                },
+                {
+                    "name": "Seventh Hell Breeches"
+                },
+                {
+                    "name": "Storyteller's Bottoms"
+                },
+                {
+                    "name": "Trueblood Brais"
                 }
             ]
         },
@@ -5270,7 +5510,7 @@
             "hint": "Striding In Stripes",
             "items": [
                 {
-                    "name": "Augmented/Wizard's Tonban"
+                    "name": "Augmented Wizard's Tonban"
                 },
                 {
                     "name": "Battlemage's Breeches"
@@ -5343,6 +5583,9 @@
                 },
                 {
                     "name": "Weathered Noct Breeches"
+                },
+                {
+                    "name": "Wizard's Tonban"
                 }
             ]
         },
@@ -5384,25 +5627,46 @@
             "hint": "The Creator",
             "items": [
                 {
-                    "name": "Prototype/Alexandrian Bottoms Of Casting"
+                    "name": "Alexandrian Bottoms Of Casting"
                 },
                 {
-                    "name": "Prototype/Alexandrian Bottoms Of Healing"
+                    "name": "Alexandrian Bottoms Of Healing"
                 },
                 {
-                    "name": "Prototype/Alexandrian Breeches Of Fending"
+                    "name": "Alexandrian Breeches Of Fending"
                 },
                 {
-                    "name": "Prototype/Alexandrian Breeches Of Maiming"
+                    "name": "Alexandrian Breeches Of Maiming"
                 },
                 {
-                    "name": "Prototype/Alexandrian Breeches Of Striking"
+                    "name": "Alexandrian Breeches Of Striking"
                 },
                 {
-                    "name": "Prototype/Alexandrian Gaskins Of Aiming"
+                    "name": "Alexandrian Gaskins Of Aiming"
                 },
                 {
-                    "name": "Prototype/Alexandrian Gaskins Of Scouting"
+                    "name": "Alexandrian Gaskins Of Scouting"
+                },
+                {
+                    "name": "Prototype Alexandrian Bottoms Of Casting"
+                },
+                {
+                    "name": "Prototype Alexandrian Bottoms Of Healing"
+                },
+                {
+                    "name": "Prototype Alexandrian Breeches Of Fending"
+                },
+                {
+                    "name": "Prototype Alexandrian Breeches Of Maiming"
+                },
+                {
+                    "name": "Prototype Alexandrian Breeches Of Striking"
+                },
+                {
+                    "name": "Prototype Alexandrian Gaskins Of Aiming"
+                },
+                {
+                    "name": "Prototype Alexandrian Gaskins Of Scouting"
                 }
             ]
         },
@@ -5567,25 +5831,46 @@
             "hint": "Toward The Heavens",
             "items": [
                 {
-                    "name": "Antiquated/Caller's Loincloth"
+                    "name": "Antiquated Caller's Loincloth"
                 },
                 {
-                    "name": "Antiquated/Chaos Flanchard"
+                    "name": "Antiquated Chaos Flanchard"
                 },
                 {
-                    "name": "Antiquated/Creed Cuisses"
+                    "name": "Antiquated Creed Cuisses"
                 },
                 {
-                    "name": "Antiquated/Dragonlancer's Cuissots"
+                    "name": "Antiquated Dragonlancer's Cuissots"
                 },
                 {
-                    "name": "Antiquated/Orison Skirt"
+                    "name": "Antiquated Orison Skirt"
                 },
                 {
-                    "name": "Antiquated/Ravager's Breeches"
+                    "name": "Antiquated Ravager's Breeches"
                 },
                 {
-                    "name": "Antiquated/Tantra Galligaskins"
+                    "name": "Antiquated Tantra Galligaskins"
+                },
+                {
+                    "name": "Caller's Loincloth"
+                },
+                {
+                    "name": "Chaos Flanchard"
+                },
+                {
+                    "name": "Creed Cuisses"
+                },
+                {
+                    "name": "Dragonlancer's Cuissots"
+                },
+                {
+                    "name": "Orison Skirt"
+                },
+                {
+                    "name": "Ravager's Breeches"
+                },
+                {
+                    "name": "Tantra Galligaskins"
                 }
             ]
         },
@@ -6356,25 +6641,46 @@
             "hint": "Primal Revival",
             "items": [
                 {
-                    "name": "Augmented/Hailstorm Boots Of Casting"
+                    "name": "Augmented Hailstorm Boots Of Casting"
                 },
                 {
-                    "name": "Augmented/Hailstorm Boots Of Healing"
+                    "name": "Augmented Hailstorm Boots Of Healing"
                 },
                 {
-                    "name": "Augmented/Hellfire Sabatons Of Fending"
+                    "name": "Augmented Hellfire Sabatons Of Fending"
                 },
                 {
-                    "name": "Augmented/Hellfire Sabatons Of Striking"
+                    "name": "Augmented Hellfire Sabatons Of Striking"
                 },
                 {
-                    "name": "Augmented/Slipstream Sabatons Of Maiming"
+                    "name": "Augmented Slipstream Sabatons Of Maiming"
                 },
                 {
-                    "name": "Augmented/Torrent Boots Of Aiming"
+                    "name": "Augmented Torrent Boots Of Aiming"
                 },
                 {
-                    "name": "Augmented/Torrent Boots Of Scouting"
+                    "name": "Augmented Torrent Boots Of Scouting"
+                },
+                {
+                    "name": "Hailstorm Boots Of Casting"
+                },
+                {
+                    "name": "Hailstorm Boots Of Healing"
+                },
+                {
+                    "name": "Hellfire Sabatons Of Fending"
+                },
+                {
+                    "name": "Hellfire Sabatons Of Striking"
+                },
+                {
+                    "name": "Slipstream Sabatons Of Maiming"
+                },
+                {
+                    "name": "Torrent Boots Of Aiming"
+                },
+                {
+                    "name": "Torrent Boots Of Scouting"
                 }
             ]
         },
@@ -6461,13 +6767,16 @@
                     "name": "Archaeoskin Halfboots"
                 },
                 {
-                    "name": "Augmented/Shire Pankratiast's Boots"
+                    "name": "Augmented Shire Pankratiast's Boots"
                 },
                 {
                     "name": "High House Halfboots"
                 },
                 {
                     "name": "Scion Adventure's Boots"
+                },
+                {
+                    "name": "Shire Pankratiast's Boots"
                 }
             ]
         },
@@ -6641,7 +6950,10 @@
             "hint": "Jewels Of Violet",
             "items": [
                 {
-                    "name": "Allagan Earrings Of Maiming/Casting"
+                    "name": "Allagan Earrings Of Casting"
+                },
+                {
+                    "name": "Allagan Earrings Of Maiming"
                 },
                 {
                     "name": "Amethyst Earrings"
@@ -6740,13 +7052,13 @@
                     "name": "Bone Necklace"
                 },
                 {
-                    "name": "Evenstar Necklace"
-                },
-                {
                     "name": "Daystar Necklace"
                 },
                 {
                     "name": "Direwolf Choker of Fending"
+                },
+                {
+                    "name": "Evenstar Necklace"
                 },
                 {
                     "name": "Fang Necklace"
@@ -7196,7 +7508,10 @@
                     "name": "Any Camphorwood Armillae"
                 },
                 {
-                    "name": "Augmented/Shire Pankratiast's Bracelets"
+                    "name": "Augmented Shire Pankratiast's Bracelets"
+                },
+                {
+                    "name": "Shire Pankratiast's Bracelets"
                 }
             ]
         },
@@ -7439,6 +7754,12 @@
             "hint": "Jewels Of Yellow",
             "items": [
                 {
+                    "name": "Allagan Ring Of Fending"
+                },
+                {
+                    "name": "Allagan Ring Of Slaying"
+                },
+                {
                     "name": "Amber Ring"
                 },
                 {
@@ -7460,10 +7781,10 @@
                     "name": "Heliodor Ring"
                 },
                 {
-                    "name": "High/Allagan Ring Of Fending"
+                    "name": "High Allagan Ring Of Fending"
                 },
                 {
-                    "name": "High/Allagan Ring Of Slaying"
+                    "name": "High Allagan Ring Of Slaying"
                 },
                 {
                     "name": "Platinum Ring Of Fending"
@@ -7499,10 +7820,13 @@
                     "name": "Any Skallic Ring"
                 },
                 {
-                    "name": "Augmented/Shire Pankratiast's Ring"
+                    "name": "Augmented Shire Pankratiast's Ring"
                 },
                 {
                     "name": "Eternity Ring"
+                },
+                {
+                    "name": "Shire Pankratiast's Ring"
                 }
             ]
         },
@@ -7520,7 +7844,10 @@
                     "name": "Any Yeti Fang Ring"
                 },
                 {
-                    "name": "Augmented/Shire Custodian's Ring"
+                    "name": "Augmented Shire Custodian's Ring"
+                },
+                {
+                    "name": "Shire Custodian's Ring"
                 }
             ]
         },
@@ -12289,6 +12616,29 @@
                 {
                     "type": "Neck",
                     "hint": "Leather"
+                }
+            ]
+        },
+        {
+            "week": 251,
+            "date": "2022-11-18",
+            "theme": "New-Made Magician",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "I Believe In Magic"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Fresh And Formal"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Reborn"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "\"Fringe\" Benefits"
                 }
             ]
         }
