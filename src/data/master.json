@@ -3449,6 +3449,18 @@
         },
         {
             "type": "Hands",
+            "hint": "Fresh And Formal",
+            "items": [
+                {
+                    "name": "Hempen Dress Gloves"
+                },
+                {
+                    "name": "Hempen Shortgloves"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
             "hint": "Giving The Fingerless",
             "items": [
                 {
