@@ -12653,6 +12653,29 @@
                     "hint": "\"Fringe\" Benefits"
                 }
             ]
+        },
+        {
+            "week": 252,
+            "date": "2022-11-25",
+            "theme": "New World Navigator",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "They Do Nothing"
+                },
+                {
+                    "type": "Body",
+                    "hint": "A Sailor's Life"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Dueling Duelist"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Go West"
+                }
+            ]
         }
     ]
 }
