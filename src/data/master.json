@@ -413,7 +413,31 @@
             "hint": "Daisy Chain",
             "items": [
                 {
-                    "name": "Any Daisy Corsage"
+                    "name": "Black Daisy Corsage"
+                },
+                {
+                    "name": "Blue Daisy Corsage"
+                },
+                {
+                    "name": "Green Daisy Corsage"
+                },
+                {
+                    "name": "Orange Daisy Corsage"
+                },
+                {
+                    "name": "Purple Daisy Corsage"
+                },
+                {
+                    "name": "Rainbow Daisy Corsage"
+                },
+                {
+                    "name": "Red Daisy Corsage"
+                },
+                {
+                    "name": "White Daisy Corsage"
+                },
+                {
+                    "name": "Yellow Daisy Corsage"
                 }
             ]
         },
@@ -7157,6 +7181,27 @@
         },
         {
             "type": "Neck",
+            "hint": "Friend To The End",
+            "items": [
+                {
+                    "name": "Halonic Auditor's Choker"
+                },
+                {
+                    "name": "Halonic Exorcist's Choker"
+                },
+                {
+                    "name": "Halonic Friar's Choker"
+                },
+                {
+                    "name": "Halonic Inquisitor's Choker"
+                },
+                {
+                    "name": "Halonic Priest's Choker"
+                }
+            ]
+        },
+        {
+            "type": "Neck",
             "hint": "Jewels Of Blue",
             "items": [
                 {
@@ -12674,6 +12719,29 @@
                 {
                     "type": "Legs",
                     "hint": "Go West"
+                }
+            ]
+        },
+        {
+            "week": 253,
+            "date": "2022-12-02",
+            "theme": "Dalmascan Skies",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Daisy Chain"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Dalmascan Chic"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Pirates In The Sky"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Friend To The End"
                 }
             ]
         }
