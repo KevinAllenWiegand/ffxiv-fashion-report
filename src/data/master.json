@@ -2945,7 +2945,7 @@
                     "name": "Leonhart Jacket"
                 },
                 {
-                    "name": "Scion Adventuerer's Jacket"
+                    "name": "Scion Adventurer's Jacket"
                 }
             ]
         },
@@ -6809,7 +6809,7 @@
                     "name": "High House Halfboots"
                 },
                 {
-                    "name": "Scion Adventure's Boots"
+                    "name": "Scion Adventurer's Boots"
                 },
                 {
                     "name": "Shire Pankratiast's Boots"
@@ -12742,6 +12742,29 @@
                 {
                     "type": "Neck",
                     "hint": "Friend To The End"
+                }
+            ]
+        },
+        {
+            "week": 254,
+            "date": "2022-12-09",
+            "theme": "Knights Of A Feather",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "A Knight For Helms"
+                },
+                {
+                    "type": "Body",
+                    "hint": "In Sheep's Clothing"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Pirates In The Sky"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Short Boots"
                 }
             ]
         }
