@@ -227,25 +227,25 @@
             "hint": "Bonewicca Bow Wow",
             "items": [
                 {
-                    "name": "Bonewicca Protector\"s Helm"
+                    "name": "Bonewicca Protector's Helm"
                 },
                 {
-                    "name": "Bonewicca Shadow\"s Visor"
+                    "name": "Bonewicca Shadow's Visor"
                 },
                 {
-                    "name": "Bonewicca Skinner\"s Visor"
+                    "name": "Bonewicca Skinner's Visor"
                 },
                 {
-                    "name": "Bonewicca Soother\"s Mask"
+                    "name": "Bonewicca Soother's Mask"
                 },
                 {
-                    "name": "Bonewicca Tracker\"s Helm"
+                    "name": "Bonewicca Tracker's Helm"
                 },
                 {
-                    "name": "Bonewicca Whisperer\"s Mask"
+                    "name": "Bonewicca Whisperer's Mask"
                 },
                 {
-                    "name": "Bonewicca Wildling\"s Helm"
+                    "name": "Bonewicca Wildling's Helm"
                 }
             ]
         },
@@ -12765,6 +12765,29 @@
                 {
                     "type": "Feet",
                     "hint": "Short Boots"
+                }
+            ]
+        },
+        {
+            "week": 255,
+            "date": "2022-12-16",
+            "theme": "Might Makes Rite",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Bonewicca Bow Wow"
+                },
+                {
+                    "type": "Body",
+                    "hint": "True Linen"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Iron Fist"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Tip O' The Arhat"
                 }
             ]
         }
