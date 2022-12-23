@@ -7658,6 +7658,27 @@
         },
         {
             "type": "Ring",
+            "hint": "Friend To The End",
+            "items": [
+                {
+                    "name": "Halonic Auditor's Ring"
+                },
+                {
+                    "name": "Halonic Exorcist's Ring"
+                },
+                {
+                    "name": "Halonic Friar's Ring"
+                },
+                {
+                    "name": "Halonic Inquisitor's Ring"
+                },
+                {
+                    "name": "Halonic Priest's Ring"
+                }
+            ]
+        },
+        {
+            "type": "Ring",
             "hint": "Jewels Of Black",
             "items": [
                 {
@@ -12788,6 +12809,29 @@
                 {
                     "type": "Legs",
                     "hint": "Tip O' The Arhat"
+                }
+            ]
+        },
+        {
+            "week": 256,
+            "date": "2022-12-23",
+            "theme": "Traveling Light",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Who Needs Sleeves"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Fits Like A Wristglove"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Tight And Long"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Friend To The End"
                 }
             ]
         }
