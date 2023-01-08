@@ -3113,10 +3113,19 @@
             "hint": "Who Needs Sleeves",
             "items": [
                 {
+                    "name": "Adventurer's Hooded Vest"
+                },
+                {
+                    "name": "Hooded Fireglass Leather Vest"
+                },
+                {
                     "name": "Ruby Cotton Gilet Of Scouting"
                 },
                 {
                     "name": "Ruby Cotton Gilet Of Striking"
+                },
+                {
+                    "name": "Strife Vest"
                 },
                 {
                     "name": "Valerian Rogue's Gilet"
@@ -3459,6 +3468,9 @@
                 },
                 {
                     "name": "Dravanian Wristgloves Of Striking"
+                },
+                {
+                    "name": "Ehcatl Wristgloves"
                 },
                 {
                     "name": "Orthodox Wristgloves Of Aiming"
@@ -7034,7 +7046,19 @@
             "hint": "Proto Posh",
             "items": [
                 {
-                    "name": "Any Proto Ultima Earrings"
+                    "name": "Proto Ultima Earrings Of Aiming"
+                },
+                {
+                    "name": "Proto Ultima Earrings Of Casting"
+                },
+                {
+                    "name": "Proto Ultima Earrings Of Fending"
+                },
+                {
+                    "name": "Proto Ultima Earrings Of Healing"
+                },
+                {
+                    "name": "Proto Ultima Earrings Of Slaying"
                 }
             ]
         },
@@ -12832,6 +12856,52 @@
                 {
                     "type": "Ring",
                     "hint": "Friend To The End"
+                }
+            ]
+        },
+        {
+            "week": 257,
+            "date": "2022-12-30",
+            "theme": "Elegant Impact",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Silken Things"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Too Cool"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Iron Fist"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Star \"Studded\""
+                }
+            ]
+        },
+        {
+            "week": 258,
+            "date": "2023-01-06",
+            "theme": "Rumbler's Rhapsody",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Autumn Chill"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Vagabond"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Dueling Duelist"
+                },
+                {
+                    "type": "Ear",
+                    "hint": "Proto Posh"
                 }
             ]
         }
