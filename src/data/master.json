@@ -672,6 +672,24 @@
             "items": [
                 {
                     "name": "Company Hat"
+                },
+                {
+                    "name": "Gridanian Officer's Cap"
+                },
+                {
+                    "name": "Gridanian Soldier's Cap"
+                },
+                {
+                    "name": "Lominsan Officer's Cap"
+                },
+                {
+                    "name": "Lominsan Soldier's Cap"
+                },
+                {
+                    "name": "Ul'dahn Officer's Cap"
+                },
+                {
+                    "name": "Ul'dahn Soldier's Cap"
                 }
             ]
         },
@@ -4839,6 +4857,27 @@
                 },
                 {
                     "name": "Sentinel's Trousers"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
+            "hint": "Less Is More",
+            "items": [
+                {
+                    "name": "Coeurl Beach Briefs"
+                },
+                {
+                    "name": "Coeurl Beach Maro"
+                },
+                {
+                    "name": "Flame Sergeant's Subligar"
+                },
+                {
+                    "name": "Hard Leather Subligar"
+                },
+                {
+                    "name": "Star-Spangled Subligar"
                 }
             ]
         },
@@ -12902,6 +12941,52 @@
                 {
                     "type": "Ear",
                     "hint": "Proto Posh"
+                }
+            ]
+        },
+        {
+            "week": 259,
+            "date": "2023-01-13",
+            "theme": "Beast Of A Builder",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Call Of The Wild"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Restoration Regalia"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Ready For Rain"
+                },
+                {
+                    "type": "Ear",
+                    "hint": "Jewels Of Violet"
+                }
+            ]
+        },
+        {
+            "week": 260,
+            "date": "2023-01-20",
+            "theme": "Hot Head, Cold Feet, All Mage",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Keeping Company"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Fashionably Late Allagan"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Ride The Tides"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Less Is More"
                 }
             ]
         }
