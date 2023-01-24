@@ -6665,7 +6665,7 @@
             "hint": "Patten On The Back",
             "items": [
                 {
-                    "name": "Ahs Pattens"
+                    "name": "Ash Pattens"
                 },
                 {
                     "name": "Artisan's Pattens"
@@ -7109,7 +7109,22 @@
             "hint": "The Coil That Binds",
             "items": [
                 {
-                    "name": "Any Allagan Earrings"
+                    "name": "Allagan Earrings Of Aiming"
+                },
+                {
+                    "name": "Allagan Earrings Of Casting"
+                },
+                {
+                    "name": "Allagan Earrings Of Fending"
+                },
+                {
+                    "name": "Allagan Earrings Of Healing"
+                },
+                {
+                    "name": "Allagan Earrings Of Maiming"
+                },
+                {
+                    "name": "Allagan Earrings Of Striking"
                 }
             ]
         },
@@ -12990,6 +13005,29 @@
                 {
                     "type": "Legs",
                     "hint": "Less Is More"
+                }
+            ]
+        },
+        {
+            "week": 261,
+            "date": "2023-01-27",
+            "theme": "Graceful Duelist",
+            "slots": [
+                {
+                    "type": "Hands",
+                    "hint": "C'est Chic"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Dueling Duelist"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Patten On The Back"
+                },
+                {
+                    "type": "Ear",
+                    "hint": "The Coil That Binds"
                 }
             ]
         }
