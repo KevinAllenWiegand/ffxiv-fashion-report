@@ -2102,6 +2102,33 @@
         },
         {
             "type": "Body",
+            "hint": "Imperial Couture",
+            "items": [
+                {
+                    "name": "Imperial Coat Of Aiming"
+                },
+                {
+                    "name": "Imperial Coat Of Casting"
+                },
+                {
+                    "name": "Imperial Coat Of Fending"
+                },
+                {
+                    "name": "Imperial Coat Of Healing"
+                },
+                {
+                    "name": "Imperial Coat Of Maiming"
+                },
+                {
+                    "name": "Imperial Coat Of Scouting"
+                },
+                {
+                    "name": "Imperial Coat Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "In Sheep's Clothing",
             "items": [
                 {
@@ -13028,6 +13055,29 @@
                 {
                     "type": "Ear",
                     "hint": "The Coil That Binds"
+                }
+            ]
+        },
+        {
+            "week": 262,
+            "date": "2023-02-03",
+            "theme": "Garlean Winter",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Imperial Couture"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Pirates In The Sky"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "The Creator"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Fashionably Late Allagan"
                 }
             ]
         }
