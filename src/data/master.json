@@ -13080,6 +13080,29 @@
                     "hint": "Fashionably Late Allagan"
                 }
             ]
+        },
+        {
+            "week": 263,
+            "date": "2023-02-10",
+            "theme": "Weekend Wayfarer",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Simple Is Best"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "I Believe In Magic"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "To Adventure"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Short Boots"
+                }
+            ]
         }
     ]
 }
