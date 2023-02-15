@@ -7271,6 +7271,27 @@
         },
         {
             "type": "Neck",
+            "hint": "Cute As A Button",
+            "items": [
+                {
+                    "name": "Ribbon of Aiming"
+                },
+                {
+                    "name": "Ribbon of Casting"
+                },
+                {
+                    "name": "Ribbon of Fending"
+                },
+                {
+                    "name": "Ribbon of Healing"
+                },
+                {
+                    "name": "Ribbon of Slaying"
+                }
+            ]
+        },
+        {
+            "type": "Neck",
             "hint": "Dravanian Choker",
             "items": [
                 {
@@ -13101,6 +13122,29 @@
                 {
                     "type": "Feet",
                     "hint": "Short Boots"
+                }
+            ]
+        },
+        {
+            "week": 264,
+            "date": "2023-02-17",
+            "theme": "Amantes Sunt Amentes",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Feather In Your Cap"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Scarf It Down"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Rest & Relaxation"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Cute As A Button"
                 }
             ]
         }
