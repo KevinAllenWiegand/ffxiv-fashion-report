@@ -13147,6 +13147,29 @@
                     "hint": "Cute As A Button"
                 }
             ]
+        },
+        {
+            "week": 265,
+            "date": "2023-02-24",
+            "theme": "Lounging With Elegance",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Rest & Relaxation"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Fresh And Formal"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Storm Of Blood"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "You're So Whisperfine"
+                }
+            ]
         }
     ]
 }
