@@ -4796,6 +4796,33 @@
         },
         {
             "type": "Legs",
+            "hint": "Guardian's Garb",
+            "items": [
+                {
+                    "name": "Palaka Sarouel Of Aiming"
+                },
+                {
+                    "name": "Palaka Sarouel Of Casting"
+                },
+                {
+                    "name": "Palaka Sarouel Of Fending"
+                },
+                {
+                    "name": "Palaka Sarouel Of Healing"
+                },
+                {
+                    "name": "Palaka Sarouel Of Maiming"
+                },
+                {
+                    "name": "Palaka Sarouel Of Scouting"
+                },
+                {
+                    "name": "Palaka Sarouel Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "Hell Or High Water",
             "items": [
                 {
@@ -13164,6 +13191,52 @@
                 {
                     "type": "Legs",
                     "hint": "Storm Of Blood"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "You're So Whisperfine"
+                }
+            ]
+        },
+        {
+            "week": 266,
+            "date": "2023-03-03",
+            "theme": "Jungle Guerrilla",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "They Do Nothing"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Son Of A Gun"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "All In The Wrist"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Guardian's Garb"
+                }
+            ]
+        },
+        {
+            "week": 267,
+            "date": "2023-03-10",
+            "theme": "The Mask Of Skalla",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Masquerade"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Skalla Back"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Too Cool"
                 },
                 {
                     "type": "Feet",
