@@ -6980,6 +6980,21 @@
         },
         {
             "type": "Feet",
+            "hint": "Winter Wonderland",
+            "items": [
+                {
+                    "name": "Dream Boots"
+                },
+                {
+                    "name": "Glacial Boots"
+                },
+                {
+                    "name": "Highland Boots"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
             "hint": "You're So Whisperfine",
             "items": [
                 {
@@ -7790,25 +7805,61 @@
             "hint": "A \"Bone\" To Pick",
             "items": [
                 {
-                    "name": "Any Griffin Talon Ring"
-                },
-                {
-                    "name": "Any Muudhorn Ring"
-                },
-                {
-                    "name": "Any Yeti Fang Ring"
-                },
-                {
                     "name": "Bone Ring"
                 },
                 {
                     "name": "Coral Ring"
                 },
                 {
+                    "name": "Griffin Talon Ring Of Aiming"
+                },
+                {
+                    "name": "Griffin Talon Ring Of Casting"
+                },
+                {
+                    "name": "Griffin Talon Ring Of Fending"
+                },
+                {
+                    "name": "Griffin Talon Ring Of Healing"
+                },
+                {
+                    "name": "Griffin Talon Ring Of Slaying"
+                },
+                {
                     "name": "Horn Ring"
                 },
                 {
+                    "name": "Muudhorn Ring Of Aiming"
+                },
+                {
+                    "name": "Muudhorn Ring Of Casting"
+                },
+                {
+                    "name": "Muudhorn Ring Of Fending"
+                },
+                {
+                    "name": "Muudhorn Ring Of Healing"
+                },
+                {
+                    "name": "Muudhorn Ring Of Slaying"
+                },
+                {
                     "name": "Red Coral Ring"
+                },
+                {
+                    "name": "Yeti Fang Ring Of Aiming"
+                },
+                {
+                    "name": "Yeti Fang Ring Of Casting"
+                },
+                {
+                    "name": "Yeti Fang Ring Of Fending"
+                },
+                {
+                    "name": "Yeti Fang Ring Of Healing"
+                },
+                {
+                    "name": "Yeti Fang Ring Of Slaying"
                 }
             ]
         },
@@ -8069,19 +8120,55 @@
             "hint": "Skirts Of A Feather",
             "items": [
                 {
-                    "name": "Any Griffin Talon Ring"
-                },
-                {
-                    "name": "Any Muudhorn Ring"
-                },
-                {
-                    "name": "Any Yeti Fang Ring"
-                },
-                {
                     "name": "Augmented Shire Custodian's Ring"
                 },
                 {
+                    "name": "Griffin Talon Ring Of Aiming"
+                },
+                {
+                    "name": "Griffin Talon Ring Of Casting"
+                },
+                {
+                    "name": "Griffin Talon Ring Of Fending"
+                },
+                {
+                    "name": "Griffin Talon Ring Of Healing"
+                },
+                {
+                    "name": "Griffin Talon Ring Of Slaying"
+                },
+                {
+                    "name": "Muudhorn Ring Of Aiming"
+                },
+                {
+                    "name": "Muudhorn Ring Of Casting"
+                },
+                {
+                    "name": "Muudhorn Ring Of Fending"
+                },
+                {
+                    "name": "Muudhorn Ring Of Healing"
+                },
+                {
+                    "name": "Muudhorn Ring Of Slaying"
+                },
+                {
                     "name": "Shire Custodian's Ring"
+                },
+                {
+                    "name": "Yeti Fang Ring Of Aiming"
+                },
+                {
+                    "name": "Yeti Fang Ring Of Casting"
+                },
+                {
+                    "name": "Yeti Fang Ring Of Fending"
+                },
+                {
+                    "name": "Yeti Fang Ring Of Healing"
+                },
+                {
+                    "name": "Yeti Fang Ring Of Slaying"
                 }
             ]
         },
@@ -13241,6 +13328,29 @@
                 {
                     "type": "Feet",
                     "hint": "You're So Whisperfine"
+                }
+            ]
+        },
+        {
+            "week": 268,
+            "date": "2023-03-17",
+            "theme": "Winterdrape Walkybug",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Drapes Of Wrath"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Shivering Timbers"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Winter Wonderland"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "A \"Bone\" To Pick"
                 }
             ]
         }
