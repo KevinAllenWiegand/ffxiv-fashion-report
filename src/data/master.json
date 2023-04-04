@@ -7865,6 +7865,27 @@
         },
         {
             "type": "Ring",
+            "hint": "Allagan Attack",
+            "items": [
+                {
+                    "name": "Platinum Ring Of Aiming"
+                },
+                {
+                    "name": "Platinum Ring Of Casting"
+                },
+                {
+                    "name": "Platinum Ring Of Fending"
+                },
+                {
+                    "name": "Platinum Ring Of Healing"
+                },
+                {
+                    "name": "Platinum Ring Of Slaying"
+                }
+            ]
+        },
+        {
+            "type": "Ring",
             "hint": "Friend To The End",
             "items": [
                 {
@@ -13351,6 +13372,75 @@
                 {
                     "type": "Ring",
                     "hint": "A \"Bone\" To Pick"
+                }
+            ]
+        },
+        {
+            "week": 269,
+            "date": "2023-03-24",
+            "theme": "Mountaineering Maverick",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Keeping It Weird"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Less Is More"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Mountain Bred"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Allagan Attack"
+                }
+            ]
+        },
+        {
+            "week": 270,
+            "date": "2023-03-31",
+            "theme": "Everyknight",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "On The Plate"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "More Beast Than Man"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Old Country"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Leather Underfoot"
+                }
+            ]
+        },
+        {
+            "week": 271,
+            "date": "2023-04-07",
+            "theme": "Feral Fencer",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Beastly Head-Turner"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Born Bliaud"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Medic!"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "\"Labor\" Of Love"
                 }
             ]
         }
