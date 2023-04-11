@@ -7541,6 +7541,27 @@
         },
         {
             "type": "Wrist",
+            "hint": "Allagan Attack",
+            "items": [
+                {
+                    "name": "Platinum Bangle Of Aiming"
+                },
+                {
+                    "name": "Platinum Bangle Of Casting"
+                },
+                {
+                    "name": "Platinum Bangle Of Fending"
+                },
+                {
+                    "name": "Platinum Bangle Of Healing"
+                },
+                {
+                    "name": "Platinum Bangle Of Slaying"
+                }
+            ]
+        },
+        {
+            "type": "Wrist",
             "hint": "Beautiful Dreamer",
             "items": [
                 {
@@ -13441,6 +13462,29 @@
                 {
                     "type": "Feet",
                     "hint": "\"Labor\" Of Love"
+                }
+            ]
+        },
+        {
+            "week": 272,
+            "date": "2023-04-14",
+            "theme": "Armless Artist",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Chapeau Du Choice"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Who Needs Sleeves"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Guardian's Garb"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Allagan Attack"
                 }
             ]
         }
