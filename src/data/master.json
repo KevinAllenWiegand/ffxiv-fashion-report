@@ -2480,6 +2480,75 @@
         },
         {
             "type": "Body",
+            "hint": "Robed In Resistance",
+            "items": [
+                {
+                    "name": "Bozjan Coat Of Casting"
+                },
+                {
+                    "name": "Bozjan Coat Of Fending"
+                },
+                {
+                    "name": "Bozjan Coat Of Healing"
+                },
+                {
+                    "name": "Bozjan Coat Of Maiming"
+                },
+                {
+                    "name": "Bozjan Gillet Of Aiming"
+                },
+                {
+                    "name": "Bozjan Gillet Of Scouting"
+                },
+                {
+                    "name": "Bozjan Gillet Of Striking"
+                },
+                {
+                    "name": "Filibuster's Coat Of Casting"
+                },
+                {
+                    "name": "Filibuster's Coat Of Healing"
+                },
+                {
+                    "name": "Filibuster's Gambison Of Aiming"
+                },
+                {
+                    "name": "Filibuster's Gambison Of Scouting"
+                },
+                {
+                    "name": "Filibuster's Gambison Of Striking"
+                },
+                {
+                    "name": "Filibuster's Heavy Gambison Of Fending"
+                },
+                {
+                    "name": "Heavy Filibuster's Gambison Of Maiming"
+                },
+                {
+                    "name": "Royal Volunteer's Coat Of Scouting"
+                },
+                {
+                    "name": "Royal Volunteer's Coat Of Striking"
+                },
+                {
+                    "name": "Royal Volunteer's Gambison Of Aiming"
+                },
+                {
+                    "name": "Royal Volunteer's Gambison Of Casting"
+                },
+                {
+                    "name": "Royal Volunteer's Gambison Of Fending"
+                },
+                {
+                    "name": "Royal Volunteer's Gambison Of Healing"
+                },
+                {
+                    "name": "Royal Volunteer's Gambison Of Maiming"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Ryumyaku",
             "items": [
                 {
@@ -5361,6 +5430,75 @@
                 },
                 {
                     "name": "Craftsman's Leather Trousers"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
+            "hint": "Robed In Resistance",
+            "items": [
+                {
+                    "name": "Bozjan Armguards Of Aiming"
+                },
+                {
+                    "name": "Bozjan Armguards Of Striking"
+                },
+                {
+                    "name": "Bozjan Gloves Of Fending"
+                },
+                {
+                    "name": "Bozjan Gloves Of Maiming"
+                },
+                {
+                    "name": "Bozjan Halfgloves Of Casting"
+                },
+                {
+                    "name": "Bozjan Halfgloves Of Healing"
+                },
+                {
+                    "name": "Bozjan Wristwraps Of Scouting"
+                },
+                {
+                    "name": "Filibuster's Armguards Of Maiming"
+                },
+                {
+                    "name": "Filibuster's Armguards Of Scouting"
+                },
+                {
+                    "name": "Filibuster's Fingerless Gloves Of Aiming"
+                },
+                {
+                    "name": "Filibuster's Gauntlets Of Fending"
+                },
+                {
+                    "name": "Filibuster's Gauntlets Of Striking"
+                },
+                {
+                    "name": "Filibuster's Gloves Of Casting"
+                },
+                {
+                    "name": "Filibuster's Gloves Of Healing"
+                },
+                {
+                    "name": "Royal Volunteer's Armguards Of Casting"
+                },
+                {
+                    "name": "Royal Volunteer's Armguards Of Fending"
+                },
+                {
+                    "name": "Royal Volunteer's Fingerless Gloves Of Healing"
+                },
+                {
+                    "name": "Royal Volunteer's Gauntlets Of Aiming"
+                },
+                {
+                    "name": "Royal Volunteer's Gauntlets Of Maiming"
+                },
+                {
+                    "name": "Royal Volunteer's Gloves Of Scouting"
+                },
+                {
+                    "name": "Royal Volunteer's Gloves Of Striking"
                 }
             ]
         },
@@ -13485,6 +13623,29 @@
                 {
                     "type": "Wrist",
                     "hint": "Allagan Attack"
+                }
+            ]
+        },
+        {
+            "week": 273,
+            "date": "2023-04-21",
+            "theme": "Rebellious Regalia",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Robed In Resistance"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Sleight Of Hand"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Robed In Resistance"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Dueling Duelist"
                 }
             ]
         }
