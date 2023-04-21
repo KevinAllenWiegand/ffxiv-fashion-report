@@ -5459,25 +5459,28 @@
                     "name": "Bozjan Trousers Of Healing"
                 },
                 {
+                    "name": "Filibuster's Trousers Of Aiming"
+                },
+                {
+                    "name": "Filibuster's Trousers Of Casting"
+                },
+                {
+                    "name": "Filibuster's Trousers Of Fending"
+                },
+                {
+                    "name": "Filibuster's Trousers Of Healing"
+                },
+                {
                     "name": "Filibuster's Trousers Of Maiming"
                 },
                 {
                     "name": "Filibuster's Trousers Of Scouting"
                 },
                 {
-                    "name": "Filibuster's Trousers Gloves Of Aiming"
-                },
-                {
-                    "name": "Filibuster's Trousers Of Fending"
-                },
-                {
                     "name": "Filibuster's Trousers Of Striking"
                 },
                 {
-                    "name": "Filibuster's Trousers Of Casting"
-                },
-                {
-                    "name": "Filibuster's Trousers Of Healing"
+                    "name": "Royal Volunteer's Trousers Of Aiming"
                 },
                 {
                     "name": "Royal Volunteer's Trousers Of Casting"
@@ -5487,9 +5490,6 @@
                 },
                 {
                     "name": "Royal Volunteer's Trousers Of Healing"
-                },
-                {
-                    "name": "Royal Volunteer's Trousers Of Aiming"
                 },
                 {
                     "name": "Royal Volunteer's Trousers Of Maiming"
@@ -6857,10 +6857,10 @@
             "hint": "Patten On The Back",
             "items": [
                 {
-                    "name": "Ash Pattens"
+                    "name": "Artisan's Pattens"
                 },
                 {
-                    "name": "Artisan's Pattens"
+                    "name": "Ash Pattens"
                 },
                 {
                     "name": "Elm Pattens"
