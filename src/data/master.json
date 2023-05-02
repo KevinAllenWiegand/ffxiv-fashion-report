@@ -3638,6 +3638,33 @@
         },
         {
             "type": "Hands",
+            "hint": "Guardian's Garb",
+            "items": [
+                {
+                    "name": "Palaka Halfgloves Of Casting"
+                },
+                {
+                    "name": "Palaka Halfgloves Of Healing"
+                },
+                {
+                    "name": "Palaka Halfgloves Of Scouting"
+                },
+                {
+                    "name": "Palaka Vambraces Of Aiming"
+                },
+                {
+                    "name": "Palaka Vambraces Of Fending"
+                },
+                {
+                    "name": "Palaka Vambraces Of Maiming"
+                },
+                {
+                    "name": "Palaka Vambraces Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
             "hint": "Hand In Halfglove",
             "items": [
                 {
@@ -13646,6 +13673,29 @@
                 {
                     "type": "Feet",
                     "hint": "Dueling Duelist"
+                }
+            ]
+        },
+        {
+            "week": 274,
+            "date": "2023-04-28",
+            "theme": "Fashionable Fieldwork",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Brain Over Brawn"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Guardian's Garb"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "On Ceremony"
                 }
             ]
         }
