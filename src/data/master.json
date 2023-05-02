@@ -13698,6 +13698,29 @@
                     "hint": "On Ceremony"
                 }
             ]
+        },
+        {
+            "week": 275,
+            "date": "2023-05-05",
+            "theme": "New World, New Workfolk",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Jerkin Boys"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "C'est Chic"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Go West"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "You're So Whisperfine"
+                }
+            ]
         }
     ]
 }
