@@ -13771,6 +13771,29 @@
                     "hint": "Shod With Sandals"
                 }
             ]
+        },
+        {
+            "week": 277,
+            "date": "2023-05-19",
+            "theme": "Itinerant Beastface",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Leaping Leopards"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Drapes Of Wrath"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Winter Wonderland"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "On Ceremony"
+                }
+            ]
         }
     ]
 }
