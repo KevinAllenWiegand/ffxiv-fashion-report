@@ -2048,6 +2048,33 @@
         },
         {
             "type": "Body",
+            "hint": "Guardian's Garb",
+            "items": [
+                {
+                    "name": "Palaka Jacket Of Fending"
+                },
+                {
+                    "name": "Palaka Jacket Of Maiming"
+                },
+                {
+                    "name": "Palaka Vest Of Aiming"
+                },
+                {
+                    "name": "Palaka Vest Of Casting"
+                },
+                {
+                    "name": "Palaka Vest Of Healing"
+                },
+                {
+                    "name": "Palaka Vest Of Scouting"
+                },
+                {
+                    "name": "Palaka Vest Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Hingan Nights",
             "items": [
                 {
@@ -13719,6 +13746,29 @@
                 {
                     "type": "Feet",
                     "hint": "You're So Whisperfine"
+                }
+            ]
+        },
+        {
+            "week": 276,
+            "date": "2023-05-12",
+            "theme": "A Trip To The Temple",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "A True \"Spectacle\""
+                },
+                {
+                    "type": "Body",
+                    "hint": "Guardian's Garb"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Near Eastern Nights"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Shod With Sandals"
                 }
             ]
         }
