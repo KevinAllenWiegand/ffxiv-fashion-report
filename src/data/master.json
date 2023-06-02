@@ -4351,6 +4351,15 @@
             ]
         },
         {
+            "type": "Hands",
+            "hint": "Winter Wonderland",
+            "items": [
+                {
+                    "name": "Highland Mitts"
+                }
+            ]
+        },
+        {
             "type": "Legs",
             "hint": "A Pirate's Life",
             "items": [
@@ -5679,6 +5688,30 @@
                 },
                 {
                     "name": "Pagos Gaskins"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
+            "hint": "Short Shorts",
+            "items": [
+                {
+                    "name": "Expeditioner's Pantalettes"
+                },
+                {
+                    "name": "Goatskin Brais"
+                },
+                {
+                    "name": "Gryphonskin Pantalettes"
+                },
+                {
+                    "name": "Ramie Pantalettes"
+                },
+                {
+                    "name": "Toadskin Brais"
+                },
+                {
+                    "name": "Uraeus Breeches"
                 }
             ]
         },
@@ -13792,6 +13825,52 @@
                 {
                     "type": "Feet",
                     "hint": "On Ceremony"
+                }
+            ]
+        },
+        {
+            "week": 278,
+            "date": "2023-05-26",
+            "theme": "Duelist Of The Helm",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "A Knight For Helms"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Dueling Duelist"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Dueling Duelist"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Dalmascan Chic"
+                }
+            ]
+        },
+        {
+            "week": 279,
+            "date": "2023-06-02",
+            "theme": "Beekeeper Fatigue",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Bush Stylish"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Smallfolk"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Smitten With Mittens"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Short Shorts"
                 }
             ]
         }
