@@ -5696,6 +5696,9 @@
             "hint": "Short Shorts",
             "items": [
                 {
+                    "name": "Artisan's Culottes"
+                },
+                {
                     "name": "Expeditioner's Pantalettes"
                 },
                 {
@@ -5708,10 +5711,16 @@
                     "name": "Ramie Pantalettes"
                 },
                 {
+                    "name": "Raptorskin Brais"
+                },
+                {
                     "name": "Toadskin Brais"
                 },
                 {
                     "name": "Uraeus Breeches"
+                },
+                {
+                    "name": "Wolf Brais"
                 }
             ]
         },
@@ -13871,6 +13880,29 @@
                 {
                     "type": "Legs",
                     "hint": "Short Shorts"
+                }
+            ]
+        },
+        {
+            "week": 280,
+            "date": "2023-06-09",
+            "theme": "Ebony Android",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "NieR And Far"
+                },
+                {
+                    "type": "Body",
+                    "hint": "NieR And Far"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "NieR And Far"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Too Cool"
                 }
             ]
         }
