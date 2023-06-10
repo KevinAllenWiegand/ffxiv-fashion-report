@@ -905,6 +905,78 @@
         },
         {
             "type": "Head",
+            "hint": "NieR And Far",
+            "items": [
+                {
+                    "name": "No.2 Type B Goggles"
+                },
+                {
+                    "name": "Obsolete Android's Hairpin Of Casting"
+                },
+                {
+                    "name": "Obsolete Android's Hairpin Of Healing"
+                },
+                {
+                    "name": "Obsolete Android's Headband Of Aiming"
+                },
+                {
+                    "name": "Obsolete Android's Headband Of Scouting"
+                },
+                {
+                    "name": "Obsolete Android's Headband Of Striking"
+                },
+                {
+                    "name": "YoRHa Type-51 Cap Of Casting"
+                },
+                {
+                    "name": "YoRHa Type-51 Cap Of Healing"
+                },
+                {
+                    "name": "YoRHa Type-51 Cap Of Striking"
+                },
+                {
+                    "name": "YoRHa Type-51 Headband Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-51 Headband Of Maiming"
+                },
+                {
+                    "name": "YoRHa Type-51 Hood Of Aiming"
+                },
+                {
+                    "name": "YoRHa Type-51 Hood Of Scouting"
+                },
+                {
+                    "name": "YoRHa Type-53 Hat Of Aiming"
+                },
+                {
+                    "name": "YoRHa Type-53 Hat Of Casting"
+                },
+                {
+                    "name": "YoRHa Type-53 Hat Of Healing"
+                },
+                {
+                    "name": "YoRHa Type-53 Headband Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-53 Headband Of Maiming"
+                },
+                {
+                    "name": "YoRHa Type-53 Headband Of Striking"
+                },
+                {
+                    "name": "YoRHa Type-53 Hood Of Scouting"
+                },
+                {
+                    "name": "YoRHa Type-55 Cap Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-55 Cap Of Maiming"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Off To War",
             "items": [
                 {
@@ -2262,6 +2334,78 @@
                 },
                 {
                     "name": "Thavnairian Bustier"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "NieR And Far",
+            "items": [
+                {
+                    "name": "No.2 Type B Dress"
+                },
+                {
+                    "name": "Obsolete Android's Cloak Of Aiming"
+                },
+                {
+                    "name": "Obsolete Android's Cloak Of Scouting"
+                },
+                {
+                    "name": "Obsolete Android's Cloak Of Striking"
+                },
+                {
+                    "name": "Obsolete Android's Halfrobe Of Casting"
+                },
+                {
+                    "name": "Obsolete Android's Halfrobe Of Healing"
+                },
+                {
+                    "name": "YoRHa Type-51 Coat Of Aiming"
+                },
+                {
+                    "name": "YoRHa Type-51 Jacket Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-51 Jacket Of Healing"
+                },
+                {
+                    "name": "YoRHa Type-51 Jacket Of Maiming"
+                },
+                {
+                    "name": "YoRHa Type-51 Jacket Of Scouting"
+                },
+                {
+                    "name": "YoRHa Type-51 Jacket Of Striking"
+                },
+                {
+                    "name": "YoRHa Type-51 Robe Of Casting"
+                },
+                {
+                    "name": "YoRHa Type-53 Cloak Of Aiming"
+                },
+                {
+                    "name": "YoRHa Type-53 Cloak Of Scouting"
+                },
+                {
+                    "name": "YoRHa Type-53 Coat Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-53 Coat Of Maiming"
+                },
+                {
+                    "name": "YoRHa Type-53 Cyclas Of Striking"
+                },
+                {
+                    "name": "YoRHa Type-53 Halfrobe Of Casting"
+                },
+                {
+                    "name": "YoRHa Type-53 Halfrobe Of Healing"
+                },
+                {
+                    "name": "YoRHa Type-55 Jacket Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-55 Jacket Of Maiming"
                 }
             ]
         },
@@ -5210,6 +5354,78 @@
         },
         {
             "type": "Legs",
+            "hint": "NieR And Far",
+            "items": [
+                {
+                    "name": "No.2 Type B Leggings"
+                },
+                {
+                    "name": "Obsolete Android's Trousers Of Aiming"
+                },
+                {
+                    "name": "Obsolete Android's Trousers Of Casting"
+                },
+                {
+                    "name": "Obsolete Android's Trousers Of Healing"
+                },
+                {
+                    "name": "Obsolete Android's Trousers Of Scouting"
+                },
+                {
+                    "name": "Obsolete Android's Trousers Of Striking"
+                },
+                {
+                    "name": "YoRHa Type-51 Halfslops Of Maiming"
+                },
+                {
+                    "name": "YoRHa Type-51 Halfslops Of Scouting"
+                },
+                {
+                    "name": "YoRHa Type-51 Halfslops Of Striking"
+                },
+                {
+                    "name": "YoRHa Type-51 Trousers Of Aiming"
+                },
+                {
+                    "name": "YoRHa Type-51 Trousers Of Casting"
+                },
+                {
+                    "name": "YoRHa Type-51 Trousers Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-51 Trousers Of Healing"
+                },
+                {
+                    "name": "YoRHa Type-53 Bottoms Of Casting"
+                },
+                {
+                    "name": "YoRHa Type-53 Bottoms Of Healing"
+                },
+                {
+                    "name": "YoRHa Type-53 Breeches Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-53 Breeches Of Maiming"
+                },
+                {
+                    "name": "YoRHa Type-53 Breeches Of Striking"
+                },
+                {
+                    "name": "YoRHa Type-53 Halfslops Of Aiming"
+                },
+                {
+                    "name": "YoRHa Type-53 Halfslops Of Scouting"
+                },
+                {
+                    "name": "YoRHa Type-55 Bottoms Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-55 Bottoms Of Maiming"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "Old Country",
             "items": [
                 {
@@ -7209,6 +7425,24 @@
                 },
                 {
                     "name": "Arhat Kyanhan Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
+            "hint": "Too Cool",
+            "items": [
+                {
+                    "name": "Augmented Shire Conservator's Thighboots"
+                },
+                {
+                    "name": "Augmented Shire Emissary's Thighboots"
+                },
+                {
+                    "name": "Augmented Shire Philosopher's Thighboots"
+                },
+                {
+                    "name": "Augmented Shire Preceptor's Thighboots"
                 }
             ]
         },
