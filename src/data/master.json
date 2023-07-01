@@ -14293,6 +14293,29 @@
                     "hint": "Lily Triplet"
                 }
             ]
+        },
+        {
+            "week": 283,
+            "date": "2023-06-30",
+            "theme": "Wild, Wild Wanderer",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Son Of A Gun"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "\"Fringe\" Benefits"
+                }
+            ]
         }
     ]
 }
