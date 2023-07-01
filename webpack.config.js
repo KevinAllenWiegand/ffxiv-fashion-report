@@ -36,11 +36,13 @@ module.exports = env => {
         },
         plugins: [
             new CleanWebpackPlugin(),
-            new CopyPlugin([
-                {from: './static', to: 'static'},
-                {from: './index.html', to: 'index.html'},
-                {from: './favicon.ico', to: 'favicon.ico'},
-            ]),
+            new CopyPlugin({
+                patterns: [
+                    {from: './static', to: 'static'},
+                    {from: './index.html', to: 'index.html'},
+                    {from: './favicon.ico', to: 'favicon.ico'}
+                ]
+            }),
             new webpack.ProvidePlugin({
                 $: "jquery",
                 jQuery: "jquery"
@@ -51,8 +53,10 @@ module.exports = env => {
                 }
             })
         ],
-        node: {
-            fs: "empty"
+        resolve: {
+            fallback: {
+                fs: false
+            }
         },
         stats: {
             colors: true
