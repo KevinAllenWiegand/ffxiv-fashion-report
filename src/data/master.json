@@ -1076,6 +1076,36 @@
         },
         {
             "type": "Head",
+            "hint": "Rose For The Occasion",
+            "items": [
+                {
+                    "name": "Dried Black Oldrose"
+                },
+                {
+                    "name": "Dried Blue Oldrose"
+                },
+                {
+                    "name": "Dried Green Oldrose"
+                },
+                {
+                    "name": "Dried Orange Oldrose"
+                },
+                {
+                    "name": "Dried Purple Oldrose"
+                },
+                {
+                    "name": "Dried Red Oldrose"
+                },
+                {
+                    "name": "Dried White Oldrose"
+                },
+                {
+                    "name": "Dried Yellow Oldrose"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Royal",
             "items": [
                 {
@@ -1542,6 +1572,15 @@
             "items": [
                 {
                     "name": "Ala Mhigan Gown"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "Ao Dai",
+            "items": [
+                {
+                    "name": "Ao Dai"
                 }
             ]
         },
@@ -7472,6 +7511,42 @@
         },
         {
             "type": "Ear",
+            "hint": "Allagan Attack",
+            "items": [
+                {
+                    "name": "Berserker's Earrings"
+                },
+                {
+                    "name": "Panegyrist's Earrings"
+                },
+                {
+                    "name": "Platinum Earrings Of Aiming"
+                },
+                {
+                    "name": "Platinum Earrings Of Casting"
+                },
+                {
+                    "name": "Platinum Earrings Of Fending"
+                },
+                {
+                    "name": "Platinum Earrings Of Healing"
+                },
+                {
+                    "name": "Platinum Earrings Of Slaying"
+                },
+                {
+                    "name": "Prophet's Earrings"
+                },
+                {
+                    "name": "Viking Earrings"
+                },
+                {
+                    "name": "Wrangler's Earrings"
+                }
+            ]
+        },
+        {
+            "type": "Ear",
             "hint": "Beautiful Dreamer",
             "items": [
                 {
@@ -7617,6 +7692,39 @@
                 },
                 {
                     "name": "Tipping Scales Earrings"
+                }
+            ]
+        },
+        {
+            "type": "Ear",
+            "hint": "Lily Triplet",
+            "items": [
+                {
+                    "name": "Black Triteleia Earring"
+                },
+                {
+                    "name": "Blue Triteleia Earring"
+                },
+                {
+                    "name": "Green Triteleia Earring"
+                },
+                {
+                    "name": "Orange Triteleia Earring"
+                },
+                {
+                    "name": "Purple Triteleia Earring"
+                },
+                {
+                    "name": "Rainbow Triteleia Earring"
+                },
+                {
+                    "name": "Red Triteleia Earring"
+                },
+                {
+                    "name": "White Triteleia Earring"
+                },
+                {
+                    "name": "Yellow Triteleia Earring"
                 }
             ]
         },
@@ -14137,6 +14245,52 @@
                 {
                     "type": "Feet",
                     "hint": "Too Cool"
+                }
+            ]
+        },
+        {
+            "week": 281,
+            "date": "2023-06-16",
+            "theme": "Fled The North",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Imperial Couture"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Near Eastern Nights"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Moccasin City"
+                },
+                {
+                    "type": "Ear",
+                    "hint": "Allagan Attack"
+                }
+            ]
+        },
+        {
+            "week": 282,
+            "date": "2023-06-23",
+            "theme": "Sweet Blossom",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Rose For The Occasion"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Ao Dai"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Rocking Ribbons"
+                },
+                {
+                    "type": "Ear",
+                    "hint": "Lily Triplet"
                 }
             ]
         }
