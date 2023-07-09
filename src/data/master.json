@@ -2876,19 +2876,7 @@
                     "name": "Arachne Shirt Of Striking"
                 },
                 {
-                    "name": "Griffin Leather Coat Of Scouting"
-                },
-                {
-                    "name": "Griffin Leather Coat Of Striking"
-                },
-                {
-                    "name": "Kirimu Coat"
-                },
-                {
                     "name": "Pagos Shirt"
-                },
-                {
-                    "name": "Uraeus Coat"
                 }
             ]
         },
@@ -14314,6 +14302,29 @@
                 {
                     "type": "Feet",
                     "hint": "\"Fringe\" Benefits"
+                }
+            ]
+        },
+        {
+            "week": 284,
+            "date": "2023-07-07",
+            "theme": "Sky Pirate On The Beach",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "1 Eye Is Better Than 2"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Shivering Timbers"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Vagabond"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Do Rats Fly"
                 }
             ]
         }
