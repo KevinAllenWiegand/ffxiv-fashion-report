@@ -2480,6 +2480,54 @@
         },
         {
             "type": "Body",
+            "hint": "Omega Ornamentation",
+            "items": [
+                {
+                    "name": "Omega Coat Of Healing"
+                },
+                {
+                    "name": "Omega Coat Of Scouting"
+                },
+                {
+                    "name": "Omega Gambison Of Fending"
+                },
+                {
+                    "name": "Omega Gambison Of Maiming"
+                },
+                {
+                    "name": "Omega Gambison Of Striking"
+                },
+                {
+                    "name": "Omega Jacket Of Aiming"
+                },
+                {
+                    "name": "Omega Jacket Of Casting"
+                },
+                {
+                    "name": "Omicron Coat Of Healing"
+                },
+                {
+                    "name": "Omicron Coat Of Scouting"
+                },
+                {
+                    "name": "Omicron Gambison Of Fending"
+                },
+                {
+                    "name": "Omicron Gambison Of Maiming"
+                },
+                {
+                    "name": "Omicron Gambison Of Striking"
+                },
+                {
+                    "name": "Omicron Jacket Of Aiming"
+                },
+                {
+                    "name": "Omicron Jacket Of Casting"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "On The Plate",
             "items": [
                 {
@@ -7766,7 +7814,34 @@
             "hint": "The Creator",
             "items": [
                 {
-                    "name": "Any Prototype/Alexandrian Earrings"
+                    "name": "Alexandrian Earrings Of Aiming"
+                },
+                {
+                    "name": "Alexandrian Earrings Of Casting"
+                },
+                {
+                    "name": "Alexandrian Earrings Of Fending"
+                },
+                {
+                    "name": "Alexandrian Earrings Of Healing"
+                },
+                {
+                    "name": "Alexandrian Earrings Of Slaying"
+                },
+                {
+                    "name": "Prototype Alexandrian Earrings Of Aiming"
+                },
+                {
+                    "name": "Prototype Alexandrian Earrings Of Casting"
+                },
+                {
+                    "name": "Prototype Alexandrian Earrings Of Fending"
+                },
+                {
+                    "name": "Prototype Alexandrian Earrings Of Healing"
+                },
+                {
+                    "name": "Prototype Alexandrian Earrings Of Slaying"
                 }
             ]
         },
@@ -7775,7 +7850,34 @@
             "hint": "The Son",
             "items": [
                 {
-                    "name": "Any Prototype/Midan Earrings"
+                    "name": "Midan Earrings Of Aiming"
+                },
+                {
+                    "name": "Midan Earrings Of Casting"
+                },
+                {
+                    "name": "Midan Earrings Of Fending"
+                },
+                {
+                    "name": "Midan Earrings Of Healing"
+                },
+                {
+                    "name": "Midan Earrings Of Slaying"
+                },
+                {
+                    "name": "Midan Alexandrian Earrings Of Aiming"
+                },
+                {
+                    "name": "Midan Alexandrian Earrings Of Casting"
+                },
+                {
+                    "name": "Midan Alexandrian Earrings Of Fending"
+                },
+                {
+                    "name": "Midan Alexandrian Earrings Of Healing"
+                },
+                {
+                    "name": "Midan Alexandrian Earrings Of Slaying"
                 }
             ]
         },
@@ -7910,7 +8012,19 @@
             "hint": "Finally Fantastical",
             "items": [
                 {
-                    "name": "Any Proto Ultima Necklace"
+                    "name": "Proto Ultima Necklace Of Aiming"
+                },
+                {
+                    "name": "Proto Ultima Necklace Of Casting"
+                },
+                {
+                    "name": "Proto Ultima Necklace Of Fending"
+                },
+                {
+                    "name": "Proto Ultima Necklace Of Healing"
+                },
+                {
+                    "name": "Proto Ultima Necklace Of Slaying"
                 }
             ]
         },
@@ -8090,7 +8204,34 @@
             "hint": "The Creator",
             "items": [
                 {
-                    "name": "Any Prototype/Alexandrian Neckband"
+                    "name": "Alexandrian Neckband Of Aiming"
+                },
+                {
+                    "name": "Alexandrian Neckband Of Casting"
+                },
+                {
+                    "name": "Alexandrian Neckband Of Fending"
+                },
+                {
+                    "name": "Alexandrian Neckband Of Healing"
+                },
+                {
+                    "name": "Alexandrian Neckband Of Slaying"
+                },
+                {
+                    "name": "Prototype Alexandrian Neckband Of Aiming"
+                },
+                {
+                    "name": "Prototype Alexandrian Neckband Of Casting"
+                },
+                {
+                    "name": "Prototype Alexandrian Neckband Of Fending"
+                },
+                {
+                    "name": "Prototype Alexandrian Neckband Of Healing"
+                },
+                {
+                    "name": "Prototype Alexandrian Neckband Of Slaying"
                 }
             ]
         },
@@ -8099,7 +8240,34 @@
             "hint": "The Son",
             "items": [
                 {
-                    "name": "Any Prototype/Midan Neckband"
+                    "name": "Midan Neckband Of Aiming"
+                },
+                {
+                    "name": "Midan Neckband Of Casting"
+                },
+                {
+                    "name": "Midan Neckband Of Fending"
+                },
+                {
+                    "name": "Midan Neckband Of Healing"
+                },
+                {
+                    "name": "Midan Neckband Of Slaying"
+                },
+                {
+                    "name": "Prototype Midan Neckband Of Aiming"
+                },
+                {
+                    "name": "Prototype Midan Neckband Of Casting"
+                },
+                {
+                    "name": "Prototype Midan Neckband Of Fending"
+                },
+                {
+                    "name": "Prototype Midan Neckband Of Healing"
+                },
+                {
+                    "name": "Prototype Midan Neckband Of Slaying"
                 }
             ]
         },
@@ -8822,10 +8990,73 @@
         },
         {
             "type": "Ring",
+            "hint": "The Creator",
+            "items": [
+                {
+                    "name": "Alexandrian Ring Of Aiming"
+                },
+                {
+                    "name": "Alexandrian Ring Of Casting"
+                },
+                {
+                    "name": "Alexandrian Ring Of Fending"
+                },
+                {
+                    "name": "Alexandrian Ring Of Healing"
+                },
+                {
+                    "name": "Alexandrian Ring Of Slaying"
+                },
+                {
+                    "name": "Prototype Alexandrian Ring Of Aiming"
+                },
+                {
+                    "name": "Prototype Alexandrian Ring Of Casting"
+                },
+                {
+                    "name": "Prototype Alexandrian Ring Of Fending"
+                },
+                {
+                    "name": "Prototype Alexandrian Ring Of Healing"
+                },
+                {
+                    "name": "Prototype Alexandrian Ring Of Slaying"
+                }
+            ]
+        },
+        {
+            "type": "Ring",
             "hint": "The Son",
             "items": [
                 {
-                    "name": "Any Prototype/Midan Ring"
+                    "name": "Midan Ring Of Aiming"
+                },
+                {
+                    "name": "Midan Ring Of Casting"
+                },
+                {
+                    "name": "Midan Ring Of Fending"
+                },
+                {
+                    "name": "Midan Ring Of Healing"
+                },
+                {
+                    "name": "Midan Ring Of Slaying"
+                },
+                {
+                    "name": "Prototype Midan Ring Of Aiming"
+                },
+                {
+                    "name": "Prototype Midan Ring Of Casting"
+                },
+                {
+                    "name": "Prototype Midan Ring Of Fending"
+                },
+                {
+                    "name": "Prototype Midan Ring Of Healing"
+                },
+                {
+                    "name": "Prototype Midan Ring Of Slaying"
                 }
             ]
         },
@@ -14325,6 +14556,29 @@
                 {
                     "type": "Feet",
                     "hint": "Do Rats Fly"
+                }
+            ]
+        },
+        {
+            "week": 285,
+            "date": "2023-07-14",
+            "theme": "Recollection Of Fallen Foes",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Omega Ornamentation"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "The Tale Of Genji"
+                },
+                {
+                    "type": "Ear",
+                    "hint": "The Coil That Binds"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "The Creator"
                 }
             ]
         }
