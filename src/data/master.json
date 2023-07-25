@@ -2342,6 +2342,18 @@
         },
         {
             "type": "Body",
+            "hint": "Mantle Of Mod",
+            "items": [
+                {
+                    "name": "Rebel Coat"
+                },
+                {
+                    "name": "Urban Coat"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Motley Crew",
             "items": [
                 {
@@ -8196,6 +8208,15 @@
                 },
                 {
                     "name": "Leather Choker"
+                }
+            ]
+        },
+        {
+            "type": "Neck",
+            "hint": "Pirates In The Sky",
+            "items": [
+                {
+                    "name": "Redbill Scarf"
                 }
             ]
         },
@@ -14579,6 +14600,29 @@
                 {
                     "type": "Ring",
                     "hint": "The Creator"
+                }
+            ]
+        },
+        {
+            "week": 286,
+            "date": "2023-07-21",
+            "theme": "Modern MASH",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Mantle Of Mod"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Devil In Denim"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In The \"Fold\""
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Pirates In The Sky"
                 }
             ]
         }
