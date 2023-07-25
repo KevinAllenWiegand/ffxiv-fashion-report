@@ -14625,6 +14625,29 @@
                     "hint": "Pirates In The Sky"
                 }
             ]
+        },
+        {
+            "week": 287,
+            "date": "2023-07-28",
+            "theme": "Utility Camper",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Packing"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Hand In Long Glove"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "To Adventure"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Short Boots"
+                }
+            ]
         }
     ]
 }
