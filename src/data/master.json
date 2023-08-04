@@ -995,6 +995,39 @@
         },
         {
             "type": "Head",
+            "hint": "Pocketful O' Pansies",
+            "items": [
+                {
+                    "name": "Black Viola Corsage"
+                },
+                {
+                    "name": "Blue Viola Corsage"
+                },
+                {
+                    "name": "Green Viola Corsage"
+                },
+                {
+                    "name": "Orange Viola Corsage"
+                },
+                {
+                    "name": "Purple Viola Corsage"
+                },
+                {
+                    "name": "Rainbow Viola Corsage"
+                },
+                {
+                    "name": "Red Viola Corsage"
+                },
+                {
+                    "name": "White Viola Corsage"
+                },
+                {
+                    "name": "Yellow Viola Corsage"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Pocketfull o' Pansies",
             "items": [
                 {
@@ -14646,6 +14679,29 @@
                 {
                     "type": "Feet",
                     "hint": "Short Boots"
+                }
+            ]
+        },
+        {
+            "week": 288,
+            "date": "2023-08-04",
+            "theme": "Lounging Laborer",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Pocketful O' Pansies"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "\"Labor\" Of Love"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Armored Core"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Jewels Of Red"
                 }
             ]
         }
