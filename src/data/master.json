@@ -1601,6 +1601,57 @@
         },
         {
             "type": "Body",
+            "hint": "Adventure First Worn",
+            "items": [
+                {
+                    "name": "Auri Gown"
+                },
+                {
+                    "name": "Auri Harness"
+                },
+                {
+                    "name": "Elezen Gown"
+                },
+                {
+                    "name": "Elezen Surcoat"
+                },
+                {
+                    "name": "Hrothgar Harness"
+                },
+                {
+                    "name": "Hyuran Chemisette"
+                },
+                {
+                    "name": "Hyuran Tunic"
+                },
+                {
+                    "name": "Lalafellin Kaftan"
+                },
+                {
+                    "name": "Lalafellin Tunic"
+                },
+                {
+                    "name": "Miqo'te Separates"
+                },
+                {
+                    "name": "Miqo'te Vest"
+                },
+                {
+                    "name": "Roegadyn Bodice"
+                },
+                {
+                    "name": "Roegadyn Harness"
+                },
+                {
+                    "name": "Viera Chestwrap"
+                },
+                {
+                    "name": "Viera Harness"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Ala Mhigan",
             "items": [
                 {
@@ -3578,6 +3629,57 @@
         },
         {
             "type": "Hands",
+            "hint": "Adventure First Worn",
+            "items": [
+                {
+                    "name": "Auri Armguards"
+                },
+                {
+                    "name": "Auri Halfgloves"
+                },
+                {
+                    "name": "Elezen Gloves"
+                },
+                {
+                    "name": "Elezen Halfgloves"
+                },
+                {
+                    "name": "Hrothgar Wristguards"
+                },
+                {
+                    "name": "Hyuran Gloves"
+                },
+                {
+                    "name": "Hyuran Halfgloves"
+                },
+                {
+                    "name": "Lalafellin Wristbands"
+                },
+                {
+                    "name": "Lalafellin Wristguards"
+                },
+                {
+                    "name": "Miqo'te Gauntlets"
+                },
+                {
+                    "name": "Miqo'te Gloves"
+                },
+                {
+                    "name": "Roegadyn Armguards"
+                },
+                {
+                    "name": "Roegadyn Bracers"
+                },
+                {
+                    "name": "Viera Armguards"
+                },
+                {
+                    "name": "Viera Armlets"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
             "hint": "All In The Wrist",
             "items": [
                 {
@@ -4668,6 +4770,57 @@
                 },
                 {
                     "name": "Southern Seas Trunks"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
+            "hint": "Adventure First Worn",
+            "items": [
+                {
+                    "name": "Auri Breeches"
+                },
+                {
+                    "name": "Auri Pantalettes"
+                },
+                {
+                    "name": "Elezen Braccae"
+                },
+                {
+                    "name": "Elezen Tights"
+                },
+                {
+                    "name": "Hrothgar Subligar"
+                },
+                {
+                    "name": "Hyuran Breeches"
+                },
+                {
+                    "name": "Hyuran Skirt"
+                },
+                {
+                    "name": "Lalafellin Bloomers"
+                },
+                {
+                    "name": "Lalafellin Gaskins"
+                },
+                {
+                    "name": "Miqo'te Loincloth"
+                },
+                {
+                    "name": "Miqo'te Zouaves"
+                },
+                {
+                    "name": "Roegadyn Breeches"
+                },
+                {
+                    "name": "Roegadyn Legstraps"
+                },
+                {
+                    "name": "Viera Gaskins"
+                },
+                {
+                    "name": "Viera Pantalettes"
                 }
             ]
         },
@@ -6639,6 +6792,57 @@
                 },
                 {
                     "name": "Wyvernskin Boots Of Scouting"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
+            "hint": "Adventure First Worn",
+            "items": [
+                {
+                    "name": "Auri Buskins"
+                },
+                {
+                    "name": "Auri Sandals"
+                },
+                {
+                    "name": "Elezen Jackboots"
+                },
+                {
+                    "name": "Elezen Shoes"
+                },
+                {
+                    "name": "Hrothgar Sandals"
+                },
+                {
+                    "name": "Hyuran Longboots"
+                },
+                {
+                    "name": "Hyuran Thighboots"
+                },
+                {
+                    "name": "Lalafellin Bootees"
+                },
+                {
+                    "name": "Lalafellin Top Boots"
+                },
+                {
+                    "name": "Miqo'te Longboots"
+                },
+                {
+                    "name": "Miqo'te Shoes"
+                },
+                {
+                    "name": "Roegadyn Boots"
+                },
+                {
+                    "name": "Roegadyn Sandals"
+                },
+                {
+                    "name": "Viera Sandals"
+                },
+                {
+                    "name": "Viera Sollerets"
                 }
             ]
         },
@@ -14702,6 +14906,29 @@
                 {
                     "type": "Wrist",
                     "hint": "Jewels Of Red"
+                }
+            ]
+        },
+        {
+            "week": 289,
+            "date": "2023-08-11",
+            "theme": "Ten Years Ago Today",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Adventure First Worn"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Adventure First Worn"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Adventure First Worn"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Adventure First Worn"
                 }
             ]
         }
