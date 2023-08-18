@@ -809,6 +809,45 @@
         },
         {
             "type": "Head",
+            "hint": "Mono A Mono",
+            "items": [
+                {
+                    "name": "Blessed Monocle"
+                },
+                {
+                    "name": "Butler's Monocle"
+                },
+                {
+                    "name": "Direwolf Monocle Of Healing"
+                },
+                {
+                    "name": "Electrum Monocle"
+                },
+                {
+                    "name": "Hardsilver Monocle Of Healing"
+                },
+                {
+                    "name": "Loyal Butler's Monocle"
+                },
+                {
+                    "name": "Makai Marksman's Eyepatch"
+                },
+                {
+                    "name": "Monocle Of Divine Death"
+                },
+                {
+                    "name": "Scion Adventurer's Monocle"
+                },
+                {
+                    "name": "Silver Monocle"
+                },
+                {
+                    "name": "Torturer's Monocle"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Moon Unit",
             "items": [
                 {
@@ -3879,6 +3918,39 @@
                 },
                 {
                     "name": "Replica Dreadwyrm Vambraces Of Maiming"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
+            "hint": "Cooking Up A Storm",
+            "items": [
+                {
+                    "name": "Artisan's Mitts"
+                },
+                {
+                    "name": "Augmented Galleyking's Mittens"
+                },
+                {
+                    "name": "Culinarian's Mitts"
+                },
+                {
+                    "name": "Flame Sergeant's Mitts"
+                },
+                {
+                    "name": "Harlequin's Mitts"
+                },
+                {
+                    "name": "Leather Lightmitts"
+                },
+                {
+                    "name": "Serpent Sergeant's Mitts"
+                },
+                {
+                    "name": "Storm Sergeant's Mitts"
+                },
+                {
+                    "name": "Valentione Mitts"
                 }
             ]
         },
@@ -9279,6 +9351,42 @@
                 },
                 {
                     "name": "Prototype Alexandrian Ring Of Slaying"
+                }
+            ]
+        },
+        {
+            "type": "Ring",
+            "hint": "The Father",
+            "items": [
+                {
+                    "name": "Gordian Ring Of Aiming"
+                },
+                {
+                    "name": "Gordian Ring Of Casting"
+                },
+                {
+                    "name": "Gordian Ring Of Fending"
+                },
+                {
+                    "name": "Gordian Ring Of Healing"
+                },
+                {
+                    "name": "Gordian Ring Of Slaying"
+                },
+                {
+                    "name": "Prototype Gordian Ring Of Aiming"
+                },
+                {
+                    "name": "Prototype Gordian Ring Of Casting"
+                },
+                {
+                    "name": "Prototype Gordian Ring Of Fending"
+                },
+                {
+                    "name": "Prototype Gordian Ring Of Healing"
+                },
+                {
+                    "name": "Prototype Gordian Ring Of Slaying"
                 }
             ]
         },
@@ -14929,6 +15037,29 @@
                 {
                     "type": "Feet",
                     "hint": "Adventure First Worn"
+                }
+            ]
+        },
+        {
+            "week": 290,
+            "date": "2023-08-18",
+            "theme": "Southern Culinarian",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Mono A Mono"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Cooking Up A Storm"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Near Eastern Nights"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "The Father"
                 }
             ]
         }
