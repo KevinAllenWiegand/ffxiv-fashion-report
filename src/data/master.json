@@ -6563,6 +6563,15 @@
         },
         {
             "type": "Legs",
+            "hint": "Talk About Slacks",
+            "items": [
+                {
+                    "name": "Best Man's Slacks"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "The Creator",
             "items": [
                 {
@@ -8637,6 +8646,27 @@
             "items": [
                 {
                     "name": "Any High Allagan Bracelets"
+                }
+            ]
+        },
+        {
+            "type": "Wrist",
+            "hint": "Friend To The End",
+            "items": [
+                {
+                    "name": "Halonic Auditor's Bracelets"
+                },
+                {
+                    "name": "Halonic Exorcist's Bracelets"
+                },
+                {
+                    "name": "Halonic Friar's Bracelets"
+                },
+                {
+                    "name": "Halonic Inquisitor's Bracelets"
+                },
+                {
+                    "name": "Halonic Priest's Bracelets"
                 }
             ]
         },
@@ -15060,6 +15090,29 @@
                 {
                     "type": "Ring",
                     "hint": "The Father"
+                }
+            ]
+        },
+        {
+            "week": 291,
+            "date": "2023-08-25",
+            "theme": "Sorcery Scholar",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "A True \"Spectacle\""
+                },
+                {
+                    "type": "Body",
+                    "hint": "Bookworm"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Talk About Slacks"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Friend To The End"
                 }
             ]
         }
