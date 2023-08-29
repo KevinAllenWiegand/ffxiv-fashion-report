@@ -15115,6 +15115,29 @@
                     "hint": "Friend To The End"
                 }
             ]
+        },
+        {
+            "week": 292,
+            "date": "2023-09-01",
+            "theme": "Adrift From East To West",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Hingan Nights"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Allagan Attack"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Devil In Denim"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Caligae Divorcee"
+                }
+            ]
         }
     ]
 }
