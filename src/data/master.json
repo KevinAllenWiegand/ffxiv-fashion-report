@@ -15138,6 +15138,29 @@
                     "hint": "Caligae Divorcee"
                 }
             ]
+        },
+        {
+            "week": 293,
+            "date": "2023-09-08",
+            "theme": "Early Holiday",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Keeping It Casual"
+                },
+                {
+                    "type": "Body",
+                    "hint": "You're So Whisperfine"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Near Eastern Nights"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Fringed And Footloose"
+                }
+            ]
         }
     ]
 }
