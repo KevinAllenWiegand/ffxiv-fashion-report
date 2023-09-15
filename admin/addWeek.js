@@ -83,10 +83,11 @@ for (let index = 0; index < slots.length; index++) {
 }
 
 console.log('Adding new week with the following information:');
-console.log(theme);
+console.log(`\tTheme: ${theme}`);
+console.log('\tSlots:');
 
 slots.forEach(slot => {
-    console.log(`${slot.slot}: ${slot.hint}`);
+    console.log(`\t\t${slot.slot}: ${slot.hint}`);
 });
 
 let rawMasterData = fs.readFileSync(MASTER_FILE);
@@ -147,11 +148,13 @@ function checkMissingSlots() {
     });
 
     if (missingSlots.length) {
-        console.warn('WARNING! Missing Slots:')
+        console.log('AUDIT NOTES: Missing Slots:')
 
         missingSlots.forEach(slot => {
             console.log(`\t${slot.type}: ${slot.hint}`);
         });
+    } else {
+        console.log('AUDIT NOTES: All slots already exist.');
     }
 }
 
