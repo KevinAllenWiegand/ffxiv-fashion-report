@@ -123,6 +123,37 @@ const lastReportNew = getLastReport(masterData);
 
 console.log(`Last report after addition is week ${lastReportNew.week} for ${lastReportNew.date}`);
 fs.writeFileSync(MASTER_FILE, JSON.stringify(masterData, null, INDENT_SIZE));
+checkMissingSlots();
+
+function checkMissingSlots() {
+    const missingSlots = [];
+
+    newReport.slots.forEach(reportSlot => {
+        let foundSlot = false;
+
+        for (let index = 0; index < masterData.slots.length; index++) {
+            const slot = masterData.slots[index];
+
+            foundSlot = slot.type === reportSlot.type && slot.hint === reportSlot.hint;
+
+            if (foundSlot) {
+                break;
+            }
+        }
+
+        if (!foundSlot) {
+            missingSlots.push(reportSlot);
+        }
+    });
+
+    if (missingSlots.length) {
+        console.warn('WARNING! Missing Slots:')
+
+        missingSlots.forEach(slot => {
+            console.log(`\t${slot.type}: ${slot.hint}`);
+        });
+    }
+}
 
 function formatNumberForDate(value) {
     if (value > 9) {

@@ -359,7 +359,7 @@
         },
         {
             "type": "Head",
-            "hint": "Chapeau du Choice",
+            "hint": "Chapeau Du Choice",
             "items": [
                 {
                     "name": "Felt Beret"
@@ -4670,7 +4670,7 @@
         },
         {
             "type": "Hands",
-            "hint": "Tip o' The Arhat",
+            "hint": "Tip O' The Arhat",
             "items": [
                 {
                     "name": "Arhat Kote Of Fending"
@@ -6686,7 +6686,7 @@
         },
         {
             "type": "Legs",
-            "hint": "Tip o' The Arhat",
+            "hint": "Tip O' The Arhat",
             "items": [
                 {
                     "name": "Arhat Hakama Of Aiming"
@@ -7808,7 +7808,7 @@
         },
         {
             "type": "Feet",
-            "hint": "Tip o' The Arhat",
+            "hint": "Tip O' The Arhat",
             "items": [
                 {
                     "name": "Arhat Kyanhan Of Aiming"
@@ -9588,7 +9588,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "Tip o' The Arhat"
+                    "hint": "Tip O' The Arhat"
                 }
             ]
         },
@@ -10358,7 +10358,7 @@
             "slots": [
                 {
                     "type": "Head",
-                    "hint": "Chapeau du Choice"
+                    "hint": "Chapeau Du Choice"
                 },
                 {
                     "type": "Body",
@@ -12114,7 +12114,7 @@
                 },
                 {
                     "type": "Legs",
-                    "hint": "Tip o' The Arhat"
+                    "hint": "Tip O' The Arhat"
                 },
                 {
                     "type": "Neck",
@@ -12520,7 +12520,7 @@
             "slots": [
                 {
                     "type": "Head",
-                    "hint": "Chapeau du Choice"
+                    "hint": "Chapeau Du Choice"
                 },
                 {
                     "type": "Body",
@@ -12532,7 +12532,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "Tip o' The Arhat"
+                    "hint": "Tip O' The Arhat"
                 }
             ]
         },
@@ -13065,7 +13065,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "Tip o' The Arhat"
+                    "hint": "Tip O' The Arhat"
                 }
             ]
         },
@@ -13157,7 +13157,7 @@
                 },
                 {
                     "type": "Feet",
-                    "hint": "Tip o' The Arhat"
+                    "hint": "Tip O' The Arhat"
                 }
             ]
         },
@@ -13843,7 +13843,7 @@
                 },
                 {
                     "type": "Hands",
-                    "hint": "Tip o' The Arhat"
+                    "hint": "Tip O' The Arhat"
                 },
                 {
                     "type": "Legs",
@@ -15159,6 +15159,29 @@
                 {
                     "type": "Feet",
                     "hint": "Fringed And Footloose"
+                }
+            ]
+        },
+        {
+            "week": 294,
+            "date": "2023-09-15",
+            "theme": "Erudite Autumn",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Feather In Your Cap"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Up A Long Sleeve"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Check And Check"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "You're So Whisperfine"
                 }
             ]
         }
