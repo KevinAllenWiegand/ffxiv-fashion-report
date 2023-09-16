@@ -3533,6 +3533,33 @@
         },
         {
             "type": "Body",
+            "hint": "Up A Long Sleeve",
+            "items": [
+                {
+                    "name": "Adventuring Sweater"
+                },
+                {
+                    "name": "Anemos Gambison"
+                },
+                {
+                    "name": "Falconer's Shirt"
+                },
+                {
+                    "name": "Ramie Shirt"
+                },
+                {
+                    "name": "Ruby Cotton Gambison"
+                },
+                {
+                    "name": "Thavnairian Wool Autumn Shirt"
+                },
+                {
+                    "name": "Winter Sweater"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Vagabond",
             "items": [
                 {
