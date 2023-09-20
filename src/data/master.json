@@ -15211,6 +15211,29 @@
                     "hint": "You're So Whisperfine"
                 }
             ]
+        },
+        {
+            "week": 295,
+            "date": "2023-09-22",
+            "theme": "Burning Brawn",
+            "slots": [
+                {
+                    "type": "Hands",
+                    "hint": "Up In Armlets"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Less Is More"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Moccasin City"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "The Creator"
+                }
+            ]
         }
     ]
 }
