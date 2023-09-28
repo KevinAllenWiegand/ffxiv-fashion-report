@@ -15234,6 +15234,29 @@
                     "hint": "The Creator"
                 }
             ]
+        },
+        {
+            "week": 296,
+            "date": "2023-09-29",
+            "theme": "Oldies But Goodies",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Scarf It Down"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "All In The Wrist"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Pretty In Pantaloons"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Patten On The Back"
+                }
+            ]
         }
     ]
 }
