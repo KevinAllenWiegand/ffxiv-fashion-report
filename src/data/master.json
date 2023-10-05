@@ -15257,6 +15257,29 @@
                     "hint": "Patten On The Back"
                 }
             ]
+        },
+        {
+            "week": 297,
+            "date": "2023-10-06",
+            "theme": "Researcher Robes",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Off To War"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Weird Science"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Riding High"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "On Ceremony"
+                }
+            ]
         }
     ]
 }
