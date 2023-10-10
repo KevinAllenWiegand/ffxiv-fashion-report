@@ -15280,6 +15280,29 @@
                     "hint": "On Ceremony"
                 }
             ]
+        },
+        {
+            "week": 298,
+            "date": "2023-10-13",
+            "theme": "Imagining Peace",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Brain Over Brawn"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Love & Peace"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Pretty In Pantaloons"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Shod With Sandals"
+                }
+            ]
         }
     ]
 }
