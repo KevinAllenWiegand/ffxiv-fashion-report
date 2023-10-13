@@ -2465,6 +2465,15 @@
         },
         {
             "type": "Body",
+            "hint": "Love & Peace",
+            "items": [
+                {
+                    "name": "Peacelover's Shirt"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Mantle Of Mod",
             "items": [
                 {
