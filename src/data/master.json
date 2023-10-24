@@ -7817,6 +7817,33 @@
         },
         {
             "type": "Feet",
+            "hint": "The Great Sigmascape",
+            "items": [
+                {
+                    "name": "Carborundum Boots Of Aiming"
+                },
+                {
+                    "name": "Carborundum Boots Of Casting"
+                },
+                {
+                    "name": "Carborundum Boots Of Healing"
+                },
+                {
+                    "name": "Carborundum Boots Of Scouting"
+                },
+                {
+                    "name": "Carborundum Boots Of Striking"
+                },
+                {
+                    "name": "Carborundum Greaves Of Fending"
+                },
+                {
+                    "name": "Carborundum Greaves Of Maiming"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
             "hint": "Tight And Long",
             "items": [
                 {
@@ -15310,6 +15337,29 @@
                 {
                     "type": "Feet",
                     "hint": "Shod With Sandals"
+                }
+            ]
+        },
+        {
+            "week": 299,
+            "date": "2023-10-20",
+            "theme": "Muscly Magician",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Silken Things"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Rocking Ribbons"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "\"Labor\" Of Love"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "The Great Sigmascape"
                 }
             ]
         }
