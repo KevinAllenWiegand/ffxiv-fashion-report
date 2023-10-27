@@ -410,6 +410,39 @@
         },
         {
             "type": "Head",
+            "hint": "Cosmos In Bloom",
+            "items": [
+                {
+                    "name": "Black Cosmos Corsage"
+                },
+                {
+                    "name": "Blue Cosmos Corsage"
+                },
+                {
+                    "name": "Green Cosmos Corsage"
+                },
+                {
+                    "name": "Orange Cosmos Corsage"
+                },
+                {
+                    "name": "Purple Cosmos Corsage"
+                },
+                {
+                    "name": "Rainbow Cosmos Corsage"
+                },
+                {
+                    "name": "Red Cosmos Corsage"
+                },
+                {
+                    "name": "White Cosmos Corsage"
+                },
+                {
+                    "name": "Yellow Cosmos Corsage"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Daisy Chain",
             "items": [
                 {
@@ -7010,7 +7043,22 @@
             "hint": "Avant Garde",
             "items": [
                 {
+                    "name": "Aurum Leg Guards"
+                },
+                {
                     "name": "Goatskin Leg Guards"
+                },
+                {
+                    "name": "Noble's Leg Guards"
+                },
+                {
+                    "name": "Raptorskin Leg Guards"
+                },
+                {
+                    "name": "Toadskin Leg Guards"
+                },
+                {
+                    "name": "Vintage Thighboots"
                 }
             ]
         },
@@ -15360,6 +15408,29 @@
                 {
                     "type": "Feet",
                     "hint": "The Great Sigmascape"
+                }
+            ]
+        },
+        {
+            "week": 300,
+            "date": "2023-10-27",
+            "theme": "Cosmos Of Thorns",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Cosmos In Bloom"
+                },
+                {
+                    "type": "Body",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Primal Revival"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Avant Garde"
                 }
             ]
         }
