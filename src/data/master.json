@@ -15433,6 +15433,29 @@
                     "hint": "Avant Garde"
                 }
             ]
+        },
+        {
+            "week": 301,
+            "date": "2023-11-03",
+            "theme": "Werewitch",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Hungry Like The Wolf"
+                },
+                {
+                    "type": "Body",
+                    "hint": "I Believe In Magic"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "I Believe In Magic"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "I Believe In Magic"
+                }
+            ]
         }
     ]
 }
