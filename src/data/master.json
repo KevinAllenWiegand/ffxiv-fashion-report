@@ -9110,6 +9110,45 @@
         },
         {
             "type": "Ring",
+            "hint": "Cute As A Button",
+            "items": [
+                {
+                    "name": "Augmented Shire Preceptor's Ring"
+                },
+                {
+                    "name": "Judgment Ring Of Aiming"
+                },
+                {
+                    "name": "Judgment Ring Of Casting"
+                },
+                {
+                    "name": "Judgment Ring Of Fending"
+                },
+                {
+                    "name": "Judgment Ring Of Healing"
+                },
+                {
+                    "name": "Judgment Ring Of Slaying"
+                },
+                {
+                    "name": "Vortex Ring Of Aiming"
+                },
+                {
+                    "name": "Vortex Ring Of Casting"
+                },
+                {
+                    "name": "Vortex Ring Of Fending"
+                },
+                {
+                    "name": "Vortex Ring Of Healing"
+                },
+                {
+                    "name": "Vortex Ring Of Slaying"
+                }
+            ]
+        },
+        {
+            "type": "Ring",
             "hint": "Friend To The End",
             "items": [
                 {
@@ -15454,6 +15493,29 @@
                 {
                     "type": "Feet",
                     "hint": "I Believe In Magic"
+                }
+            ]
+        },
+        {
+            "week": 302,
+            "date": "2023-11-10",
+            "theme": "Educated Oracle",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "A True \"Spectacle\""
+                },
+                {
+                    "type": "Body",
+                    "hint": "The Conqueror"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Cooking Up A Storm"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Cute As A Button"
                 }
             ]
         }
