@@ -9464,13 +9464,55 @@
                     "name": "Carborundum Ring"
                 },
                 {
-                    "name": "Diamond Ring"
+                    "name": "Carborundum Ring Of Aiming"
+                },
+                {
+                    "name": "Carborundum Ring Of Casting"
+                },
+                {
+                    "name": "Carborundum Ring Of Fending"
+                },
+                {
+                    "name": "Carborundum Ring Of Healing"
+                },
+                {
+                    "name": "Carborundum Ring Of Slaying"
+                },
+                {
+                    "name": "Diamond Ring Of Aiming"
+                },
+                {
+                    "name": "Diamond Ring Of Casting"
+                },
+                {
+                    "name": "Diamond Ring Of Fending"
+                },
+                {
+                    "name": "Diamond Ring Of Healing"
+                },
+                {
+                    "name": "Diamond Ring Of Slaying"
                 },
                 {
                     "name": "Palladium Band"
                 },
                 {
                     "name": "Scintillant Ring"
+                },
+                {
+                    "name": "Scintillant Ring Of Aiming"
+                },
+                {
+                    "name": "Scintillant Ring Of Casting"
+                },
+                {
+                    "name": "Scintillant Ring Of Fending"
+                },
+                {
+                    "name": "Scintillant Ring Of Healing"
+                },
+                {
+                    "name": "Scintillant Ring Of Slaying"
                 }
             ]
         },
@@ -15516,6 +15558,29 @@
                 {
                     "type": "Ring",
                     "hint": "Cute As A Button"
+                }
+            ]
+        },
+        {
+            "week": 303,
+            "date": "2023-11-17",
+            "theme": "The Coeurl's Guard",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Off To War"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Leaping Leopards"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Tip O' The Arhat"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "The Cloth I Bear"
                 }
             ]
         }
