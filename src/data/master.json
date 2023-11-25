@@ -2306,6 +2306,33 @@
         },
         {
             "type": "Body",
+            "hint": "Foundation's Forefront",
+            "items": [
+                {
+                    "name": "Neo-Ishgardian Top Of Aiming"
+                },
+                {
+                    "name": "Neo-Ishgardian Top Of Casting"
+                },
+                {
+                    "name": "Neo-Ishgardian Top Of Fending"
+                },
+                {
+                    "name": "Neo-Ishgardian Top Of Healing"
+                },
+                {
+                    "name": "Neo-Ishgardian Top Of Maiming"
+                },
+                {
+                    "name": "Neo-Ishgardian Top Of Scouting"
+                },
+                {
+                    "name": "Neo-Ishgardian Top Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Go West",
             "items": [
                 {
@@ -4128,6 +4155,33 @@
                 },
                 {
                     "name": "Orthodox Wristgloves Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
+            "hint": "Foundation's Forefront",
+            "items": [
+                {
+                    "name": "Neo-Ishgardian Gauntlets Of Fending"
+                },
+                {
+                    "name": "Neo-Ishgardian Gloves Of Aiming"
+                },
+                {
+                    "name": "Neo-Ishgardian Gloves Of Casting"
+                },
+                {
+                    "name": "Neo-Ishgardian Gloves Of Healing"
+                },
+                {
+                    "name": "Neo-Ishgardian Gloves Of Maiming"
+                },
+                {
+                    "name": "Neo-Ishgardian Gloves Of Scouting"
+                },
+                {
+                    "name": "Neo-Ishgardian Gloves Of Striking"
                 }
             ]
         },
@@ -15581,6 +15635,29 @@
                 {
                     "type": "Ring",
                     "hint": "The Cloth I Bear"
+                }
+            ]
+        },
+        {
+            "week": 304,
+            "date": "2023-11-24",
+            "theme": "Ishgardian Illusionist",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Silken Things"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Foundation's Forefront"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Foundation's Forefront"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "NieR And Far"
                 }
             ]
         }
