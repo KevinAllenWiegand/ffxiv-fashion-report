@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --env.ENVIRONMENT=dev --mode=development",
+    "start": "webpack-dev-server --env ENVIRONMENT=dev --mode=development",
     "build": "webpack --env ENVIRONMENT=dev --mode=development"
   },
   "keywords": [],

@@ -581,5 +581,5 @@ function getItems(type, hint) {
 }
 
 function makeId(value) {
-    return value.replace(/[\'\"\s/\(\)]/gi, '');
+    return value.replace(/[\'\"\s/\(\)\.]/gi, '');
 }
