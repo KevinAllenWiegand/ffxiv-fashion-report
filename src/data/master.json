@@ -8840,9 +8840,6 @@
             "hint": "Jewels Of Black",
             "items": [
                 {
-                    "name": "Any Hero's Bracelet"
-                },
-                {
                     "name": "Black Pearl Bracelet"
                 },
                 {
@@ -8850,6 +8847,21 @@
                 },
                 {
                     "name": "Flame Sergeant's  Bracelet"
+                },
+                {
+                    "name": "Hero's Bracelet Of Aiming"
+                },
+                {
+                    "name": "Hero's Bracelet Of Casting"
+                },
+                {
+                    "name": "Hero's Bracelet Of Fending"
+                },
+                {
+                    "name": "Hero's Bracelet Of Healing"
+                },
+                {
+                    "name": "Hero's Bracelet Of Slaying"
                 },
                 {
                     "name": "Warwolf Bracelet Of Casting"
@@ -15658,6 +15670,29 @@
                 {
                     "type": "Legs",
                     "hint": "NieR And Far"
+                }
+            ]
+        },
+        {
+            "week": 305,
+            "date": "2023-12-01",
+            "theme": "Sea's Boots Were Made For Kicking",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "A Pirate's Life"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Riding High"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Avant Garde"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Jewels Of Black"
                 }
             ]
         }
