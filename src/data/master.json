@@ -3347,6 +3347,54 @@
         },
         {
             "type": "Body",
+            "hint": "The Great Sigmascape",
+            "items": [
+                {
+                    "name": "Carborundum Armor of Fending"
+                },
+                {
+                    "name": "Carborundum Armor of Maiming"
+                },
+                {
+                    "name": "Carborundum Armor of Scouting"
+                },
+                {
+                    "name": "Carborundum Armor of Striking"
+                },
+                {
+                    "name": "Carborundum Coat Of Aiming"
+                },
+                {
+                    "name": "Carborundum Robe Of Casting"
+                },
+                {
+                    "name": "Carborundum Robe Of Healing"
+                },
+                {
+                    "name": "Diamond Armor of Fending"
+                },
+                {
+                    "name": "Diamond Armor of Maiming"
+                },
+                {
+                    "name": "Diamond Armor of Scouting"
+                },
+                {
+                    "name": "Diamond Armor of Striking"
+                },
+                {
+                    "name": "Diamond Coat Of Aiming"
+                },
+                {
+                    "name": "Diamond Robe Of Casting"
+                },
+                {
+                    "name": "Diamond Robe Of Healing"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "The Outlaw",
             "items": [
                 {
@@ -6743,6 +6791,54 @@
         },
         {
             "type": "Legs",
+            "hint": "The Great Sigmascape",
+            "items": [
+                {
+                    "name": "Carborundum Trousers Of Aiming"
+                },
+                {
+                    "name": "Carborundum Trousers Of Casting"
+                },
+                {
+                    "name": "Carborundum Trousers Of Fending"
+                },
+                {
+                    "name": "Carborundum Trousers Of Healing"
+                },
+                {
+                    "name": "Carborundum Trousers Of Maiming"
+                },
+                {
+                    "name": "Carborundum Trousers Of Scouting"
+                },
+                {
+                    "name": "Carborundum Trousers Of Striking"
+                },
+                {
+                    "name": "Diamond Trousers Of Aiming"
+                },
+                {
+                    "name": "Diamond Trousers Of Casting"
+                },
+                {
+                    "name": "Diamond Trousers Of Fending"
+                },
+                {
+                    "name": "Diamond Trousers Of Healing"
+                },
+                {
+                    "name": "Diamond Trousers Of Maiming"
+                },
+                {
+                    "name": "Diamond Trousers Of Scouting"
+                },
+                {
+                    "name": "Diamond Trousers Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "The Tale Of Genji",
             "items": [
                 {
@@ -7634,6 +7730,54 @@
         },
         {
             "type": "Feet",
+            "hint": "Omega Ornamentation",
+            "items": [
+                {
+                    "name": "Omega Boots of Aiming"
+                },
+                {
+                    "name": "Omega Boots of Scouting"
+                },
+                {
+                    "name": "Omega Shoes Of Casting"
+                },
+                {
+                    "name": "Omega Shoes Of Fending"
+                },
+                {
+                    "name": "Omega Shoes Of Healing"
+                },
+                {
+                    "name": "Omega Shoes Of Maiming"
+                },
+                {
+                    "name": "Omega Shoes Of Striking"
+                },
+                {
+                    "name": "Omicron Boots Of Aiming"
+                },
+                {
+                    "name": "Omicron Boots Of Scouting"
+                },
+                {
+                    "name": "Omicron Shoes Of Casting"
+                },
+                {
+                    "name": "Omicron Shoes Of Fending"
+                },
+                {
+                    "name": "Omicron Shoes Of Healing"
+                },
+                {
+                    "name": "Omicron Shoes Of Maiming"
+                },
+                {
+                    "name": "Omicron Shoes Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
             "hint": "On Ceremony",
             "items": [
                 {
@@ -7941,6 +8085,27 @@
                 },
                 {
                     "name": "Carborundum Greaves Of Maiming"
+                },
+                {
+                    "name": "Diamond Boots Of Aiming"
+                },
+                {
+                    "name": "Diamond Boots Of Casting"
+                },
+                {
+                    "name": "Diamond Boots Of Healing"
+                },
+                {
+                    "name": "Diamond Boots Of Scouting"
+                },
+                {
+                    "name": "Diamond Boots Of Striking"
+                },
+                {
+                    "name": "Diamond Greaves Of Fending"
+                },
+                {
+                    "name": "Diamond Greaves Of Maiming"
                 }
             ]
         },
