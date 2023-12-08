@@ -15695,6 +15695,29 @@
                     "hint": "Jewels Of Black"
                 }
             ]
+        },
+        {
+            "week": 306,
+            "date": "2023-12-08",
+            "theme": "Diamonds Are Unbreakable",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "The Great Sigmascape"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "The Conqueror"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "The Great Sigmascape"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Omega Ornamentation"
+                }
+            ]
         }
     ]
 }
