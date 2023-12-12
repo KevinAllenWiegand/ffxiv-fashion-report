@@ -15883,6 +15883,29 @@
                     "hint": "Omega Ornamentation"
                 }
             ]
+        },
+        {
+            "week": 307,
+            "date": "2023-12-15",
+            "theme": "Beast By Starlight",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "A \"Bone\" To Pick"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Coiled Finally"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In Sheep's Clothing"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Veteran Of War"
+                }
+            ]
         }
     ]
 }
