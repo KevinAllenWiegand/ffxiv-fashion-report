@@ -1067,7 +1067,7 @@
         },
         {
             "type": "Head",
-            "hint": "Pocketful O' Pansies",
+            "hint": "Pocketfull O' Pansies",
             "items": [
                 {
                     "name": "Black Viola Corsage"
@@ -1095,15 +1095,6 @@
                 },
                 {
                     "name": "Yellow Viola Corsage"
-                }
-            ]
-        },
-        {
-            "type": "Head",
-            "hint": "Pocketfull o' Pansies",
-            "items": [
-                {
-                    "name": "Any Viola Corsage"
                 }
             ]
         },
@@ -11333,7 +11324,7 @@
             "slots": [
                 {
                     "type": "Head",
-                    "hint": "Pocketfull o' Pansies"
+                    "hint": "Pocketfull O' Pansies"
                 },
                 {
                     "type": "Body",
@@ -12023,7 +12014,7 @@
             "slots": [
                 {
                     "type": "Head",
-                    "hint": "Pocketfull o' Pansies"
+                    "hint": "Pocketfull O' Pansies"
                 },
                 {
                     "type": "Body",
@@ -15454,7 +15445,7 @@
             "slots": [
                 {
                     "type": "Head",
-                    "hint": "Pocketful O' Pansies"
+                    "hint": "Pocketfull O' Pansies"
                 },
                 {
                     "type": "Legs",
