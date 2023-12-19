@@ -1509,6 +1509,9 @@
                 },
                 {
                     "name": "Saint's Cap"
+                },
+                {
+                    "name": "Unorthodox Saint's Cap"
                 }
             ]
         },
@@ -1533,6 +1536,9 @@
                 },
                 {
                     "name": "Starlight Sugerloaf Hat"
+                },
+                {
+                    "name": "Unorthodox Saint's Cap"
                 }
             ]
         },
@@ -3786,6 +3792,9 @@
                 },
                 {
                     "name": "Starlight Tunic"
+                },
+                {
+                    "name": "Unorthodox Saint's Halfrobe"
                 },
                 {
                     "name": "Winter Sweater"
@@ -8184,6 +8193,9 @@
                 },
                 {
                     "name": "Highland Boots"
+                },
+                {
+                    "name": "Unorthodox Saint's Longboots"
                 }
             ]
         },
@@ -15895,6 +15907,29 @@
                 {
                     "type": "Ring",
                     "hint": "Veteran Of War"
+                }
+            ]
+        },
+        {
+            "week": 308,
+            "date": "2023-12-22",
+            "theme": "Bearded Saint",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Wild Whiskers"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Winter Wonderland"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "In Sheep's Clothing"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Winter Wonderland"
                 }
             ]
         }
