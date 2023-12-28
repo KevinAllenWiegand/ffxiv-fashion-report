@@ -15920,6 +15920,29 @@
                     "hint": "Winter Wonderland"
                 }
             ]
+        },
+        {
+            "week": 309,
+            "date": "2023-12-29",
+            "theme": "Flowery Fighter",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Flower Power"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Bloodsands"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Flap In Front"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Fashion Bandit"
+                }
+            ]
         }
     ]
 }
