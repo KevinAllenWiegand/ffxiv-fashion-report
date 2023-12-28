@@ -572,7 +572,31 @@
             "hint": "Flower Power",
             "items": [
                 {
-                    "name": "Any Hyacinth Corsage"
+                    "name": "Black Hyacinth Corsage"
+                },
+                {
+                    "name": "Blue Hyacinth Corsage"
+                },
+                {
+                    "name": "Green Hyacinth Corsage"
+                },
+                {
+                    "name": "Orange Hyacinth Corsage"
+                },
+                {
+                    "name": "Purple Hyacinth Corsage"
+                },
+                {
+                    "name": "Rainbow Hyacinth Corsage"
+                },
+                {
+                    "name": "Red Hyacinth Corsage"
+                },
+                {
+                    "name": "White Hyacinth Corsage"
+                },
+                {
+                    "name": "Yellow Hyacinth Corsage"
                 }
             ]
         },
