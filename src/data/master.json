@@ -15967,6 +15967,29 @@
                     "hint": "Fashion Bandit"
                 }
             ]
+        },
+        {
+            "week": 310,
+            "date": "2024-01-05",
+            "theme": "Steadfast Sheriff",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Up A Long Sleeve"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Robed In Resistance"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In The \"Fold\""
+                }
+            ]
         }
     ]
 }
