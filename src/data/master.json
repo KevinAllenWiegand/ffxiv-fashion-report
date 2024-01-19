@@ -7535,6 +7535,30 @@
         },
         {
             "type": "Feet",
+            "hint": "Fur And Fluff",
+            "items": [
+                {
+                    "name": "Fighter's Jackboots"
+                },
+                {
+                    "name": "Fur-Lined Dhalmelskin Boots"
+                },
+                {
+                    "name": "Fur-Lined Saurian Boots"
+                },
+                {
+                    "name": "Glacial Boots"
+                },
+                {
+                    "name": "Highland Boots"
+                },
+                {
+                    "name": "Reindeer Hooves"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
             "hint": "I Believe In Magic",
             "items": [
                 {
@@ -15965,6 +15989,52 @@
                 {
                     "type": "Feet",
                     "hint": "Fashion Bandit"
+                }
+            ]
+        },
+        {
+            "week": 310,
+            "date": "2024-01-05",
+            "theme": "A True Lineninja",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "To Chains"
+                },
+                {
+                    "type": "Body",
+                    "hint": "True Linen"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Suddenly Sarouels"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "The Creator"
+                }
+            ]
+        },
+        {
+            "week": 311,
+            "date": "2024-01-12",
+            "theme": "Moneymaker's Masquerade",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "NieR And Far"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Autumn Chill"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "More Beast Than Man"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Fur And Fluff"
                 }
             ]
         }
