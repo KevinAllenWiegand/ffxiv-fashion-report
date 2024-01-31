@@ -16060,6 +16060,29 @@
                     "hint": "Fur And Fluff"
                 }
             ]
+        },
+        {
+            "week": 313,
+            "date": "2024-01-26",
+            "theme": "Active Citizen",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Smallfolk"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "You're So Whisperfine"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "I Believe In Magic"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "The Coil That Binds"
+                }
+            ]
         }
     ]
 }
