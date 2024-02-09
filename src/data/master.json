@@ -16124,6 +16124,29 @@
                     "hint": "Allagan Attack"
                 }
             ]
+        },
+        {
+            "week": 315,
+            "date": "2024-02-09",
+            "theme": "New World Harvester",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "The Great Sigmascape"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Go West"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Cast Your Culottes"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Skirts Of A Feather"
+                }
+            ]
         }
     ]
 }
