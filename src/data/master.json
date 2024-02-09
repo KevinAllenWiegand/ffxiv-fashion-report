@@ -203,6 +203,24 @@
         },
         {
             "type": "Head",
+            "hint": "Behorned",
+            "items": [
+                {
+                    "name": "Arch Demon Horns"
+                },
+                {
+                    "name": "Archaeodemon Horns"
+                },
+                {
+                    "name": "Catoblepas Horns"
+                },
+                {
+                    "name": "Succubus Horns"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Bird Brain",
             "items": [
                 {
@@ -16081,6 +16099,29 @@
                 {
                     "type": "Ring",
                     "hint": "The Coil That Binds"
+                }
+            ]
+        },
+        {
+            "week": 314,
+            "date": "2024-02-02",
+            "theme": "Spotted Demon",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Behorned"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Tooth And \"Nail\""
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Leaping Leopards"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Allagan Attack"
                 }
             ]
         }
