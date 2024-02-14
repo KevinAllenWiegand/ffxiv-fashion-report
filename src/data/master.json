@@ -1334,6 +1334,54 @@
         },
         {
             "type": "Head",
+            "hint": "The Great Sigmascape",
+            "items": [
+                {
+                    "name": "Carborundum Bandana Of Scouting"
+                },
+                {
+                    "name": "Carborundum Bandana Of Striking"
+                },
+                {
+                    "name": "Carborundum Circlet Of Fending"
+                },
+                {
+                    "name": "Carborundum Circlet Of Healing"
+                },
+                {
+                    "name": "Carborundum Hat Of Casting"
+                },
+                {
+                    "name": "Carborundum Helm Of Aiming"
+                },
+                {
+                    "name": "Carborundum Helm Of Maiming"
+                },
+                {
+                    "name": "Diamond Bandana Of Scouting"
+                },
+                {
+                    "name": "Diamond Bandana Of Striking"
+                },
+                {
+                    "name": "Diamond Circlet Of Fending"
+                },
+                {
+                    "name": "Diamond Circlet Of Healing"
+                },
+                {
+                    "name": "Diamond Hat Of Casting"
+                },
+                {
+                    "name": "Diamond Helm Of Aiming"
+                },
+                {
+                    "name": "Diamond Helm Of Maiming"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "The Last Straw",
             "items": [
                 {
