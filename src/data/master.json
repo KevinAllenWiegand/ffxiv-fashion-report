@@ -16195,6 +16195,29 @@
                     "hint": "Skirts Of A Feather"
                 }
             ]
+        },
+        {
+            "week": 316,
+            "date": "2024-02-16",
+            "theme": "Sharp Shooter",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Son Of A Gun"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Primal Revival"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Pumped Up Kecks"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Fashionably Late Allagan"
+                }
+            ]
         }
     ]
 }
