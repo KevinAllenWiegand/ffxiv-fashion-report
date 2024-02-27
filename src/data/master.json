@@ -7667,6 +7667,33 @@
         },
         {
             "type": "Feet",
+            "hint": "Imperial Couture",
+            "items": [
+                {
+                    "name": "Imperial Boots Of Aiming"
+                },
+                {
+                    "name": "Imperial Boots Of Casting"
+                },
+                {
+                    "name": "Imperial Boots Of Fending"
+                },
+                {
+                    "name": "Imperial Boots Of Healing"
+                },
+                {
+                    "name": "Imperial Boots Of Maiming"
+                },
+                {
+                    "name": "Imperial Boots Of Scouting"
+                },
+                {
+                    "name": "Imperial Boots Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
             "hint": "In Sheep's Clothing",
             "items": [
                 {
@@ -16237,6 +16264,29 @@
                 {
                     "type": "Feet",
                     "hint": "Fashionably Late Allagan"
+                }
+            ]
+        },
+        {
+            "week": 317,
+            "date": "2024-02-23",
+            "theme": "Outlaw Explorer",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "To Adventure"
+                },
+                {
+                    "type": "Body",
+                    "hint": "The Outlaw"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Tip O' The Arhat"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Imperial Couture"
                 }
             ]
         }
