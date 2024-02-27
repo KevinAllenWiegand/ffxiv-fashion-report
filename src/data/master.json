@@ -16289,6 +16289,29 @@
                     "hint": "Imperial Couture"
                 }
             ]
+        },
+        {
+            "week": 318,
+            "date": "2024-03-01",
+            "theme": "Tundra Cowboy",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Imperial Couture"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Superbly Spiked"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Fringed And Footloose"
+                }
+            ]
         }
     ]
 }
