@@ -923,6 +923,18 @@
         },
         {
             "type": "Head",
+            "hint": "Monster Hunt",
+            "items": [
+                {
+                    "name": "Augmented Rathalos Helm"
+                },
+                {
+                    "name": "Rathalos Helm"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Moon Unit",
             "items": [
                 {
@@ -2622,6 +2634,18 @@
                 },
                 {
                     "name": "Urban Coat"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "Monster Hunt",
+            "items": [
+                {
+                    "name": "Augmented Rathalos Mail"
+                },
+                {
+                    "name": "Rathalos Mail"
                 }
             ]
         },
@@ -7833,6 +7857,18 @@
                 },
                 {
                     "name": "Wolf Moccasins"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
+            "hint": "Monster Hunt",
+            "items": [
+                {
+                    "name": "Augmented Rathalos Greaves"
+                },
+                {
+                    "name": "Rathalos Greaves"
                 }
             ]
         },
@@ -16310,6 +16346,29 @@
                 {
                     "type": "Feet",
                     "hint": "Fringed And Footloose"
+                }
+            ]
+        },
+        {
+            "week": 319,
+            "date": "2024-03-08",
+            "theme": "Twenty-Year Hunter",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Monster Hunt"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Monster Hunt"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Pirates In The Sky"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Monster Hunt"
                 }
             ]
         }
