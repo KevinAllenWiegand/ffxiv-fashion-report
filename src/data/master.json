@@ -1103,6 +1103,15 @@
         },
         {
             "type": "Head",
+            "hint": "Noir",
+            "items": [
+                {
+                    "name": "Noir Hat"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Off To War",
             "items": [
                 {
@@ -2784,6 +2793,15 @@
                 },
                 {
                     "name": "The Best Gown Ever"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "Noir",
+            "items": [
+                {
+                    "name": "Noir Longcoat"
                 }
             ]
         },
@@ -16369,6 +16387,29 @@
                 {
                     "type": "Feet",
                     "hint": "Monster Hunt"
+                }
+            ]
+        },
+        {
+            "week": 320,
+            "date": "2024-03-15",
+            "theme": "Formal Mobster",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Noir"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Noir"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Fresh And Formal"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Dressed For Success"
                 }
             ]
         }
