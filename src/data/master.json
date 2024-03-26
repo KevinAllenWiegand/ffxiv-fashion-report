@@ -8348,25 +8348,25 @@
             "hint": "Tip O' The Arhat",
             "items": [
                 {
-                    "name": "Arhat Kyanhan Of Aiming"
+                    "name": "Arhat Kyahan Of Aiming"
                 },
                 {
-                    "name": "Arhat Kyanhan Of Casting"
+                    "name": "Arhat Kyahan Of Casting"
                 },
                 {
-                    "name": "Arhat Kyanhan Of Fending"
+                    "name": "Arhat Kyahan Of Fending"
                 },
                 {
-                    "name": "Arhat Kyanhan Of Healing"
+                    "name": "Arhat Kyahan Of Healing"
                 },
                 {
-                    "name": "Arhat Kyanhan Of Maiming"
+                    "name": "Arhat Kyahan Of Maiming"
                 },
                 {
-                    "name": "Arhat Kyanhan Of Scouting"
+                    "name": "Arhat Kyahan Of Scouting"
                 },
                 {
-                    "name": "Arhat Kyanhan Of Striking"
+                    "name": "Arhat Kyahan Of Striking"
                 }
             ]
         },
@@ -16410,6 +16410,29 @@
                 {
                     "type": "Feet",
                     "hint": "Dressed For Success"
+                }
+            ]
+        },
+        {
+            "week": 321,
+            "date": "2024-03-22",
+            "theme": "From East To West, Then Till Now",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Keeping It Casual"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Fashionably Late Allagan"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Go West"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Tip O' The Arhat"
                 }
             ]
         }
