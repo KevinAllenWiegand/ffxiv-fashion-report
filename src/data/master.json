@@ -1598,6 +1598,15 @@
         },
         {
             "type": "Head",
+            "hint": "Traveling Dawn",
+            "items": [
+                {
+                    "name": "Scion Traveler's Mask"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Wild Whiskers",
             "items": [
                 {
@@ -3681,6 +3690,15 @@
                 },
                 {
                     "name": "Scion Adventurer's Jacket"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "Traveling Dawn",
+            "items": [
+                {
+                    "name": "Scion Traveler's Jacket"
                 }
             ]
         },
@@ -9384,6 +9402,24 @@
                 },
                 {
                     "name": "Wolf Amber Bracelet"
+                }
+            ]
+        },
+        {
+            "type": "Wrist",
+            "hint": "Leather",
+            "items": [
+                {
+                    "name": "Boarskin Wristbands"
+                },
+                {
+                    "name": "Goatskin Wristbands"
+                },
+                {
+                    "name": "Hard Leather Wristbands"
+                },
+                {
+                    "name": "Leather Wristbands"
                 }
             ]
         },
@@ -16433,6 +16469,52 @@
                 {
                     "type": "Feet",
                     "hint": "Tip O' The Arhat"
+                }
+            ]
+        },
+        {
+            "week": 322,
+            "date": "2024-03-29",
+            "theme": "Traveler In Black",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Traveling Dawn"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Traveling Dawn"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "\"Ala\" Carte"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Tight And Long"
+                }
+            ]
+        },
+        {
+            "week": 323,
+            "date": "2024-04-05",
+            "theme": "Primal Beast",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Animal Instincts"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Leaping Leopards"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Primal Revival"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Leather"
                 }
             ]
         }
