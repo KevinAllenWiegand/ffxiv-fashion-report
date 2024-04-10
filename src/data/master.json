@@ -16517,6 +16517,29 @@
                     "hint": "Leather"
                 }
             ]
+        },
+        {
+            "week": 324,
+            "date": "2024-04-12",
+            "theme": "Pointed Pixie",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Sugarloaf Sweet"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Rocking Ribbons"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Too Legit"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Leather Underfoot"
+                }
+            ]
         }
     ]
 }
