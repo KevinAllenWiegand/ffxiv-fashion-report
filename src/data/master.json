@@ -4982,6 +4982,54 @@
         },
         {
             "type": "Hands",
+            "hint": "The Great Sigmascape",
+            "items": [
+                {
+                    "name": "Carborundum Gauntlets of Fending"
+                },
+                {
+                    "name": "Carborundum Gauntlets of Maiming"
+                },
+                {
+                    "name": "Carborundum Gauntlets of Scouting"
+                },
+                {
+                    "name": "Carborundum Gauntlets of Striking"
+                },
+                {
+                    "name": "Carborundum Gauntlets Of Aiming"
+                },
+                {
+                    "name": "Carborundum Gloves Of Casting"
+                },
+                {
+                    "name": "Carborundum Gloves Of Healing"
+                },
+                {
+                    "name": "Diamond Gauntlets of Fending"
+                },
+                {
+                    "name": "Diamond Gauntlets of Maiming"
+                },
+                {
+                    "name": "Diamond Gauntlets of Scouting"
+                },
+                {
+                    "name": "Diamond Gauntlets of Striking"
+                },
+                {
+                    "name": "Diamond Gauntlets Of Aiming"
+                },
+                {
+                    "name": "Diamond Gloves Of Casting"
+                },
+                {
+                    "name": "Diamond Gloves Of Healing"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
             "hint": "Tip O' The Arhat",
             "items": [
                 {
@@ -16561,6 +16609,29 @@
                 {
                     "type": "Feet",
                     "hint": "Shod With Sandals"
+                }
+            ]
+        },
+        {
+            "week": 326,
+            "date": "2024-04-26",
+            "theme": "Pantheran Pirate",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Leaping Leopards"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Shivering Timbers"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "The Great Sigmascape"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Short Shorts"
                 }
             ]
         }
