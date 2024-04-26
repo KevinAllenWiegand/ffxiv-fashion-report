@@ -16540,6 +16540,29 @@
                     "hint": "Leather Underfoot"
                 }
             ]
+        },
+        {
+            "week": 325,
+            "date": "2024-04-19",
+            "theme": "Dueling Spectacle",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "A True \"Spectacle\""
+                },
+                {
+                    "type": "Body",
+                    "hint": "Dueling Duelist"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Keeping It Casual"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Shod With Sandals"
+                }
+            ]
         }
     ]
 }
