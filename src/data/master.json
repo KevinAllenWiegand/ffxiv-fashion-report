@@ -16634,6 +16634,29 @@
                     "hint": "Short Shorts"
                 }
             ]
+        },
+        {
+            "week": 327,
+            "date": "2024-05-03",
+            "theme": "Booted Bookworm",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Bookworm"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Smitten With Mittens"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Tight And Long"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "The Creator"
+                }
+            ]
         }
     ]
 }
