@@ -1355,6 +1355,36 @@
         },
         {
             "type": "Head",
+            "hint": "Sweet Sakura",
+            "items": [
+                {
+                    "name": "Black Cherry Blossom Corsage"
+                },
+                {
+                    "name": "Blue Cherry Blossom Corsage"
+                },
+                {
+                    "name": "Green Cherry Blossom Corsage"
+                },
+                {
+                    "name": "Orange Cherry Blossom Corsage"
+                },
+                {
+                    "name": "Pink Cherry Blossom Corsage"
+                },
+                {
+                    "name": "Purple Cherry Blossom Corsage"
+                },
+                {
+                    "name": "White Cherry Blossom Corsage"
+                },
+                {
+                    "name": "Yellow Cherry Blossom Corsage"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "The Great Sigmascape",
             "items": [
                 {
@@ -2412,6 +2442,54 @@
                 },
                 {
                     "name": "Late Allagan Coat Of Healing"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "Floral Delight",
+            "items": [
+                {
+                    "name": "Ao Dai"
+                },
+                {
+                    "name": "Darkhempen Coat Of Casting"
+                },
+                {
+                    "name": "Darkhempen Coat Of Healing"
+                },
+                {
+                    "name": "Isle Vacationer's Tie-front Shirt"
+                },
+                {
+                    "name": "Shisui Joi Of Aiming"
+                },
+                {
+                    "name": "Shisui Joi Of Casting"
+                },
+                {
+                    "name": "Shisui Joi Of Fending"
+                },
+                {
+                    "name": "Shisui Joi Of Healing"
+                },
+                {
+                    "name": "Shisui Joi Of Maiming"
+                },
+                {
+                    "name": "Shisui Joi Of Scouting"
+                },
+                {
+                    "name": "Shisui Joi Of Striking"
+                },
+                {
+                    "name": "Southern Seas Shirt"
+                },
+                {
+                    "name": "Spring Dress"
+                },
+                {
+                    "name": "Yakaku Dogi"
                 }
             ]
         },
@@ -5621,6 +5699,42 @@
         },
         {
             "type": "Legs",
+            "hint": "Floral Delight",
+            "items": [
+                {
+                    "name": "Antiquated Tantra Galligaskins"
+                },
+                {
+                    "name": "Eastern Socialite's Skirt"
+                },
+                {
+                    "name": "Endless Summer Bottom"
+                },
+                {
+                    "name": "Isle Farmhand's Cutoffs"
+                },
+                {
+                    "name": "Shisui Kohakama Of Healing"
+                },
+                {
+                    "name": "Shisui Kohakama Of Scouting"
+                },
+                {
+                    "name": "Shisui Kohakama Of Striking"
+                },
+                {
+                    "name": "Summer's Flame Pareo"
+                },
+                {
+                    "name": "Tantra Galligaskins"
+                },
+                {
+                    "name": "Yakaku Koshita"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "Flutterbye",
             "items": [
                 {
@@ -8520,6 +8634,39 @@
             "items": [
                 {
                     "name": "Any Lakshmi's Earrings"
+                }
+            ]
+        },
+        {
+            "type": "Ear",
+            "hint": "Carnation Celebration",
+            "items": [
+                {
+                    "name": "Black Carnation Earring"
+                },
+                {
+                    "name": "Blue Carnation Earring"
+                },
+                {
+                    "name": "Green Carnation Earring"
+                },
+                {
+                    "name": "Orange Carnation Earring"
+                },
+                {
+                    "name": "Purple Carnation Earring"
+                },
+                {
+                    "name": "Rainbow Carnation Earring"
+                },
+                {
+                    "name": "Red Carnation Earring"
+                },
+                {
+                    "name": "White Carnation Earring"
+                },
+                {
+                    "name": "Yellow Carnation Earring"
                 }
             ]
         },
@@ -16655,6 +16802,29 @@
                 {
                     "type": "Neck",
                     "hint": "The Creator"
+                }
+            ]
+        },
+        {
+            "week": 328,
+            "date": "2024-05-10",
+            "theme": "In Full Flower",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Sweet Sakura"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Floral Delight"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Floral Delight"
+                },
+                {
+                    "type": "Ear",
+                    "hint": "Carnation Celebration"
                 }
             ]
         }
