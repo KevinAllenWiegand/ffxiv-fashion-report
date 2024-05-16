@@ -16827,6 +16827,29 @@
                     "hint": "Carnation Celebration"
                 }
             ]
+        },
+        {
+            "week": 329,
+            "date": "2024-05-17",
+            "theme": "Draped For The Storm",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "To Chains"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Drapes Of Wrath"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Storm Of Blood"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Armored Core"
+                }
+            ]
         }
     ]
 }
