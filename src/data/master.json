@@ -710,7 +710,31 @@
             "hint": "Healing Lilies",
             "items": [
                 {
-                    "name": "Any Brightlilly Corsage"
+                    "name": "Black Brightlily Corsage"
+                },
+                {
+                    "name": "Blue Brightlily Corsage"
+                },
+                {
+                    "name": "Green Brightlily Corsage"
+                },
+                {
+                    "name": "Orange Brightlily Corsage"
+                },
+                {
+                    "name": "Purple Brightlily Corsage"
+                },
+                {
+                    "name": "Rainbow Brightlily Corsage"
+                },
+                {
+                    "name": "Red Brightlily Corsage"
+                },
+                {
+                    "name": "White Brightlily Corsage"
+                },
+                {
+                    "name": "Yellow Brightlily Corsage"
                 }
             ]
         },
@@ -16848,6 +16872,29 @@
                 {
                     "type": "Feet",
                     "hint": "Armored Core"
+                }
+            ]
+        },
+        {
+            "week": 330,
+            "date": "2024-05-24",
+            "theme": "Suited To Slacking",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Healing Lilies"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Well-Suited"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Rest & Relaxation"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Skirts Of A Feather"
                 }
             ]
         }
