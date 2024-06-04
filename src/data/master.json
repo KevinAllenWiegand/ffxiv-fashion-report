@@ -16920,6 +16920,29 @@
                     "hint": "Cute As A Button"
                 }
             ]
+        },
+        {
+            "week": 332,
+            "date": "2024-06-07",
+            "theme": "Jousting Gentleman",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Silken Things"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Weird Science"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Skirts Of A Feather"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Armored Core"
+                }
+            ]
         }
     ]
 }
