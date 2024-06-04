@@ -16897,6 +16897,29 @@
                     "hint": "Skirts Of A Feather"
                 }
             ]
+        },
+        {
+            "week": 331,
+            "date": "2024-05-31",
+            "theme": "Weekend Warden",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Guardian's Garb"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Devil In Denim"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Ride The Tides"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Cute As A Button"
+                }
+            ]
         }
     ]
 }
