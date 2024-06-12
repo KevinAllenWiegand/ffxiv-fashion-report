@@ -1055,6 +1055,24 @@
         },
         {
             "type": "Head",
+            "hint": "Near Eastern Nights",
+            "items": [
+                {
+                    "name": "Serge Turban Of Crafting"
+                },
+                {
+                    "name": "Serge Turban Of Gathering"
+                },
+                {
+                    "name": "Thavnairian Headdress"
+                },
+                {
+                    "name": "Thavnairian Turban"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "NieR And Far",
             "items": [
                 {
@@ -8717,7 +8735,19 @@
             "hint": "Coiled Secondly",
             "items": [
                 {
-                    "name": "Any High Allagan Earrings"
+                    "name": "High Allagan Earrings Aiming"
+                },
+                {
+                    "name": "High Allagan Earrings Casting"
+                },
+                {
+                    "name": "High Allagan Earrings Fending"
+                },
+                {
+                    "name": "High Allagan Earrings Healing"
+                },
+                {
+                    "name": "High Allagan Earrings Slaying"
                 }
             ]
         },
@@ -9086,7 +9116,19 @@
             "hint": "Coiled Secondly",
             "items": [
                 {
-                    "name": "Any High Allagan Choker"
+                    "name": "High Allagan Choker Aiming"
+                },
+                {
+                    "name": "High Allagan Choker Casting"
+                },
+                {
+                    "name": "High Allagan Choker Fending"
+                },
+                {
+                    "name": "High Allagan Choker Healing"
+                },
+                {
+                    "name": "High Allagan Choker Slaying"
                 }
             ]
         },
@@ -9428,7 +9470,19 @@
             "hint": "Coiled Secondly",
             "items": [
                 {
-                    "name": "Any High Allagan Bracelets"
+                    "name": "High Allagan Bracelets Aiming"
+                },
+                {
+                    "name": "High Allagan Bracelets Casting"
+                },
+                {
+                    "name": "High Allagan Bracelets Fending"
+                },
+                {
+                    "name": "High Allagan Bracelets Healing"
+                },
+                {
+                    "name": "High Allagan Bracelets Slaying"
                 }
             ]
         },
@@ -9807,6 +9861,27 @@
                 },
                 {
                     "name": "Platinum Ring Of Slaying"
+                }
+            ]
+        },
+        {
+            "type": "Ring",
+            "hint": "Coiled Secondly",
+            "items": [
+                {
+                    "name": "High Allagan Ring Aiming"
+                },
+                {
+                    "name": "High Allagan Ring Casting"
+                },
+                {
+                    "name": "High Allagan Ring Fending"
+                },
+                {
+                    "name": "High Allagan Ring Healing"
+                },
+                {
+                    "name": "High Allagan Ring Slaying"
                 }
             ]
         },
@@ -16950,6 +17025,29 @@
                 {
                     "type": "Feet",
                     "hint": "Armored Core"
+                }
+            ]
+        },
+        {
+            "week": 333,
+            "date": "2024-06-14",
+            "theme": "Near Eastern Cute Campaign",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Near Eastern Nights"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Robed In Resistance"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Cute As A Button"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Coiled Secondly"
                 }
             ]
         }
