@@ -1340,10 +1340,10 @@
                     "name": "Evenstar Hat"
                 },
                 {
-                    "name": "Plague Bringer's Hat"
+                    "name": "Plague Bringer's Mask"
                 },
                 {
-                    "name": "Plague Doctor's Hat"
+                    "name": "Plague Doctor's Mask"
                 },
                 {
                     "name": "Royal Seneschai's Chapeau"
@@ -9320,7 +9320,19 @@
                     "name": "Amber Choker"
                 },
                 {
-                    "name": "Any Augmented Ironworks Choker"
+                    "name": "Augmented Ironworks Choker Of Aiming"
+                },
+                {
+                    "name": "Augmented Ironworks Choker Of Casting"
+                },
+                {
+                    "name": "Augmented Ironworks Choker Of Fending"
+                },
+                {
+                    "name": "Augmented Ironworks Choker Of Healing"
+                },
+                {
+                    "name": "Augmented Ironworks Choker Of Slaying"
                 },
                 {
                     "name": "Helidor Choker"
@@ -10109,10 +10121,19 @@
                     "name": "Amber Ring"
                 },
                 {
-                    "name": "Any Augmented Ironworks Ring"
+                    "name": "Augmented Ironworks Ring Of Aiming"
                 },
                 {
-                    "name": "Any Triphane Ring"
+                    "name": "Augmented Ironworks Ring Of Casting"
+                },
+                {
+                    "name": "Augmented Ironworks Ring Of Fending"
+                },
+                {
+                    "name": "Augmented Ironworks Ring Of Healing"
+                },
+                {
+                    "name": "Augmented Ironworks Ring Of Slaying"
                 },
                 {
                     "name": "Darklight Band Of Fending"
@@ -10143,6 +10164,21 @@
                 },
                 {
                     "name": "Topaz Ring"
+                },
+                {
+                    "name": "Triphane Ring Of Aiming"
+                },
+                {
+                    "name": "Triphane Ring Of Casting"
+                },
+                {
+                    "name": "Triphane Ring Of Fending"
+                },
+                {
+                    "name": "Triphane Ring Of Healing"
+                },
+                {
+                    "name": "Triphane Ring Of Slaying"
                 },
                 {
                     "name": "Wolf Amber Ring"
