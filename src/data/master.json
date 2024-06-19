@@ -17050,6 +17050,29 @@
                     "hint": "Coiled Secondly"
                 }
             ]
+        },
+        {
+            "week": 334,
+            "date": "2024-06-21",
+            "theme": "Jester On The Job",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Restoration Regalia"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Motley Crew"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Dueling Duelist"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Jewels Of Yellow"
+                }
+            ]
         }
     ]
 }
