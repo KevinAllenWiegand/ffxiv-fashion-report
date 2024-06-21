@@ -4799,6 +4799,12 @@
             "hint": "Motley Crew",
             "items": [
                 {
+                    "name": "Claws Of The Beast"
+                },
+                {
+                    "name": "Clown's Shortgloves"
+                },
+                {
                     "name": "Dragonskin Gloves Of Aiming"
                 },
                 {
@@ -4806,6 +4812,9 @@
                 },
                 {
                     "name": "Dragonskin Gloves Of Healing"
+                },
+                {
+                    "name": "Evenstar Gloves"
                 },
                 {
                     "name": "Shikaree's Gloves"
