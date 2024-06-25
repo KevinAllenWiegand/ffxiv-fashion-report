@@ -2573,6 +2573,90 @@
         },
         {
             "type": "Body",
+            "hint": "Going Garo",
+            "items": [
+                {
+                    "name": "Common Makai Manhandler's Jerkin"
+                },
+                {
+                    "name": "Common Makai Marksman's Battlegarb"
+                },
+                {
+                    "name": "Common Makai Markswoman's Battledress"
+                },
+                {
+                    "name": "Common Makai Mauler's Oilskin"
+                },
+                {
+                    "name": "Makai Harbinger's Battlegarb"
+                },
+                {
+                    "name": "Makai Harrower's Jerkin"
+                },
+                {
+                    "name": "Makai Manhandler's Jerkin"
+                },
+                {
+                    "name": "Makai Marksman's Battlegarb"
+                },
+                {
+                    "name": "Makai Markswoman's Battledress"
+                },
+                {
+                    "name": "Makai Mauler's Oilskin"
+                },
+                {
+                    "name": "Makai Moon Guide's Gown"
+                },
+                {
+                    "name": "Makai Priest's Doublet Robe"
+                },
+                {
+                    "name": "Makai Priestess's Jerkin"
+                },
+                {
+                    "name": "Makai Sun Guide's Oilskin"
+                },
+                {
+                    "name": "Makai Vanbreaker's Battledress"
+                },
+                {
+                    "name": "Makai Vanguard's Battlegarb"
+                },
+                {
+                    "name": "Tarnished Body Of Pressing Darkness"
+                },
+                {
+                    "name": "Tarnished Body Of The Golden Wolf"
+                },
+                {
+                    "name": "Tarnished Body Of The Silver Wolf"
+                },
+                {
+                    "name": "Tarnished Body Of The White Night"
+                },
+                {
+                    "name": "Tarnished Body Of Undying Twilight"
+                },
+                {
+                    "name": "The Body Of Pressing Darkness"
+                },
+                {
+                    "name": "The Body Of The Golden Wolf"
+                },
+                {
+                    "name": "The Body Of The Silver Wolf"
+                },
+                {
+                    "name": "The Body Of The White Night"
+                },
+                {
+                    "name": "The Body Of Undying Twilight"
+                }
+            ]
+        },
+        {
+            "type": "Body",
             "hint": "Guardian's Garb",
             "items": [
                 {
@@ -17116,6 +17200,29 @@
                 {
                     "type": "Neck",
                     "hint": "Jewels Of Yellow"
+                }
+            ]
+        },
+        {
+            "week": 335,
+            "date": "2024-06-28",
+            "theme": "Fist Of Garo",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Going Garo"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Iron Fist"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Too Cool"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Jewels Of White"
                 }
             ]
         }
