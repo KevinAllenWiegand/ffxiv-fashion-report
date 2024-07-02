@@ -4739,6 +4739,33 @@
         },
         {
             "type": "Hands",
+            "hint": "Imperial Couture",
+            "items": [
+                {
+                    "name": "Imperial Gloves Of Aiming"
+                },
+                {
+                    "name": "Imperial Gloves Of Casting"
+                },
+                {
+                    "name": "Imperial Gloves Of Fending"
+                },
+                {
+                    "name": "Imperial Gloves Of Healing"
+                },
+                {
+                    "name": "Imperial Gloves Of Maiming"
+                },
+                {
+                    "name": "Imperial Gloves Of Scouting"
+                },
+                {
+                    "name": "Imperial Gloves Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
             "hint": "In Sheep's Clothing",
             "items": [
                 {
@@ -17238,6 +17265,29 @@
                 {
                     "type": "Ring",
                     "hint": "Jewels Of White"
+                }
+            ]
+        },
+        {
+            "week": 336,
+            "date": "2024-07-05",
+            "theme": "Imperial Chef",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Cooking Up A Storm"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Imperial Couture"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Fringed And Footloose"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Jewels Of Green"
                 }
             ]
         }
