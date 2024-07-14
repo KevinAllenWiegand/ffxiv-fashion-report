@@ -17290,6 +17290,29 @@
                     "hint": "Jewels Of Green"
                 }
             ]
+        },
+        {
+            "week": 337,
+            "date": "2024-07-12",
+            "theme": "Hibernation Anticipation",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Call Of The Wild"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Autumn Chill"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Smitten With Mittens"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Leather"
+                }
+            ]
         }
     ]
 }
