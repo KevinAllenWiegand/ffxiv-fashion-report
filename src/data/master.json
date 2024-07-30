@@ -8576,6 +8576,75 @@
         },
         {
             "type": "Feet",
+            "hint": "Robed In Resistance",
+            "items": [
+                {
+                    "name": "Bozjan Boots Of Aiming"
+                },
+                {
+                    "name": "Bozjan Boots Of Casting"
+                },
+                {
+                    "name": "Bozjan Boots Of Fending"
+                },
+                {
+                    "name": "Bozjan Boots Of Healing"
+                },
+                {
+                    "name": "Bozjan Boots Of Maiming"
+                },
+                {
+                    "name": "Bozjan Boots Of Scouting"
+                },
+                {
+                    "name": "Bozjan Boots Of Striking"
+                },
+                {
+                    "name": "Filibuster's Boots Of Casting"
+                },
+                {
+                    "name": "Filibuster's Boots Of Healing"
+                },
+                {
+                    "name": "Filibuster's Boots Of Scouting"
+                },
+                {
+                    "name": "Filibuster's Heavy Boots Of Fending"
+                },
+                {
+                    "name": "Filibuster's Heavy Boots Of Maiming"
+                },
+                {
+                    "name": "Filibuster's Thighboots Of Aiming"
+                },
+                {
+                    "name": "Filibuster's Thighboots Of Striking"
+                },
+                {
+                    "name": "Royal Volunteer's Boots Of Casting"
+                },
+                {
+                    "name": "Royal Volunteer's Boots Of Scouting"
+                },
+                {
+                    "name": "Royal Volunteer's Boots Of Striking"
+                },
+                {
+                    "name": "Royal Volunteer's Heavy Boots Of Fending"
+                },
+                {
+                    "name": "Royal Volunteer's Heavy Boots Of Maiming"
+                },
+                {
+                    "name": "Royal Volunteer's Thighboots Of Aiming"
+                },
+                {
+                    "name": "Royal Volunteer's Thighboots Of Healing"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
             "hint": "Shod With Sandals",
             "items": [
                 {
@@ -17311,6 +17380,52 @@
                 {
                     "type": "Wrist",
                     "hint": "Leather"
+                }
+            ]
+        },
+        {
+            "week": 338,
+            "date": "2024-07-19",
+            "theme": "A Rebel's Coil",
+            "slots": [
+                {
+                    "type": "Hands",
+                    "hint": "Coiled Finally"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Do Rats Fly"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Robed In Resistance"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Jewels Of Green"
+                }
+            ]
+        },
+        {
+            "week": 339,
+            "date": "2024-07-26",
+            "theme": "Iniquitous Archon",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Too Cool"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Diabolical"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Old Country"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Patten On The Back"
                 }
             ]
         }
