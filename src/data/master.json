@@ -10670,7 +10670,28 @@
             "hint": "Veteran Hand",
             "items": [
                 {
-                    "name": "Any Master Crafting Ring"
+                    "name": "Master Alchemist's Ring"
+                },
+                {
+                    "name": "Master Armorer's Ring"
+                },
+                {
+                    "name": "Master Blacksmith's Ring"
+                },
+                {
+                    "name": "Master Carpenter's Ring"
+                },
+                {
+                    "name": "Master Culinarian's Ring"
+                },
+                {
+                    "name": "Master Goldsmith's Ring"
+                },
+                {
+                    "name": "Master Leatherworker's Ring"
+                },
+                {
+                    "name": "Master Weaver's Ring"
                 }
             ]
         },
@@ -17426,6 +17447,29 @@
                 {
                     "type": "Feet",
                     "hint": "Patten On The Back"
+                }
+            ]
+        },
+        {
+            "week": 340,
+            "date": "2024-08-02",
+            "theme": "King Of The Wild",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Royal"
+                },
+                {
+                    "type": "Body",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Tooth And \"Nail\""
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Veteran Hand"
                 }
             ]
         }
