@@ -9935,6 +9935,30 @@
         },
         {
             "type": "Wrist",
+            "hint": "The Coil That Binds",
+            "items": [
+                {
+                    "name": "Allagan Bracelets Of Aiming"
+                },
+                {
+                    "name": "Allagan Bracelets Of Casting"
+                },
+                {
+                    "name": "Allagan Bracelets Of Fending"
+                },
+                {
+                    "name": "Allagan Bracelets Of Healing"
+                },
+                {
+                    "name": "Allagan Bracelets Of Maiming"
+                },
+                {
+                    "name": "Allagan Bracelets Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Wrist",
             "hint": "The Father",
             "items": [
                 {
@@ -17502,6 +17526,29 @@
                 {
                     "type": "Wrist",
                     "hint": "The Father"
+                }
+            ]
+        },
+        {
+            "week": 342,
+            "date": "2024-08-16",
+            "theme": "Soirée Fighter",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Masquerade"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Bloodsands"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Too Legit"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "The Coil That Binds"
                 }
             ]
         }
