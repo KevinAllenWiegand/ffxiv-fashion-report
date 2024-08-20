@@ -17551,6 +17551,29 @@
                     "hint": "The Coil That Binds"
                 }
             ]
+        },
+        {
+            "week": 343,
+            "date": "2024-08-23",
+            "theme": "Let Sleeping Guns Lie",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Rest & Relaxation"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Son Of A Gun"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Coiled Finally"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Rest & Relaxation"
+                }
+            ]
         }
     ]
 }
