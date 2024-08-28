@@ -17574,6 +17574,29 @@
                     "hint": "Rest & Relaxation"
                 }
             ]
+        },
+        {
+            "week": 344,
+            "date": "2024-08-30",
+            "theme": "An Empire Advanced",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Future Arma"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Primal Revival"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Mountain Bred"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Imperial Couture"
+                }
+            ]
         }
     ]
 }
