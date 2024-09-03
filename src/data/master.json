@@ -17597,6 +17597,29 @@
                     "hint": "Imperial Couture"
                 }
             ]
+        },
+        {
+            "week": 345,
+            "date": "2024-09-06",
+            "theme": "Autumnal Ensemble",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Up A Long Sleeve"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Mountain Bred"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Moccasin City"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "The Coil That Binds"
+                }
+            ]
         }
     ]
 }
