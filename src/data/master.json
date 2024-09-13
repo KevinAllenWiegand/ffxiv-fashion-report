@@ -5705,6 +5705,30 @@
         },
         {
             "type": "Legs",
+            "hint": "Distressed And Damaged",
+            "items": [
+                {
+                    "name": "Demon Skirt Of Casting"
+                },
+                {
+                    "name": "Demon Skirt Of Healing"
+                },
+                {
+                    "name": "Indigo Ramie Skirt Of Casting"
+                },
+                {
+                    "name": "Indigo Ramie Skirt Of Healing"
+                },
+                {
+                    "name": "Peacelover's Pantaloons"
+                },
+                {
+                    "name": "Skyworker's Bottoms"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "Do Rats Fly",
             "items": [
                 {
@@ -17618,6 +17642,29 @@
                 {
                     "type": "Wrist",
                     "hint": "The Coil That Binds"
+                }
+            ]
+        },
+        {
+            "week": 346,
+            "date": "2024-09-13",
+            "theme": "Officer Of The Outlaw",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Brain Over Brawn"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Hand In Long Glove"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Distressed And Damaged"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Armored Core"
                 }
             ]
         }
