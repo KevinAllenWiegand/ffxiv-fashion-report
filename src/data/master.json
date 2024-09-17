@@ -4955,6 +4955,78 @@
         },
         {
             "type": "Hands",
+            "hint": "NieR And Far",
+            "items": [
+                {
+                    "name": "No.2 Type B Gloves"
+                },
+                {
+                    "name": "Obsolete Android's Gloves Of Aiming"
+                },
+                {
+                    "name": "Obsolete Android's Gloves Of Scouting"
+                },
+                {
+                    "name": "Obsolete Android's Gloves Of Striking"
+                },
+                {
+                    "name": "Obsolete Android's Wristdress Of Casting"
+                },
+                {
+                    "name": "Obsolete Android's Wristdress Of Healing"
+                },
+                {
+                    "name": "YoRHa Type-51 Gloves Of Aiming"
+                },
+                {
+                    "name": "YoRHa Type-51 Gloves Of Casting"
+                },
+                {
+                    "name": "YoRHa Type-51 Gloves Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-51 Gloves Of Healing"
+                },
+                {
+                    "name": "YoRHa Type-51 Gloves Of Maiming"
+                },
+                {
+                    "name": "YoRHa Type-51 Gloves Of Scouting"
+                },
+                {
+                    "name": "YoRHa Type-51 Gloves Of Striking"
+                },
+                {
+                    "name": "YoRHa Type-53 Gloves Of Aiming"
+                },
+                {
+                    "name": "YoRHa Type-53 Gloves Of Casting"
+                },
+                {
+                    "name": "YoRHa Type-53 Gloves Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-53 Gloves Of Healing"
+                },
+                {
+                    "name": "YoRHa Type-53 Gloves Of Maiming"
+                },
+                {
+                    "name": "YoRHa Type-53 Gloves Of Scouting"
+                },
+                {
+                    "name": "YoRHa Type-53 Gloves Of Striking"
+                },
+                {
+                    "name": "YoRHa Type-55 Gloves Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-55 Gloves Of Maiming"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
             "hint": "Pirates In The Sky",
             "items": [
                 {
@@ -17665,6 +17737,29 @@
                 {
                     "type": "Feet",
                     "hint": "Armored Core"
+                }
+            ]
+        },
+        {
+            "week": 347,
+            "date": "2024-09-20",
+            "theme": "More Or Less Traditional",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Hingan Nights"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "NieR And Far"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Less Is More"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Friend To The End"
                 }
             ]
         }
