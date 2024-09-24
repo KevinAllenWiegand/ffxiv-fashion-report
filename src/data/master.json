@@ -17762,6 +17762,29 @@
                     "hint": "Friend To The End"
                 }
             ]
+        },
+        {
+            "week": 348,
+            "date": "2024-09-27",
+            "theme": "Best Man Not Yes-Man",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Well-Suited"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Guardian's Garb"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Sleight Of Hand"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Fringed And Footloose"
+                }
+            ]
         }
     ]
 }
