@@ -17785,6 +17785,29 @@
                     "hint": "Fringed And Footloose"
                 }
             ]
+        },
+        {
+            "week": 349,
+            "date": "2024-10-04",
+            "theme": "Bend And Smash",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Drapes Of Wrath"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Pretty In Pantaloons"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "The Great Sigmascape"
+                },
+                {
+                    "type": "Ear",
+                    "hint": "Proto Posh"
+                }
+            ]
         }
     ]
 }
