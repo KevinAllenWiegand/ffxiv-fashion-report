@@ -17808,6 +17808,29 @@
                     "hint": "Proto Posh"
                 }
             ]
+        },
+        {
+            "week": 350,
+            "date": "2024-10-11",
+            "theme": "Midwinter Mammal",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Foxy Features"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Winter Wonderland"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Iron Fist"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In Sheep's Clothing"
+                }
+            ]
         }
     ]
 }
