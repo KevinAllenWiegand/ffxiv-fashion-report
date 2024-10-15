@@ -68,6 +68,9 @@
             "hint": "A Knight For Helms",
             "items": [
                 {
+                    "name": "Doman Steel Armet Of Maiming"
+                },
+                {
                     "name": "Helm Of The Divine War"
                 },
                 {
@@ -17829,6 +17832,29 @@
                 {
                     "type": "Feet",
                     "hint": "In Sheep's Clothing"
+                }
+            ]
+        },
+        {
+            "week": 351,
+            "date": "2024-10-18",
+            "theme": "Ser Beast",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "A Knight For Helms"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "More Beast Than Man"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In Sheep's Clothing"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Leather"
                 }
             ]
         }
