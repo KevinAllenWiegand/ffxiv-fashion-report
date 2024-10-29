@@ -17919,6 +17919,29 @@
                     "hint": "Jewels Of Violet"
                 }
             ]
+        },
+        {
+            "week": 353,
+            "date": "2024-11-01",
+            "theme": "Blanched Bone Bodyguard",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "A \"Bone\" To Pick"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Tooth And \"Nail\""
+                },
+                {
+                    "type": "Feet",
+                    "hint": "On The Plate"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Cute As A Button"
+                }
+            ]
         }
     ]
 }
