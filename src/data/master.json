@@ -17983,6 +17983,29 @@
                     "hint": "Jewels Of Red"
                 }
             ]
+        },
+        {
+            "week": 355,
+            "date": "2024-11-15",
+            "theme": "Outlaw Alliance",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "They Do Nothing"
+                },
+                {
+                    "type": "Body",
+                    "hint": "The Outlaw"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Hand In Halfglove"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Robed In Resistance"
+                }
+            ]
         }
     ]
 }
