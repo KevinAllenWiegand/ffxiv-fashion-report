@@ -254,6 +254,24 @@
         },
         {
             "type": "Head",
+            "hint": "Blow Your Horn",
+            "items": [
+                {
+                    "name": "Archaeodemon Horns"
+                },
+                {
+                    "name": "Evoker's Horn"
+                },
+                {
+                    "name": "Succubus Horns"
+                },
+                {
+                    "name": "Ultima Horns"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Bonewicca Bow Wow",
             "items": [
                 {
@@ -17940,6 +17958,29 @@
                 {
                     "type": "Ring",
                     "hint": "Cute As A Button"
+                }
+            ]
+        },
+        {
+            "week": 354,
+            "date": "2024-11-08",
+            "theme": "Otherworldly Illusionist",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Blow Your Horn"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Up In Armlets"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Striding In Stripes"
+                },
+                {
+                    "type": "Ear",
+                    "hint": "Jewels Of Red"
                 }
             ]
         }
