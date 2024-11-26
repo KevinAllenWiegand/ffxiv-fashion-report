@@ -8204,6 +8204,90 @@
         },
         {
             "type": "Feet",
+            "hint": "Going Garo",
+            "items": [
+                {
+                    "name": "Common Makai Manhandler's Longboots"
+                },
+                {
+                    "name": "Common Makai Marksman's Boots"
+                },
+                {
+                    "name": "Common Makai Markswoman's Longboots"
+                },
+                {
+                    "name": "Common Makai Mauler's Boots"
+                },
+                {
+                    "name": "Makai Harbinger's Boots"
+                },
+                {
+                    "name": "Makai Harrower's Longboots"
+                },
+                {
+                    "name": "Makai Manhandler's Longboots"
+                },
+                {
+                    "name": "Makai Marksman's Boots"
+                },
+                {
+                    "name": "Makai Markswoman's Longboots"
+                },
+                {
+                    "name": "Makai Mauler's Boots"
+                },
+                {
+                    "name": "Makai Moon Guide's Longboots"
+                },
+                {
+                    "name": "Makai Priest's Boots"
+                },
+                {
+                    "name": "Makai Priestess's Longboots"
+                },
+                {
+                    "name": "Makai Sun Guide's Boots"
+                },
+                {
+                    "name": "Makai Vanbreaker's Longboots"
+                },
+                {
+                    "name": "Makai Vanguard's Boots"
+                },
+                {
+                    "name": "Tarnished Feet Of Pressing Darkness"
+                },
+                {
+                    "name": "Tarnished Feet Of The Golden Wolf"
+                },
+                {
+                    "name": "Tarnished Feet Of The Silver Wolf"
+                },
+                {
+                    "name": "Tarnished Feet Of The White Night"
+                },
+                {
+                    "name": "Tarnished Feet Of Undying Twilight"
+                },
+                {
+                    "name": "The Feet of Pressing Darkness"
+                },
+                {
+                    "name": "The Feet of the Golden Wolf"
+                },
+                {
+                    "name": "The Feet of the Silver Wolf"
+                },
+                {
+                    "name": "The Feet of the White Night"
+                },
+                {
+                    "name": "The Feet of Undying Twilight"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
             "hint": "I Believe In Magic",
             "items": [
                 {
@@ -10667,9 +10751,6 @@
             "hint": "The Cloth I Bear",
             "items": [
                 {
-                    "name": "Carborundum Ring"
-                },
-                {
                     "name": "Carborundum Ring Of Aiming"
                 },
                 {
@@ -10700,10 +10781,19 @@
                     "name": "Diamond Ring Of Slaying"
                 },
                 {
-                    "name": "Palladium Band"
+                    "name": "Palladium Band Of Aiming"
                 },
                 {
-                    "name": "Scintillant Ring"
+                    "name": "Palladium Band Of Casting"
+                },
+                {
+                    "name": "Palladium Band Of Fending"
+                },
+                {
+                    "name": "Palladium Band Of Healing"
+                },
+                {
+                    "name": "Palladium Band Of Slaying"
                 },
                 {
                     "name": "Scintillant Ring Of Aiming"
@@ -18004,6 +18094,29 @@
                 {
                     "type": "Feet",
                     "hint": "Robed In Resistance"
+                }
+            ]
+        },
+        {
+            "week": 356,
+            "date": "2024-11-22",
+            "theme": "Leisurely Lupin",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Rest & Relaxation"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Found Allagan"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Going Garo"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "The Cloth I Bear"
                 }
             ]
         }
