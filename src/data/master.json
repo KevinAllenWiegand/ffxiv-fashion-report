@@ -18119,6 +18119,29 @@
                     "hint": "The Cloth I Bear"
                 }
             ]
+        },
+        {
+            "week": 357,
+            "date": "2024-11-29",
+            "theme": "Ishgardian Infantry",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Foundation's Forefront"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Fashion Bandit"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Long Skirt"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "The Creator"
+                }
+            ]
         }
     ]
 }
