@@ -18142,6 +18142,29 @@
                     "hint": "The Creator"
                 }
             ]
+        },
+        {
+            "week": 358,
+            "date": "2024-12-06",
+            "theme": "Flair For Genius",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Healing Lilies"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Brain Over Brawn"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "The Great Sigmascape"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "The Creator"
+                }
+            ]
         }
     ]
 }
