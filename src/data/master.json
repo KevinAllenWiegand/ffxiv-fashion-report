@@ -18165,6 +18165,29 @@
                     "hint": "The Creator"
                 }
             ]
+        },
+        {
+            "week": 359,
+            "date": "2024-12-13",
+            "theme": "Conqueror First Worn",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "The Conqueror"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Adventure First Worn"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Moccasin City"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Jewels Of Violet"
+                }
+            ]
         }
     ]
 }
