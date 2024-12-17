@@ -18188,6 +18188,29 @@
                     "hint": "Jewels Of Violet"
                 }
             ]
+        },
+        {
+            "week": 360,
+            "date": "2024-12-20",
+            "theme": "Safety Helm",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Coifed To Perfection"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Quick To The Poncho"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Keeping It Casual"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "The Cloth I Bear"
+                }
+            ]
         }
     ]
 }
