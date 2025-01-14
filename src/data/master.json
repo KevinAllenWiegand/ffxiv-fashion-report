@@ -6284,6 +6284,33 @@
         },
         {
             "type": "Legs",
+            "hint": "Imperial Couture",
+            "items": [
+                {
+                    "name": "Imperial Coat Of Aiming"
+                },
+                {
+                    "name": "Imperial Coat Of Casting"
+                },
+                {
+                    "name": "Imperial Coat Of Fending"
+                },
+                {
+                    "name": "Imperial Coat Of Healing"
+                },
+                {
+                    "name": "Imperial Coat Of Maiming"
+                },
+                {
+                    "name": "Imperial Coat Of Scouting"
+                },
+                {
+                    "name": "Imperial Coat Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "Keeping It Casual",
             "items": [
                 {
@@ -18209,6 +18236,98 @@
                 {
                     "type": "Ring",
                     "hint": "The Cloth I Bear"
+                }
+            ]
+        },
+        {
+            "week": 361,
+            "date": "2024-12-27",
+            "theme": "Unprecedented Imperial",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Keeping It Weird"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Imperial Couture"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Avant Garde"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Friend To The End"
+                }
+            ]
+        },
+        {
+            "week": 362,
+            "date": "2025-01-03",
+            "theme": "Prepared Partygoer",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "To Chains"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Best Dress-ed"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Short Shorts"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Simply Gorgeous"
+                }
+            ]
+        },
+        {
+            "week": 363,
+            "date": "2025-01-10",
+            "theme": "Traditional Futurist",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Future Arma"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Go West"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Fashion Bandit"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In The \"Fold\""
+                }
+            ]
+        },
+        {
+            "week": 364,
+            "date": "2025-01-17",
+            "theme": "Wild Company",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Keeping Company"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Riding High"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Primal Revival"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Check And Check"
                 }
             ]
         }
