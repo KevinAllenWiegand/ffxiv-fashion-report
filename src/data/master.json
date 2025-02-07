@@ -6398,6 +6398,39 @@
         },
         {
             "type": "Legs",
+            "hint": "Mini Me",
+            "items": [
+                {
+                    "name": "Acolyte's Skirt"
+                },
+                {
+                    "name": "Flame Elite's Skirt"
+                },
+                {
+                    "name": "Foestriker's Skirt"
+                },
+                {
+                    "name": "Guardian Corps Skirt"
+                },
+                {
+                    "name": "Quaintrelle's Ruffled Skirt"
+                },
+                {
+                    "name": "Songbird Skirt"
+                },
+                {
+                    "name": "Southern Seas Skirt"
+                },
+                {
+                    "name": "Uraeus Skirt"
+                },
+                {
+                    "name": "Valentione Skirt"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "More Beast Than Man",
             "items": [
                 {
@@ -8564,6 +8597,78 @@
         },
         {
             "type": "Feet",
+            "hint": "NieR And Far",
+            "items": [
+                {
+                    "name": "No.2 Type B Boots"
+                },
+                {
+                    "name": "Obsolete Android's Boots Of Aiming"
+                },
+                {
+                    "name": "Obsolete Android's Boots Of Casting"
+                },
+                {
+                    "name": "Obsolete Android's Boots Of Healing"
+                },
+                {
+                    "name": "Obsolete Android's Boots Of Scouting"
+                },
+                {
+                    "name": "Obsolete Android's Boots Of Striking"
+                },
+                {
+                    "name": "YoRHa Type-51 Boots Of Aiming"
+                },
+                {
+                    "name": "YoRHa Type-51 Boots Of Casting"
+                },
+                {
+                    "name": "YoRHa Type-51 Boots Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-51 Boots Of Healing"
+                },
+                {
+                    "name": "YoRHa Type-51 Boots Of Maiming"
+                },
+                {
+                    "name": "YoRHa Type-51 Boots Of Scouting"
+                },
+                {
+                    "name": "YoRHa Type-51 Boots Of Striking"
+                },
+                {
+                    "name": "YoRHa Type-53 Boots Of Aiming"
+                },
+                {
+                    "name": "YoRHa Type-53 Boots Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-53 Boots Of Maiming"
+                },
+                {
+                    "name": "YoRHa Type-53 Boots Of Scouting"
+                },
+                {
+                    "name": "YoRHa Type-53 Boots Of Striking"
+                },
+                {
+                    "name": "YoRHa Type-53 Thighboots Of Casting"
+                },
+                {
+                    "name": "YoRHa Type-53 Thighboots Of Healing"
+                },
+                {
+                    "name": "YoRHa Type-55 Thighboots Of Fending"
+                },
+                {
+                    "name": "YoRHa Type-55 Thighboots Of Maiming"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
             "hint": "Omega Ornamentation",
             "items": [
                 {
@@ -10278,6 +10383,27 @@
                 },
                 {
                     "name": "Mythrite Bangle Of Slaying"
+                }
+            ]
+        },
+        {
+            "type": "Wrist",
+            "hint": "Yukata",
+            "items": [
+                {
+                    "name": "Dai-Ryumyaku Bracelet Of Aiming"
+                },
+                {
+                    "name": "Dai-Ryumyaku Bracelet Of Casting"
+                },
+                {
+                    "name": "Dai-Ryumyaku Bracelet Of Fending"
+                },
+                {
+                    "name": "Dai-Ryumyaku Bracelet Of Healing"
+                },
+                {
+                    "name": "Dai-Ryumyaku Bracelet Of Slaying"
                 }
             ]
         },
@@ -18328,6 +18454,75 @@
                 {
                     "type": "Legs",
                     "hint": "Check And Check"
+                }
+            ]
+        },
+        {
+            "week": 365,
+            "date": "2025-01-24",
+            "theme": "Unencumbered Duelist",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Feather In Your Cap"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Dueling Duelist"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "All In The Wrist"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "\"Ala\" Carte"
+                }
+            ]
+        },
+        {
+            "week": 366,
+            "date": "2025-01-31",
+            "theme": "Well-Traveled Bandit",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Fashion Bandit"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Skirts Of A Feather"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Too Cool"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Yukata"
+                }
+            ]
+        },
+        {
+            "week": 367,
+            "date": "2025-02-07",
+            "theme": "Common Company",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Jerkin Boys"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Hand In Halfglove"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Mini Me"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "NieR And Far"
                 }
             ]
         }
