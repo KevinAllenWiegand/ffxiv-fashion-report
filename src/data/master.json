@@ -18525,6 +18525,29 @@
                     "hint": "NieR And Far"
                 }
             ]
+        },
+        {
+            "week": 368,
+            "date": "2025-02-14",
+            "theme": "Ritual Reader",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Bonewicca Bow Wow"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Bookworm"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Rouse Trousers"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Robed In Resistance"
+                }
+            ]
         }
     ]
 }
