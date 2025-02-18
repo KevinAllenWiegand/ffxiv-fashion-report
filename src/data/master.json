@@ -18548,6 +18548,29 @@
                     "hint": "Robed In Resistance"
                 }
             ]
+        },
+        {
+            "week": 369,
+            "date": "2025-02-21",
+            "theme": "Circus Runaway",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Keeping Company"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Traveling Dawn"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "In Sheep's Clothing"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Mini Me"
+                }
+            ]
         }
     ]
 }
