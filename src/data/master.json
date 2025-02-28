@@ -4997,6 +4997,42 @@
         },
         {
             "type": "Hands",
+            "hint": "Natural Beauty",
+            "items": [
+                {
+                    "name": "Black Tulip Corsage"
+                },
+                {
+                    "name": "Blue Tulip Corsage"
+                },
+                {
+                    "name": "Coronal Wristband"
+                },
+                {
+                    "name": "Green Tulip Corsage"
+                },
+                {
+                    "name": "Orange Tulip Corsage"
+                },
+                {
+                    "name": "Purple Tulip Corsage"
+                },
+                {
+                    "name": "Rainbow Tulip Corsage"
+                },
+                {
+                    "name": "Red Tulip Corsage"
+                },
+                {
+                    "name": "White Tulip Corsage"
+                },
+                {
+                    "name": "Yellow Tulip Corsage"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
             "hint": "NieR And Far",
             "items": [
                 {
@@ -18569,6 +18605,29 @@
                 {
                     "type": "Legs",
                     "hint": "Mini Me"
+                }
+            ]
+        },
+        {
+            "week": 370,
+            "date": "2025-02-28",
+            "theme": "General Holiday",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Moon Unit"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Summer Breeze"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Natural Beauty"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Fringed And Footloose"
                 }
             ]
         }
