@@ -28441,9 +28441,7 @@ const SLOTS = ['slot1', 'slot2', 'slot3', 'slot4', 'slot5'];
 let searchTimeoutObject;
 let firstAvailableWeek;
 let lastAvailableWeek;
-let currentWeekDate;
 let showingWeek;
-let showingWeekDate;
 
 // This is the equivalent of setting up a document.ready(), so we load the latest week when the DOM has finished loading.
 $(function () {
@@ -28544,25 +28542,9 @@ function download(filename, text) {
 function init() {
   (0,_ownedItems__WEBPACK_IMPORTED_MODULE_3__.loadOwnedItems)();
   showLatestReport();
-}
-function showLatestReport() {
-  const latestReport = getLatestReport();
-  let latestHtml;
-  if (latestReport) {
-    latestHtml = `Week ${latestReport.week} for ${latestReport.date}`;
-    const latestWeekDateParts = latestReport.date.split('-');
-    const latestWeekDate = new Date(parseInt(latestWeekDateParts[0], 10), parseInt(latestWeekDateParts[1], 10) - 1, parseInt(latestWeekDateParts[2], 10));
-    showingWeekDate = latestWeekDate;
-    showingWeek = latestReport.week;
-  } else {
-    latestHtml = 'ERROR';
-    showingWeekDate = 'ERROR';
-    showingWeek = 'ERROR';
-  }
-  $('#latestData').html(latestHtml);
   const offsets = [-2, -3, 3, 2, 1, 0, -1];
   const today = new Date();
-  currentWeekDate = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+  const currentWeekDate = new Date(today.getFullYear(), today.getMonth(), today.getDate());
   currentWeekDate.setDate(currentWeekDate.getDate() + offsets[currentWeekDate.getDay()]);
   const firstWeekNumber = _data_master_json__WEBPACK_IMPORTED_MODULE_4__.reports[0].week;
   const firstWeekDateParts = _data_master_json__WEBPACK_IMPORTED_MODULE_4__.reports[0].date.split('-');
@@ -28571,11 +28553,17 @@ function showLatestReport() {
   const numberOfDaysSince = Math.ceil((currentWeekDate - firstWeekDate) / millisecondsPerDay);
   const numberOfWeeksSince = Math.ceil(numberOfDaysSince / 7);
   const currentWeek = firstWeekNumber + numberOfWeeksSince;
-  const currentHtml = `Week ${currentWeek} for ${currentWeekDate.getFullYear()}-${formatNumberForDate(currentWeekDate.getMonth() + 1)}-${formatNumberForDate(currentWeekDate.getDate())}`;
   firstAvailableWeek = firstWeekNumber;
-  lastAvailableWeek = currentWeek;
-  $('#currentWeek').html(currentHtml);
-  $('#showingWeek').html(latestHtml);
+  lastAvailableWeek = _data_master_json__WEBPACK_IMPORTED_MODULE_4__.reports[_data_master_json__WEBPACK_IMPORTED_MODULE_4__.reports.length - 1].week;
+  if (currentWeek !== lastAvailableWeek) {
+    $("#dataWarning").css("display", "block");
+  }
+}
+function showLatestReport() {
+  const latestReport = getLatestReport();
+  if (latestReport) {
+    showingWeek = latestReport.week;
+  }
   showReport(latestReport.week);
 }
 function showReport(weekNumber) {
@@ -28590,7 +28578,7 @@ function showReport(weekNumber) {
         $(`#${slotValue}Type`).trigger('change');
       }
     });
-    $('#weekTheme').html(report.theme);
+    $('#weekTheme').html(`${report.theme} (Week ${report.week} for ${report.date})`);
     return true;
   }
   return false;
@@ -28600,10 +28588,6 @@ function showPreviousWeekReport() {
     const effectiveWeek = showingWeek - 1;
     if (showReport(effectiveWeek)) {
       showingWeek--;
-      const newDate = new Date(showingWeekDate.getFullYear(), showingWeekDate.getMonth(), showingWeekDate.getDate());
-      newDate.setDate(newDate.getDate() - 7);
-      showingWeekDate = newDate;
-      $('#showingWeek').html(`Week ${showingWeek} for ${showingWeekDate.getFullYear()}-${formatNumberForDate(showingWeekDate.getMonth() + 1)}-${formatNumberForDate(showingWeekDate.getDate())}`);
     }
   }
 }
@@ -28612,10 +28596,6 @@ function showNextWeekReport() {
     const effectiveWeek = showingWeek + 1;
     if (showReport(effectiveWeek)) {
       showingWeek++;
-      const newDate = new Date(showingWeekDate.getFullYear(), showingWeekDate.getMonth(), showingWeekDate.getDate());
-      newDate.setDate(newDate.getDate() + 7);
-      showingWeekDate = newDate;
-      $('#showingWeek').html(`Week ${showingWeek} for ${showingWeekDate.getFullYear()}-${formatNumberForDate(showingWeekDate.getMonth() + 1)}-${formatNumberForDate(showingWeekDate.getDate())}`);
     }
   }
 }
@@ -28804,10 +28784,7 @@ function loadWeek(weekNumber) {
   resetHintSearchForm();
   const report = getReportForWeek(weekNumber);
   if (report && showReport(weekNumber)) {
-    const showingWeekDateParts = report.date.split('-');
-    showingWeekDate = new Date(parseInt(showingWeekDateParts[0], 10), parseInt(showingWeekDateParts[1], 10) - 1, parseInt(showingWeekDateParts[2], 10));
     showingWeek = weekNumber;
-    $('#showingWeek').html(`Week ${showingWeek} for ${showingWeekDate.getFullYear()}-${formatNumberForDate(showingWeekDate.getMonth() + 1)}-${formatNumberForDate(showingWeekDate.getDate())}`);
     $('#navHome').trigger('click');
   }
 }

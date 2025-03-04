@@ -124,7 +124,6 @@
         }
 
         .quickButtons,
-        .dataSummary,
         .weekTheme {
             margin-bottom: 10pt;
         }
@@ -171,6 +170,11 @@
 
         <h1>FFXIV Fashion Report Tools</h1>
 
+        <div id="dataWarning" class="alert alert-warning" style="margin: auto; text-align: center; display: none;">
+            The data is not up to date for the current week. <br />
+            Please be patient, as it may not be updated until Friday.
+        </div>
+
         <ul class="nav nav-tabs">
             <li class="nav-item"><a id="navHome" class="nav-link active" data-bs-toggle="tab" href="#hints">Hint Search</a></li>
             <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#items">Item Search</a></li>
@@ -184,14 +188,6 @@
                 <div class="alert alert-info">
                     <p>For each slot in the Fashion Report that you would like to search, select the appropriate Slot Type, and then provide the hint.</p>
                     <p>Results will be shown in the area below the corresponding hint.  You can use the checkboxes to track the items you already own.</p>
-                </div>
-
-                <div class="row row-no-gutters dataSummary">
-                    <div class="col col-lg-12">
-                        <div>Current is <span id="currentWeek"></span></div>
-                        <div>Lastest data is <span id="latestData"></span></div>
-                        <div>Showing data for <span id="showingWeek"></span></div>
-                    </div>
                 </div>
 
                 <div class="row row-no-gutters quickButtons">
