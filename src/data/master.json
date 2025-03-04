@@ -5393,6 +5393,9 @@
             "hint": "The Great Sigmascape",
             "items": [
                 {
+                    "name": "Carborundum Gauntlets Of Aiming"
+                },
+                {
                     "name": "Carborundum Gauntlets of Fending"
                 },
                 {
@@ -5405,13 +5408,13 @@
                     "name": "Carborundum Gauntlets of Striking"
                 },
                 {
-                    "name": "Carborundum Gauntlets Of Aiming"
-                },
-                {
                     "name": "Carborundum Gloves Of Casting"
                 },
                 {
                     "name": "Carborundum Gloves Of Healing"
+                },
+                {
+                    "name": "Diamond Gauntlets Of Aiming"
                 },
                 {
                     "name": "Diamond Gauntlets of Fending"
@@ -5424,9 +5427,6 @@
                 },
                 {
                     "name": "Diamond Gauntlets of Striking"
-                },
-                {
-                    "name": "Diamond Gauntlets Of Aiming"
                 },
                 {
                     "name": "Diamond Gloves Of Casting"
@@ -6323,25 +6323,25 @@
             "hint": "Imperial Couture",
             "items": [
                 {
-                    "name": "Imperial Coat Of Aiming"
+                    "name": "Imperial Bottoms Of Casting"
                 },
                 {
-                    "name": "Imperial Coat Of Casting"
+                    "name": "Imperial Breeches Of Aiming"
                 },
                 {
-                    "name": "Imperial Coat Of Fending"
+                    "name": "Imperial Breeches Of Fending"
                 },
                 {
-                    "name": "Imperial Coat Of Healing"
+                    "name": "Imperial Breeches Of Scouting"
                 },
                 {
-                    "name": "Imperial Coat Of Maiming"
+                    "name": "Imperial Breeches Of Striking"
                 },
                 {
-                    "name": "Imperial Coat Of Scouting"
+                    "name": "Imperial Longkilt Of Healing"
                 },
                 {
-                    "name": "Imperial Coat Of Striking"
+                    "name": "Imperial Longkilt Of Maiming"
                 }
             ]
         },
@@ -9599,21 +9599,6 @@
             "hint": "The Son",
             "items": [
                 {
-                    "name": "Midan Earrings Of Aiming"
-                },
-                {
-                    "name": "Midan Earrings Of Casting"
-                },
-                {
-                    "name": "Midan Earrings Of Fending"
-                },
-                {
-                    "name": "Midan Earrings Of Healing"
-                },
-                {
-                    "name": "Midan Earrings Of Slaying"
-                },
-                {
                     "name": "Midan Alexandrian Earrings Of Aiming"
                 },
                 {
@@ -9627,6 +9612,21 @@
                 },
                 {
                     "name": "Midan Alexandrian Earrings Of Slaying"
+                },
+                {
+                    "name": "Midan Earrings Of Aiming"
+                },
+                {
+                    "name": "Midan Earrings Of Casting"
+                },
+                {
+                    "name": "Midan Earrings Of Fending"
+                },
+                {
+                    "name": "Midan Earrings Of Healing"
+                },
+                {
+                    "name": "Midan Earrings Of Slaying"
                 }
             ]
         },
@@ -18628,6 +18628,29 @@
                 {
                     "type": "Feet",
                     "hint": "Fringed And Footloose"
+                }
+            ]
+        },
+        {
+            "week": 371,
+            "date": "2025-03-07",
+            "theme": "Well-Dressed Imperialist",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "A True \"Spectacle\""
+                },
+                {
+                    "type": "Body",
+                    "hint": "Imperial Couture"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Imperial Couture"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Finally Fantastical"
                 }
             ]
         }
