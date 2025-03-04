@@ -231,14 +231,6 @@ function showNextWeekReport() {
     }
 }
 
-function formatNumberForDate(value) {
-    if (value > 9) {
-        return value.toString();
-    }
-    
-    return '0' + value;
-}
-
 function getLatestReport() {
     let latestReport = null;
 
