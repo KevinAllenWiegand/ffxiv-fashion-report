@@ -39,7 +39,6 @@ if (process.argv.length !== 11 && process.argv.length !== 13) {
     console.log('node addweek "Theme" slot "Hint" slot "Hint" slot "Hint" slot "Hint" [slot "Hint"]');
     console.log('\nNOTES:');
     console.log('If a hint has quotes, use double \', if a hint has an apostrophe, use a single \'.');
-    console.log('If the theme or a hint has a space, wrap it in quotes.');
     return;
 }
 

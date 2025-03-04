@@ -37,10 +37,9 @@ if (process.argv.length < 5) {
     // It's really 3+ arguments, the first 2 are from node.
     console.log(`Expected at least 3 arguments, but got ${effectiveArgCount}`);
     console.log('Usage:');
-    console.log('node addweek "Theme" slot "Hint" slot "Hint" slot "Hint" slot "Hint"');
+    console.log('node addSlot slot "Hint"');
     console.log('\nNOTES:');
     console.log('If a hint has quotes, use double \', if a hint has an apostrophe, use a single \'.');
-    console.log('If the theme or a hint has a space, wrap it in quotes.');
     return;
 }
 
