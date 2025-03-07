@@ -2231,9 +2231,6 @@
                     "name": "Augmented Ironworks Armor Of Fending"
                 },
                 {
-                    "name": "Augmented Ironworks Robe Of Healing"
-                },
-                {
                     "name": "Augmented Ironworks Cuirass Of Aiming"
                 },
                 {
@@ -2249,10 +2246,10 @@
                     "name": "Augmented Ironworks Doublet Of Casting"
                 },
                 {
-                    "name": "Ironworks Armor Of Fending"
+                    "name": "Augmented Ironworks Robe Of Healing"
                 },
                 {
-                    "name": "Ironworks Robe Of Healing"
+                    "name": "Ironworks Armor Of Fending"
                 },
                 {
                     "name": "Ironworks Cuirass Of Aiming"
@@ -2268,6 +2265,9 @@
                 },
                 {
                     "name": "Ironworks Doublet Of Casting"
+                },
+                {
+                    "name": "Ironworks Robe Of Healing"
                 }
             ]
         },
