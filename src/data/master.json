@@ -10589,6 +10589,42 @@
         },
         {
             "type": "Ring",
+            "hint": "Finally Fantastical",
+            "items": [
+                {
+                    "name": "Proto Ultima Ring Of Aiming"
+                },
+                {
+                    "name": "Proto Ultima Ring Of Casting"
+                },
+                {
+                    "name": "Proto Ultima Ring Of Fending"
+                },
+                {
+                    "name": "Proto Ultima Ring Of Healing"
+                },
+                {
+                    "name": "Proto Ultima Ring Of Slaying"
+                },
+                {
+                    "name": "Ultima Band Of Aiming"
+                },
+                {
+                    "name": "Ultima Band Of Casting"
+                },
+                {
+                    "name": "Ultima Band Of Fending"
+                },
+                {
+                    "name": "Ultima Band Of Healing"
+                },
+                {
+                    "name": "Ultima Band Of Slaying"
+                }
+            ]
+        },
+        {
+            "type": "Ring",
             "hint": "Friend To The End",
             "items": [
                 {
@@ -18651,6 +18687,29 @@
                 {
                     "type": "Ring",
                     "hint": "Finally Fantastical"
+                }
+            ]
+        },
+        {
+            "week": 372,
+            "date": "2025-03-14",
+            "theme": "Blooming Builder",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Flower Power"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Restoration Regalia"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Fits Like A Wristglove"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "The Great Sigmascape"
                 }
             ]
         }
