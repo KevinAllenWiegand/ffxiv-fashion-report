@@ -4583,6 +4583,12 @@
             "hint": "Fits Like A Wristglove",
             "items": [
                 {
+                    "name": "Augmented Radiant's Wristgloves Of Aiming"
+                },
+                {
+                    "name": "Augmented Radiant's Wristgloves Of Striking"
+                },
+                {
                     "name": "Dravanian Wristgloves Of Aiming"
                 },
                 {
@@ -4590,6 +4596,9 @@
                 },
                 {
                     "name": "Dravanian Wristgloves Of Striking"
+                },
+                {
+                    "name": "Ehcatl Smithing Gloves"
                 },
                 {
                     "name": "Ehcatl Wristgloves"
@@ -4602,6 +4611,21 @@
                 },
                 {
                     "name": "Orthodox Wristgloves Of Striking"
+                },
+                {
+                    "name": "Radiant's Wristgloves Of Aiming"
+                },
+                {
+                    "name": "Radiant's Wristgloves Of Striking"
+                },
+                {
+                    "name": "Tigerskin Gloves Of Aiming"
+                },
+                {
+                    "name": "Tigerskin Gloves Of Scouting"
+                },
+                {
+                    "name": "Tigerskin Wristgloves Of Striking"
                 }
             ]
         },
