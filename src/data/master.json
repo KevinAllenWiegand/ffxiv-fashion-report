@@ -5129,6 +5129,54 @@
         },
         {
             "type": "Hands",
+            "hint": "Omega Ornamentation",
+            "items": [
+                {
+                    "name": "Omega Armguards Of Fending"
+                },
+                {
+                    "name": "Omega Armguards Of Maiming"
+                },
+                {
+                    "name": "Omega Armguards Of Scouting"
+                },
+                {
+                    "name": "Omega Armguards Of Striking"
+                },
+                {
+                    "name": "Omega Gloves Of Aiming"
+                },
+                {
+                    "name": "Omega Gloves Of Casting"
+                },
+                {
+                    "name": "Omega Gloves Of Healing"
+                },
+                {
+                    "name": "Omicron Armbuards Of Fending"
+                },
+                {
+                    "name": "Omicron Armguards Of Maiming"
+                },
+                {
+                    "name": "Omicron Armguards Of Scouting"
+                },
+                {
+                    "name": "Omicron Armguards Of Striking"
+                },
+                {
+                    "name": "Omicron Gloves Of Aiming"
+                },
+                {
+                    "name": "Omicron Gloves Of Casting"
+                },
+                {
+                    "name": "Omicron Gloves Of Healing"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
             "hint": "Pirates In The Sky",
             "items": [
                 {
@@ -18734,6 +18782,29 @@
                 {
                     "type": "Feet",
                     "hint": "The Great Sigmascape"
+                }
+            ]
+        },
+        {
+            "week": 373,
+            "date": "2025-03-21",
+            "theme": "Near Eastern Explorer",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Near Eastern Nights"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Omega Ornamentation"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Tight And Long"
                 }
             ]
         }
