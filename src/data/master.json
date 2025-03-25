@@ -18807,6 +18807,29 @@
                     "hint": "Tight And Long"
                 }
             ]
+        },
+        {
+            "week": 374,
+            "date": "2025-03-28",
+            "theme": "Flirtatious Pacifist",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Love & Peace"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Motley Crew"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "\"Groin\" Pains"
+                },
+                {
+                    "type": "Wrist",
+                    "hint": "Jewels Of Black"
+                }
+            ]
         }
     ]
 }
