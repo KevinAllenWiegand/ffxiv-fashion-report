@@ -18830,6 +18830,29 @@
                     "hint": "Jewels Of Black"
                 }
             ]
+        },
+        {
+            "week": 375,
+            "date": "2025-04-04",
+            "theme": "Omega-Level Magician",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Cosmos In Bloom"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Omega Ornamentation"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Fashion Bandit"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Sleight Of Hand"
+                }
+            ]
         }
     ]
 }
