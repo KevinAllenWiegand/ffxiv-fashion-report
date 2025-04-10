@@ -9404,7 +9404,19 @@
             "hint": "Coiled Finally",
             "items": [
                 {
-                    "name": "Any Dreadwyrm Earrings"
+                    "name": "Dreadwyrm Earring Of Aiming"
+                },
+                {
+                    "name": "Dreadwyrm Earring Of Casting"
+                },
+                {
+                    "name": "Dreadwyrm Earring Of Fending"
+                },
+                {
+                    "name": "Dreadwyrm Earring Of Healing"
+                },
+                {
+                    "name": "Dreadwyrm Earring Of Slaying"
                 }
             ]
         },
@@ -9785,7 +9797,19 @@
             "hint": "Coiled Finally",
             "items": [
                 {
-                    "name": "Any Dreadwyrm Choker"
+                    "name": "Dreadwyrm Choker Of Aiming"
+                },
+                {
+                    "name": "Dreadwyrm Choker Of Casting"
+                },
+                {
+                    "name": "Dreadwyrm Choker Of Fending"
+                },
+                {
+                    "name": "Dreadwyrm Choker Of Healing"
+                },
+                {
+                    "name": "Dreadwyrm Choker Of Slaying"
                 }
             ]
         },
@@ -10596,6 +10620,27 @@
                 },
                 {
                     "name": "Platinum Ring Of Slaying"
+                }
+            ]
+        },
+        {
+            "type": "Ring",
+            "hint": "Coiled Finally",
+            "items": [
+                {
+                    "name": "Dreadwyrm Ring Of Aiming"
+                },
+                {
+                    "name": "Dreadwyrm Ring Of Casting"
+                },
+                {
+                    "name": "Dreadwyrm Ring Of Fending"
+                },
+                {
+                    "name": "Dreadwyrm Ring Of Healing"
+                },
+                {
+                    "name": "Dreadwyrm Ring Of Slaying"
                 }
             ]
         },
@@ -18851,6 +18896,29 @@
                 {
                     "type": "Legs",
                     "hint": "Sleight Of Hand"
+                }
+            ]
+        },
+        {
+            "week": 376,
+            "date": "2025-04-11",
+            "theme": "Accomplished At Rest",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Ala Mhigan"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "The Creator"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Dueling Duelist"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Coiled Finally"
                 }
             ]
         }
