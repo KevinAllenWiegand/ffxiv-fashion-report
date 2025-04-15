@@ -18921,6 +18921,29 @@
                     "hint": "Coiled Finally"
                 }
             ]
+        },
+        {
+            "week": 377,
+            "date": "2025-04-18",
+            "theme": "Crafting On The Edge",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Rose For The Occasion"
+                },
+                {
+                    "type": "Body",
+                    "hint": "The Great Sigmascape"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "More Beast Than Man"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Allagan Attack"
+                }
+            ]
         }
     ]
 }
