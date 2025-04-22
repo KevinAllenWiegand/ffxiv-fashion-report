@@ -18944,6 +18944,29 @@
                     "hint": "Allagan Attack"
                 }
             ]
+        },
+        {
+            "week": 378,
+            "date": "2025-04-25",
+            "theme": "Hunter Caster",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Monster Hunt"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Sleight Of Hand"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In The \"Fold\""
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Jewels Of Yellow"
+                }
+            ]
         }
     ]
 }
