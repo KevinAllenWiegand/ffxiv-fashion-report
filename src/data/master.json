@@ -18967,6 +18967,29 @@
                     "hint": "Jewels Of Yellow"
                 }
             ]
+        },
+        {
+            "week": 379,
+            "date": "2025-05-02",
+            "theme": "Cool Beast",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Up A Long Sleeve"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "More Beast Than Man"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Talk About Slacks"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Too Cool"
+                }
+            ]
         }
     ]
 }
