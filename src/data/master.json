@@ -1400,6 +1400,27 @@
         },
         {
             "type": "Head",
+            "hint": "Sleepover Style",
+            "items": [
+                {
+                    "name": "Cactuar Pajama Eye Mask"
+                },
+                {
+                    "name": "Chocobo Pajama Eye Mask"
+                },
+                {
+                    "name": "Crescent Moon Cone"
+                },
+                {
+                    "name": "Crescent Moon Nightcap"
+                },
+                {
+                    "name": "Plain Pajama Eye Mask"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Sugarloaf Sweet",
             "items": [
                 {
@@ -3609,6 +3630,24 @@
                 },
                 {
                     "name": "Prophet's Chestwrap"
+                }
+            ]
+        },
+        {
+            "type": "Body",
+            "hint": "Sleepover Style",
+            "items": [
+                {
+                    "name": "Cactuar Pajama Shirt"
+                },
+                {
+                    "name": "Chocobo Pajama Shirt"
+                },
+                {
+                    "name": "Crescent Moon Nightgown"
+                },
+                {
+                    "name": "Plain Pajama Shirt"
                 }
             ]
         },
@@ -7268,6 +7307,24 @@
         },
         {
             "type": "Legs",
+            "hint": "Sleepover Style",
+            "items": [
+                {
+                    "name": "Cactuar Pajama Bottoms"
+                },
+                {
+                    "name": "Chocobo Pajama Bottoms"
+                },
+                {
+                    "name": "Crescent Moon Bottoms"
+                },
+                {
+                    "name": "Plain Pajama Bottoms"
+                }
+            ]
+        },
+        {
+            "type": "Legs",
             "hint": "Sleight Of Hand",
             "items": [
                 {
@@ -9174,6 +9231,24 @@
                 },
                 {
                     "name": "Shire Pankratiast's Boots"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
+            "hint": "Sleepover Style",
+            "items": [
+                {
+                    "name": "Cactuar Pajama Slippers"
+                },
+                {
+                    "name": "Chocobo Pajama Slippers"
+                },
+                {
+                    "name": "Crescent Moon Slippers"
+                },
+                {
+                    "name": "Plain Pajama Slippers"
                 }
             ]
         },
@@ -18988,6 +19063,29 @@
                 {
                     "type": "Feet",
                     "hint": "Too Cool"
+                }
+            ]
+        },
+        {
+            "week": 380,
+            "date": "2025-05-09",
+            "theme": "Pajama Party",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Sleepover Style"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Sleepover Style"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Sleepover Style"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Sleepover Style"
                 }
             ]
         }
