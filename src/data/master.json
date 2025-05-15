@@ -1316,6 +1316,75 @@
         },
         {
             "type": "Head",
+            "hint": "Robed In Resistance",
+            "items": [
+                {
+                    "name": "Bozjan Cap Of Casting"
+                },
+                {
+                    "name": "Bozjan Cap Of Healing"
+                },
+                {
+                    "name": "Bozjan Cap Of Maiming"
+                },
+                {
+                    "name": "Bozjan Goggles Of Scouting"
+                },
+                {
+                    "name": "Bozjan Goggles Of Striking"
+                },
+                {
+                    "name": "Bozjan Hood Of Aiming"
+                },
+                {
+                    "name": "Bozjan Hood Of Fending"
+                },
+                {
+                    "name": "Filibuster's Beret Of Aiming"
+                },
+                {
+                    "name": "Filibuster's Halfmask Of Scouting"
+                },
+                {
+                    "name": "Filibuster's Helm Of Fending"
+                },
+                {
+                    "name": "Filibuster's Helm Of Maiming"
+                },
+                {
+                    "name": "Filibuster's Hood Of Casting"
+                },
+                {
+                    "name": "Filibuster's Hood Of Healing"
+                },
+                {
+                    "name": "Filibuster's Scope Of Striking"
+                },
+                {
+                    "name": "Royal Volunteer's Beret Of Healing"
+                },
+                {
+                    "name": "Royal Volunteer's Halfmask Of Casting"
+                },
+                {
+                    "name": "Royal Volunteer's Helm Of Fending"
+                },
+                {
+                    "name": "Royal Volunteer's Helm Of Maiming"
+                },
+                {
+                    "name": "Royal Volunteer's Hood Of Scouting"
+                },
+                {
+                    "name": "Royal Volunteer's Hood Of Striking"
+                },
+                {
+                    "name": "Royal Volunteer's Scope Of Aiming"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Rose For The Occasion",
             "items": [
                 {
@@ -19086,6 +19155,29 @@
                 {
                     "type": "Feet",
                     "hint": "Sleepover Style"
+                }
+            ]
+        },
+        {
+            "week": 381,
+            "date": "2025-05-16",
+            "theme": "Rebel Elite",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Robed In Resistance"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Fashionably Late Allagan"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "The Conqueror"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Too Cool"
                 }
             ]
         }
