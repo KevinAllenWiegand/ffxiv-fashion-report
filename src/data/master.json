@@ -19180,6 +19180,29 @@
                     "hint": "Too Cool"
                 }
             ]
+        },
+        {
+            "week": 382,
+            "date": "2025-05-23",
+            "theme": "Ishgardian Agent",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Noir"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Toward The Heavens"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Dalmascan Chic"
+                },
+                {
+                    "type": "Ear",
+                    "hint": "Keeping Company"
+                }
+            ]
         }
     ]
 }
