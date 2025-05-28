@@ -746,6 +746,33 @@
         },
         {
             "type": "Head",
+            "hint": "Guardian's Garb",
+            "items": [
+                {
+                    "name": "Palaka Helm Of Fending"
+                },
+                {
+                    "name": "Palaka Helm Of Maiming"
+                },
+                {
+                    "name": "Palaka Turban Of Aiming"
+                },
+                {
+                    "name": "Palaka Turban Of Casting"
+                },
+                {
+                    "name": "Palaka Turban Of Healing"
+                },
+                {
+                    "name": "Palaka Turban Of Scouting"
+                },
+                {
+                    "name": "Palaka Turban Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Head",
             "hint": "Healing Lilies",
             "items": [
                 {
@@ -19201,6 +19228,29 @@
                 {
                     "type": "Ear",
                     "hint": "Keeping Company"
+                }
+            ]
+        },
+        {
+            "week": 383,
+            "date": "2025-05-30",
+            "theme": "Protector Work CLothes",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Guardian's Garb"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Drapes Of Wrath"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "\"Labor\" Of Love"
+                },
+                {
+                    "type": "Neck",
+                    "hint": "Leather"
                 }
             ]
         }
