@@ -9614,6 +9614,114 @@
         },
         {
             "type": "Ear",
+            "hint": "Cute As A Button",
+            "items": [
+                {
+                    "name": "Augmented Handmaster's Earrings"
+                },
+                {
+                    "name": "Augmented Landmaster's Earrings"
+                },
+                {
+                    "name": "Aurum Regis Earrings Of Casting"
+                },
+                {
+                    "name": "Aurum Regis Earrings Of Gathering"
+                },
+                {
+                    "name": "Black Carnation Earring"
+                },
+                {
+                    "name": "Black Moth Orchid Earring"
+                },
+                {
+                    "name": "Black Triteleia Earring"
+                },
+                {
+                    "name": "Blue Carnation Earring"
+                },
+                {
+                    "name": "Blue Moth Orchid Earring"
+                },
+                {
+                    "name": "Blue Triteleia Earring"
+                },
+                {
+                    "name": "Green Carnation Earring"
+                },
+                {
+                    "name": "Green Moth Orchid Earring"
+                },
+                {
+                    "name": "Green Triteleia Earring"
+                },
+                {
+                    "name": "Orange Carnation Earring"
+                },
+                {
+                    "name": "Orange Moth Orchid Earring"
+                },
+                {
+                    "name": "Orange Triteleia Earring"
+                },
+                {
+                    "name": "Paramour's Earrings"
+                },
+                {
+                    "name": "Pixie Earrings"
+                },
+                {
+                    "name": "Platinum Paramour's Earrings"
+                },
+                {
+                    "name": "Purple Carnation Earring"
+                },
+                {
+                    "name": "Purple Moth Orchid Earring"
+                },
+                {
+                    "name": "Purple Triteleia Earring"
+                },
+                {
+                    "name": "Rainbow Carnation Earring"
+                },
+                {
+                    "name": "Rainbow Moth Orchid Earring"
+                },
+                {
+                    "name": "Rainbow Triteleia Earring"
+                },
+                {
+                    "name": "Red Carnation Earring"
+                },
+                {
+                    "name": "Red Moth Orchid Earring"
+                },
+                {
+                    "name": "Red Triteleia Earring"
+                },
+                {
+                    "name": "White Carnation Earring"
+                },
+                {
+                    "name": "White Moth Orchid Earring"
+                },
+                {
+                    "name": "White Triteleia Earring"
+                },
+                {
+                    "name": "Yellow Carnation Earring"
+                },
+                {
+                    "name": "Yellow Moth Orchid Earring"
+                },
+                {
+                    "name": "Yellow Triteleia Earring"
+                }
+            ]
+        },
+        {
+            "type": "Ear",
             "hint": "Jewels Of Blue",
             "items": [
                 {
@@ -19234,7 +19342,7 @@
         {
             "week": 383,
             "date": "2025-05-30",
-            "theme": "Protector Work CLothes",
+            "theme": "Protector Work Clothes",
             "slots": [
                 {
                     "type": "Head",
@@ -19251,6 +19359,52 @@
                 {
                     "type": "Neck",
                     "hint": "Leather"
+                }
+            ]
+        },
+        {
+            "week": 384,
+            "date": "2025-06-06",
+            "theme": "Glamorous Lengths",
+            "slots": [
+                {
+                    "type": "Hands",
+                    "hint": "Bewitched"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Long Skirt"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "\"Fringe\" Benefits"
+                },
+                {
+                    "type": "Ear",
+                    "hint": "Cute As A Button"
+                }
+            ]
+        },
+        {
+            "week": 385,
+            "date": "2025-06-13",
+            "theme": "Lover Of Peace And Quiet",
+            "slots": [
+                {
+                    "type": "Body",
+                    "hint": "Love & Peace"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Rest & Relaxation"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Short Boots"
+                },
+                {
+                    "type": "Ring",
+                    "hint": "Jewels Of Blue"
                 }
             ]
         }
