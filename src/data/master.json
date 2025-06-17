@@ -8609,6 +8609,33 @@
         },
         {
             "type": "Feet",
+            "hint": "Guardian's Garb",
+            "items": [
+                {
+                    "name": "Palaka Boots Of Aiming"
+                },
+                {
+                    "name": "Palaka Boots Of Fending"
+                },
+                {
+                    "name": "Palaka Boots Of Maiming"
+                },
+                {
+                    "name": "Palaka Pumps Of Casting"
+                },
+                {
+                    "name": "Palaka Pumps Of Healing"
+                },
+                {
+                    "name": "Palaka Pumps Of Scouting"
+                },
+                {
+                    "name": "Palaka Pumps Of Striking"
+                }
+            ]
+        },
+        {
+            "type": "Feet",
             "hint": "I Believe In Magic",
             "items": [
                 {
@@ -19405,6 +19432,29 @@
                 {
                     "type": "Ring",
                     "hint": "Jewels Of Blue"
+                }
+            ]
+        },
+        {
+            "week": 386,
+            "date": "2025-06-20",
+            "theme": "Beast-At-Work",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Call Of The Wild"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Riding High"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Restoration Regalia"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Guardian's Garb"
                 }
             ]
         }
