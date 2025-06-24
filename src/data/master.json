@@ -2744,6 +2744,12 @@
             "hint": "Going Garo",
             "items": [
                 {
+                    "name": "Common Makai Harbinger's Battlegarb"
+                },
+                {
+                    "name": "Common Makai Harrower's Jerkin"
+                },
+                {
                     "name": "Common Makai Manhandler's Jerkin"
                 },
                 {
@@ -2754,6 +2760,24 @@
                 },
                 {
                     "name": "Common Makai Mauler's Oilskin"
+                },
+                {
+                    "name": "Common Makai Moon Guide's Gown"
+                },
+                {
+                    "name": "Common Makai Priest's Doublet Robe"
+                },
+                {
+                    "name": "Common Makai Priestess's Jerkin"
+                },
+                {
+                    "name": "Common Makai Sun Guide's Oilskin"
+                },
+                {
+                    "name": "Common Makai Vanbreaker's Battledress"
+                },
+                {
+                    "name": "Common Makai Vanguard's Battlegarb"
                 },
                 {
                     "name": "Makai Harbinger's Battlegarb"
@@ -4827,6 +4851,114 @@
                 },
                 {
                     "name": "Fingerless Raptorskin Gloves Of Gathering"
+                }
+            ]
+        },
+        {
+            "type": "Hands",
+            "hint": "Going Garo",
+            "items": [
+                {
+                    "name": "Common Makai Harbinger's Fingerless Gloves"
+                },
+                {
+                    "name": "Common Makai Harrower's Fingerless Gloves"
+                },
+                {
+                    "name": "Common Makai Manhandler's Fingerless Gloves"
+                },
+                {
+                    "name": "Common Makai Marksman's Fingerless Gloves"
+                },
+                {
+                    "name": "Common Makai Markswoman's Fingerless Gloves"
+                },
+                {
+                    "name": "Common Makai Mauler's Fingerless Gloves"
+                },
+                {
+                    "name": "Common Makai Moon Guide's Fingerless Gloves"
+                },
+                {
+                    "name": "Common Makai Priest's Fingerless Gloves"
+                },
+                {
+                    "name": "Common Makai Priestess's Fingerless Gloves"
+                },
+                {
+                    "name": "Common Makai Sun Guide's Fingerless Gloves"
+                },
+                {
+                    "name": "Common Makai Vanbreaker's Fingerless Gloves"
+                },
+                {
+                    "name": "Common Makai Vanguard's Fingerless Gloves"
+                },
+                {
+                    "name": "Makai Harbinger's Fingerless Gloves"
+                },
+                {
+                    "name": "Makai Harrower's Fingerless Gloves"
+                },
+                {
+                    "name": "Makai Manhandler's Fingerless Gloves"
+                },
+                {
+                    "name": "Makai Marksman's Fingerless Gloves"
+                },
+                {
+                    "name": "Makai Markswoman's Fingerless Gloves"
+                },
+                {
+                    "name": "Makai Mauler's Fingerless Gloves"
+                },
+                {
+                    "name": "Makai Moon Guide's Fingerless Gloves"
+                },
+                {
+                    "name": "Makai Priest's Fingerless Gloves"
+                },
+                {
+                    "name": "Makai Priestess's Fingerless Gloves"
+                },
+                {
+                    "name": "Makai Sun Guide's Fingerless Gloves"
+                },
+                {
+                    "name": "Makai Vanbreaker's Fingerless Gloves"
+                },
+                {
+                    "name": "Makai Vanguard's Fingerless Gloves"
+                },
+                {
+                    "name": "Tarnished Hands Of Pressing Darkness"
+                },
+                {
+                    "name": "Tarnished Hands Of The Golden Wolf"
+                },
+                {
+                    "name": "Tarnished Hands Of The Silver Wolf"
+                },
+                {
+                    "name": "Tarnished Hands Of The White Night"
+                },
+                {
+                    "name": "Tarnished Hands Of Undying Twilight"
+                },
+                {
+                    "name": "The Hands Of Pressing Darkness"
+                },
+                {
+                    "name": "The Hands Of The Golden Wolf"
+                },
+                {
+                    "name": "The Hands Of The Silver Wolf"
+                },
+                {
+                    "name": "The Hands Of The White Night"
+                },
+                {
+                    "name": "The Hands Of Undying Twilight"
                 }
             ]
         },
@@ -8528,6 +8660,12 @@
             "hint": "Going Garo",
             "items": [
                 {
+                    "name": "Common Makai Harbinger's Boots"
+                },
+                {
+                    "name": "Common Makai Harrower's Longboots"
+                },
+                {
                     "name": "Common Makai Manhandler's Longboots"
                 },
                 {
@@ -8538,6 +8676,24 @@
                 },
                 {
                     "name": "Common Makai Mauler's Boots"
+                },
+                {
+                    "name": "Common Makai Moon Guide's Longboots"
+                },
+                {
+                    "name": "Common Makai Priest's Boots"
+                },
+                {
+                    "name": "Common Makai Priestess's Longboots"
+                },
+                {
+                    "name": "Common Makai Sun Guide's Boots"
+                },
+                {
+                    "name": "Common Makai Vanbreaker's Longboots"
+                },
+                {
+                    "name": "Common Makai Vanguard's Boots"
                 },
                 {
                     "name": "Makai Harbinger's Boots"
@@ -8591,19 +8747,19 @@
                     "name": "Tarnished Feet Of Undying Twilight"
                 },
                 {
-                    "name": "The Feet of Pressing Darkness"
+                    "name": "The Feet Of Pressing Darkness"
                 },
                 {
-                    "name": "The Feet of the Golden Wolf"
+                    "name": "The Feet Of The Golden Wolf"
                 },
                 {
-                    "name": "The Feet of the Silver Wolf"
+                    "name": "The Feet Of The Silver Wolf"
                 },
                 {
-                    "name": "The Feet of the White Night"
+                    "name": "The Feet Of The White Night"
                 },
                 {
-                    "name": "The Feet of Undying Twilight"
+                    "name": "The Feet Of Undying Twilight"
                 }
             ]
         },
@@ -19455,6 +19611,29 @@
                 {
                     "type": "Feet",
                     "hint": "Guardian's Garb"
+                }
+            ]
+        },
+        {
+            "week": 387,
+            "date": "2025-06-27",
+            "theme": "Archons' Mascot",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Keeping It Casual"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Going Garo"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Old Country"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "In Sheep's Clothing"
                 }
             ]
         }
