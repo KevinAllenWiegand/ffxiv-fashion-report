@@ -19636,6 +19636,29 @@
                     "hint": "In Sheep's Clothing"
                 }
             ]
+        },
+        {
+            "week": 388,
+            "date": "2025-07-04",
+            "theme": "Dalmascan In The Wild",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "The Wild Side"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Dalmascan Chic"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Medic!"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "A Pirate's Life"
+                }
+            ]
         }
     ]
 }
