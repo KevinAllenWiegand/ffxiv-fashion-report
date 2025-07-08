@@ -19659,6 +19659,29 @@
                     "hint": "A Pirate's Life"
                 }
             ]
+        },
+        {
+            "week": 389,
+            "date": "2025-07-11",
+            "theme": "Lily-Topped Noir",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Healing Lilies"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Noir"
+                },
+                {
+                    "type": "Hands",
+                    "hint": "Fresh And Formal"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Leather Underfoot"
+                }
+            ]
         }
     ]
 }
