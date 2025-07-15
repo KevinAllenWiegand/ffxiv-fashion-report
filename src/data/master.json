@@ -19682,6 +19682,29 @@
                     "hint": "Leather Underfoot"
                 }
             ]
+        },
+        {
+            "week": 390,
+            "date": "2025-07-18",
+            "theme": "Bedtime Rebelworks",
+            "slots": [
+                {
+                    "type": "Head",
+                    "hint": "Blow Your Horn"
+                },
+                {
+                    "type": "Body",
+                    "hint": "Cid Approved"
+                },
+                {
+                    "type": "Legs",
+                    "hint": "Sleepover Style"
+                },
+                {
+                    "type": "Feet",
+                    "hint": "Robed In Resistance"
+                }
+            ]
         }
     ]
 }
